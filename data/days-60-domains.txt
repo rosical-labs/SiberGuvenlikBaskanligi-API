@@ -1184,6 +1184,7 @@ bilgilenyolgecis.netlify.app
 bilgilerde-bugun-yg.myonlineportal.ch
 bilgipath.com
 bilgiplatformu.biz
+bilgiplatformu.com
 bilgipusulasi.co
 bilgivegorus.com
 bilgiveislemsistemi.abrdns.com
@@ -1693,6 +1694,7 @@ clearshaven.com
 cleverccsd.com
 clickeron.com
 clickrova.info
+clicksahibiananizisever.sbs
 client.ncm-invest.com
 climatewatchnepal.com
 clinicly.gifts
@@ -2100,7 +2102,6 @@ dopesphacare.com
 dorivo.gifts
 dorjiba.website
 dorqen.casa
-dorzu.pro
 dosya-bilgi.com
 dosyabirim.org
 dosyamerkezi.org
@@ -3249,7 +3250,6 @@ hastanekontrologrenmesi.cfd
 hastanelerle.uk
 hastaneminkolayi.duckdns.org
 hastaneminkontrolu.cfd
-hastaneminrandevusu.cfd
 hastanentente.uk
 hastanerlere.men
 hastanerndvkntrl.cfd
@@ -3385,6 +3385,7 @@ her-eve-lazim-caydanlik.sbs
 herald-quiz-drunk-joke.trycloudflare.com
 heregelerdes.duckdns.org
 herseyhalkimiziicin.sbs
+herseymaziden.sbs
 herseysznlegzzel.sbs
 herseyyeneartkboyleoldusendegel.info
 hervurdugumuzgol.click
@@ -3496,7 +3497,6 @@ hizli-limit.xyz
 hizli-siparis-baglanti.com
 hizli-siparis-linki.com
 hizli-siparis-sayfasi.com
-hizliaracgecisilieriniz.sbs
 hizlibasvurtamamlan.cloud
 hizlibasvurularim.sbs
 hizlibasvurum.com
@@ -3887,12 +3887,15 @@ istanbul-ticket.co
 istanbul-turat.xyz
 istanbulbasvuru.xyz
 istanbulbasvurukart.xyz
+istanbulbeelgim.xyz
 istanbulbeelgimcan.xyz
 istanbulbelggim.xyz
 istanbulbelgiimmmcann.xyz
 istanbulbelgim.xyz
 istanbulbelgimcann.xyz
 istanbulbelgimkart.xyz
+istanbulbelgimkarttt.xyz
+istanbulbelgimkartttcann.xyz
 istanbulbelgimm.xyz
 istanbulbelgimmcan.xyz
 istanbulbelgimmkart.xyz
@@ -3931,6 +3934,7 @@ istanbulkartcanbaba.xyz
 istanbulkartrandevu.xyz
 istanbulkartrandevuu.xyz
 istanbulkartt.xyz
+istanbulkarttbelgimm.xyz
 istanbulkarttt.xyz
 istanbulkartttt.xyz
 istanbulmefe.xyz
@@ -3962,6 +3966,7 @@ istbelgimtek.xyz
 istbelgimteka.xyz
 istbes.xyz
 istcanban.xyz
+istcanistanbulbelgim.xyz
 istcanlan.com
 istcanman.xyz
 istcano.xyz
@@ -4571,6 +4576,7 @@ kurumaktif.org
 kurumceza.org
 kurumsal-online-islem.com
 kurumsorgu.org
+kustanoma.ooguy.com
 kusursuzarackiralama.com
 kutysadhahsdhsad82sad.click
 kuvetteaqeqassasaa.com
@@ -5239,7 +5245,6 @@ muzeportal.biz
 muzeportal.com
 muzeportali.click
 muzeziyaret.click
-mwvqt9a1uv.lol
 mxhxrxsgel.com
 my-securty-gr.ink
 myacc-portal.myonlineportal.de
@@ -5684,8 +5689,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -6299,6 +6304,7 @@ ptthgsbakiyeyuklemes.web.app
 ptthgsbakiyeyuklme.web.app
 ptthizligecisyukleme.web.app
 pttkargo.online-alisveris-sepetiniz.com
+pttkargotakip.com.ph
 pttkmsorgu.com
 ptvavm.shop
 puan.m-obilet.org
@@ -6573,7 +6579,6 @@ rixvona.cyou
 roamvella.com
 robotic-toys.com
 robutay.digital
-rockvault.shop
 rofusadhasdhashdh0093sadsad.click
 roger99699.xyz
 roimora.com
@@ -6864,7 +6869,6 @@ secure.ssa-documentsync.com
 security-password.casa
 secutoki.site
 seedrops.cfd
-sefore.netlify.app
 sega-ads-territories-appendix.trycloudflare.com
 sehaaredales.duckdns.org
 sektorbizdensoruluyor.sbs
@@ -7035,7 +7039,6 @@ sizlerleberaber.sbs
 sizlerlehadihemenfirst.sbs
 sjdkjj23.s3.ap-southeast-1.amazonaws.com
 sk35shwdi.icu
-skillnest.study
 skilltrailcr.com
 skindirlmldhzlan.com
 skip-complete.tempurl.host
@@ -7096,7 +7099,6 @@ socialscope.media
 socs6c.icu
 sodsyalxzmetleremeklicn.xyz
 softex.cyou
-softflow.vu
 softivo.digital
 softlyx.sbs
 softpilotx.digital
@@ -7326,6 +7328,7 @@ summitdeclaration.org
 superfirsatlar.xyz
 supheliislemaktivasyonu.duckdns.org
 supounry.buzz
+surayyabrand.com
 suruyorumarabayihodilen.click
 suwen.shop
 suwens.top
@@ -8103,7 +8106,6 @@ tuvmuayeneturkrandevu.online
 tuvrkekakdsad.net
 tuvturk-a.com
 tuvturk-aco.com
-tuvturk-dis.com
 tuvturk-e.com
 tuvturk-ei.digital
 tuvturk-k.com
@@ -8576,7 +8578,6 @@ worpax.org
 worpaxti.surf
 worpist.rest
 wosuqyy.xyz
-wotpoc.shop
 wp-tracker.com
 wqdx12x1.forum
 wqdx12x1.rest

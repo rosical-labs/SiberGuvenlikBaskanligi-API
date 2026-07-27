@@ -2656,6 +2656,7 @@ bilgilerde-bugun-yg.myonlineportal.ch
 bilgiodagi.org
 bilgipath.com
 bilgiplatformu.biz
+bilgiplatformu.com
 bilgipusulasi.co
 bilgivegorus.com
 bilgiveislemsistemi.abrdns.com
@@ -2795,7 +2796,6 @@ bitarafsiyah.lat
 bitarafsiyah.sbs
 bitekrep.sbs
 bitmezpilimili.com
-bitsparkan.com
 bitwardencompliance.com
 bizacildeyiz.xyz
 bizdebulesc39.xyz
@@ -3703,7 +3703,6 @@ carelinno.gifts
 carelio.gifts
 careloopan.com
 carepilotx.com
-carfurlsma.biz
 cargozent.com
 caribb.ru
 cariwebsiteku.com
@@ -3998,6 +3997,7 @@ clevoxlabs.shop
 clickeron.com
 clickonix.media
 clickrova.info
+clicksahibiananizisever.sbs
 clicktk.com
 clickupa.com
 client-services.shop
@@ -4956,7 +4956,6 @@ drawermaskreverence.com
 drawhub.site
 drawhub.store
 draxenovilu.info
-draxenovilu.mom
 draxenoviluk.com
 draxenovilum.com
 drayvon.shop
@@ -5186,7 +5185,6 @@ easliyekontrol.org
 easliyesorgu.org
 eastpeak.tech
 eastpulse.org
-eastworld.biz
 easybuild.ae
 easylocker.locker
 easynexora.online
@@ -7389,9 +7387,7 @@ habermes.shop
 haberozgurlugu.com
 haberportalim.name
 haberpusula.cyou
-habers.cfd
 habers.xyz
-habers360.cfd
 habers360tr.cfd
 habers360try.shop
 habers360turk.shop
@@ -7787,6 +7783,7 @@ herseyburakabininsucu.blogspot.com
 herseyhalkimiziicin.sbs
 herseyherkessesylsin.sbs
 herseyherkezgusecelyenguncel65.info
+herseymaziden.sbs
 herseysznlegzzel.sbs
 herseyyeneartkboyleoldusendegel.info
 herseyyenibasladi.sbs
@@ -8645,7 +8642,6 @@ iscebbasvuru.sbs
 iscebimde.co
 iscebimde.com
 iscebindemaxi.com
-iscepaninda.cfd
 iscepbankturkey22.netlify.app
 iscepdemayis.sbs
 iscepdesuperlimit.com
@@ -8743,12 +8739,15 @@ istanbulbasvuru.xyz
 istanbulbasvurukart.xyz
 istanbulbe.biz
 istanbulbe.click
+istanbulbeelgim.xyz
 istanbulbeelgimcan.xyz
 istanbulbelggim.xyz
 istanbulbelgiimmmcann.xyz
 istanbulbelgim.xyz
 istanbulbelgimcann.xyz
 istanbulbelgimkart.xyz
+istanbulbelgimkarttt.xyz
+istanbulbelgimkartttcann.xyz
 istanbulbelgimm.xyz
 istanbulbelgimmcan.xyz
 istanbulbelgimmkart.xyz
@@ -8812,6 +8811,7 @@ istanbulkartcanbaba.xyz
 istanbulkartrandevu.xyz
 istanbulkartrandevuu.xyz
 istanbulkartt.xyz
+istanbulkarttbelgimm.xyz
 istanbulkarttt.xyz
 istanbulkartttt.xyz
 istanbulkolaybe.xyz
@@ -8883,6 +8883,7 @@ istbizim.xyz
 istbsvrlhdml.com
 istbz.click
 istcanban.xyz
+istcanistanbulbelgim.xyz
 istcanlan.com
 istcanman.xyz
 istcano.xyz
@@ -10225,6 +10226,7 @@ kurumsal-online-islem.com
 kurumsalbirkurumsal.click
 kurumsalmediamarkt.com
 kurumsorgu.org
+kustanoma.ooguy.com
 kusursuzarackiralama.com
 kutysadhahsdhsad82sad.click
 kuvetbasvurum.sbs
@@ -10849,7 +10851,6 @@ marketlane.digital
 marketlerburda.duckdns.org
 marketlino.digital
 marketlino.xyz
-marketnest.tr
 marketo.vu
 marketora.digital
 marketorbitline.com
@@ -12651,8 +12652,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -13693,6 +13694,7 @@ pttkargo.e-ilan-alisveris-sepet.com
 pttkargo.mobilservisler-27.sbs
 pttkargo.online-alisveris-sepetiniz.com
 pttkargotakib.com
+pttkargotakip.com.ph
 pttkmsorgu.com
 pttonlinealisveris.com
 pttonlineozel.com
@@ -14330,7 +14332,6 @@ rudvesato-pasta.info
 ruelomamuy.com
 rueuk.cn
 ruhsuzpanel.online
-rushhhworks.com
 ruxbuyra.gifts
 ruxdevol.gifts
 ruxmagaz.gifts
@@ -14730,7 +14731,6 @@ savcilikevrakdava.org
 savcilikhukum.org
 savebase.org
 savelorudik.gifts
-savetolirun.icu
 savetolirunq.com
 savjsjtnkemmdj129.cfd
 savor.cfd
@@ -15137,10 +15137,8 @@ silent-harvester.cc
 silent-orbit.cc
 silentharbor.top
 silikonfiyat.shop
-silkbase.org
 silkeleyelim.click
 silkpath.tech
-silkview.tech
 silverharvest.info
 silverspoonvintage.com
 simclipquartz.cfd
@@ -15819,6 +15817,7 @@ support-onion.club
 support-zoom.us
 supportzm.com
 supy-veb-graned.myonlineportal.ch
+surayyabrand.com
 surcasaoneaca.cfd
 surecizle.online
 sureklihissettiren.click
@@ -16459,7 +16458,6 @@ teaandcake-how.info
 teacat-future.xyz
 teacatcreate.info
 teachbite.co.uk
-teachpro.icu
 teampulsynk.team
 teams-zpfvwnpxuc.edgeone.dev
 teapot-sale.xyz
@@ -17547,7 +17545,6 @@ turkiye-petrolleri.pro
 turkiye.gov.clskl.com
 turkiye.gov.tr-resmigazete.77-83-201-134.plesk.page
 turkiyeaktifhaber.com
-turkiyebankasionline.com
 turkiyebilgi.cc
 turkiyebilgiagi.com
 turkiyebilgialani.com
@@ -19291,7 +19288,6 @@ zenfract.vip
 zenhivo.pro
 zeniro.cyou
 zenithpointd.top
-zenlore.biz
 zenmezi.website
 zenov.sbs
 zenqiro.sbs
@@ -19300,7 +19296,6 @@ zentaraio.com
 zenvella.xyz
 zenvira.vu
 zenvoria.top
-zenwise.biz
 zenyoga.icu
 zephras.shop
 zephyroswindlab.click
