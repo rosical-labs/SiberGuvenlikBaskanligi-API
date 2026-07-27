@@ -15,13 +15,13 @@ yalnızca `main` dalının en güncel hâline uygulanır.
 ### Güvenlik açığı bildirimi
 
 Bir güvenlik açığı bulduğunuzu düşünüyorsanız, lütfen bunu **herkese açık bir
-issue olarak açmayın**. Bunun yerine ayrıntıları doğrudan e-posta ile bildirin:
+issue olarak açmayın**. Bunun yerine GitHub'ın **özel güvenlik açığı bildirimi**
+(private vulnerability reporting) özelliğini kullanın:
 
-**info@tagmachan.com**
+[**Security → Report a vulnerability**](https://github.com/rosical-labs/SiberGuvenlikBaskanligi-API/security/advisories/new)
 
-Hassas bildirimleri şifrelemek isterseniz, deponun kök dizinindeki
-[`pgp-key.asc`](pgp-key.asc) PGP anahtarını (parmak izi
-`00DF BA48 556C 6178 A158 BDFE 80E4 FA3E CE33 06D5`) kullanabilirsiniz.
+Bildiriminiz yalnızca repo yöneticileri tarafından görülebilir; düzeltme
+yayımlanana kadar gizli kalır.
 
 Bildiriminize mümkünse şunları ekleyin:
 
@@ -60,13 +60,12 @@ are applied only to the latest state of `main`.
 ### Reporting a vulnerability
 
 If you believe you have found a security vulnerability, please **do not open a
-public issue**. Instead, report the details privately by email:
+public issue**. Instead, use GitHub's **private vulnerability reporting**:
 
-**info@tagmachan.com**
+[**Security → Report a vulnerability**](https://github.com/rosical-labs/SiberGuvenlikBaskanligi-API/security/advisories/new)
 
-To encrypt sensitive reports, you may use the PGP key
-[`pgp-key.asc`](pgp-key.asc) in the repository root (fingerprint
-`00DF BA48 556C 6178 A158 BDFE 80E4 FA3E CE33 06D5`).
+Your report is visible only to the repository maintainers and stays private
+until a fix is released.
 
 Where possible, include:
 

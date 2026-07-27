@@ -6,12 +6,15 @@
 
 An open-source tool that mirrors **Turkey's Cybersecurity Directorate** threat-intelligence feeds as firewall-ready blocklists — refreshed hourly, no server required.
 
-[![Update blocklists](https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API/actions/workflows/update-lists.yml/badge.svg)](https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API/actions/workflows/update-lists.yml)
-[![Last commit](https://img.shields.io/github/last-commit/Tagoletta/SiberGuvenlikBaskanligi-API/main?logo=github)](https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API/commits/main)
+[![Update blocklists](https://github.com/rosical-labs/SiberGuvenlikBaskanligi-API/actions/workflows/update-lists.yml/badge.svg)](https://github.com/rosical-labs/SiberGuvenlikBaskanligi-API/actions/workflows/update-lists.yml)
+[![Last commit](https://img.shields.io/github/last-commit/rosical-labs/SiberGuvenlikBaskanligi-API/main?logo=github)](https://github.com/rosical-labs/SiberGuvenlikBaskanligi-API/commits/main)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](scraper/fetch.py)
 
 </div>
+
+> 🙏 Bu repo, [**Tagoletta/SiberGuvenlikBaskanligi-API**](https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API) projesinin bir fork'udur — orijinal fikir ve emek [Tagoletta](https://github.com/Tagoletta)'ya aittir.
+> This repository is a fork of [**Tagoletta/SiberGuvenlikBaskanligi-API**](https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API) — the original idea and work belong to [Tagoletta](https://github.com/Tagoletta).
 
 ---
 
@@ -80,10 +83,10 @@ Her dosya: satır başına bir kayıt, tırnak yok, boşluk yok, LF satır sonu.
 Listeleri doğrudan ham GitHub URL'sinden çekin:
 
 ```
-https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-domains.txt
-https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/days-30-domains.txt
-https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-ips.txt
-https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-urls.txt
+https://raw.githubusercontent.com/rosical-labs/SiberGuvenlikBaskanligi-API/main/data/full-domains.txt
+https://raw.githubusercontent.com/rosical-labs/SiberGuvenlikBaskanligi-API/main/data/days-30-domains.txt
+https://raw.githubusercontent.com/rosical-labs/SiberGuvenlikBaskanligi-API/main/data/full-ips.txt
+https://raw.githubusercontent.com/rosical-labs/SiberGuvenlikBaskanligi-API/main/data/full-urls.txt
 ```
 
 pfSense, OPNsense, MikroTik, ipset, Pi-hole, Squid ve benzeri sistemlerle uyumludur.
@@ -155,10 +158,10 @@ One entry per line, no quotes, no surrounding whitespace, LF line endings. Domai
 Consume the lists straight from raw GitHub URLs:
 
 ```
-https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-domains.txt
-https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/days-30-domains.txt
-https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-ips.txt
-https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-urls.txt
+https://raw.githubusercontent.com/rosical-labs/SiberGuvenlikBaskanligi-API/main/data/full-domains.txt
+https://raw.githubusercontent.com/rosical-labs/SiberGuvenlikBaskanligi-API/main/data/days-30-domains.txt
+https://raw.githubusercontent.com/rosical-labs/SiberGuvenlikBaskanligi-API/main/data/full-ips.txt
+https://raw.githubusercontent.com/rosical-labs/SiberGuvenlikBaskanligi-API/main/data/full-urls.txt
 ```
 
 Compatible with pfSense, OPNsense, MikroTik, ipset, Pi-hole, Squid, and similar systems.

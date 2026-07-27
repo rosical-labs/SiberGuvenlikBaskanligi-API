@@ -98,5 +98,5 @@ docker compose logs -f
   overload the source; please keep reasonable delays.
 * This is a **defensive** security tool. Contributions should serve that purpose.
 
-[issues]: https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API/issues
+[issues]: https://github.com/rosical-labs/SiberGuvenlikBaskanligi-API/issues
 [PEP 8]: https://peps.python.org/pep-0008/

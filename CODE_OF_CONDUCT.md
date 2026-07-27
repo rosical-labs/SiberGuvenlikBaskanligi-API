@@ -47,7 +47,8 @@ kamusal alanlarda topluluğu resmî olarak temsil ettiğinde de uygulanır.
 ### Uygulama
 
 Taciz edici, rahatsız edici veya başka türlü kabul edilemez davranışlar
-**info@tagmachan.com** adresinden proje ekibine bildirilebilir. Tüm şikâyetler
+GitHub üzerinden [repo yöneticilerine](https://github.com/rosical-labs)
+bildirilebilir. Tüm şikâyetler
 hızlı ve adil biçimde incelenir ve soruşturulur. Tüm topluluk liderleri, olayı
 bildiren kişinin gizliliğine ve güvenliğine saygı göstermekle yükümlüdür.
 
@@ -105,7 +106,8 @@ an individual is officially representing the community in public spaces.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the project team at **info@tagmachan.com**. All complaints will be
+reported to the [repository maintainers](https://github.com/rosical-labs) on
+GitHub. All complaints will be
 reviewed and investigated promptly and fairly. All community leaders are
 obligated to respect the privacy and security of the reporter of any incident.
 
