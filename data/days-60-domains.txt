@@ -3435,7 +3435,6 @@ hgsbakiyedollum.web.app
 hgsbakiyeniziyukleyn.web.app
 hgsbakiyeukleyin.firebaseapp.com
 hgsbakiyeukleyin.web.app
-hgsbakiyeyukleme.duckdns.org
 hgsbakiyeyuklemeniz.firebaseapp.com
 hgsbakiyeyuklemetr.com.ph
 hgsbakiyeyuklmeanlik.web.app
@@ -4087,7 +4086,6 @@ journalcorex.com
 journolinxfy.com
 js-new.newtoyourgame.com
 juberno.com
-jurnemov.media
 just-giris-web.casa
 justiceinturkey.info
 k0bibasvurularim.click
@@ -5718,8 +5716,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -8127,7 +8125,6 @@ turkiyepanoru.com
 turkiyeperspektif.com
 turkiyepetrolleri-yatirim.com
 turkiyerotasi.com
-turkiyesesi.com
 turkiyesignal.com
 turkiyevisioner.com
 turkiyeyatirimpro.com
