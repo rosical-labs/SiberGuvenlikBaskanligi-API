@@ -2095,7 +2095,6 @@ koravelo.sbs
 koveyt-tork-net.duckdns.org
 koveyt-turk-org.duckdns.org
 koveyttork.online
-koveytumm.duckdns.org
 koyunn.nicepage.io
 kracadanda.duckdns.org
 kragwklerdes.duckdns.org
@@ -2591,7 +2590,6 @@ obilet.uk
 ocaktada-sizle.name.tr
 ocbpqapp-bbva.garantibbvakredibasvuru.com
 ocrrrrss.blogspot.com
-odeme-ilanim-48776.com
 odemehemen.com
 oeoeo2020201z.duckdns.org
 offercore.shop
@@ -2673,8 +2671,8 @@ otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
@@ -2987,7 +2985,6 @@ pttavm-arac-bilgileriniz.firebaseapp.com
 pttavm-arac-bilgileriniz.web.app
 pttavm-arac-gecmisi.firebaseapp.com
 pttavm-arac-gecmisi.web.app
-pttavm-arac-sorgulama.web.app
 pttavm-aracgecmisiogren.firebaseapp.com
 pttavm-aracgecmisiogren.web.app
 pttavm-aracgecmisogrenin-km.firebaseapp.com
@@ -3089,7 +3086,6 @@ qmartelyx.xyz
 qmenkul.com
 qnasndnasn.vercel.app
 qnb-finansbankasi.ph
-qonllinekonomigarantimobileapptr.xyz
 qoravemix.capital
 qorbazli.com
 qqqqqnnnbb.duckdns.org
@@ -3170,7 +3166,6 @@ resdispatch-grn-g.myonlineportal.ch
 resmihukukbirimi.com
 resortguide.info
 resortzonehub.com
-resprivy-grn-g.myonlineportal.ch
 rettobasicimhrswsynx.duckdns.org
 revola.life
 reynoldsjace5.workers.dev
@@ -3232,7 +3227,6 @@ sadeosolsprisatlaybftrk112.blogspot.com
 sadeosolsprisatlaybftrk112111.blogspot.com
 safernetwork.io
 sagligakavusmakicinbiradim.digital
-saglik-182.com
 sagliklibilgi.duckdns.org
 saglikligunlerhuzurdolu.loseyourip.com
 sagliklihizmetleregunleresizlere.webredirect.org
@@ -3839,7 +3833,6 @@ tromvax.com
 trosil.gifts
 trovant.click
 trpolis155.online
-trsiparisbilgi.online
 trsiparisonay.online
 trturk24ku.com
 trturk24nex.com
