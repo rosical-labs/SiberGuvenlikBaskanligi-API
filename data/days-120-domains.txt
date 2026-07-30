@@ -3109,7 +3109,6 @@ bsvvvurrrsnfrstlrrrkmpyasii.live
 bsykartech.com
 btcsg.site
 btcturk-cekilis.com
-btcturk-kripto.zendesk.com
 btcturk-kripto1781772972.zendesk.com
 btcturk-platform.com
 btcturk.site
@@ -3696,7 +3695,6 @@ claude-app-new.gitlab.io
 claude-code-app.gitlab.io
 claude-desktop-lm.gitlab.io
 claude-desktop.gitlab.io
-claude-pro.com
 claudeapp.gitlab.io
 claudecode-desktop.gitlab.io
 claudescript.top
@@ -4406,7 +4404,6 @@ dkyatirimmenkul.com
 dl55polisi155.online
 dlderi.com
 dlimc.click
-dlrz-web.oss-cn-beijing.aliyuncs.com
 dltruek.com
 dltucra.com
 dm.garantibbvakredibasvuru.com
@@ -6109,7 +6106,6 @@ gotoinvst.com
 goturkey.blog
 goturkishmart.shop
 goudbl.click
-gouvvbo.top
 gov-turkeyonline.woernerhaustechnik.com
 gov.y4nsmsars.sbs
 gov3.site
@@ -9605,7 +9601,6 @@ lfrsatistegeldiblrada.xyz
 liamseitfor.top
 lib.evsahibibasvuru.com
 librarycurrents.duckdns.org
-license.claude-pro.com
 lichenwispupd.info
 lifebalghance.pro
 lifescapehub.com
@@ -14938,7 +14933,6 @@ sydv.enyeniweb.com
 syfiaydytea.live
 syjzvw.help
 sylune.site
-sylverixstrategy.com
 syn.ezpizi.click
 syncdock.click
 syncheaven.online
@@ -16901,11 +16895,8 @@ uoni1m1godlr.icu
 upd-domain-goloro.com
 updata.net.cn
 update-all.tempurl.host
-update-crowdstrike.com
 update-kaspersky.workers.dev
-update-sentinelone.com
 update-teams.live
-update-trellix.com
 update.kaspersky.icu
 update.news7-days-info.org
 update.update-fall.com
@@ -17206,7 +17197,6 @@ verolumi.pro
 verrtyonastudio.pro
 vertexlabd.info
 vertexserp.info
-vertextrust-advisors.com
 vertlym.com
 vertualstreak.info
 vetepez.top
