@@ -10754,7 +10754,6 @@ marriott-globalcareers.com
 marriott-hiring.com
 marriott-opportunities.com
 marscarfilom.com
-martta-burada.com.tr
 marvelionstreet.pro
 masadmsad.duckdns.org
 masak2026trlogin.duckdns.org
@@ -11869,7 +11868,6 @@ nineki.online
 ninjatech.io
 nisan-burada.info.tr
 nisan-burada.name.tr
-nisan-burada.org.tr
 nisan-burada.web.tr
 nisan-firsatlari.myonlineportal.de
 nisana-ozel-kampanyam-teb.my-homeip.net
@@ -12522,8 +12520,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
