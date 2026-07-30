@@ -1,14 +1,14 @@
 {
   "pass_id": 20,
-  "last_run": "2026-07-30T22:16:51",
+  "last_run": "2026-07-31T00:01:59",
   "last_full_completed": "2026-07-30T04:52:58",
   "types": {
     "domain": {
       "full_crawl_complete": true,
       "next_page": 1,
       "total_pages": 463,
-      "last_max_id": 1147824,
-      "total_count": 462418
+      "last_max_id": 1147838,
+      "total_count": 462424
     },
     "url": {
       "full_crawl_complete": true,
