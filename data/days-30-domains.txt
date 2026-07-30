@@ -257,6 +257,7 @@ akbankmobilnet.ph
 akefsmblsbbe.duckdns.org
 akillisechim.today
 akmobil-bireysel-com.duckdns.org
+akmobil-ceptebasvuru-ekrani-com.webredirect.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
 akmobil-onlineislem-ekrani.duckdns.org
 akmobil-onlineislem-guncel-ekran.duckdns.org
@@ -2763,8 +2764,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
@@ -3642,6 +3643,7 @@ syqwe.ezpizi.click
 t0ki.500600sosyal.cyou
 t8n6w2m9r1q7.click
 t90141296286.p.clickup-attachments.com
+tablemint.biz
 tablo-edilgen-deger.myonlineportal.ch
 tadsago4210.online
 tadsago4210.site
@@ -3769,6 +3771,7 @@ toby44292.softr.app
 todayverse.online
 togg-nato-ozel-cekilis.space
 togg-nato-ozel-cekilis.xyz
+togg.best
 togg.website
 toggarac.com
 togghizlisatis.cfd
