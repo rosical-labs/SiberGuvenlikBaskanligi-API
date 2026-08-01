@@ -196,7 +196,6 @@ a101-com-tr-aldin-aldin-extra-online.elenamasaj.com
 a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-firsatlariniz-artik-burada.duckdns.org
 a101-sadeceonline.my-homeip.net
-a101extrakatalog.site
 a101kampanyanizburada.com
 a101market.org
 a101market.xyz
@@ -339,7 +338,6 @@ aohtehfaeffgafetap.vercel.app
 apexsorgu.alwaysdata.net
 api-sync-service.mdkd1184.workers.dev
 apigrokcloud.icu
-apiluma.bond
 apl-gc.pages.dev
 app.hdfportfoy.com
 app.hedeffon.com
@@ -564,7 +562,6 @@ bilgiyansimasi.com
 bilgiyolu.vu
 bilopiddsade-cere.xyz
 bilsesavasiyorumdahanelerle.sbs
-bilukufere-gudazese.xyz
 bimcellodeme.ph
 binancemasakdogrulamaactivasyon.duckdns.org
 binanciapools.top
@@ -1088,7 +1085,6 @@ e-sube.tunafonyonetimi.com
 e-tokiislemlerinebasla.digital
 e1a10-hdakia-kmpnsyaa-xrteak.lol
 earth2trust.com
-earthgear.shop
 earthsignal.capital
 easynexora.online
 ebebekonline.shop
@@ -1402,6 +1398,7 @@ gelisimhedefi.com
 gelisimyolculuk.com
 gelistirilmisarayuz.abrdns.com
 gelseydmdunyayasendegelcan45.info
+gelsinkapinaclub.click
 generalcart.shop
 generalcartlane.shop
 generalgoodsport.shop
@@ -1532,7 +1529,6 @@ guncelhaberlerim.com
 guncelhaberzone.com
 guncelizlenimler.com
 guncelkaynaklar.com
-guncelmercekler.com
 guncelnotlar.company
 guncelpencere.site
 guncelses.world
@@ -1772,6 +1768,7 @@ hizlgecisbakiyedoldurma.web.app
 hizlgecisbakiyeyukleme.web.app
 hizli-infor-mation.casa
 hizli-islem.com
+hizli-online-islemler.com
 hizli-siparis-baglanti.com
 hizli-siparis-linki.com
 hizli-siparis-onaylama-baglantisi.com
@@ -2180,8 +2177,6 @@ kralgeridonduwsynxrandevuburadanalinir.com
 kraterart.com.victororbis.com
 kravisonline.net
 krayllrihgsyle.cfd
-krdiibsvrrfrsltrrrspnnnnn.info
-krdiibsvrrfrsltrrrspnnnnn.pro
 krdm12343.duckdns.org
 krdsaicaskdjz23j1x312.cfd
 kredi-basvuru-merkezi.ooguy.com
@@ -2267,7 +2262,6 @@ lolukhuguferete-desededse.lol
 longbeachalanya.com
 looksta.icu
 loopearplugs-turkiye.com
-lorevixa.gifts
 lorivan.gifts
 lrdansandanll.sbs
 lrdansandanll.shop
@@ -2291,7 +2285,6 @@ lyricinspire.com
 lyricpath.com
 m-hr-s.wqdx12x1.cyou
 m-hr-s.wqdx12x1.forum
-m-hr-s.wqdx12x1.rest
 m-obilet.uk
 m.24612-20114.click
 m.ayfon16.click
@@ -2457,7 +2450,6 @@ mhrsrandevuekranlarimizdirr.duckdns.org
 mhrsrandevuekranlarimizzz.duckdns.org
 mhrsrandevuekranwork.duckdns.org
 mhrsrandevularinizbasladi.duckdns.org
-mhrsrandevunburadann.duckdns.org
 mhrsrandevuportalimizz.duckdns.org
 mhrsrandevuportalimizzx.duckdns.org
 mhrsrandevusisteminiza.duckdns.org
@@ -2770,8 +2762,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
@@ -2811,7 +2803,6 @@ ozel-hizmet-islemleri.com
 ozel-indirimler.online
 ozel-magazadan.com
 ozel-magazam.com
-ozlllfrsltrrbsvrrkmpnyalari.art
 p-ttavmshop.com.ph
 p3k8z1m6q9v2.cfd
 p3w9z6c1r8t2.lol
@@ -2843,6 +2834,7 @@ paribu-araba-kazanma.com
 paribu-arabacekilisi.com
 paribu-arabahediye.com
 paribu-arabakazan.com
+paribu-arabasansi.info
 paribu-arabasansi.link
 paribu-buyukcekilisi.com
 paribu-cark-cekilisi.opik.net
@@ -3435,7 +3427,6 @@ shield-sky.com
 shoparo.info
 shopier.e-ilan-elektronik-siparisim.com
 shopier.webislemlerimiz.com
-shoplunaq.digital
 shopsites.shop
 showmixly.net
 showpulsera.net
@@ -3679,7 +3670,6 @@ technoline24.digital
 technology--paribu.com
 technology-paribu.com
 technologyparibu.com
-technovy.digital
 techovoise.digital
 techveras.online
 teeeekfirsatspnsrlurklam.com
@@ -3738,7 +3728,6 @@ tierracapital.co
 tiffyservics.info
 tigsipay.online
 time.evsahibibasvuru.com
-timefocus.watch
 tioagliea.net
 tiogleon.com
 tiriipsec.net
@@ -3777,7 +3766,6 @@ tokitoplukonut.gravitycl.app
 tooourhow.shop
 topicforge.top
 topicgrove.info
-topicguide.website
 toplam-talip-eden.myonlineportal.ch
 toplu-konut-idaresi-basvurunh.vercel.app
 toplu-konut.gravitycl.app
@@ -3792,7 +3780,6 @@ topu314.vercel.app
 topubosvuru.online
 topubosvuru.store
 toravina.gifts
-torkasaq.gifts
 tourlino.com
 touropenlederfran.com
 tovem.shop
@@ -4202,7 +4189,6 @@ worpaxti.surf
 worpist.rest
 wosuqyy.xyz
 wow.androiddebugbridge.su
-wqdx12x1.rest
 wravio.info
 ws.182iletisim.cyou
 wtw252s-wrw5tww.xyz
@@ -4256,7 +4242,6 @@ xrdnet.click
 xswwwxswwsx.duckdns.org
 xtrafftrck.net
 xuastyrdqk.love
-xunmora.xyz
 xupqnqz.one
 xupqrnn.one
 xvla9qtmz8crk4pb.cfd
@@ -4384,7 +4369,6 @@ zelbutro.com
 zelikavron.in
 zelimarto.com
 zelmarn.click
-zelmoraq.bond
 zeloravik.shop
 zeloria.info
 zelunirek.xyz
