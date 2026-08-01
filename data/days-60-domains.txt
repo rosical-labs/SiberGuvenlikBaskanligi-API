@@ -110,6 +110,7 @@
 182-intt.com
 182-net.com
 182-nett.com
+182-web.sbs
 182-web.xyz
 182-webb.sbs
 182-webb.xyz
@@ -4136,7 +4137,6 @@ istelmancankart.xyz
 istemredo.xyz
 istengelenler.shop
 isthemenbasvur.uk
-istkart.xyz
 istkartrtx.online
 istkkartttbelggim.xyz
 istkkartttbelggimm.xyz
@@ -5006,6 +5006,7 @@ makoslzuyt.com
 maleoz.website
 malibirim.com
 maliidariceza.org
+maliuyap.org
 malivezne.com
 maliyebordro.org
 maliyecezahukuk.org
@@ -5458,6 +5459,7 @@ n7q2x9m4v6k1.cfd
 n7q5m2y8v4k3.sbs
 n8x2q7v4c1r8t.sbs
 n8x2q7v4k1m5.lol
+na-microsoft.com
 nanofrontier.capital
 narkozweb.online
 nasdaqpro.top
@@ -5786,6 +5788,7 @@ online-ozel-siparis.online
 online-shop-bireysel-tr.site
 online-siparis-mobilde-tr.online
 online-sorgulama.com
+online-sozlesme-islemleri.com
 online-tr-shop-mobil.site
 online-web-store.online
 online.evsahibibasvuru.com
@@ -5888,8 +5891,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -7000,7 +7003,6 @@ sahibinden.magazadan-odeme.com
 sahibinden.mobilservisleriniz-6.sbs
 sahibinden.odeme-ilanim-48773.com
 sahibinden.offer192391.rest
-sahibinden.online-alisveris-sepetiniz.com
 sahibinden.order-id42942.cfd
 sahibinden.s-paran-guvenli.online
 sahibinden.satinal-siparis.com
@@ -7121,6 +7123,7 @@ selectumhotelsandresorts.com
 selectumluxuryresorts.com
 selgebeachresortside.com
 selgehotels.com
+selgeresortside.com
 sellnightcare.com
 selmbngldmbrndns.live
 selsandannda.com
@@ -7132,6 +7135,7 @@ semacicek.com
 semigoddess.com
 senatom.com
 senatoria.sbs
+senbanaddosatbensanaclick.sbs
 sendenkorkmuyorum1.vip
 sendenkorkmuyorum4.vip
 sendenkorkmuyorum7.vip
@@ -7813,6 +7817,7 @@ teorkeance.loseyourip.com
 tepelecir.store
 tepki-stil.myonlineportal.ch
 tera-home.com
+teragrup.org
 tereyopli-gereyupi.lol
 terriblyxzr300xbsvruzrt0xf423sadvc.click
 terstdidca.net
@@ -9156,6 +9161,7 @@ yenibakis.gifts
 yenibakisagi.com
 yeniden-sekillendirme.myonlineportal.ch
 yeniden.kemanci322.cfd
+yenidengoruntule.abrdns.com
 yenievimgov.vercel.app
 yenigelenyaninda.com
 yenileniyoruz.online
@@ -9181,6 +9187,7 @@ yilmaz-ticaret-ile-siparis-tamamla.com
 yilmaz-ticaret-ile-siparisi-hizla-onayla.com
 yilmaz-ticaret-ile-siparisi-tamamla.com
 yilmaz-ticaret-ile-siparisini-tamamla.com
+yilmaz-ticaret-ile-siparisinizi-tamamlayiniz.com
 ykbbilgilendirme.click
 yklasmdsantskenas.online
 yklehgsbkyeykle.cfd
@@ -9270,6 +9277,7 @@ zccumhuriyetlr.com
 zdraxenorilpro.world
 zealpraxis.com
 zebregts.com
+zederesede-sederesede.lol
 zelalver.gifts
 zelbutro.com
 zelcartiq.shop
