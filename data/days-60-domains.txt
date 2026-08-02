@@ -192,6 +192,7 @@
 312222545548789988994.duckdns.org
 312222545548789988995.duckdns.org
 312222545548789988996.duckdns.org
+312222545548789988997.duckdns.org
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -352,6 +353,7 @@
 97896986.net
 987899876523253i4sa.duckdns.org
 99903030x332zww1.duckdns.org
+99988888.duckdns.org
 9c743b80-b.b-cdn.net
 9fde8fe7-9.b-cdn.net
 9mvxr2q.sbs
@@ -2109,6 +2111,7 @@ dijital-bireyselbasvurulari.sbs
 dijital-bireyselbasvurularim.sbs
 dijital-bireyselbasvurulariniz.sbs
 dijital-islembilgi.sbs
+dijital-islemler.sbs
 dijital-islemlerbilgi.sbs
 dijital-islemleriniz.sbs
 dijitalacentasorgulama.org
@@ -2284,7 +2287,6 @@ e-mhrsilesagliklibakislar.digital
 e-mhrsilesaglikliyasamm.digital
 e-mhrsrandevulariylayasams.digital
 e-odeme.duckdns.org
-e-odemeler.duckdns.org
 e-sozlesme.kurumsal-online-islem.com
 e-sube-isbank.ph
 e-sube.hdfportfoy.com
@@ -3497,7 +3499,6 @@ hemenbasvuru-onay.bounceme.net
 hemenbsvr.my-homeip.net
 hemenbsvrn.my-homeip.net
 hemencicekci.com
-hemendahemen.click
 hemenguvendeileal.com
 hemenhizliislemn.net
 hemenhizlisnoclsm.net
@@ -5016,7 +5017,6 @@ mainoptionsllc.com
 maintaining-drawings-rand-porter.trycloudflare.com
 makeitupguide.com
 makerolleds.info
-makoslzuyt.com
 maleoz.website
 malibirim.com
 maliidariceza.org
@@ -5611,7 +5611,6 @@ niturkcart.xyz
 nlatlantlanlta.net
 nltalntalnal.net
 nltanalhemenl.net
-nltanayalhluu.xyz
 nltlnaltanltant.net
 nltlntlnlntln.net
 nltlntlntltnl.net
@@ -6880,7 +6879,6 @@ s-paramguvende.trodemeservis.online
 s-paran-guvenli.online
 s-sahibinden-sozlesme.com
 s.orove.cn
-s0karmetler.shop
 s0kmalketler.shop
 s0kmalrlet.shop
 s0kmapretler.shop
