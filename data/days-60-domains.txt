@@ -264,7 +264,6 @@
 54698599004949000.net
 5515151.xyz
 56732423564357.org
-5678766452222.net
 568563523523865568.org
 56856856342352345754745.org
 5696890049494000.net
@@ -306,7 +305,6 @@
 74ed77fc-8.b-cdn.net
 752bd3de-b.b-cdn.net
 7534432243.duckdns.org
-756423243.net
 756432234.net
 75643432.net
 7564352431.net
@@ -768,6 +766,7 @@ aracrndvmua.sbs
 aracsystemgecis.cfd
 aradan-cikan-donemez.xyz
 araksdatoaslvanb.online
+araofdalgaogfa.online
 arasaslfasofaslmsa.online
 arastir.vip
 aravisblog.com
@@ -811,6 +810,7 @@ asdlakdlajdk.blogspot.com
 asdlfdsamfksdafmkl.net
 asdsaf0sdvldmv.net
 asdsaqffllfe00n.net
+asdsrversdersetrseser.com
 asdxkwqkexjqwx123x1.cfd
 aselsan-app.digital
 aselsan-healthcare.com
@@ -1038,7 +1038,6 @@ basvurulariniz.myonlineportal.de
 basvurulariniz.sbs
 basvurumburada.click
 basvurumburda.click
-basvurumerkeizma.cloud
 basvurumerkezi.abrdns.com
 basvurummobildenbntr.duckdns.org
 basvurumunadresinde.cfd
@@ -3523,6 +3522,7 @@ hemenismlnktasnati.net
 hemenl-40binpromo-buradan.sbs
 hemenlanlsatnas.net
 hemennalrtnlasna.net
+hemensielmkntasi.net
 hemensielmnokta-islnakt.net
 hemensmdkk.space
 hemensonucislemnt.net
@@ -3547,7 +3547,6 @@ heregelerdes.duckdns.org
 hergetxdeedxx.duckdns.org
 herseyhalkimiziicin.sbs
 herseymaziden.sbs
-herseysznlegzzel.sbs
 herseyyeneartkboyleoldusendegel.info
 hervurdugumuzgol.click
 herzmnburdayiz.xyz
@@ -3919,7 +3918,6 @@ ilan.hizmet-islememleri.com
 ilanim-fast.com
 ilanservis-odemehizmetler.online
 ile-alisverislerini-tamamlama.com
-ile-sepetlerim.com.tr
 ileri-agency.myonlineportal.ch
 ileribakislar.com
 ilerivizyonrotasi.com
@@ -5904,8 +5902,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -6026,6 +6024,7 @@ paribu-araba.com
 paribu-arabacekilisi.com
 paribu-arabahediye.com
 paribu-arabakazan.com
+paribu-arabasansi.com
 paribu-arabasansi.info
 paribu-arabasansi.link
 paribu-buyukcekilisi.com
@@ -7463,6 +7462,7 @@ sorgukurum.org
 sorgula-borctahsil.com
 sorgula-borctahsilat.com
 sorgulama-ekrani.online
+sorgulama-tr.online
 sorgupaneli.ph
 sorgupanelimapi.atspace.tv
 sormekavudiq.com
@@ -8020,6 +8020,7 @@ toplu-konut-projesi-toki-gov-tr.ph
 toplu-konut.gravitycl.app
 toplukonu5391282121.vercel.app
 toplukonut-toki.gravitycl.app
+toplukonut.gravitycl.app
 toplukonut0701455346.vercel.app
 toplukonut122142151.vercel.app
 toplukonut1251251.vercel.app
@@ -8248,7 +8249,6 @@ trkamusorgu.org
 trkara.nicepage.io
 trkaraca.shop
 trkaracas.shop
-trkasaldcc.nicepage.io
 trkatad.nicepage.io
 trkkffkfs.cfd
 trlandmark.pro
@@ -9417,6 +9417,7 @@ zlm11090100001.duckdns.org
 zloapobikahy23.bond
 zlorvantisahub.world
 zodmerli.gifts
+zolikhide-sedapilogife.lol
 zomdukiq.gifts
 zoominviteus1.pages.dev
 zorakelim.sbs
