@@ -2876,6 +2876,7 @@ claude-app-new.gitlab.io
 claude-code-app.gitlab.io
 claude-desktop-lm.gitlab.io
 claude-desktop.gitlab.io
+claude-pro.com
 claudeapp.gitlab.io
 claudecode-desktop.gitlab.io
 claudescript.top
@@ -3432,6 +3433,7 @@ djflslfjflslfikrorie.blogspot.com
 djtalbsvruefo.space
 dkyatirimmenkul.com
 dlderi.com
+dlrz-web.oss-cn-beijing.aliyuncs.com
 dltruek.com
 dltucra.com
 dm.garantibbvakredibasvuru.com
@@ -4762,6 +4764,7 @@ got8rflowes.info
 gotoinvst.com
 goturkey.blog
 goturkishmart.shop
+gouvvbo.top
 gov.y4nsmsars.sbs
 goveridash.co
 goverru.com
@@ -4788,6 +4791,7 @@ granly.xyz
 granlyx.com
 granlyx.cyou
 grantc4b1burdabbvakapy.life
+grantiibba.duckdns.org
 grantipromosynlari.com
 grapehardwarejourney.com
 gratis-tr.craftyhour.com
@@ -5183,6 +5187,7 @@ haftanin-noktasi.net.tr
 haftaninenyenigirisleriburdan.xyz
 hafybreaks.info
 hahedeladawd.duckdns.org
+haherdasdelazwxxx.duckdns.org
 haikbank.com
 hakanretto.duckdns.org
 hakanrettoilekeyfinebak.duckdns.org
@@ -7301,6 +7306,7 @@ lflix.neocities.org
 liamseitfor.top
 lib.evsahibibasvuru.com
 librarycurrents.duckdns.org
+license.claude-pro.com
 lichenwispupd.info
 lifebalghance.pro
 lifescapehub.com
@@ -8901,8 +8907,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -11365,6 +11371,7 @@ sxaxsafgdgsad.sbs
 sxxemizlexxetexx.duckdns.org
 sydv.enyeniweb.com
 syfiaydytea.live
+sylverixstrategy.com
 syn.domainclx.biz
 syn.ezpizi.click
 syncdock.click
@@ -13101,7 +13108,10 @@ uoni1m1godlr.icu
 upd-domain-goloro.com
 updata.net.cn
 update-all.tempurl.host
+update-crowdstrike.com
 update-kaspersky.workers.dev
+update-sentinelone.com
+update-trellix.com
 update.kaspersky.icu
 update.news7-days-info.org
 update.update-fall.com
@@ -13341,6 +13351,7 @@ veritonixmedia.com
 verolumi.pro
 vertexlabd.info
 vertexserp.info
+vertextrust-advisors.com
 vertlym.com
 vertualstreak.info
 vexalorin.shop
@@ -14130,6 +14141,7 @@ yuarzumasa.xyz
 yuasdhashd823sadhahsd283.click
 yubo.watch
 yucoaskcas.cfd
+yugosadgsagdgasd92sadh23s.click
 yuguhiderssde.hicam.net
 yuhderetedefe.lat
 yuhuguderdere.click
