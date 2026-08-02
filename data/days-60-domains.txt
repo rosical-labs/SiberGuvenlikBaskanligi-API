@@ -190,6 +190,7 @@
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
 312222545548789988993.duckdns.org
+312222545548789988994.duckdns.org
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -1271,7 +1272,6 @@ birgulususebepolur.sbs
 birgulususebepolur1.sbs
 birikimkutusu.site
 birimuzlasma.org
-birimvergi.org
 birlinks-tr.online
 bist.youthside.co
 bitekrep.sbs
@@ -2188,7 +2188,6 @@ dorivo.gifts
 dorjiba.website
 dorqen.casa
 dosya-bilgi.com
-dosyabirim.org
 dosyamerkezi.org
 dosyatakibi.org
 dovizbasvuru-acikdenizmobilbank.org.ph
@@ -3184,7 +3183,6 @@ guvendekal.online
 guvenilirsorgupaneli.fun
 guvenilirsorgupaneli.xyz
 guvenli-odeme-yap.xyz
-guvenli-odemler.online
 guvenlialisveris.online
 guvenlialisverisin.online
 guvenlimuhasebeodemebirimi.duckdns.org
