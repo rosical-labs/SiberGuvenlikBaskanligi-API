@@ -1707,9 +1707,7 @@ hgsbakiyeukleyin.web.app
 hgsbakiyeyuklemetr.com.ph
 hgsbakiyeyuklmeanlik.web.app
 hgsbakiyeyuklmei.firebaseapp.com
-hgsbakiyeyuklmei.web.app
 hgsbakiyuklemes.firebaseapp.com
-hgsbakiyuklemes.web.app
 hgsbakyeyklesmdi.cfd
 hgsbkyeyklecfd.cfd
 hgseklebkyeykle.cfd
@@ -2039,6 +2037,7 @@ karacakaramacakovalaca.xyz
 karacan-cepte.com.tr
 karacan-cepte.info.tr
 karapara.icu
+karar-onemli.ink
 karartr.net
 karelunox.cyou
 kargotakip.e-ilan-elektronik-siparisim.com
@@ -2061,6 +2060,7 @@ kddredi-ztra.cfd
 kdsuyrse.live
 kefalukahotelakyarlar.com
 kefalukaresortspa.com
+kefalukka.com
 kehribartesbihevikuka.duckdns.org
 kelmix.org
 kelmixon.surf
@@ -2408,7 +2408,6 @@ mhrsportalvatandasgirisimizdir.duckdns.org
 mhrsportalvatandasgirisimizdiranlik.duckdns.org
 mhrsrandevu346.duckdns.org
 mhrsrandevualsanala.duckdns.org
-mhrsrandevuburada.duckdns.org
 mhrsrandevuekraaan.duckdns.org
 mhrsrandevuekranlarimizdirr.duckdns.org
 mhrsrandevuekranlarimizzz.duckdns.org
@@ -2589,7 +2588,6 @@ nexarova.shop
 nexbyte.digital
 nexcartel.com
 nexita.info
-nexoria.gifts
 nexumra.com
 nexvalo.cyou
 nice-protect.com
@@ -3331,6 +3329,7 @@ service-center-instagram.com
 servisbilgi-tr.online
 seryotocargaleryx.duckdns.org
 serzjkow.cfd
+sett.basitdom.biz
 sevenlerpastaci.shop
 sevgielimyardimlari.com
 seyimacidi.duckdns.org
@@ -3538,7 +3537,6 @@ tajikistandip.com
 takas-change.click
 take-more.cfd
 taktik-operational.ink
-talvona.store
 tamambankara.net
 tamamistanbulo.co
 tamamla-sip.com
@@ -3782,7 +3780,6 @@ tum-web.xyz
 tunafonyonetimi.com
 tunaportfoyonetim.com
 tunaportfoyyatirim.com
-tunaportfoyyonetim.com
 tupras-islamictradings.com
 turkcell-ui.netlify.app
 turkcell.tamamla-sip.com
@@ -4133,6 +4130,7 @@ xn--trendyol-ylmaz-ticaret-ile-siparisi-tamamla-2mg.com
 xnbscuya.love
 xq.ezpizi.click
 xra300xax39xlsjxm4.cfd
+xrd.domainclx.click
 xrdnet.click
 xswwwxswwsx.duckdns.org
 xtrafftrck.net
@@ -4162,7 +4160,9 @@ y44nlndird4st4maktifsen.duckdns.org
 y4nlndir4deincirl4yimknk.duckdns.org
 y6n2z8w5t1k7.sbs
 y9r4n7z2m6w3.sbs
+ya-l-bankac-l.vercel.app
 yandex-disk.net
+yanitlama-grs.garden
 yanlzhayatzorbdegelbanasorbekan81.info
 yapicajsdkjjk123x123.sbs
 yapikredi.com.ph
