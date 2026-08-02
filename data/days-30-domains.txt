@@ -975,6 +975,7 @@ digitalwinter.vip
 dijital-bilgi.sbs
 dijital-islembilgi.sbs
 dijital-islemlerbilgi.sbs
+dijital-islemleriniz.sbs
 dijitalbilgi-giris.sbs
 dijitalbilgi-sorgu.sbs
 dijitalbilgiform.sbs
@@ -1645,6 +1646,8 @@ hedefonmusteripanel.com
 hedefonmusteripaneli.com
 hedefportfoykurumsal.com
 hedefprtfoy.com
+hefelfeguystr.duckdns.org
+heismebktaltara.net
 helfeguystr.duckdns.org
 helloistikbal.shop
 hellomonsterler.duckdns.org
@@ -1656,7 +1659,6 @@ hemen-siparisver.com
 hemencicekci.com
 hemenguvendeileal.com
 hemenislemhkatsa.net
-hemenislemler.com
 hemenislemn-sonuc.net
 hemenislemnktasna.net
 hemenislmatknas.net
@@ -1880,7 +1882,6 @@ isbankasivatandaspayi.digital
 isbasvurusu-cagrimerkezi.online
 isbiankisiturkiye.com
 isbnkasiwebsubayrntilr2.shop
-isbnkasiwebsubayrntilr6.shop
 isisjaofnsormwo.cfd
 iskampanyasub3.sbs
 islembilgisistemi.abrdns.com
@@ -2847,7 +2848,6 @@ pazarama.fast-ilan.com
 pazarama.guvenliodemeonay.com
 pazarama.guvenlionayodeme.com
 pazarama.guvenlionline.com
-pazarama.hemenislemler.com
 pazarama.ilan-havale-odemem.com
 pazarama.ilan-havale.com
 pazarama.ilan-magaza.com
@@ -3781,7 +3781,6 @@ turknw.com
 turktelekom.sbs
 turnervault.net
 turquoisetr.sbs
-tursab.acentasorgu.com
 tutiq.vu
 tuv-iis.digital
 tuv-res.digital
@@ -4080,6 +4079,7 @@ xn--trendyol-ylmaz-ticaret-ile-siparisi-tamamla-2mg.com
 xnbscuya.love
 xq.ezpizi.click
 xra300xax39xlsjxm4.cfd
+xrd.domainclx.biz
 xrd.domainclx.click
 xrdnet.click
 xswwwxswwsx.duckdns.org

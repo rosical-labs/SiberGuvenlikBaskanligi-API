@@ -1582,7 +1582,6 @@ bva-click.lat
 bva-global.lat
 bvbvbva128282828992.duckdns.org
 bvbvbva28282828992.duckdns.org
-bvrtbkomki.info
 bxivo.quest
 byrmocankan.duckdns.org
 byte-armor.com
@@ -2107,6 +2106,7 @@ dijital-bireyselbasvurularim.sbs
 dijital-bireyselbasvurulariniz.sbs
 dijital-islembilgi.sbs
 dijital-islemlerbilgi.sbs
+dijital-islemleriniz.sbs
 dijitalacentasorgulama.org
 dijitalbasvurukatilimi.sbs
 dijitalbilgi-giris.sbs
@@ -2457,7 +2457,6 @@ enparabasvur.xyz
 enparakampanyabasvuru.ph
 enparamobilsubem.ph
 enparaonline.online
-enprkrkstz.com
 entreyy-git.cfd
 entry-web.guru
 enuygun.rent
@@ -3473,6 +3472,8 @@ hedefonmusteripanel.com
 hedefonmusteripaneli.com
 hedefportfoykurumsal.com
 hedefprtfoy.com
+hefelfeguystr.duckdns.org
+heismebktaltara.net
 helfeguystr.duckdns.org
 heliosup.info
 helloistikbal.shop
@@ -7204,7 +7205,6 @@ sertifiky-daha-fazla.myonlineportal.ch
 server-guide--microsoftsignin.replit.app
 service-center-instagram.com
 servisbilgi-tr.online
-servislerjethizmetler.online
 seryotocargaleryx.duckdns.org
 serzjkow.cfd
 setpot-forward.vip
@@ -9058,6 +9058,7 @@ xq.ezpizi.click
 xq2m7r9.sbs
 xqzeltopz.com
 xra300xax39xlsjxm4.cfd
+xrd.domainclx.biz
 xrd.domainclx.click
 xrdnet.click
 xrr30x8v8232s.duckdns.org
