@@ -360,7 +360,6 @@
 46564234.net
 485489541268.cloud
 485e02db-a.b-cdn.net
-4864958496556489.net
 49494oop49x92.duckdns.org
 4daa2aea93db-endpoint.com
 4hex.online
@@ -403,7 +402,6 @@
 54698599004949000.net
 5515151.xyz
 552662.lat
-55465465461455.duckdns.org
 55555551200055555005.gleeze.com
 5654886546413216.duckdns.org
 56732423564357.org
@@ -3703,7 +3701,6 @@ edinimler-aciklayici-klagr.myonlineportal.ch
 edinimler-rg.ink
 edosyabirimi.org
 edosyaegm.org
-edosyagib.org
 edosyam.org
 edosyatakip.org
 edr-security-bucket1.cc
@@ -4313,7 +4310,6 @@ flsdwnld.online
 fluxgardena.pro
 flyskyenterprise.com
 fnaostuz.com
-focuzuh.cn
 foela.live
 fokushebatzz.com
 folron.autos
@@ -4587,7 +4583,6 @@ geliyormuyuz.online
 gelsendehaydkatlkan250.click
 gelseydmdunyayasendegelcan45.info
 gelsinkapinaclub.click
-genafut.top
 gencertemizlik.cfd
 gencertemizlik.sbs
 gencligimesirruhumayasarken.sbs
@@ -4744,7 +4739,6 @@ gobf.mx
 gocmenbilgiportali.online
 gocmenkarar.online
 gocmenkarar.xyz
-gojemex.top
 gokaca.store
 gokaraca.shop
 gokarcas.store
@@ -4826,6 +4820,7 @@ gratis.blixtrader.com
 gratis.craftyhour.com
 gratis.cwbots.com
 gratis.empordafibra.com
+gratis.globalscholarpress.com
 gratis.lakeboundtech.com
 gravelio.sbs
 greenbyte.cyou
@@ -6259,7 +6254,6 @@ istanbulbenimla.xyz
 istanbulberzan.xyz
 istanbulberzancan.xyz
 istanbulbizim3434.xyz
-istanbulbizimba.xyz
 istanbulbizimcan.xyz
 istanbulbizimef.xyz
 istanbulbizimherzmn.xyz
@@ -7170,7 +7164,6 @@ krenta.gifts
 krevon.org
 krevont.cyou
 krevont.org
-krezi-merkezleri.duckdns.org
 kripto-btc-turkbonus20.com
 kriptokampanyalar.com
 krkmzcaydanlik.blogspot.com
@@ -7309,6 +7302,7 @@ learndarkcan.com
 learnivo.xyz
 learnpath.gifts
 lecoqspo.shop
+ledferesaxxaw.duckdns.org
 lee.6686ty.vip
 legi-mi-g-r-t.myonlineportal.ch
 legio.name
@@ -8231,6 +8225,7 @@ muguhudue-redesetre.lol
 muhamadfafaoyunda.net
 muhguferedese-asdsede.lol
 muhu-bb-vv-aa-ss-dd.xyz
+muhugudu-polililili.lol
 muhugudue-redetesede.lol
 muhugudueresede-afderese.lol
 muhugudueretese-duguhuderede.lol
@@ -8506,7 +8501,6 @@ nicolanicszira.nicepage.io
 niggerdemon.in
 night-service.vip
 nightstalkerd.pro
-niguo.top
 nilbort.online
 nileora.sbs
 nimetistanbul.net
@@ -10552,7 +10546,6 @@ sanayeminedebilirim.sbs
 sanolin.com
 santaskagsaen.online
 santyonaxa.xyz
-sanuzu.cn
 sanvo.cyou
 saotykaso.xyz
 sapaos.shop
@@ -11020,7 +11013,6 @@ snipr.site
 sniuntmdnhergnicpagdm.shop
 snksnctysnysnns.com
 snkzlplrdansnnns.com
-snrlsaydcakm.cfd
 snrlsayocadaoneaca.cfd
 snrox020x231.gleeze.com
 sntskenlaersa.online
@@ -12506,6 +12498,7 @@ toplu-konut-idaresi-basvurusu.vercel.app
 toplu-konut-projesi-toki-gov-tr.ph
 toplu-konut.gravitycl.app
 toplukonu5391282121.vercel.app
+toplukonut-toki.gravitycl.app
 toplukonut0701455346.vercel.app
 toplukonut122142151.vercel.app
 toplukonut1251251.vercel.app
@@ -13241,7 +13234,6 @@ uyapeihale.com
 uyapgib.org
 uyapgibgiris.org
 uyapgiris.com
-uyapgov.org
 uyapportalin.vercel.app
 uyaptalimat.org
 uyapteblig.org
@@ -13768,7 +13760,6 @@ wwwwwxxxxxxssw.duckdns.org
 wxswwxxxxw.duckdns.org
 x00v9c9923jjk3.cfd
 x12lksalclcl123x1ksc.lat
-x12lksalclcl123x1ksc.sbs
 x13kkaskckl123x123.cyou
 x13kkaskckl123x123.sbs
 x13kkaskckl123x123.shop
@@ -14029,7 +14020,6 @@ yatirim.oykportfolio.online
 yatirimblogu.com
 yatirimci-merkezi.com
 yatirimci-merkezi.net
-yatirimfinansmanmenkuldegerler.net
 yatirimmerkeziinfo.net
 yatirimnotu.world
 yatirimrehberi.site
