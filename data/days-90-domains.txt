@@ -11336,7 +11336,6 @@ suitroom.bond
 sukarcas.shop
 sulnaro.gifts
 sultanscopextur.cyou
-sumeroxadi.gifts
 summeredition.xyz
 summitdeclaration.org
 superfirsatlar.xyz
