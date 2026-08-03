@@ -2869,6 +2869,7 @@ garaktifmenusu.duckdns.org
 garandibasvru.cfd
 garanti-bank-bireysel.ph
 garanti-bankasionline.ph
+garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-kredi-basvuru.sbs
@@ -7520,6 +7521,7 @@ sorsucgce.net
 sorucenaosm.freeddns.org
 sorumlular-verilentr.garden
 sosuwen.shop
+sosyalkonut-toplukonut.vercel.app
 sosyalkonutbasvurular.cfd
 sosyalxzmetleremeklicn.xyz
 sosylbasvurugovtr.sbs
@@ -7730,6 +7732,7 @@ tamamistanbulo.co
 tamamla-sip.com
 tamamla-sipars.com
 tamamladim.click
+tamamlayan-dahafazla.ink
 tamammarket.click
 tamelix.vu
 tamelora.com
