@@ -5694,6 +5694,7 @@ garanti-acc.myonlineportal.ch
 garanti-b-b-v-a.my-homeip.de
 garanti-bank-bireysel.ph
 garanti-bankasionline.ph
+garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-kredi-basvuru.sbs
 garanti-kredi-basvurusu.sbs
@@ -5864,7 +5865,6 @@ gerdelerdesess.duckdns.org
 gereatas.nicepage.io
 geri-bildirim.biz
 geri-bildirimler.ink
-geri-dnk-islemleriniz.click
 geridnk-sorogreniniz.sbs
 geriislemmerkezi.site
 geriyedogru-ktekrani.click
@@ -9051,6 +9051,7 @@ kmpnyaaaprmsynnncklssssss.click
 kmpnyaaaprmsynnncklssssss.info
 kmpnyaabsvrrfrstlarrrrbsvrr.art
 kmpnyaabsvrrfrstlarrrrbsvrr.live
+kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyaabvvrrsprmsynn.art
 kmpnyaabvvrrsprmsynn.info
@@ -9567,6 +9568,7 @@ likeboop.com
 likemojo.com
 likid-write-logrnol.myonlineportal.ch
 likihigidese-derepiluyu.lol
+liksaderese-zeredesede.lol
 lilacspire.com
 lilhzvkpsmxn.icu
 lilipoliposideferszede.xyz
@@ -11734,8 +11736,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -17048,7 +17050,6 @@ vanzelo.gifts
 vapi.take-more.cfd
 vareno.xyz
 varionexdigital.com
-varliksorgu.com
 vasarat.click
 vasdeli.boats
 vaskelon.live
@@ -18112,6 +18113,7 @@ yolweb.guru
 yonelen-zaman.click
 yonl3ndirilidiorusunizi.duckdns.org
 yonlen-artik-310131.com
+yonlen-toplan-security.ink
 yonlen.duckdns.org
 yonlendeiiyonuz7290012.duckdns.org
 yonlendieiliyorsunuzi2334.duckdns.org

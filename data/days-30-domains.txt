@@ -1349,6 +1349,7 @@ gallerybox.pics
 gallerymission.com
 gameguy.neocities.org
 garandibasvru.cfd
+garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti.3w17.com
 garanti.vva8.com
@@ -1762,7 +1763,6 @@ hizli-online-islemler.com
 hizli-siparis-baglanti.com
 hizli-siparis-linki.com
 hizli-siparis-onaylama-baglantisi.com
-hizli-siparis-sayfasi.com
 hizligecisbakiyesistemi.firebaseapp.com
 hizligecisbakyeyuklme.web.app
 hizligecisetiketiniz.firebaseapp.com
@@ -2132,6 +2132,7 @@ kmnnpyybsvrrprmsynnfrstlllrr.pro
 kmp-gfirsttlrr.xyz
 kmpnnnyaabsvrrsnnnfrsltar.info
 kmpnnnyaabsvrrsnnnfrsltar.pro
+kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyacpttbgrs.com
 kmpnyprmssyncklssssss.live
@@ -2220,6 +2221,7 @@ lib.evsahibibasvuru.com
 license.claude-pro.com
 lifescapehub.com
 likihigidese-derepiluyu.lol
+liksaderese-zeredesede.lol
 lindacarmical.com
 lindarentacar.com
 linkstrdizayn.online
@@ -4231,6 +4233,7 @@ yolculuk.obilet-mobil.uk
 yolcurentacar.net
 yolweb.guru
 yonelen-zaman.click
+yonlen-toplan-security.ink
 yonlendiren-stafy.ink
 yonlendirme-security.ink
 yonlenim-securitytr.garden
