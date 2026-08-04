@@ -565,7 +565,6 @@ a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
 a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
 a-101-extra-sadece-online-ozel-mobil-tr.bilgi-mobil-shop-ozel-tr.sbs
 a-101-extra-sadece-online-ozel-mobilde-tr.shop-tr-online-mobil.site
-a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs
 a-101-extra-sadece-online-ozel-tr.online-tr-shop-mobil.sbs
 a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
@@ -1049,7 +1048,6 @@ api.eth-fastscan.org
 api.garantibbvakredibasvuru.com
 api.kali365.xyz
 api.masscan.cloud
-api.ra-backup.com
 apigrokcloud.icu
 apiluma.bond
 apl-gc.pages.dev
@@ -1442,7 +1440,6 @@ basvurlarabasladi.cloud
 basvurrvn.sbs
 basvursenc.sbs
 basvursend.sbs
-basvursendem.sbs
 basvursender.com.tr
 basvursenders.sbs
 basvursendes.com.tr
@@ -2434,7 +2431,6 @@ cepte-sok.shop
 cepte-sokindirim.rf.gd
 ceptehabaerglobalim.shop
 ceptehizlimenulerss.store
-ceptelinks-tr-mobil-tr.online
 ceptep-basvurularonline.myonlineportal.de
 ceptepromosyon.my-homeip.de
 ceptesok.guncelfirsatiniz.com
@@ -2829,6 +2825,7 @@ datasphere.us.com
 datolabndsaxzd.xyz
 dava-dosya.click
 davabirimi.org
+davadosyasorgu.com
 davadurum.org
 davaeavukat.org
 davakontrol.org
@@ -3239,9 +3236,7 @@ e-ilan-online-alisveris-sepetim.com
 e-ilan-online-alisveriz-sepetim.com
 e-islemler-online-saglik.com
 e-islemler-online-sagliklar.com
-e-merkeziletisimmhrs.digital
 e-mhrs.digital
-e-mhrsdijitalmerkezl.digital
 e-mhrsilesagligakos.digital
 e-mhrsilesagliikliia.digital
 e-mhrsilesagliklibakislar.digital
@@ -3338,6 +3333,7 @@ efsane1o1kmpnyalartukenyr.shop
 efsanebayramfirsatlari.com.tr
 efsanefirsatlartektikla.com
 efsanefrstlarburdakpnda1o1.shop
+efsanefrstlarkapinizda1o1.shop
 efsanehaziranlndrmi.com
 efsaneleryeniden.beer
 efsanelndldlrmlvaktlerl.com
@@ -4073,6 +4069,7 @@ garanti-bank-bireysel.ph
 garanti-bankasionline.ph
 garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
+garanti-bonus-cepte-com.duckdns.org
 garanti-bonus-islemler-com.duckdns.org
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-kredi-basvuru.sbs
@@ -4216,7 +4213,6 @@ gennora.site
 gennora.store
 genomefrontier.capital
 genovixworld.com
-geod-l-g-r-n-l-t.myonlineportal.ch
 geralnewlong.com
 gerasfdtjeagh.duckdns.org
 gercekrealistsa.remotewire.net
@@ -6148,7 +6144,6 @@ k9mvx2r7q.cfd
 kacirimayacakpaslanmazcelik.sbs
 kacirmadanalhemenkapinda.xyz
 kacirmadangelkapinda.com
-kacmayanblb-9h3e.vercel.app
 kacmazfirsatlar.shop
 kacnakolcvama.xyz
 kacsklx1jkl23kxklsadcas13x12.click
@@ -6550,6 +6545,7 @@ kmogretici-bilgilendiriciler.firebaseapp.com
 kmogretici-bilgilendiriciler.web.app
 kmp-gfirsttlrr.xyz
 kmpanya-katilim.cfd
+kmpanyasa.dnsup.net
 kmpnnnyaabsvrrsnnnfrsltar.info
 kmpnnnyaabsvrrsnnnfrsltar.pro
 kmpnyaaabsvrrrprmsynnn.info
@@ -6564,6 +6560,7 @@ kmpnyaaaprmsynnbsvrrrfrstlr.site
 kmpnyaaaprmsynnbsvrrrfrstlr.xyz
 kmpnyaaaprmsynnncklssssss.click
 kmpnyaaaprmsynnncklssssss.info
+kmpnyaabsvrr12531.online
 kmpnyaabsvrr12531.pro
 kmpnyaabsvrrfrstlarrrrbsvrr.art
 kmpnyaabsvrrfrstlarrrrbsvrr.live
@@ -7001,6 +6998,7 @@ lkkredi.cfd
 lklink.click
 lkrediler.cfd
 llklfgkflkvvd.nicepage.io
+lllprdannndandan.com
 lmrsrandevu-3a5060ee327b.herokuapp.com
 lnatlanlatn.net
 lnbnsnanrdenttldm.shop
@@ -7632,7 +7630,6 @@ mlhlrosralndevu.shop
 mlhrsrandelu2.sbs
 mlyna38393.click
 mmhhrhhrhrrs21.sbs
-mmhhrhhrhrrs45.sbs
 mmhhrhhrhrrs46.sbs
 mmhhrhhrhrrs47.sbs
 mmhhrhhrhrrs50.sbs
@@ -9547,7 +9544,6 @@ r7mvjl67.space
 r7vx2m.cfd
 r99sadhashdh9asdhahsdsk2.click
 r9m2p6w4k8n1.sbs
-ra-backup.com
 racestrech.info
 radio.evsahibibasvuru.com
 raf3134sadacjj1x3jk1jk23x12.shop
@@ -9618,7 +9614,6 @@ randevuhzimetbudsd.store
 randevuhzmtlerburdsas.store
 randevuislemleribdusa.online
 randevuislemleribdusa.store
-randevuluguncere.com
 randevulugunlerburada.duckdns.org
 randevuluzamanninicin.net
 randevunuzu-goruntuleyin.com
@@ -9626,7 +9621,6 @@ randevunuzubelirlenin.com
 randevunuzubelirleyin.com
 randevunuzugoruntu.com
 randevunuzugoruntuyin.com
-randevunuzuogreni.com
 randevunuzuogrenin.com
 randevup-rtali.duckdns.org
 randevup0rtal.duckdns.org
@@ -9949,6 +9943,7 @@ sadfsafsda230203mk.net
 sadkjhsdakjhsadkjh.com
 sadmsakfdmskqfdfflflfl.net
 sadsosa1o1onlsfy.blogspot.com
+safasfgqqq.sbs
 safe-picvault.info
 safedoc-storage.info
 safedoc-vault.info
@@ -10159,7 +10154,6 @@ satir-web.ink
 satiskapinda.com
 satiskontrol.com
 savcilikhukum.org
-savjsjtnkemmdj129.cfd
 savorlibr.digital
 saxasaxasxasx2.cfd
 saxasdasfagfaf1.cfd
@@ -11612,6 +11606,7 @@ trendyol-baglanti-ile-satin-al.com
 trendyol-ile-baglanti-tamamla.com
 trendyol-mall.biz
 trendyol-mall.online
+trendyol-siparistamamla.com
 trendyol.ilanservis-odemen.online
 trendyol.mobilservisin-24.sbs
 trendyol0-1029.l3v0.my
@@ -13243,7 +13238,6 @@ ziraa-t-bireysel-giris-yap-internet.my-homeip.de
 ziraa-t-giris-yap-mobil-bank.my-homeip.de
 ziraabasvu.nicepage.io
 ziraat-bankas-ai.sbs
-ziraat-bonus.com
 ziraat-kampanyalar-basvurularin.vercel.app
 ziraat.bkasionline.com
 ziraatbank-kolaybasvurlar.vercel.app
@@ -13310,6 +13304,7 @@ zortlata.ezpizi.click
 zosssdal.click
 zosuus.website
 zrat-ggeris.cfd
+zratatsatsa.cfd
 zrkaat-griss.cfd
 zrnxcnd34xak.cfd
 zrplus300.cfd
@@ -13323,6 +13318,7 @@ zrt300zrt300.sbs
 zrt300zzrtt.sbs
 zrtdijital.sbs
 zrtkmprnsyz.click
+zrtytrak.nicepage.io
 zsafdsaghfdassax.sbs
 zsaxsadsadssax.sbs
 zt93mx87zr300cxa.cfd
