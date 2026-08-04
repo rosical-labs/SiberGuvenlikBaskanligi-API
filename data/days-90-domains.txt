@@ -29,6 +29,7 @@
 0x666.info
 0xvona.duckdns.org
 1-82-brdanrdval.com
+1-82rvdnlrdanbndansn.com
 10-06-2026bntr.duckdns.org
 10-06-2026dogrulama.duckdns.org
 10-06-2026kampanyam.duckdns.org
@@ -554,9 +555,12 @@ a-101-extra-mobil-sadece-online-ozel-siparis-tr.online-mobil-shop-tr.com
 a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site
 a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
+a-101-extra-sadece-bugune-ozel-indirimler-mobilde.ekstra-tr.online
 a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click
 a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com
 a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
+a-101-extra-sadece-bugune-ozel-sepette-tr.pay-tr.online
+a-101-extra-sadece-mobile-ozel-sepette-indirim-tr.sepette.online
 a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
 a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
@@ -882,7 +886,6 @@ al-rndev-smdi-hemen.duckdns.org
 alabamarecoverycenter.com
 alabid234.github.io
 alacatibeachsresort.com
-aladeniz.com
 alarm-taslagi.garden
 albayquery.space
 alburdan.shop
@@ -1009,7 +1012,6 @@ ankaraindirimx.com
 ankaralunex.com
 ankarameclisqivo.com
 ankaranest.life
-ankaranews24.com
 ankaranimetva.com
 ankarapulse.cyou
 ankarapusula.live
@@ -1562,14 +1564,12 @@ baykarinvestment.org
 baykaritalia.shop
 baykarledger.info
 baykarmtal.com.ph
-baykarnetwork.info
 baykarnews.gifts
 baykarpetrol.com
 baykarplatform-system.com
 baykarprogram.com
 baykarpulse.info
 baykarspprt.com
-baykarssystems.info
 baykartb2.com
 baykartb3.com
 baykartceh.com
@@ -2280,6 +2280,7 @@ c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev
 c.windowsk-cdn.com
 c2.saintpetersburgresident.ru
 c2.tralalarkefe.com
+c2qv9xrh7mzk4ptw6jyniii.click
 c5v2t8k6n1w9.sbs
 c8q1r4x7p9m3.cfd
 cabalakosturkaltak.sbs
@@ -2528,7 +2529,6 @@ clickonix.media
 clickrova.info
 clicksahibiananizisever.sbs
 clicktk.com
-client-services.shop
 client.ncm-invest.com
 climatewatchnepal.com
 clinicly.gifts
@@ -4580,7 +4580,6 @@ guvendeilesatinal.com
 guvendekal.online
 guvendeticaretlerim.site
 guvendeticaretlerim.store
-guvenilirsaticisi.online
 guvenilirsorgupaneli.fun
 guvenilirsorgupaneli.xyz
 guvenli-odeme-yap.xyz
@@ -5610,6 +5609,7 @@ ilan-havale-odemesi.com
 ilan-magaza.com
 ilan-paramguvende.online
 ilan.hizmet-islememleri.com
+ilandan-fast.com
 ilandetay-jet.com
 ilanim-fast.com
 ilanim-onay-762211.com
@@ -7811,7 +7811,6 @@ mslraktivhemen.uk
 msopsa.top
 msshrdkevu.com
 msshrrdkevu.com
-mswoqh.click
 mtmediareach.com
 muayenesislemleri.sbs
 mubarekdays.yyuyy.com
@@ -7866,7 +7865,6 @@ muzeportali.click
 muzesitesi.com
 muzeziyaret.click
 mvduatw221xe2.duckdns.org
-mvlsvlslvs100.sbs
 mvlsvlslvs102.sbs
 mvlsvlslvs103.sbs
 mvsdnyrsnds-tnysds.com
@@ -8466,6 +8464,7 @@ optionhubs.store
 optionlabs.site
 optionlabs.store
 optixauvex.us
+optryza.com
 opzkklid.cfd
 oralet.nicepage.io
 oraletene.nicepage.io
@@ -8708,6 +8707,7 @@ paribu.coinsecimi.co
 paribu.hesap-guvenligi.com
 paribuaraba-hediye.com
 paribuaraba-sansi.com
+paribuaraba-sansi.info
 paribuaraba.com
 paribuaraba2026.com
 paribuarabaavantaj.com
@@ -8784,6 +8784,7 @@ paribucekilisim.co
 paribucekilisleri.com
 paribucevirkazan.com
 paribuhediyelicark.com
+paribuhediyelicekilisi.com
 paribukazancarki.com
 paribuodul.com
 paribuodulcarki.com
@@ -8853,6 +8854,7 @@ pazarama.hizlionline.com
 pazarama.ilan-havale-odemem.com
 pazarama.ilan-havale.com
 pazarama.ilan-magaza.com
+pazarama.ilandan-fast.com
 pazarama.indirimsepetinde.com
 pazarama.islemcepte.com
 pazarama.magazada-online.com
@@ -9189,7 +9191,6 @@ promsyon-isbank.bounceme.net
 promsyonvakti.cfd
 promvio.media
 prosearium.net
-protechnicalnews.com
 protect-wss.com
 proton-network.com
 provector.business
@@ -10979,6 +10980,7 @@ takla.click
 taklasin.click
 taklidimduzene.click
 taktik-operational.ink
+talentedwhispering.com
 talentnexhr.ink
 talep-ziraatbank.vercel.app
 talepalma.online
@@ -11678,6 +11680,7 @@ trkatad.nicepage.io
 trkkffkfs.cfd
 trlandmark.pro
 trmaliceza.org
+trmaliyehazine.org
 trmasakbinancedogrulama.duckdns.org
 trmasakportal.com
 trmasakportal.org
@@ -12153,7 +12156,6 @@ uzlasmasorgu.com
 uzlasmasorgutr.com
 uzlasmatalimat.org
 uzlasmauyap.net
-uzmandiploma.com
 uzmanislmnkta.net
 uzumm-market-online.xyz
 v2.kali365.xyz
@@ -12277,6 +12279,7 @@ verify-akbank.testyourphishing.com
 verify.federal-docviewer.com
 verifyaccesspoint.com
 veritonixmedia.com
+verityluxenova.com
 verolumi.pro
 vertexlabd.info
 vertexserp.info
