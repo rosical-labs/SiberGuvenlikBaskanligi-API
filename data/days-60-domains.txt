@@ -150,6 +150,7 @@
 2124552556555698.duckdns.org
 2124552556555699.duckdns.org
 2134830028840.duckdns.org
+21455452222255899891.duckdns.org
 21461sndmsndsasd.com
 21alsdcjkweqwez123.cfd
 2222210x0x022gh.duckdns.org
@@ -369,6 +370,7 @@ a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
 a-101-sadece-bugune-ozel-mobil.online-tr-shop-mobil.site
+a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com
 a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
 a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
 a.101onlinesiparis.duckdns.org
@@ -412,7 +414,6 @@ a1o1alisverisaldinaldin.duckdns.org
 a1o1alsn.duckdns.org
 a1o1br.duckdns.org
 a1o1burada.duckdns.org
-a1o1burasi.duckdns.org
 a1o1burdanal.duckdns.org
 a1o1caydanl.duckdns.org
 a1o1de.blogspot.com
@@ -1389,7 +1390,6 @@ brempak.surf
 brempax.capital
 brempo.org
 brgninvesttr.com
-brickmilo.com
 bridge-star.cfd
 briefcurrent.top
 briefom.com
@@ -2777,7 +2777,6 @@ frstlarrrkmpnyabprmsynnbsvr.live
 frstlllrrkmnnpyybsvrrprmsynn.info
 frstllrrrkmpnyaabsvrrr.info
 frstllrrrkmpnyaabsvrrr.pro
-frstlrkmpnyssbsvrrrprmoo.info
 frstlrprsmynnkmpny.art
 frstlrprsmynnkmpny.pro
 frstlrrbsvvrrrprsmynnn.click
@@ -2843,6 +2842,7 @@ garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-bonus-cepte-com.duckdns.org
 garanti-bonus-islemler-com.duckdns.org
+garanti-bonus-islemler-com.duia.ro
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-kredi-basvuru.sbs
 garanti-kredi-basvurusu.sbs
@@ -5901,8 +5901,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -8943,6 +8943,7 @@ wqdx12x1.rest
 wravio.info
 wrwgwgs.xyz
 ws.182iletisim.cyou
+wsb-tapsverndvun.net
 wtw252s-wrw5tww.xyz
 wututuututu.nicepage.io
 wwdx23b3.duckdns.org
