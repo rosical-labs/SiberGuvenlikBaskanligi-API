@@ -1207,6 +1207,7 @@ bigniggadick.ignorelist.com
 bilgi-mobil-shop-ozel-tr.click
 bilgidosyasi.com
 bilgikayit.abrdns.com
+bilgilendirme-merkezi.sbs
 bilgilendirme-tr.online
 bilgilendirmearayuzu.abrdns.com
 bilgilendirmesayfasi.misecure.com
@@ -4377,6 +4378,7 @@ kargotakip.ptt.com.sistemi.biz.tr
 karikatur-line.click
 karisik.click
 karmab.nicepage.io
+karmavotogalerist.duckdns.org
 karovexim.com
 karsepti.gifts
 kartalreklam845.duckdns.org
@@ -7899,7 +7901,6 @@ thisisgiveeverytime.xyz
 thlink.click
 thnkziraatg.cfd
 thomphon.com
-thykampanyalari.cyou
 thykampanyalari.rest
 ticaretbakanligidestek.click
 ticaretdestekleri.click
@@ -9515,5 +9516,4 @@ zyvanta.pro
 zzasdsacxasasdfa.sbs
 zzirfhd.cfd
 zzshops.top
-zzzxxsadadxasr-tkjk.cyou
 zzzzzzzzzza.cfd
