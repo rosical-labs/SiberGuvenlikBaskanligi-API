@@ -966,7 +966,6 @@ deniz-mobil-com-promosyonn-giriss.duckdns.org
 deniz-mobil-com-promosyonn-usom.duckdns.org
 deniz-mobil-com-promosyonun-aninda.duckdns.org
 deniz-mobil-com-promosyyon-aninnda.duckdns.org
-deniz-mobil-com-promosyyon-ceptenn.duckdns.org
 deniz-mobil-com-promosyyon-direkt.duckdns.org
 deniz-mobil-com-promosyyon-fast.duckdns.org
 deniz-mobil-com-promosyyon-giriss.duckdns.org
@@ -979,6 +978,7 @@ denizontvt.net
 denizselseyler.co
 denklemweb.casa
 denmktve.net
+depremzeminsorgulama.com
 designmind.shop
 designvexa.com
 destekcimyardim.com
@@ -1224,6 +1224,7 @@ extranet.evsahibibasvuru.com
 extrashoot.cfd
 ezpizi.biz
 f8x1p4z7m9q2.cfd
+facebook--login-security.ph
 facebook.evsahibibasvuru.com
 fahrettindanizmansert.com
 faktor-edilgen.guru
@@ -1342,6 +1343,7 @@ gallerybox.pics
 gallerymission.com
 gameguy.neocities.org
 garandibasvru.cfd
+garanti-basvuru-bonus.mayddns.com
 garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-bonus-cepte-com.duckdns.org
@@ -1896,9 +1898,11 @@ indirimgunleri-temmuzda.click
 indirimgunlukleriqx.sbs
 indirimli-fiyatlar-tr.online
 indirimli-sepet-mobilde-tr.online
+indirimsonfrstt.dnsup.net
 indrmli-149luk-gunler.sbs
 infoyatirimmerkezi.net
 infyra.online
+ingbank-online-kampanya.ph
 ingbanktrwebsube.ph
 inherittaxpapers.site
 insightbasehq.com
@@ -1967,8 +1971,10 @@ istemredo.xyz
 istengelenler.shop
 istkkartttbelggim.xyz
 istkkartttbelggimm.xyz
+istkrdabadss.duckdns.org
 istlbkrtlabsvrla.com
 istnbannlkrt.com
+isube-kuveyttt.duckdns.org
 isube-qnbfinansbankasi.ph
 it.evsahibibasvuru.com
 ivdesube.com
@@ -2487,6 +2493,7 @@ mobilcep-erisim.my-homeip.de
 mobilcepdenportal.myonlineportal.de
 mobilden.myonlineportal.de
 mobildeyiz.myonlineportal.de
+mobile-akbank-basvurum.github.io
 mobilentry.my-homeip.de
 mobilerism.myonlineportal.de
 mobilservisin-10.sbs
@@ -2763,7 +2770,6 @@ otokoctturkiye.com
 otokocturkey.com
 otokocturkiye.org
 otokocturkiyefilo.com
-otoplus-arac.com
 otoplusaracal.com
 otoplusaracim.com
 oturum-isleyis.work
@@ -2793,7 +2799,6 @@ paramguvende.tr-siparisonay.online
 paravon.capital
 paribu--arabacekilisi.com
 paribu--arabam.com
-paribu--technology.com
 paribu-araba-cekilisi.ooguy.com
 paribu-araba-cekilisi.opik.net
 paribu-araba-kazan.com
@@ -2818,7 +2823,6 @@ paribu-pepe-cekilisi.link
 paribu-pepe-cekilisi.remotewire.net
 paribu-pepehediyem.link
 paribu-sansliaraba.com
-paribu-technology.com
 paribu.com.co
 paribuaraba-burada.com
 paribuaraba-burada.link
@@ -3155,6 +3159,7 @@ s.orove.cn
 s0kmalrlet.shop
 s0kmarjklet.shop
 s0kmarklemler.com
+s0kmarkletlt.com
 s0kmarklkerler.com
 s0kmarkot.shop
 s0kmarkretler.com
@@ -3327,6 +3332,7 @@ seyimacidi.duckdns.org
 sfjalsflasfaksflkasflkasfljafkasfjasl.sbs
 sgk-euravisionix.forum
 sgk-marmaranexis.buzz
+sgkhizmetdokumu.ph
 shadoworkz.info
 shakelife.cfd
 sharedinsight.info
@@ -3495,6 +3501,7 @@ stretar7.contabilfacil.sbs
 stuffdns.in
 stylexa.run
 sube-kuveyt-mobilturk.duckdns.org
+sube-kuveyt-ttr.duckdns.org
 sube-kuveyt-turk.duckdns.org
 sube-matriksmenkulkiymetler.com
 sube.sekermenkul.com
@@ -3635,7 +3642,6 @@ time.evsahibibasvuru.com
 timewebnet.in
 tioagliea.net
 tiogleon.com
-tiriipsec.net
 tirtiillkelebekvadisi.duckdns.org
 tj.tajikistandip.com
 tjskxlkhz8kaxa.cfd
@@ -3701,6 +3707,7 @@ trendico.courses
 trendoria.pro
 trendrally.online
 trendvista.site
+trendyol-ekargo-4000.netlify.app
 trendyol-siparistamamla.com
 trendyol-siparistamamla.com.tr
 trendyol.mobilservisin-24.sbs
