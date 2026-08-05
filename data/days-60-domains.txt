@@ -440,7 +440,6 @@ a1o1kampanyalarii.duckdns.org
 a1o1korkmazfirsatlari.blogspot.com
 a1o1korkmazkampanya.blogspot.com
 a1o1por.duckdns.org
-a1o1simdi.duckdns.org
 a1o1simdiaktuel.duckdns.org
 a1o1taktak.duckdns.org
 a1o1zzytin.duckdns.org
@@ -5382,6 +5381,7 @@ mobilservisleriniz-5.sbs
 mobilseyehatisleml.duckdns.org
 mobilsubem.myonlineportal.de
 mobilsubemiz.myonlineportal.de
+mobilsubeniz.my-homeip.de
 mobiltalepfirsati.duckdns.org
 mobilweb-hat-grn.casa
 mobim-liter-y.myonlineportal.ch
@@ -5806,6 +5806,7 @@ online-hizmet-islem.com
 online-hizmet-islemi.com
 online-islemlerim.com.tr
 online-islemnktansa.net
+online-kredi-onay.cloud
 online-kuveytmobil.duckdns.org
 online-ozel-siparis.online
 online-shop-bireysel-tr.site
@@ -5916,8 +5917,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
