@@ -2889,6 +2889,7 @@ garandibas.cfd
 garandibasvru.cfd
 garanti-bank-bireysel.ph
 garanti-bankasionline.ph
+garanti-basvuru-bireysel-com.webredirect.org
 garanti-basvuru-bonus-islemlerim.mayddns.com
 garanti-basvuru-bonus.mayddns.com
 garanti-bireysel-basvurular-com.webredirect.org
@@ -4718,7 +4719,6 @@ koveyt-tork-net.duckdns.org
 koveyt-turk-org.duckdns.org
 koveyttork.online
 koveyttorkiye.duckdns.org
-koveytturk.duckdns.org
 koveytturkile.duckdns.org
 koveytturkumre.duckdns.org
 koveytturkumreseyehat.duckdns.org
@@ -5978,8 +5978,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6857,6 +6857,7 @@ rafac123lx123klx123z1.cfd
 rafadantayfa13x123x1312.sbs
 rafaekkcjsakax123.cfd
 rafael13jxk12kjxkaskdas.cfd
+rafaelcimxd.duckdns.org
 rafaeldyidenqz.duckdns.org
 rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
