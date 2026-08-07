@@ -5981,8 +5981,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7672,7 +7672,6 @@ sozlesmeler.kurumsal-online-islem.com
 sozlesmeniz-sahibinden.kurumsal-online-islem.com
 sozlesmeotokoc.com
 sozlesmepolice.net
-sozlesmepoliceniz.sbs
 spalirm.vu
 spaseburs.art
 spasopro.at
