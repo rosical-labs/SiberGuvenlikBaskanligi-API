@@ -118,6 +118,7 @@
 2baserec2.guru
 2t24.my
 2tammuzdasiparislerinde.cloud
+312221222145558999891.duckdns.org
 312222545548789988990.duckdns.org
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
@@ -467,7 +468,6 @@ balerdenmased.duckdns.org
 bambaska.casa
 banabakarifdabi.sbs
 bananafastfile.com
-bancaporinternetbbmx.online
 bankamizsizinle.com
 barqenix.cyou
 basitdom.click
@@ -516,7 +516,6 @@ baykar-invest.click
 baykar-invest.web.app
 baykar-platformu-pro.pages.dev
 baykar-software.com
-baykar-tr.news
 baykar-tr2024.com
 baykar-turkish.com
 baykarajans.info
@@ -585,7 +584,6 @@ binatolme.pro
 biocircuit.capital
 biocircuitlab.com
 bireysel-akmobil-cepte-com.duckdns.org
-bireysel-iade-halkbank.ph
 bireyselsiparis.com
 bireyselsubehalkbank.com.ph
 birgulususebepolur.sbs
@@ -923,6 +921,7 @@ demlenedemlene.sbs
 demlervedemlikbizimisimiz.sbs
 demyurt-qanupore.lol
 denemebendes.duckdns.org
+deniz-mobbll.duckdns.org
 deniz-mobil-bireysel-com.duckdns.org
 deniz-mobil-com-cepte-basvuru-ekrani.duckdns.org
 deniz-mobil-com-promosyonn-cebimde.duckdns.org
@@ -1053,7 +1052,6 @@ e-devlet-turkiye-ssk-prim-sorgu.blogspot.com
 e-devletana.com.ph
 e-devletinvest.digital
 e-devletresmituvturk.site
-e-devletteniadelerrgerigeldi.com.ph
 e-elektronik-firsat-sepetimiz.com
 e-ilan-elektronik-sepetimiz.com
 e-ilan-elektronik-siparisim.com
@@ -1186,7 +1184,6 @@ etuv-turkl.digital
 euyapuzlasma.org
 euzlasmasorgu.org
 euzlasmatalimat.org
-euzlasmateblig.org
 evatandas.org
 evdeis-cagrimerkezi.online
 eventura.info
@@ -1276,7 +1273,6 @@ fiyuukurye.com
 fjellstottfinans.com
 fkelderdedsla.duckdns.org
 flakecheck.online
-flashforward.longviews.ai
 flashledger.top
 flavorlino.com
 flbayatirim.com
@@ -1742,6 +1738,7 @@ hmneislemnktasi.net
 hmnenislemnoktas.net
 hmnilsmkntans.net
 hmnislemnoktnasn.net
+hmnislmnktasni.net
 hmnislmnktnasnn.net
 hmnsamnsansamhsahsasnmsamn443.sbs
 hmnsanmashsnmshasnmasmhasnms.fwh.is
@@ -2065,6 +2062,7 @@ kilit-entry.biz
 kilometre-sonuclarinizi-ogrnn.web.app
 kilometre-sonuclarnzi-ogrnin.web.app
 kilometre-verilernzi-ogrenin.web.app
+kilometrogrenin.web.app
 kirmizibasliklipose.duckdns.org
 kirmizibasliklitirtil.duckdns.org
 kisa-edinim.guru
@@ -2249,7 +2247,6 @@ magazadan-odeme.com
 magazadan-odemem.com
 magazamda-ilanim.com
 magazanizagelenfirsat.click
-magelan-nato.net
 mahkemebirim.org
 mahkemeceza.com
 mahkemeceza.org
@@ -2263,7 +2260,6 @@ mail.862413415907186110.duckdns.org
 mail.adayislem.com.tr
 mail.avskocfilo.net
 mail.evsahibibasvuru.com
-mail.magelan-nato.net
 mail.otokocfilo.net
 mail.tuvturkmuayene.duckdns.org
 mainoptionsllc.com
@@ -2437,6 +2433,7 @@ mobildeyiz.myonlineportal.de
 mobile-akbank-basvurum.github.io
 mobilentry.my-homeip.de
 mobilerism.myonlineportal.de
+mobilhimztlerimlerde.duckdns.org
 mobilservis-43.sbs
 mobilservisin-10.sbs
 mobilservisin-15.sbs
@@ -2476,6 +2473,7 @@ msfconfig.icu
 mslearn.online
 muayenenyaninda.com
 mufasnasfanas.sbs
+mufgfinance.net
 muguhudue-redesetre.lol
 muhguferedese-asdsede.lol
 muhugudu-polililili.lol
@@ -2558,6 +2556,7 @@ nimetistanbul.net
 nmwcspraseves.sbs
 node.androiddebugbridge.su
 nonoestlerkest.duckdns.org
+nopanel-36672.top
 nopanel-85434.top
 noreplaydestekbinance.com
 normalmesafe.live
@@ -2729,6 +2728,10 @@ paribu-arababurada.com
 paribu-arababurada.link
 paribu-arabacekilisi.com
 paribu-arabahediye.com
+paribu-arabahediyem.com
+paribu-arabahediyem.info
+paribu-arabahediyen.com
+paribu-arabahediyen.info
 paribu-arabakazan.com
 paribu-arabakazanma.com
 paribu-arabakazanma.info
@@ -2736,6 +2739,8 @@ paribu-arabakazanma.link
 paribu-arabasansi.com
 paribu-arabasansi.info
 paribu-arabasansi.link
+paribu-arabayakala.com
+paribu-arabayakala.info
 paribu-buyukcekilisi.com
 paribu-cark-cekilisi.opik.net
 paribu-cark-hediye.com
@@ -2775,6 +2780,8 @@ paribuaraba-kazanma.link
 paribuaraba-sansi.com
 paribuaraba-sansi.info
 paribuaraba-sansi.link
+paribuaraba-yakala.com
+paribuaraba-yakala.info
 paribuarabacekilisikazan.com
 paribuarabahazinesi.com
 paribuarabahediyem.com
@@ -2786,9 +2793,12 @@ paribuarabasansin.com
 paribuarabasurprizi.com
 paribuarabatalihlisi.com
 paribubuyukcekilisi.com
+paribucark-alhediye.info
 paribucark-burada.com
 paribucark-burada.link
 paribucark-cevir.com
+paribucark-hediye.info
+paribucark-hediye.link
 paribucark-hediyesi.com
 paribucark-kazan.com
 paribucark-kazanci.com
@@ -3214,7 +3224,6 @@ sayayaya.duckdns.org
 sayayayaya.duckdns.org
 saydimsenikalbime.duckdns.org
 sbogovtr.com
-scaletoki.site
 scoopova.info
 screenly.cam
 scriptlydev.com
@@ -3284,7 +3293,6 @@ showpulsera.net
 sicilmahkeme.org
 sidisncis.com
 simdi-40binpromsyonmo-burdan.cfd
-simdidebirazburdan.yyuyy.com
 simdilikgelenlerburada.com
 simdissenalimyapal.cloud
 sinirlisayidaurununuz.sbs
@@ -3436,6 +3444,7 @@ sube-kuveyt-ttr.duckdns.org
 sube-kuveyt-turk.duckdns.org
 sube-matriksmenkulkiymetler.com
 sube-mobilkvyt.duckdns.org
+sube.mufgfinance.net
 sube.sekermenkul.com
 subeislemlerim-akbank.ph
 subemiz-garanti.myonlineportal.eu
@@ -3525,6 +3534,7 @@ tekfirsatsponsorlurklam.com
 tekgirismrt2025.com
 teklifgoruntule.abrdns.com
 teklifigoruntule.abrdns.com
+teknosakz.com
 tekoas.com
 tektiklasponsorlureklam.com
 tektiklasponsorlureklamm.com
@@ -4120,6 +4130,7 @@ yilmaz-ticaret-ile-siparisini-tamamla.com
 yilmaz-ticaret-ile-siparisinizi-tamamlayiniz.com
 yilmaz-ticaret-motor-ile-siparisi-tamamlayiniz.com
 yklasmdsantskenas.online
+yklemesrguu.cfd
 yklmehgszmnpra.cfd
 ymdreferans.online
 ynlendirbrnkrkmdyivlasi.duckdns.org
