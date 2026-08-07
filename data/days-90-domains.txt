@@ -2357,7 +2357,6 @@ caymakinesi-aktuel.lat
 cc0c0c302as23.duckdns.org
 ccc232131x213.duckdns.org
 cccad9f0-3.b-cdn.net
-ccddrjgnmarkt.shop
 ccistiom.xyz
 ccnsksndnsndnsadasa.com
 cdn.erpsaz.com
@@ -3318,7 +3317,6 @@ efsanefirsatlartektikla.com
 efsanefrstlarburdakpnda1o1.shop
 efsanefrstlarkapinizda1o1.shop
 efsanehaziranlndrmi.com
-efsaneleryeniden.beer
 efsanelndldlrmlvaktlerl.com
 efsanelndlrlmflrsatlarlslzlnleberaber.com
 efsanelndlrlmsaatlerlbasladdill.com
@@ -8306,7 +8304,6 @@ onlineekonomikdestekmobilapptr.xyz
 onlinegarantimobile.myftp.org
 onlinehaziranfirsatlari.com
 onlinehemen.com
-onlineilanlarimptt.com
 onlineindirimkulubu4.sbs
 onlineislemler-canliyardim.duckdns.org
 onlineislemmerkezleria101.pages.dev
@@ -8465,8 +8462,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
