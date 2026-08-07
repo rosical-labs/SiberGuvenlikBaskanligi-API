@@ -54,7 +54,6 @@
 13222214544588989990897.duckdns.org
 13222214544588989990898.duckdns.org
 13222214544588989990899.duckdns.org
-145455588989998995.duckdns.org
 145455588989998996.duckdns.org
 145455588989998997.duckdns.org
 145455588989998998.duckdns.org
@@ -1471,6 +1470,7 @@ granlyx.com
 granlyx.cyou
 granti-web.nicepage.io
 grantiibba.duckdns.org
+grantiscylk.cfd
 gratis.anointedacres.com
 gratis.globalscholarpress.com
 gratis.lakeboundtech.com
@@ -1879,7 +1879,6 @@ internetislemleri-akmobil-bireysel-com.duckdns.org
 internetsube-qnbfinansbankasi.ph
 intranet.evsahibibasvuru.com
 intsube-enpara.ph
-investmentpulsehub.com
 ipucu-web.click
 irc.evsahibibasvuru.com
 irsatlargeldi.duckdns.org
@@ -2326,7 +2325,6 @@ melqo.xyz
 membercloudzone.com
 membercloudzone.net
 menfaatiolanbulur.sbs
-meralina.icu
 mercek360.site
 meritsabit.online
 merkez.garden
@@ -2342,7 +2340,6 @@ merkezikayitli.abrdns.com
 merkezindenkayit.abrdns.com
 merkezinkayitli.abrdns.com
 merkeziyetkayit.abrdns.com
-merkeziyetsizbasvuru.abrdns.com
 merkezkayitarayuzu.abrdns.com
 merkezkayiti.abrdns.com
 merkezlekayit.abrdns.com
@@ -2897,7 +2894,6 @@ planetariumguide.com
 planhesapla.com
 planlanan-giris.xyz
 plansonval.impostosrapido.top
-planti.sbs
 plomvex.xyz
 plorvix.vu
 plovis.sbs
@@ -3845,7 +3841,6 @@ umre-kuveytorg.duckdns.org
 umutototamironarimcilaa.duckdns.org
 universus.stream
 updata.net.cn
-uptimedeepblue.yyuyy.com
 urbanheadline.site
 urbanlenta.com
 urbanloria.gifts
