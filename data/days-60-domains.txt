@@ -1410,7 +1410,6 @@ brgninvesttr.com
 bridge-star.cfd
 briefcurrent.top
 briefom.com
-briefop.com
 briefzone.xyz
 brightbulletin.site
 brightfutureview.com
@@ -4471,7 +4470,6 @@ kemopscularburda.xyz
 kempisadminister.pro
 kendimlehepsorunumvar.click
 kendinehas.click
-kent-civilian-men-detailed.trycloudflare.com
 kentblack.cfd
 kentjerk.info
 kentrav.forum
@@ -5667,7 +5665,6 @@ nmtlmnltlntan.net
 nmtlnmtlntmntlmltn.net
 nmwcspraseves.sbs
 nnp0.allthe.site
-nntknlanana.net
 node-js.prentiva99.info
 node.androiddebugbridge.su
 nofun.lol
@@ -5955,8 +5952,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6126,6 +6123,7 @@ paribuaraba-hediye.com
 paribuaraba-kazanci.com
 paribuaraba-kazanci.info
 paribuaraba-kazanci.link
+paribuaraba-kazandim.info
 paribuaraba-kazanma.com
 paribuaraba-kazanma.info
 paribuaraba-kazanma.link
@@ -6672,7 +6670,6 @@ pulse-vol.com
 pulsechronicle.site
 pulsecraft.site
 pulsewire.company
-pulseyn.com
 pulsynk.org
 pulturturizm.com
 punchbowl.cyou
@@ -7121,7 +7118,6 @@ sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.vercel.app
 sahibinden-getilan.ile-guvenle-islem-web.com
 sahibinden-hizmet.online
-sahibinden-ilan.tr-get-servis.online
 sahibinden-param-guvende.siparisbilgitr.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
@@ -7751,9 +7747,11 @@ sube-kuveyt-ttr.duckdns.org
 sube-kuveyt-turk.duckdns.org
 sube-matriksmenkulkiymetler.com
 sube-mobilkvyt.duckdns.org
+sube.garanti.fun
 sube.mufgfinance.net
 sube.sekermenkul.com
 sube.sekerplatform.pro
+subedenmobiliz.myonlineportal.de
 subeislemlerim-akbank.ph
 subemiz-garanti.myonlineportal.eu
 subesimobil.my-homeip.de
@@ -8286,7 +8284,6 @@ tr-binancecark.duckdns.org
 tr-binancelogin.com
 tr-binancemasak.duckdns.org
 tr-binancetr.duckdns.org
-tr-get-servis.online
 tr-gikarca.shop
 tr-grsnzonln.lat
 tr-gukaraca.shop
@@ -8997,7 +8994,6 @@ webvexa.vu
 webys.guru
 weekly.table-news-today.org
 wellivo.gifts
-wellvexa.gifts
 wenab58919.site
 wenab58919.space
 wenab58919.store
