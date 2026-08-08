@@ -5180,6 +5180,7 @@ factban.com
 factfa.com
 factgrove.news
 factlin.com
+faderdasdleer.duckdns.org
 fadi.piratesbean.cfd
 fafacanahmetcanfan.net
 fahrettindanizmansert.com
@@ -10591,7 +10592,6 @@ mobilde100yil.duckdns.org
 mobildefirasthizmeti.duckdns.org
 mobildehizmetlerimsizde.duckdns.org
 mobildekiglobalerkanlar.duckdns.org
-mobilden-cepte.my-homeip.net
 mobilden.myonlineportal.de
 mobildendijitalfirsatlar.sbs
 mobildenfirsatlar.sbs
@@ -11525,6 +11525,7 @@ onlinesorgutursab.org.tr
 onlinesozlesmeler.org
 onlinesubeinf.com
 onlinesubeinfx.com
+onlinetebmobil.sbs
 onlinetemmuzfirsatlari.com
 onlineucuzlukfirsati.com
 onlineyeozelgunler.sbs
