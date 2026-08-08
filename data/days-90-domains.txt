@@ -265,7 +265,6 @@
 2841948923.com
 290299234.sbs
 2934858585949.net
-29382822001.duckdns.org
 29c02a5b-e.b-cdn.net
 2a0aabb0-e.b-cdn.net
 2akjsjcdsakkkjx123x131.sbs
@@ -599,7 +598,6 @@ a101-kampanya-tum-haftasi-hafta-boyunca-indirim-firsat.site
 a101-sadeceonline.my-homeip.net
 a101.empordafibra.com
 a101a101.shop
-a101aldn.duckdns.org
 a101extrakatalog.site
 a101harca.shop
 a101harcaharcabitmez.duckdns.org
@@ -7440,6 +7438,7 @@ merkezisistem-b.com
 merkeziteknikgarantimenucozumleri.space
 merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.abrdns.com
+merkeziyetsizbasvuru.com
 merkezkayitarayuzu.abrdns.com
 merkezkayiti.abrdns.com
 merkezlekayit.abrdns.com
@@ -8494,8 +8493,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
