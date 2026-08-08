@@ -1206,6 +1206,7 @@ aselite.xyz
 aselsan-app.digital
 aselsan-healthcare.com
 aselsan-soft.com
+aselsan-system.com
 aselsan-tr.net
 aselsanai.digital
 aselsanai.net
@@ -1510,6 +1511,7 @@ basvurumunadresinde.cfd
 basvurun-cepten.myonlineportal.de
 basvurusalislemlerims.duckdns.org
 basvurusirasi.online
+basvurusitesi-production.up.railway.app
 basvurziyytar.cfd
 basvurznr.sbs
 bathzz.shop
@@ -2052,7 +2054,6 @@ brysel-kredi-zaman.click
 bryslmobilkatilimm.duckdns.org
 bryzelun.media
 bsaakdk293sgh.com
-bsagadasakjsdf12bek.cfd
 bsaxsgahfgsafgxs1.cfd
 bsrtrekkyt.cfd
 bsvr-bbva.my-homeip.net
@@ -8493,8 +8494,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
