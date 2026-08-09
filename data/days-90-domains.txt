@@ -2351,10 +2351,8 @@ cay-makinesi-aktuel.lat
 cayalleltlering.com
 cayaypaketsin.lat
 caycial.online
-caydan-lik-indirimleri.net.tr
 caylclicimakinlere.com
 caymakineleri.com
-caymakinesi-aktuel.lat
 cc0c0c302as23.duckdns.org
 ccc232131x213.duckdns.org
 cccad9f0-3.b-cdn.net
@@ -2373,6 +2371,7 @@ ce953a0eb08246617b7f849486c4b26a7af37e9d2e8f0e13b3ae1bf0da8a70a.xyz
 ceaswadereli-viplifere.xyz
 cebinde-temmuz.biz.tr
 cebinde-temmuz.com.tr
+cebinde-temmuz.tv.tr
 cederese-deresedese.lol
 cekilis--binance.com
 cekilis--paribu.com
@@ -3314,7 +3313,6 @@ efsanehaziranlndrmi.com
 efsanelndldlrmlvaktlerl.com
 efsanelndlrlmflrsatlarlslzlnleberaber.com
 efsanelndlrlmsaatlerlbasladdill.com
-efsanelndlrlmsaatlerlbasladdl.com
 efsanelndlrlmsaatlerlbassladl.com
 efsanelndlrmkaplndabuflrsatkacmaz.com
 efsanelndlrmmlermayls.com
@@ -3485,7 +3483,6 @@ enparakampanyabasvuru.ph
 enparamobilsubem.ph
 enparaonline.online
 enprkrkstz.com
-entegremustericozummerkezigiris.space
 entreyy-git.cfd
 entry-web.guru
 enuygun.rent
@@ -4313,7 +4310,6 @@ girsizsabiti2026.com
 girsizsabits2026.com
 girss-turrky.cfd
 girssonnline-sorgusualekrani.sbs
-git-basvuruyapv.cfd
 git-service.com
 git-tanstack.com
 git.evsahibibasvuru.com
@@ -4583,6 +4579,7 @@ guvenliodemeonay.com
 guvenliodemesatislarim.com
 guvenlionayodeme.com
 guvenlionline.com
+guvenlipanel.store
 guvenlisatismerkezi.com
 guvenlisepet-hizmet.online
 guvenlisepetim-hizmet.online
@@ -6062,7 +6059,6 @@ jaxdurev.buzz
 jbl-turkiye.com
 jeaw520i.space
 jekep15918.online
-jekep15918.store
 jekep3410.online
 jekep3410.store
 jerryshvac.com
@@ -7333,7 +7329,6 @@ mayisfirsatlarinadresi101.com
 mayisindirimi.cfd
 mayisindirimleriyakala101.com
 mayislafirsatlargeldi101.com
-mayislarbizim.com
 mayislarsizin.com
 mayisozel.cfd
 mayistadahauygunuz.shop
@@ -7598,7 +7593,6 @@ mlgrsshazlrann.online
 mlhlrosralndevu.shop
 mlhrsrandelu2.sbs
 mlyna38393.click
-mmhhrhhrhrrs61.sbs
 mmhhrhhrhrrs62.sbs
 mmhhrhhrhrrs68.sbs
 mmhhrhhrhrrs70.sbs
@@ -8008,7 +8002,6 @@ nexavexsystems.com
 nexbyte.digital
 nexcartel.com
 nexcarti.gifts
-nexcore.art
 nexenttradr.com
 nexita.info
 nexmarto.gifts
@@ -8474,8 +8467,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10596,7 +10589,6 @@ sondakikanet.world
 sondakikanin.com
 sondakikaodasi.com
 sondakiraturk.com
-sondakiraveri.com
 sondakkahaberleri724.com
 sondemlemebitiyor.sbs
 sonfirsaattkmpnyaabsvrr.live
@@ -10623,7 +10615,6 @@ sonnnfrstlrrkmpnyaabsvrrr.art
 sonnnfrstlrrkmpnyaabsvrrr.info
 sonnnfrstlrrkmpnyaabsvrrr.online
 sonnnfrstlrrkmpnyaabsvrrr.pro
-sonnnnfrstkkkmpnyabsvrr.art
 sonnnnfrstkkkmpnyabsvrr.info
 sonnnnkmpnyaalrrremekliirpsmynnn.art
 sonra.eutialyson.com
@@ -10715,7 +10706,6 @@ spidermarket.xyz
 spinuni.com
 splash.garantibbvakredibasvuru.com
 splashviolet.cfd
-splt-lo-grenad.myonlineportal.ch
 spnosrlukatilmlarim.duckdns.org
 spnsoredreklam.com
 sponlorlusok.online
@@ -11889,7 +11879,6 @@ tuvturk-a.com
 tuvturk-aco.com
 tuvturk-brem.com
 tuvturk-cio.com
-tuvturk-cun.com
 tuvturk-dis.com
 tuvturk-e.com
 tuvturk-ei.digital
@@ -13062,7 +13051,6 @@ z102.site
 z1ffssa.cfd
 z1p7k4m9v6x3.lol
 z1q7x4v9k2n8.cfd
-z1rayurcat.nicepage.io
 z1ttrhf.cfd
 z2ratll.cfd
 z3ratvv.cfd
