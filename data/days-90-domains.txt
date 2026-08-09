@@ -2801,7 +2801,6 @@ dasasasas.nicepage.io
 dasasasasas.nicepage.io
 dash.awaydouble.org
 dashgamein.info
-daspcz.help
 daspino.vu
 daspol.surf
 dastore.top
@@ -9266,7 +9265,6 @@ pttavm-hizli-ve-guvenli.firebaseapp.com
 pttavm-hizli-ve-guvenli.web.app
 pttavm-hizliveguvenlidir.firebaseapp.com
 pttavm-hizliveguvenlidir.web.app
-pttavm-ilan-satislarim.com
 pttavm-ilanlarim-sepette.com
 pttavm-ilanlarim.com
 pttavm-kilo-metre-sorgulama.web.app
@@ -10333,7 +10331,6 @@ servishizmetlerin.com
 servishizmetleriniz.online
 servislerjethizmetler.online
 servsjethizmet.online
-servsnjethzmet.com
 servupdate.net
 seryotocargaleryx.duckdns.org
 serzjkow.cfd
