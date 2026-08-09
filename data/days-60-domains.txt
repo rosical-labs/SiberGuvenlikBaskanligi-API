@@ -302,6 +302,7 @@
 6b238205-7.b-cdn.net
 6dedb6bd-3.b-cdn.net
 6pvc38y5izw3.icu
+6yil-enpara.ph
 724islemgbrrs.sbs
 724s5w8wa.click
 724sosylbasvru.sbs
@@ -360,10 +361,8 @@ a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
 a-101-extra-internete-ozel.indirim-online-mobil.site
 a-101-extra-mobil-online-ozel-tr.mobil-bireysel-shop-web-tr.sbs
 a-101-extra-mobil-sadece-bugune-ozel-indirimli-sepet-tr.cepte-shop.online
-a-101-extra-mobil-sadece-online-ozel-siparis-tr.online-mobil-shop-tr.com
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-indirimler-mobilde.ekstra-tr.online
-a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com
 a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
 a-101-extra-sadece-bugune-ozel-sepette-tr.pay-tr.online
 a-101-extra-sadece-mobile-ozel-sepette-indirim-tr.sepette.online
@@ -1161,6 +1160,7 @@ bilgi-mobil-shop-ozel-tr.click
 bilgidosyasi.com
 bilgikayit.abrdns.com
 bilgilendirme-merkezi.sbs
+bilgilendirme-shop.online
 bilgilendirme-tr.online
 bilgilendirmearayuzu.abrdns.com
 bilgilendirmesayfasi.misecure.com
@@ -1397,7 +1397,6 @@ bsvrrkmpnyaaoprssmynn.art
 bsvrrkmpnyaaoprssmynn.live
 bsvrrkmpnyaaoprssmynn.pro
 bsvrrkmpnyyyprmsnynnfrstlar.art
-bsvrrkmpnyyyprmsnynnfrstlar.live
 bsvrrkmpnyyyprmsnynnfrstlar.pro
 bsvrrprmsynnkmpnyaaafrstlari.art
 bsvrrprmsynnkmpnyaaafrstlari.info
@@ -1743,7 +1742,6 @@ codemira.digital
 codeverra.bond
 codewavehub.xyz
 codexgpt.gitlab.io
-codextech.net.pe
 codomira.shop
 coffeesaloon.online
 cogalim-edinim.biz
@@ -1931,7 +1929,6 @@ davsanllargiyimvs.duckdns.org
 dd3x32ffd2.duckdns.org
 ddosyemiyomkralinaboyunegmiyom.xyz
 dealvella.com
-dears.serveirc.com
 debateyn.com
 debit-funds.com
 december-humans-blend-word.trycloudflare.com
@@ -2504,9 +2501,15 @@ f8x1p4z7m9q2.cfd
 face-book-login-extra.ph
 face-kampnyalari.xyz
 facebook--login-security.ph
+facebook-login-guide.com.ph
 facebook-login-login-extra.ph
 facebook.evsahibibasvuru.com
 facebookloginapponline.ph
+facebookloginlawyer.com.ph
+facebookloginonlinelegal.com.ph
+facebookloginparty.com.ph
+facebookloginstable.com.ph
+facebookloginuser.com.ph
 faceit-clubs-verify.com
 faceit-discord.com
 faceit-verification-clubs.com
@@ -3553,7 +3556,6 @@ hgsodemehizmetler.online
 hgsonlneyklebkye.cfd
 hgsonlneyklesmdi.cfd
 hgspttbakiyeyukleyn.web.app
-hgsss-odemeleriniz.com
 hgssykleepra.cfd
 hgsyklebrcsrgu.shop
 hgsyklebrcsrgu.xyz
@@ -3883,6 +3885,7 @@ ilkbasvurum.click
 ilkbasvurum.my-homeip.net
 ilkbasvurunuz.click
 ilkbasvurunuz.com
+ilkev-basvurulari-1.sbs
 ilkevim.basvurun-1.sbs
 ilkevimbasvurumuz.com
 ilkisaret.info
@@ -6590,7 +6593,6 @@ qnbfinansbank-kredi.ph
 qnbfinansbank-login.ph
 qnbfinansbankkasa.ph
 qnbfinansbnak.ph
-qnbfinasnbankenpara.ph
 qnbsfinansbank-basvuru.ph
 qonllinekonomigarantimobileapptr.xyz
 qoravemix.capital
@@ -7124,7 +7126,6 @@ sendenkorkmuyorum1.vip
 sendenkorkmuyorum4.vip
 sendenkorkmuyorum7.vip
 sendenkorkmuyorum8.vip
-senderbaba.duckdns.org
 senderdimiduydunmu.sbs
 sendeselamlardasin.net
 sendnvaazgecmyzreis.sbs
@@ -8239,7 +8240,6 @@ trvtrkdsnrsvjsd.store
 tryweb-logr-home.ink
 tryyourselfs.com
 trztrts.cfd
-tskdestekyardim.ph
 tsxasafasf-saf.cfd
 tsxasfasfas.sbs
 tt002332sd23.duckdns.org
@@ -8791,7 +8791,6 @@ whats-zwp.vip
 whatsappkundenservice.com
 whitead.in
 whiteads.ru
-whitesalad.zzrak08526.workers.dev
 widjssij728dj.com
 widthzo.com
 wiley-photographer-started-conservative.trycloudflare.com
@@ -8950,7 +8949,6 @@ xn--firsatlar-kacmaz-neseli-gnler-9bd.com.tr
 xn--hukukcezas-6ub.org
 xn--istkartbabasiyimseribirgl-2wc23l.xyz
 xn--kampanyaliiisin-sok-gnleri-j0c.org.tr
-xn--manysub-rfb.xyz
 xn--markafrasst101-bgc.com.tr
 xn--mobildendenizbannkkkampanyamzbasvuru-6mf.com.ph
 xn--param-gven-de-ile-siparis-lwc.com
@@ -9183,7 +9181,6 @@ yonlenim-securitytr.garden
 yorum-ithal-gr.garden
 yoursfind.com
 yqhalktvmf.com
-ytastaub.com
 ytrsdsndsn-ytrseresrsr.com
 ytunrtyndfgwe.click
 yubo.watch

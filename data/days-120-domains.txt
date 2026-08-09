@@ -115,7 +115,6 @@
 123jkjcsadklj12j3z1h2j3.sbs
 124124121.sbs
 124124124.duckdns.org
-12412414.duckdns.org
 124451545544554888787990.duckdns.org
 124451545544554888787991.duckdns.org
 124451545544554888787992.duckdns.org
@@ -609,6 +608,7 @@
 6dedb6bd-3.b-cdn.net
 6f53mfdd3f45g.cfd
 6pvc38y5izw3.icu
+6yil-enpara.ph
 70005212.sbs
 712616890.duckdns.org
 7128321.click
@@ -2525,6 +2525,7 @@ bilgicheckerssystemm.lovestoblog.com
 bilgidosyasi.com
 bilgikayit.abrdns.com
 bilgilendirme-merkezi.sbs
+bilgilendirme-shop.online
 bilgilendirme-tr.online
 bilgilendirmearayuzu.abrdns.com
 bilgilendirmesayfasi.misecure.com
@@ -5158,9 +5159,15 @@ fabrikadanhalkaa.shop
 face-book-login-extra.ph
 face-kampnyalari.xyz
 facebook--login-security.ph
+facebook-login-guide.com.ph
 facebook-login-login-extra.ph
 facebook.evsahibibasvuru.com
 facebookloginapponline.ph
+facebookloginlawyer.com.ph
+facebookloginonlinelegal.com.ph
+facebookloginparty.com.ph
+facebookloginstable.com.ph
+facebookloginuser.com.ph
 faceit-clubs-verify.com
 faceit-discord.com
 faceit-verification-clubs.com
@@ -7713,6 +7720,7 @@ ilkbasvurum.click
 ilkbasvurum.my-homeip.net
 ilkbasvurunuz.click
 ilkbasvurunuz.com
+ilkev-basvurulari-1.sbs
 ilkevim.basvurun-1.sbs
 ilkevimbasvurumuz.com
 ilkisaret.info
@@ -9293,7 +9301,6 @@ kredimkani.click
 kredionaylamaca.sbs
 kredionaylamamerkezi.space
 kredionaymerkezi.sbs
-kredisubesizekran.sbs
 krediye-online-basvur.cfd
 krediye-online-basvur.click
 krediye-online-basvur.lat
