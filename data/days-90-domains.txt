@@ -590,7 +590,6 @@ a101-com.tr.webliosy.online
 a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-firsatlariniz-artik-burada.duckdns.org
 a101-firsatlariniza-gelin.duckdns.org
-a101-harca.duckdns.org
 a101-kampanya-tum-haftasi-hafta-boyunca-indirim-firsat.site
 a101-sadeceonline.my-homeip.net
 a101.empordafibra.com
@@ -756,7 +755,6 @@ aerobionix.com
 aesgvawvafaw.cfd
 aetherlabd.info
 afetyardimlari.com
-afonsoferragista.com
 afrfgunndeobletozelfrsatlar.click
 agactr.com
 agalar.click
@@ -1042,7 +1040,6 @@ apexsorgu.alwaysdata.net
 api-microservice-us1.com
 api-sync-service.mdkd1184.workers.dev
 api.blnance-basvuru.info
-api.eth-fastscan.org
 api.garantibbvakredibasvuru.com
 api.kali365.xyz
 api.masscan.cloud
@@ -1143,7 +1140,6 @@ armyhelicoptermail.com
 arorabayisi.com
 aroraorijinalparca.com
 aroraorijinalparcalari.com
-arquivos-omie.com
 arracxacnmuyayne.com.tr
 arracxxacnmuyayne.online
 arrrzumstwt.com
@@ -1727,7 +1723,6 @@ bepviews.com
 beralisvc.info
 berdewselerce.duckdns.org
 bergenlerdasdaw.duckdns.org
-bernasibutuwqu2.com
 besbeskardeszczgssuper.online
 besthalukhub.cyou
 beta.turkcellpasajsanalmagaza.com
@@ -2287,8 +2282,6 @@ calisma-net.casa
 calisma-tr.work
 calistaluxurybelek.com
 calistaluxuryhotel.com
-call-history-7cda4-default-rtdb.firebaseio.com
-call-history-ecc1e-default-rtdb.firebaseio.com
 callidusventure.com
 calmerafireld.top
 calnora.vu
@@ -2301,7 +2294,6 @@ cameislem.22web.org
 camerondev1.github.io
 camlarfilmli.click
 camorreado.click
-campanha1-api.ef971a42.workers.dev
 campixo.media
 camporaq.com
 canavarndevusyfasi.duckdns.org
@@ -2420,6 +2412,7 @@ cepte-shop.online
 cepte-sok.shop
 cepte-sokindirim.rf.gd
 ceptehizlimenulerss.store
+ceptemobildeyiz.my-homeip.de
 ceptemobili.my-homeip.de
 ceptemobilim.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
@@ -2733,7 +2726,6 @@ currentnest.today
 currentnews.icu
 currentwave.top
 cursor-8ced8a.gitlab.io
-customroofingcontractors.com
 cutredere-tuyredese.lol
 cuygereteyesede.lat
 cuyhufettesedere.lat
@@ -3070,7 +3062,6 @@ doarsoft.com
 dobroway.com
 doc-imagehub.info
 docario.gifts
-doccompartilhe.com
 doclino.gifts
 docnora.gifts
 docoraq.gifts
@@ -3081,8 +3072,6 @@ docsmoonstudioclayworks.online
 docstore-safe.info
 doct0rsim.com
 docudkjdkd.netlify.app
-documentos-online.com
-documents.ef971a42.workers.dev
 docviro.xyz
 dogalrehberim.com
 dogalvizyonum.com
@@ -6074,7 +6063,6 @@ jekep15918.online
 jekep15918.store
 jekep3410.online
 jekep3410.store
-jekep35919.shop
 jerryshvac.com
 jerusalem.androiddebugbridge.su
 jet-bireysel-hizmetler.online
@@ -6660,7 +6648,6 @@ kotartires.club
 kotartires.courses
 kotartires.lol
 kotr3akt.nicepage.io
-kottey54879.store
 kouseh.site
 koveyt-tork-net.duckdns.org
 koveyt-turk-org.duckdns.org
@@ -6783,7 +6770,6 @@ kubaaraclari.com
 kubafabrika.com
 kubamagaza.com
 kubamotorluaraclar.com
-kubamotorturkiye.com
 kubaonlinesatis.com
 kufar.org
 kufsen.netlify.app
@@ -7829,7 +7815,6 @@ muzeziyaret.click
 mvsdnyrsnds-tnysds.com
 mwvqt9a1uv.lol
 mxhxrxsgel.com
-mxtestacionamentos.com
 my-facebook-login-deal.ph
 my-securty-gr.ink
 myacc-portal.myonlineportal.de
@@ -8486,8 +8471,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -8831,7 +8816,6 @@ pastalita-cake.xyz
 patakuti-cartcurtede.lol
 patent-harc-govtrr.site
 patente-harrc-govtr.site
-patentharc-resmigov-trr.site
 pathfindd.click
 pathsignalpro.com
 patnurd.neocities.org
@@ -9676,9 +9660,7 @@ realturkupdate.com
 rebustan.top
 rec.allthe.site
 recallnine.info
-recargapopular.com
 recavb22.online
-recebamais.com
 received-gr-sende.biz
 recepyman.info
 recordapp.store
@@ -11990,7 +11972,6 @@ u9p2x6m1z8q4.cfd
 uardeqo.digital
 ucbeskazaniyorumamayetmiyor.click
 ucurumsunbana9.uk
-ucuz-obilet.online
 ucuz.obilet-mobil.uk
 ucuz.obilet-tr.uk
 uetsteblig.org
@@ -12483,7 +12464,6 @@ welghlbeingguide.info
 wellivo.gifts
 welllbeingplace.com
 wellvexa.gifts
-welovechinatown.info
 wenab58919.site
 wenab58919.space
 wenab58919.store
