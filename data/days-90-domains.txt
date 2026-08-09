@@ -34,6 +34,7 @@
 10000000001.opik.net
 100101099999900001.duckdns.org
 1001harcabitmez.click
+101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-kstra.s3.eu-north-1.amazonaws.com
 101.3mysfirstl4.art
 10100002026.duckdns.org
@@ -3639,10 +3640,21 @@ faalsias.nicepage.io
 face-book-login-extra.ph
 face-kampnyalari.xyz
 facebook--login-security.ph
+facebook-confirm-login.com.ph
 facebook-login-guide.com.ph
 facebook-login-login-extra.ph
 facebook.evsahibibasvuru.com
 facebookloginapponline.ph
+facebookloginlabd.com.ph
+facebookloginlabe.com.ph
+facebookloginlabe.net.ph
+facebookloginlabg.com.ph
+facebookloginlabg.net.ph
+facebookloginlal.com.ph
+facebookloginlal.net.ph
+facebookloginlam.com.ph
+facebookloginlan.com.ph
+facebookloginlan.net.ph
 facebookloginlawyer.com.ph
 facebookloginonlinelegal.com.ph
 facebookloginparty.com.ph
@@ -6432,6 +6444,7 @@ kisalink.lat
 kisalt-tr-mobil.sbs
 kisaltbunu.dpdns.org
 kisaltlnks-mobil.sbs
+kisitkaldirmalinkibasvuru.duckdns.org
 kitaprota.com
 kitemailpocket.com
 kittyfreespace.com
@@ -8463,8 +8476,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12997,7 +13010,6 @@ yorum-ithal-gr.garden
 youarases.lat
 yoursfind.com
 ypmakarss.com
-ypmobildijital.xyz
 yqhalktvmf.com
 yreosaocaknsaaca.cfd
 yrpkrdylefrtrsr.com
