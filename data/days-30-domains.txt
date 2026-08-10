@@ -762,6 +762,7 @@ cap-t2.spec-connectweb3.tv
 cap.spec-connectweb3.tv
 capitalzone.best
 capulcu.xyz
+cardo.workers.dev
 cariwebsiteku.com
 cark-cekilisim.info
 carkcekiliisi-hemenbasvur1.duckdns.org
@@ -1056,6 +1057,8 @@ dogalrehberim.com
 dogalvizyonum.com
 dokkmark-etler.cfd
 dolap.e-ilan-elektronik-siparisim.com
+dolap.guvenli-hizmet.online
+dolap.servsjethizmet.online
 dolapilanlarim.com
 dolmaq.shop
 donum-transfer.click
@@ -1410,6 +1413,7 @@ garantisizlerlerkredii.lol
 garantivbbvaefmkasa.duckdns.org
 garcanocan.co
 gardeliama.com
+gardrops.guvenli-hizmet.online
 garfielddom.xyz
 garislennmenleritemmuzfrsatalr.site
 gartnix21j3x12jk1x2.sbs
@@ -1571,6 +1575,7 @@ gunu-tr.online
 gununvizyonu.com
 guvenilirsorgupaneli.fun
 guvenilirsorgupaneli.xyz
+guvenli-hizmet.online
 guvenlialisverisin.online
 guvenlianindaodeme.com
 guvenlik-web-security.ink
@@ -1924,7 +1929,6 @@ ile-alisverislerini-tamamlama.com
 ile-e-islemler.com.tr
 ileribakislar.com
 ilerivizyonrotasi.com
-ilerleme-yaptirim-grim.myonlineportal.ch
 ileservishzmetlerinz.com
 ilgili-disp-asist.ink
 ilginc-detay-web.ink
@@ -2255,6 +2259,7 @@ legalads.in
 legio.name
 lemonfilewave.com
 leofstbrdaclsyrz.com
+letgo.guvenli-hizmet.online
 lib.evsahibibasvuru.com
 likihigidese-derepiluyu.lol
 liksaderese-zeredesede.lol
@@ -2375,6 +2380,7 @@ matkapset84parca.myshopify.com
 mauicreativos.com
 mavbuylo.com
 mcafilo.com
+mediamarkt.guvenli-hizmet.online
 meek-kangaroo-389f62.netlify.app
 meet-webconnect.com
 megadencer.top
@@ -2420,7 +2426,6 @@ mgrosshzlrannn.online
 mh-r-al-randv-simdi-hemence.duckdns.org
 mh4rsnadevulariniz3.ydns.eu
 mhcese.netlify.app
-mhlhsrabklemed.com
 mhlshemen.uk
 mhlshemenc.men
 mhr-al-hadisende.duckdns.org
@@ -3108,6 +3113,9 @@ promocode-news.com
 promosyonu-onayla-denizmobil.duckdns.org
 promotk.com
 proton-network.com
+ptt-avm.guvenli-hizmet.online
+ptt-avm.servsjethizmet.online
+ptt-kargo.guvenli-hizmet.online
 ptt.mobilservisler-67.sbs
 ptt.mobilservisler-87.sbs
 pttaevm.com
@@ -3473,6 +3481,7 @@ shop-ozel.online
 shop-tr-ozel.online
 shoparo.info
 shopier.e-ilan-elektronik-siparisim.com
+shopier.guvenli-hizmet.online
 shopier.webislemlerimiz.com
 shopmobil.online
 shopsites.shop
@@ -3520,11 +3529,13 @@ sndebunlaraglmban.com
 sndenbnlaraglbrdanal.shop
 snksnctysnysnns.com
 snkzlplrdansnnns.com
+snnfrstlrarrkmpnyaabsvrsu14785.info
 snnfrstlrarrkmpnyaabsvrsu14785.pro
 sntskenlaersa.online
 sntskenlerdebgn.online
 sntsknnn.online
 sodsyalxzmetleremeklicn.xyz
+soft-feather-7807.0x.cloudflare-workers.workers.dev
 softex.cyou
 sokmarketlerfirsatlarim.com
 sokta-gunler.com.tr
@@ -3654,6 +3665,7 @@ sugarantidenalalimartik.sbs
 sulnaro.gifts
 summeredition.xyz
 supercloudsaver.com
+surat-kargo.guvenli-hizmet.online
 surayyabrand.com
 sutf.kafekarachi.com
 suyaxqxa.click
@@ -3749,7 +3761,6 @@ temmuz-cepte.net.tr
 temmuz-cepte.org.tr
 temmuzfirsatlarinagiirisiimbvagarantisiyle.click
 temmuzflrsatlari.com
-temmuzkampanyalarimiz.my-homeip.de
 tenisclub.online
 tensorforgegrid1.lol
 tensorforgegrid10.lol
@@ -3856,6 +3867,7 @@ trendyol-ekargo-4000.netlify.app
 trendyol-siparistamamla.com
 trendyol-siparistamamla.com.tr
 trendyol-siparistamamla.online
+trendyol.guvenli-hizmet.online
 trendyol.mobilservisin-24.sbs
 trendyol.servsjethizmet.online
 trendyol0-8579.volcesjiasu.top
@@ -4106,6 +4118,7 @@ veyron.social
 veyronix.biz
 vigmanet.ru
 viixzhsldndu3dx3e.click
+violet-87cardo.workers.dev
 vioxgarmblsbe.ice.mom
 virexolam.com
 virexolant.capital
@@ -4125,6 +4138,7 @@ vulihipolse-sedere.lol
 vulipilongo-katore.lol
 vusuydryt.love
 vuvugufere-dadada.lol
+vxzcbvcbnbnxsszssd21.click
 w2m7r9t3n5x6.click
 walter.filloco.icu
 wbnsn-tapurandvusun.info
@@ -4346,6 +4360,7 @@ ytrsdsndsn-ytrseresrsr.com
 yugosadgsagdgasd92sadh23s.click
 yuklmezamni.cfd
 yupuasdashdhashda902sahdha.click
+yurtici-kargo.guvenli-hizmet.online
 yurudumdurmamasla.sbs
 yxcpanel.online
 yxcpanel.xyz
