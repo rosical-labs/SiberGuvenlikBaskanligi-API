@@ -7845,6 +7845,7 @@ interiordecor.pics
 interland-ofise-g.myonlineportal.ch
 intern-gr-lenade.myonlineportal.ch
 internet-koveyttork.duckdns.org
+internet-teb-entry.myonlineportal.de
 internetal.xyz
 internetbasvukanallari.duckdns.org
 internetbasvurukatilimi.xyz
@@ -8607,7 +8608,6 @@ karacalar-sepetimden.vercel.app
 karacan-cepte.com.tr
 karacan-cepte.info.tr
 karacanisan.vercel.app
-karacanisanilk.cfd
 karacaonline.store
 karacastore.club
 karacastoretr.shop
@@ -11829,7 +11829,6 @@ pakmerli.digital
 paleturquoise-crow-440042.hostingersite.com
 paleturquoise-dragonfly-364512.hostingersite.com
 palitogrenos.com
-palmiye-sultan.forum
 palmiyesultan.forum
 palmiyesultan.site
 palmiyesultan.uk
@@ -15505,7 +15504,6 @@ tebicinbasvuru.my-homeip.de
 tebinternetpage.my-homeip.de
 tebleherseyhzrrrrrr.cfd
 tebpageinternet.my-homeip.com
-tebtecepler.sbs
 techdriverhub.gifts
 techfront24.digital
 techhavenx.com
@@ -15700,6 +15698,7 @@ teknofestmagaza.wixsite.com
 teknofestmagaza.wixstudio.com
 teknofestmagaza.zone.id
 teknolojikampanya.com
+teknosakz-a5c3f6g4s7r9y5f4hk3d1a94g3hn15a9tgx1v2ju8sq8r2.com
 teknosakz.com
 tekoas.com
 tekraradnpromosyon.cloud
@@ -16690,7 +16689,6 @@ tuvturk-ors.com
 tuvturk-pt.com
 tuvturk-rose.com
 tuvturk-rov.com
-tuvturk-ss.app
 tuvturk-ss.digital
 tuvturk-sse.digital
 tuvturk-wir.com
