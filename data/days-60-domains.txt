@@ -13,7 +13,6 @@
 1-82-brdanrdval.com
 1-82m-rhsrvdnbrdn.org
 1-82rvdnlrdanbndansn.com
-10-06-2026dogrulama.duckdns.org
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
@@ -1159,7 +1158,6 @@ bckdayimhbk.ice.lol
 bcv-acces.lat
 bcv-basvrm.lat
 bcv-bsvrs.lat
-bcv-gars.lat
 bcv-global.lat
 bcv-meta.shop
 bda-gerasn.lat
@@ -2126,6 +2124,7 @@ dijionline-kampanya.sbs
 dijionline-siparis.sbs
 dijionline-siparisim.sbs
 dijionline-sipariskampanya.sbs
+dijionline-siparismarkt.sbs
 dijionline-siparisver.sbs
 dijisiparis-internet.sbs
 dijital-bilgi.sbs
@@ -3769,7 +3768,6 @@ hmnenislemnoktas.net
 hmnilsmkntans.net
 hmnilsmnktns.net
 hmnislemknasn.net
-hmnislemnktbas.net
 hmnislemnoktnasn.net
 hmnislemntkas.net
 hmnislmbkntans.net
@@ -3894,7 +3892,6 @@ huluguhufuere-sede.xyz
 hulukuede-reteyesede.lol
 human-check.top
 hunasdkjxakjsk12312.shop
-hunyapisxdkx1j2k3xasda.shop
 hurgadatour.shop
 hurriiyet.com
 hvao.jbgroup21.com
@@ -4100,7 +4097,6 @@ isln-taknasn.net
 isln-taknsjmaasn.net
 isln-taknsjmasn.net
 ismailenesciftci.xyz
-isskldacslkdkll12l3kx12312.cfd
 isssachsadxasx123xsadxads.cfd
 issssskxsajkd123x21z123.sbs
 issue-needed-buffalo-carrying.trycloudflare.com
@@ -4442,8 +4438,12 @@ kgmagov.buzz
 kgmgcsbrcnzsrgl.com
 kgmgov.info
 kgmgov.sbs
+kgmhelps.click
 kgmigo.top
+kgmigov.qpon
+kgmipfngmsypp.online
 kgmn.qpon
+kgmnmubeyb.xyz
 kgmtr.sbs
 kgmyolgecisbrcnuzodyn.com
 kibrisarazi.com
@@ -4480,7 +4480,6 @@ kirmizibasliklipose.duckdns.org
 kirmizibasliklitirtil.duckdns.org
 kisa-edinim.guru
 kisa-links.site
-kisa-links.xyz
 kisaalink.xyz
 kisakisalinkler.vip
 kisalt-tr-mobil.sbs
@@ -4524,7 +4523,6 @@ km-durumsorgulama.web.app
 km-sorgu-avmptt.firebaseapp.com
 km-sorgu-avmptt.web.app
 km-sorgu-pttavm-platform.firebaseapp.com
-km-sorgu-pttavm-platform.web.app
 km-sorgulamak-icin-burdan.web.app
 kmbilgisi-ogrenin.firebaseapp.com
 kmchc78xjosmlas.cfd
@@ -5255,7 +5253,6 @@ mirkazuno.sbs
 mkasdjdgn3457.duckdns.org
 mkrjcsw.com
 mksfuuerwo.live
-mkskskx213xkk33.duckdns.org
 mksndnhg.short.gy
 mlgrsshazlrann.online
 mobicoolotobuzdolabi.click
@@ -5927,8 +5924,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7247,7 +7244,6 @@ sculptit.icu
 scxzswx.lovestoblog.com
 sd32xx232.duckdns.org
 sdcwww.oss-ap-southeast-1.aliyuncs.com
-sdfbhygbertbqwer.click
 sdfcsdfasdfasd.duckdns.org
 sdfdsfggfd.duckdns.org
 sdffdsadsf.duckdns.org
@@ -7395,6 +7391,7 @@ signalpost.info
 sigortamr.xyz
 sikarcas.shop
 silikonfiyat.shop
+silva.rest
 silverharvest.info
 simdi-40binpromsyonmo-burdan.cfd
 simdidebirazburdan.yyuyy.com
@@ -7873,7 +7870,6 @@ tavexel.xyz
 taviroq.gifts
 tavmarto.gifts
 tavqira.shop
-tavreno.tr
 tavzilo.gifts
 tax-filecenter-irs.matthewtarwater.com
 tbdefirsat.xyz
@@ -8536,7 +8532,6 @@ tuv.12855w652.forum
 tuvislem.site
 tuvkdkaksaksaas.com.tr
 tuvmhr-ss.com
-tuvmuayeneturkrandevu.online
 tuvonay.site
 tuvrkekakdsad.net
 tuvturk-a.com
@@ -8560,7 +8555,6 @@ tuvturkistasyonlari.ph
 tuvturklse.com
 tuvturkmuayene.duckdns.org
 tuvturkmuayene.org
-tuvturkobs.com
 tuvturkos.digital
 tuvturkrandevu.sbs
 tuvturkrandevual.sbs

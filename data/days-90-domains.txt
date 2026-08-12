@@ -407,7 +407,6 @@
 576345354.net
 5764352.net
 576465345.net
-583741926.lat
 58h0wzk70k8d.icu
 5d14vnfb.space
 5e0c6139-1.b-cdn.net
@@ -1513,7 +1512,6 @@ basvurlerdaevamda.sbs
 basvurrvn.sbs
 basvursenc.sbs
 basvursend.sbs
-basvursenders.sbs
 basvursendmr.sbs
 basvursendn.sbs
 basvursendsc.sbs
@@ -2873,7 +2871,6 @@ davaeavukat.org
 davamerkezi.org
 davasorusturma.org
 davsanllargiyimvs.duckdns.org
-db-l55polisi.online
 dbvagrntgirisonizlemetr.space
 dd3x32ffd2.duckdns.org
 ddnnnnezzzz5445448777745.store
@@ -3045,6 +3042,7 @@ dijionline-kampanya.sbs
 dijionline-siparis.sbs
 dijionline-siparisim.sbs
 dijionline-sipariskampanya.sbs
+dijionline-siparismarkt.sbs
 dijionline-siparisver.sbs
 dijisiparis-internet.sbs
 dijital-basvuruadres.sbs
@@ -4615,7 +4613,6 @@ guvenilirsorgupaneli.xyz
 guvenli-hizmet.online
 guvenli-odeme-yap.xyz
 guvenli-odemler.online
-guvenli-online-e-ticaret.com
 guvenli-pos.com
 guvenlialisveris-odeme.com
 guvenlialisveris.online
@@ -6430,9 +6427,13 @@ kgmgcsbrcnzsrgl.com
 kgmgooiv-tr.ink
 kgmgov.info
 kgmgov.sbs
+kgmhelps.click
 kgmigo.top
+kgmigov.qpon
+kgmipfngmsypp.online
 kgmn.qpon
 kgmngov.cfd
+kgmnmubeyb.xyz
 kgmtr.sbs
 kgmvrs.lat
 kgmyolgecisborcodesgr.ddnsgeek.com
@@ -7273,7 +7274,6 @@ marketfoundry.shop
 marketgrovehub.shop
 markethomeplace.shop
 marketindirimlerisizinle.duckdns.org
-marketinsightpro.online
 marketiva.sbs
 marketivs.com
 marketix.capital
@@ -8545,8 +8545,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10479,6 +10479,7 @@ sigortamr.xyz
 sikarcas.shop
 silemiyosankarala.org
 silikonfiyat.shop
+silva.rest
 silverharvest.info
 simclipquartz.cfd
 simdi-40binpromsyonmo-burdan.cfd
@@ -10727,7 +10728,6 @@ sonnnfrstlrrkmpnyaabsvrrr.art
 sonnnfrstlrrkmpnyaabsvrrr.info
 sonnnfrstlrrkmpnyaabsvrrr.online
 sonnnfrstlrrkmpnyaabsvrrr.pro
-sonnnnfrstkkkmpnyabsvrr.info
 sonnnnkmpnyaalrrremekliirpsmynnn.art
 sonra.eutialyson.com
 sonrasi-anlati-bec.myonlineportal.ch
@@ -10906,7 +10906,6 @@ staticcloudflare.pro
 statusnode.sbs
 steadybulletin.com
 stellaonline.biz.tr
-stellaonline.com.tr
 stellaonline.info.tr
 stellaonline.net.tr
 stellaonline.org.tr
@@ -11000,7 +10999,6 @@ summeredition.xyz
 summitdeclaration.org
 supercloudsaver.com
 superfirsatlar.xyz
-superindirimmerkezi1.sbs
 supermarketaglari.click
 supheliislemaktivasyonu.duckdns.org
 supounry.buzz
