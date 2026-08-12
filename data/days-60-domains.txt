@@ -117,7 +117,6 @@
 182randvm.com
 186randevuburadan.duckdns.org
 1agustostsiparislerinden.cloud
-1basvurunutamamla2.duckdns.org
 1ceptesokindirim-liurunler.duckdns.org
 1ksamdvcakajx123x12.cfd
 1kuaosadhashdha89asd29asdh.click
@@ -410,6 +409,7 @@ a101-sadeceonline.my-homeip.net
 a101extrakatalog.site
 a101indirimmmmm.duckdns.org
 a101kampanyanizburada.com
+a101kapidamarketim.com
 a101katalogguncel.duckdns.org
 a101katologz.duckdns.org
 a101magazafislerionline.net
@@ -2238,6 +2238,7 @@ downlfl.online
 download.get-version.com
 downpro.net
 doxxela.ink
+dpriv.my-homeip.de
 dramko.gifts
 dranpox.pics
 dranvist.qpon
@@ -2468,7 +2469,6 @@ endpoint-api-v1.com
 eneaktarim.com
 engzlera-82brdayz.org
 enhanceblabber.cc
-eniyifirsatlareniyiurunler.com
 eniyisiyim.sbs
 enlightgo.com
 enlimitonay.online
@@ -3258,6 +3258,7 @@ guvenlimuhasebeodemebirimi.duckdns.org
 guvenlimuhasebeodemeleri.duckdns.org
 guvenlimuhasebeodemeniz.duckdns.org
 guvenlimuhasebeodemenoktasi.duckdns.org
+guvenliodemehizli.com
 guvenliodemeonay.com
 guvenliodemesatislarim.com
 guvenlionayodeme.com
@@ -3749,7 +3750,6 @@ hizlikmlerinizburda.web.app
 hizlikmvemuz.xyz
 hizlimenu-yazi.click
 hizlimobilfirsatlarim.sbs
-hizlionaygerekenislerde.com
 hizlionaygerekenislerde.net
 hizlionaylarimseninlebirlikteherzaman.store
 hizlionaylarseninlebirlikteherzaman.com.tr
@@ -4737,7 +4737,6 @@ kurumsal-online-islem.com
 kurumsicil.org
 kurumsorgu.org
 kustanoma.ooguy.com
-kusursuzarackiralama.com
 kutysadhahsdhsad82sad.click
 kuvetteaqeqassasaa.com
 kuveyjttjkredibsvru.duckdns.org
@@ -4750,7 +4749,6 @@ kuveythizmetiarayuzu.duckdns.org
 kuveytileturkumreseyehati.duckdns.org
 kuveytileumreseyehati.duckdns.org
 kuveytislemlerinii.duckdns.org
-kuveytonline-kuveyt.duckdns.org
 kuveyttorg.duckdns.org
 kuveytturkkkk.duckdns.org
 kuzey-islem.22web.org
@@ -5060,7 +5058,6 @@ marriott-hiring.com
 marriott-opportunities.com
 marscarfilom.com
 masakadliye.org
-masakaktivasyon.duckdns.org
 masakblokekaldirma.duckdns.org
 masakbncaktivasyon.duckdns.org
 masakdosyasi.org
@@ -6062,12 +6059,14 @@ paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
 paribu-araba-cekilisi.com
+paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online
 paribu-araba-cekilisi.ooguy.com
 paribu-araba-cekilisi.opik.net
 paribu-araba-kazan.com
 paribu-araba-kazanma.com
 paribu-araba.com
+paribu-araba.live
 paribu-arababurada.com
 paribu-arababurada.link
 paribu-arabacekilisi.com
@@ -9339,6 +9338,7 @@ yaz.sonu.firsatlari.hismetlerdsfak.click
 yaz.sonu.firsatlari.hizmetlerimsizisf.click
 yaz.sonu.firsatlari.osmurmaomurga.click
 yazbonusu.digital
+yazfirsatgunlerinde.sbs
 yazgeldiarabatamirixx.duckdns.org
 yazkampanyalari.com
 ydndnasld.com
@@ -9611,6 +9611,7 @@ zrt300zrt300.cfd
 zrt300zrt300.sbs
 zrt300zzrtt.sbs
 zrtdijital.sbs
+zrtmorbilek.cfd
 zrtytrak.nicepage.io
 zt93mx87zr300cxa.cfd
 ztakrim.cfd
@@ -9634,5 +9635,4 @@ zuretede-sedevedere.lol
 zxcfsdfcwefwef.duckdns.org
 zynaris.io
 zync-stream.com
-zzasdsacxasasdfa.sbs
 zzirfhd.cfd

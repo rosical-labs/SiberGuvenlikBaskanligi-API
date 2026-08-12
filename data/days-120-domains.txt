@@ -769,7 +769,6 @@ a-101-extra-mobil-online-ozel-tr.mobil-bireysel-shop-web-tr.sbs
 a-101-extra-mobil-sadece-bugune-ozel-indirimli-sepet-tr.cepte-shop.online
 a-101-extra-mobil-sadece-online-ozel-siparis-tr.online-mobil-shop-tr.com
 a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site
-a-101-extra-online-bugune-ozel-tr.online-cepte-sponsor-tr.site
 a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click
 a-101-extra-online-sadece-bugune-ozel-tr.onlinecep-tr.site
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
@@ -841,6 +840,7 @@ a101indirmliurunlerial.com
 a101kampanyalarii.blogspot.com
 a101kampanyalariyakala.com
 a101kampanyanizburada.com
+a101kapidamarketim.com
 a101katalogguncel.duckdns.org
 a101katologz.duckdns.org
 a101magazafislerionline.net
@@ -1305,7 +1305,6 @@ alimlarinizhizmetler.online
 alinim-sure.ink
 alinmuyneburdan.lat
 alipay-guvenli.ph
-alisverisguvende.online
 alisverisinizguvende.com
 alisverislerikacirma1o1.ph
 alisverisptt-avm.com.ph
@@ -4621,6 +4620,7 @@ download-version.1-5-8.com
 download.get-version.com
 downpro.net
 doxxela.ink
+dpriv.my-homeip.de
 dragonstraffic.com
 drakebro.duckdns.org
 dramko.gifts
@@ -6578,6 +6578,7 @@ guvenlimuhasebeodemeleri.duckdns.org
 guvenlimuhasebeodemeniz.duckdns.org
 guvenlimuhasebeodemenoktasi.duckdns.org
 guvenliodeme-sahibinden-havale.com
+guvenliodemehizli.com
 guvenliodemeonay.com
 guvenliodemesatislarim.com
 guvenlionayodeme.com
@@ -6988,7 +6989,6 @@ hastnedkekse.com
 hastneisleriogrn.cfd
 hastnhrandvm.online
 hastvdrandvm.online
-hatirlayingeliyorum2.com
 hatradaoyasmakdegldknbus456363.click
 haulmaster.bond
 havadabibulut.sbs
@@ -10234,7 +10234,6 @@ mavbuylo.com
 mavellora.cfd
 maventradigital.com
 maventrasphere.com
-mavisancak.com
 mavolino.vu
 mavorila.com
 mavqelo.gifts
@@ -11704,7 +11703,6 @@ online-aktiflerin-sepet.pro
 online-aktuell.sbs
 online-aninda-hizmet.com
 online-bireysel-mobil-tr.sbs
-online-cepte-sponsor-tr.site
 online-dersaadet.shop
 online-elektronik-sepetim.com
 online-hizli-islem.com
@@ -12147,12 +12145,14 @@ paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
 paribu-araba-cekilisi.com
+paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online
 paribu-araba-cekilisi.ooguy.com
 paribu-araba-cekilisi.opik.net
 paribu-araba-kazan.com
 paribu-araba-kazanma.com
 paribu-araba.com
+paribu-araba.live
 paribu-arababurada.com
 paribu-arababurada.link
 paribu-arabacekilisi.com
@@ -13291,7 +13291,6 @@ qwrtybvc.sbs
 qxxobh.cc
 qyvandel.icu
 r.garantibbvakredibasvuru.com
-r2vx9m.click
 r2vx9m7q.cfd
 r2w8k5z9p3t6.cfd
 r4xq7mv2.sbs
@@ -13864,7 +13863,6 @@ saglikliol.giize.com
 saglikliolnnn.mywire.org
 saglikliozelgnlerex.webredirect.org
 saglikliyasamhemen.com
-saglikliyasamlar.com
 saglikliyasamvebeslenmeblogu.shop
 saglikll.mooo.com
 saglikoncegelirr.com
@@ -14535,7 +14533,6 @@ sinaloacarte.cfd
 sinerg-kat-list.myonlineportal.ch
 sinirlar-belirleme-durdur.myonlineportal.ch
 sinirlikampanyalar.blogspot.com
-sinirlisayidabasvuru.sbs
 sinirlisayidaurununuz.sbs
 sinirsizkampanyalarinizkapida.xyz
 sinodo.online
@@ -17055,7 +17052,6 @@ tuvturk-ors.com
 tuvturk-pt.com
 tuvturk-rose.com
 tuvturk-rov.com
-tuvturk-ss.digital
 tuvturk-sse.digital
 tuvturk-wir.com
 tuvturk-xls.com
@@ -18368,6 +18364,7 @@ yaz.sonu.firsatlari.hismetlerdsfak.click
 yaz.sonu.firsatlari.hizmetlerimsizisf.click
 yaz.sonu.firsatlari.osmurmaomurga.click
 yazbonusu.digital
+yazfirsatgunlerinde.sbs
 yazgeldiarabatamirixx.duckdns.org
 yazkampanyalari.com
 yazkampanyasi.beer
@@ -18906,6 +18903,7 @@ zrt300zrt300.sbs
 zrt300zzrtt.sbs
 zrtdijital.sbs
 zrtkmprnsyz.click
+zrtmorbilek.cfd
 zrtytrak.nicepage.io
 zsafdsaghfdassax.sbs
 zsaxsadsadssax.sbs
