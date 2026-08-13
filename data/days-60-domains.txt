@@ -5957,8 +5957,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7070,6 +7070,7 @@ s0kmarlketr.com
 s0kmlarkletlerden.shop
 s0lmalktlret.com
 s1z1raf.cfd
+s3.eu-north-1.amazonaws.com
 sa-mihyar.cyou
 sa-tok.com
 saaasdfsadfgfg.nicepage.io
@@ -8215,6 +8216,7 @@ tokikonut20giris.vercel.app
 tokikonutbasvurulari2.vercel.app
 tokikonuthamurabi.vercel.app
 tokitoplukonut.gravitycl.app
+tombankhadi.com
 tony.scriptdemo.top
 tooourhow.shop
 topicdaily.vu
