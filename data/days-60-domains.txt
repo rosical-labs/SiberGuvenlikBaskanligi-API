@@ -808,6 +808,7 @@ arabulucumerkezi.org
 arac-gerec.cards
 aracbakimhizmeti.blogspot.com
 aracbakimhizmetin.blogspot.com
+araccimmuayeyen.com
 araccmuayene-tuvturk-randvu.web.app
 aracimizmuayenede.com
 aracimmmuayeyem.com
@@ -2468,7 +2469,6 @@ endigital.help
 endigital.online
 endijital.help
 endijital.homes
-endijitalpara.lat
 endpoint-api-v1.com
 eneaktarim.com
 engzlera-82brdayz.org
@@ -2645,6 +2645,7 @@ fast-mob.com
 fast-page.shop
 fast.raidher.icu
 fate-dale-candidates-quantitative.trycloudflare.com
+faturakom-faskero.it.com
 faydagelecek.com
 faydakoprusu.live
 faydaliyasam.info
@@ -3785,8 +3786,6 @@ hmnbnlaraglsnde.com
 hmneislemnktasi.net
 hmnenislemnoktas.net
 hmnilsmkntans.net
-hmnilsmnktns.net
-hmnislemknasn.net
 hmnislemnoktnasn.net
 hmnislemntkas.net
 hmnislmeonkt.net
@@ -4073,6 +4072,7 @@ ironproxy.space
 irsatlargeldi.duckdns.org
 is-01-ast.ols-img-12.workers.dev
 is1c2kjkdsakjcskj13c213x1.shop
+isbak.online
 isbank-basvuruonayiniz.duckdns.org
 isbankasivatandaspayi.digital
 isbankwebbasvur.webhop.me
@@ -4734,6 +4734,7 @@ kurummali.org
 kurumsal-online-islem.com
 kurumsicil.org
 kurumsorgu.org
+kurumsorgulama.org
 kustanoma.ooguy.com
 kutysadhahsdhsad82sad.click
 kuveyjttjkredibsvru.duckdns.org
@@ -5619,7 +5620,6 @@ nexvexa.xyz
 nexvira.xyz
 nexvixo.xyz
 ngdance.fun
-nhkjmtrybewrb.click
 nice-protect.com
 niggerdemon.in
 nilbort.online
@@ -6096,6 +6096,7 @@ paribu-cekilis.co
 paribu-cekilisi.com
 paribu-cekilisim.co
 paribu-cekilisleri.com
+paribu-cekilislerim.online
 paribu-cevirkazan.com
 paribu-hediyelicark.com
 paribu-hediyelicekilisi.com
@@ -7734,7 +7735,6 @@ ssss22232323.duckdns.org
 sssseww23xx.duckdns.org
 sstbonlinebasvuru.com
 sstrak-bsrvat.cfd
-sstss.loseyourip.com
 stabil-olgu-gelisim.myonlineportal.ch
 staging.deep-eprime.app
 stanblksrtm.com
