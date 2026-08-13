@@ -6593,7 +6593,6 @@ ptt.mobilservisler-49.sbs
 ptt.mobilservisler-65.sbs
 ptt.mobilservisler-67.sbs
 ptt.mobilservisler-87.sbs
-ptt.satinalonlinesiparis.com
 pttaevm.com
 pttavm-arac-bilgileriniz.firebaseapp.com
 pttavm-arac-bilgileriniz.web.app
@@ -6611,7 +6610,6 @@ pttavm-araciniz-hakkinda.web.app
 pttavm-com.ph
 pttavm-guvenli-bilgilendirici.firebaseapp.com
 pttavm-guvenli-bilgilendirici.web.app
-pttavm-guvenliode.rf.gd
 pttavm-hizli-km-ogrenme.firebaseapp.com
 pttavm-hizli-km-ogrenme.web.app
 pttavm-hizli-ve-guvenli.firebaseapp.com
@@ -6635,25 +6633,17 @@ pttavm-kmsorgulama.web.app
 pttavm-oto-kontrol.firebaseapp.com
 pttavm-oto-kontrol.web.app
 pttavm.com.ph
-pttavm.e-ilan-online.com
 pttavm.guvenli.ilanlar.duckdns.org
 pttavm.guvenlihizmet.online
-pttavm.hizliveguvenli.sbs
 pttavm.ilan-sepetimde.com
-pttavm.ilanlarim-sepetin.pro
 pttavm.ile-alisverislerini-tamamlama.com
 pttavm.ile-online-islemlerim.com.tr
-pttavm.ileservishzmetlerinz.com
 pttavm.islemlerin-mobilde.com
 pttavm.islemleriniz-mobilden.com
 pttavm.kolay-tamamla.com
 pttavm.net.ph
 pttavm.onlinedogrulama.com
 pttavm.saticimerkezi.com
-pttavm.securesepetin.com
-pttavm.sepetimde-ilanlar.pro
-pttavm.sepette-siparis.com
-pttavm.sepette-siparisim.com
 pttavm.sip-tamamlat.com
 pttavm.siparis-guvenliodeme.com
 pttavmaracanaliz.firebaseapp.com
@@ -7079,7 +7069,6 @@ s0kmarlketr.com
 s0kmlarkletlerden.shop
 s0lmalktlret.com
 s1z1raf.cfd
-s3.eu-north-1.amazonaws.com
 sa-mihyar.cyou
 sa-tok.com
 saaasdfsadfgfg.nicepage.io
@@ -8224,7 +8213,6 @@ tokikonut20giris.vercel.app
 tokikonutbasvurulari2.vercel.app
 tokikonuthamurabi.vercel.app
 tokitoplukonut.gravitycl.app
-tombankhadi.com
 tony.scriptdemo.top
 tooourhow.shop
 topicdaily.vu
