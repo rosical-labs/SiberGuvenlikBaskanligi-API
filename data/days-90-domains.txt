@@ -859,6 +859,7 @@ akbank-invest-hub.sbs
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbank-pw.hizliyatirim.net
+akbank.com.ph
 akbankbireysel-sube.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
@@ -1922,7 +1923,6 @@ bizdenhizlisiyoktur.click
 bizi101kurtaracak.cloud
 bizimcberecendere.sbs
 bizimleberaber.sbs
-bizimlebirliktesiniz.com
 bizimleyarisamazlar.sbs
 bizimyaptigimizikimseyapmamistir.sbs
 bizizyurdakul.shop
@@ -2454,6 +2454,7 @@ cepde-tebden.myonlineportal.de
 cepgarantisube.ph
 cepgarantisubeci.ph
 cepsube-finansbank.ph
+cepte-islemleriniz-garanti.duckdns.org
 cepte-shop.online
 cepte-sok.shop
 cepte-sokindirim.rf.gd
@@ -3626,6 +3627,7 @@ erisim-denizacik.my-homeip.de
 erisim.casa
 erken-randevuhizmetleri.com
 erkendenalma.duckdns.org
+erkenmobilhizli.site
 erkenrandevuler.com
 erkerandevular.com
 erkndn1-82rvdalsn.org
@@ -6704,6 +6706,7 @@ kmpnyaasnnnfrsattlrrrbsvrr.live
 kmpnyaasonfirsaattbsvrr.art
 kmpnyaasonfirsaattbsvrr.online
 kmpnyabsvbrrprmsynn147852.online
+kmpnyabsvbrrprmsynn147852.pro
 kmpnyacpttbgrs.com
 kmpnyafrstlrrrprmsynnnbsvrr.pro
 kmpnyamrkzbsvrnktasi.info
@@ -7703,14 +7706,12 @@ mediaora.xyz
 medicalls.io
 medihubtr.com
 medinest.gifts
-mediumorchid-lapwing-533014.hostingersite.com
 mednyk.gifts
 meek-kangaroo-389f62.netlify.app
 meet-webconnect.com
 meetclick.store
 megadencer.top
 megahirdavatciniz.com
-megaindirimkampanyasi5.sbs
 meharase-web.com
 meharase.com
 mehareseinternet.com
@@ -12189,6 +12190,7 @@ toplukonutidaresi.gravitycl.app
 toplukonutidaresibabygangsubesi.vercel.app
 toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app
 toplukonutsignalgiris.vercel.app
+topluluk-t.garden
 topluluknet.org
 toplumbakisi.com
 toplumpenceresi.com

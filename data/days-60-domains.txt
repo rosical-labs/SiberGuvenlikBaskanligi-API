@@ -581,6 +581,7 @@ akbank-bireysel-sube.ph
 akbank-borc-sorgulama.ph
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
+akbank.com.ph
 akbankbireysel-sube.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
@@ -1685,6 +1686,7 @@ cepde-tebden.myonlineportal.de
 cepgarantisube.ph
 cepgarantisubeci.ph
 cepsube-finansbank.ph
+cepte-islemleriniz-garanti.duckdns.org
 cepte-shop.online
 cepte-sokindirim.rf.gd
 ceptehizlimenulerss.store
@@ -2542,6 +2544,7 @@ erisim-denizacik.my-homeip.de
 erisim.casa
 erken-randevuhizmetleri.com
 erkendenalma.duckdns.org
+erkenmobilhizli.site
 erkenrandevuler.com
 erkerandevular.com
 erkndn1-82rvdalsn.org
@@ -4448,7 +4451,6 @@ kapitalix.capital
 kapsamli-ebyl-g.myonlineportal.ch
 kapsamsekil-acil.biz
 karaca-ev.shop
-karaca-haziran.vercel.app
 karaca-store.shop
 karaca-temmuz.shop
 karaca.sbs
@@ -4675,6 +4677,7 @@ kmpnyaabsvrr12531.pro
 kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyabsvbrrprmsynn147852.online
+kmpnyabsvbrrprmsynn147852.pro
 kmpnyacpttbgrs.com
 kmpnyamrkzbsvrnktasi.live
 kmpnylrrbsvrrsnfrstlrrr.info
@@ -8025,7 +8028,6 @@ siskolarlaberke.xyz
 sismeboturunleri.com
 sistemeallll.shop
 sistemegirin.xyz
-sistemyuklendi.online
 site.nato-otan.net
 sitemdeal.shop
 siteveb.xyz
@@ -8524,7 +8526,6 @@ tejjdjsks.nicepage.io
 tejjdjskss.nicepage.io
 tejjdjskssf.nicepage.io
 tek-uygulamada-gecerli.lol
-tekdokunustaevinizde.com
 tekfirsatsponsorlurklam.com
 tekgercekkampanyaburasuaktc4.life
 tekgirismrt2025.com
@@ -8752,7 +8753,6 @@ toki-gov-tr.vercel.app
 toki-gov-trk.vercel.app
 toki-gov.yapisalkonutlar.lol
 toki-govtr-tc.vercel.app
-toki-konut-basvurutr.org
 toki-toplu-konutlar.vercel.app
 toki-toplukonut.gravitycl.app
 toki-toplukonut.vercel.app
@@ -8830,6 +8830,7 @@ toplukonutidaresi.gravitycl.app
 toplukonutidaresibabygangsubesi.vercel.app
 toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app
 toplukonutsignalgiris.vercel.app
+topluluk-t.garden
 topluluknet.org
 toplumbakisi.com
 toplumpenceresi.com
