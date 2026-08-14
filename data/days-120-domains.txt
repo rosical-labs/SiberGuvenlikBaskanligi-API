@@ -55,6 +55,7 @@
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
+101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101.3mysfirstl4.art
 10100002026.duckdns.org
@@ -830,7 +831,6 @@ a101indirimfirsatlarim.xyz
 a101indirimliurunleral.com
 a101indirimmmmm.duckdns.org
 a101kampanyalarii.blogspot.com
-a101kampanyalariyakala.com
 a101kampanyanizburada.com
 a101kapidamarketim.com
 a101katalogguncel.duckdns.org
@@ -3205,7 +3205,6 @@ buguncemberi.com
 buguncizgisi.com
 buguncografya.com
 bugundefteri.com
-bugundenhayat.com
 bugundenrandevual.com
 bugunevreni.com
 bugunherzamnkndenguzel345306t5.click
@@ -3557,6 +3556,7 @@ cayaypaketsin.lat
 caycial.online
 caydan-lik-indirimleri.net.tr
 caydanlikburada.vercel.app
+caydanlikburda.vercel.app
 caykaraca-11d70fd257ba.herokuapp.com
 caylclicimakinlere.com
 caymakineleri.com
@@ -4478,6 +4478,7 @@ dijitalnetform.sbs
 dijitalneybilgi-giris.sbs
 dijitalportalgiris.com
 dijitalsbasvurukanal.duckdns.org
+dijitalsiparis-kampanyalar.sbs
 dijitalsorgu.sbs
 dijitalweb-kampanya.com
 dijitalweb-kampanyalarimiz.com
@@ -7054,6 +7055,7 @@ hastaneminkontrolu.cfd
 hastaneminrandevusu.cfd
 hastaneninonunde.cyou
 hastanentente.uk
+hastanerandevu.uk
 hastanerlere.men
 hastanerndvkntrl.cfd
 hastaneserere.uk
@@ -9238,7 +9240,6 @@ kmkmsorgulamazfer.web.app
 kmkmsrglumaislemlergovptttmbb.duckdns.org
 kmkmsrgulamagvvtptmt.duckdns.org
 kmkmsrogulamagovpttcngz.web.app
-kmkmsrohgulamabelgin2.web.app
 kmkolayasorgu.firebaseapp.com
 kmkolaysorgu.firebaseapp.com
 kmkolaysorgu.web.app
@@ -14217,6 +14218,7 @@ sadeosolsprisatlaybftrk112.blogspot.com
 sadeosolsprisatlaybftrk112111.blogspot.com
 sadesconfsirsatlartr1od.blogdns.com
 sadfsafsda230203mk.net
+sadimuralme-venere.lol
 sadkjhsdakjhsadkjh.com
 sadmsakfdmskqfdfflflfl.net
 sadsahfdagf1.click
@@ -14263,7 +14265,6 @@ saglikliozelgnlerex.webredirect.org
 saglikliyasamhemen.com
 saglikliyasamvebeslenmeblogu.shop
 saglikll.mooo.com
-saglikoncegelsinn.com
 saglkgnlerderndvalnyrz.click
 saglkgnlrdlyrzbrdans.forum
 saglkgnlrdylrzbrdanmhrsss.cfd

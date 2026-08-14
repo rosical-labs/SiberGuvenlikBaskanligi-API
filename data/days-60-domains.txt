@@ -16,6 +16,7 @@
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
+101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101kapindakampanyasi.duckdns.org
 101kralsfe.duckdns.org
@@ -322,7 +323,6 @@
 75853489.xyz
 7640450a-b.b-cdn.net
 76423243.net
-765234525.net
 76535432.net
 7658576324143645.org
 777777777.duckdns.org
@@ -1641,6 +1641,7 @@ cay-caydanlikindirimleri.sbs
 cayalleltlering.com
 caycial.online
 caydanlikburada.vercel.app
+caydanlikburda.vercel.app
 caylclicimakinlere.com
 caymakineleri.com
 cbnmbzbnzxbvzbetytyruuee81.info
@@ -2170,6 +2171,7 @@ dijitalnetbilgi-giris.sbs
 dijitalnetform.sbs
 dijitalneybilgi-giris.sbs
 dijitalportalgiris.com
+dijitalsiparis-kampanyalar.sbs
 dijitalsorgu.sbs
 dijtalisbq.space
 dijtalsbn.space
@@ -3588,6 +3590,7 @@ hastanelerle.uk
 hastanem.uk
 hastaneminkolayi.duckdns.org
 hastanentente.uk
+hastanerandevu.uk
 hastanerlere.men
 hastaneyapakrandv.duckdns.org
 hastanrsdedede.uk
@@ -3616,7 +3619,6 @@ hazinemaliyebirimi.org
 hazinesicil.org
 hazinesorgu.org
 hazir-limit.click
-haziranaktuelfirsati.duckdns.org
 haziranayi5000stok.cfd
 haziranbasvurular.online
 haziranindiirimler.duckdns.org
@@ -3851,7 +3853,6 @@ hizlikmlerinizburda.firebaseapp.com
 hizlikmlerinizburda.web.app
 hizlikmvemuz.xyz
 hizlimenu-yazi.click
-hizlimobilfirsatlarim.sbs
 hizlionaygerekenislerdebirlikteyizs.com
 hizlionaylarseninlebirlikteherzaman.com.tr
 hizlionline.com
@@ -4838,7 +4839,6 @@ kuveyttorg.duckdns.org
 kuveytturkkkk.duckdns.org
 kuzey-islem.22web.org
 kydrmassanadmdglsn.com
-kylgcsbrcnzodynltf.com
 kypher.vip
 kypherion.biz
 kypnwywqt4.workers.dev
@@ -7511,6 +7511,7 @@ sadecsonlirnefirsatlar.blogdns.com
 sadeosolsprisatlaybftrk112.blogspot.com
 sadeosolsprisatlaybftrk112111.blogspot.com
 sadfsafsda230203mk.net
+sadimuralme-venere.lol
 sadkjhsdakjhsadkjh.com
 sadmsakfdmskqfdfflflfl.net
 sadsosa1o1onlsfy.blogspot.com
@@ -8086,7 +8087,6 @@ snfrstlrrkmpnyaabsvrrrprmsynn.online
 snfrstlrrkmpnyaabsvrrrprmsynn.pro
 snipr.my
 snipr.page
-sniuntmdnhergnicpagdm.shop
 snksnctysnysnns.com
 snkzlplrdansnnns.com
 snnfrstlrarrkmpnyaabsvrsu14785.info
