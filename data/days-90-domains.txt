@@ -9114,7 +9114,6 @@ portal-netgsm.online
 portal.federalverify-ssaclientportal.com
 portal.netgsm.online
 portalgiris.misecure.com
-portalgirisim.sbs
 portalm1hrs.xyz
 portalpasskey.com
 portalrandevuwsynxhak4n.duckdns.org
@@ -9400,7 +9399,6 @@ pttavmkmsorgulama.com
 pttavmkmsorgumerkezi.web.app
 pttavmonlinesepethemenal.com
 pttavmsepethemenal.com
-pttavmsepettenal.com
 pttavmsepettensatinal.com
 pttavmsiparisimonline.com
 pttavmturkiye.shop
