@@ -617,6 +617,7 @@ baykarmtal.com.ph
 baykarplatform-system.com
 baykarspprt.com
 bbasruvu1-com.cfd
+bbasruvus-com.cfd
 bbay0nl3ndiriliy0rs0n.duckdns.org
 bbytyzirtar.cfd
 bbzirbta.cfd
@@ -675,6 +676,7 @@ biocircuitlab.com
 bireysel-akmobil-cepte-com.duckdns.org
 bireysel-islemler-com-garanti.duckdns.org
 bireysel-islemlerim-garanti.freemyip.com
+bireysel-islemleriniz-garanti.duckdns.org
 bireysel-ziraatli-kampanya.my-homeip.net
 bireyselsiparis.com
 bireyselsubehalkbank.com.ph
@@ -1114,7 +1116,6 @@ dijitalgiris-netbilgi.sbs
 dijitalhizzlihizmet.duckdns.org
 dijitalindirim-kampanyalar.sbs
 dijitalislemfirsati.sbs
-dijitalnetbilgi-giris.sbs
 dijitalneybilgi-giris.sbs
 dijitalsiparis-kampanyalar.sbs
 dijitalsorgu.sbs
@@ -2933,6 +2934,7 @@ mhrsbilgi.duckdns.org
 mhrsekrangirisyonlendirme.duckdns.org
 mhrsilerandevuekrani.duckdns.org
 mhrsrandevu346.duckdns.org
+mhrsrandevumerkezi.myshopify.com
 mhrsrandvlrmzbrasi.sbs
 mhrsrarandvlrmbrda.sbs
 mhrsrarandvzhmzrsbrda.sbs
@@ -5131,6 +5133,7 @@ ya-l-bankac-l.vercel.app
 yanitlama-grs.garden
 yapicajsdkjjk123x123.sbs
 yapikredi.com.ph
+yapikredi.giris.2g0c.com
 yapikredimobil.netlify.app
 yapikredisubesigirisg.com.ph
 yardimdestek.org
