@@ -518,7 +518,6 @@ avis-sozlesme.hizli-islemler-merkezi.com
 avis.arackiralamaislem.com
 avis.hizmet-merkezi-online.com
 avis.sozlesme-islemleri-online.com
-avisfilo.rent
 avisfilotr.com
 avisfilotr.net
 aviskirala.net
@@ -855,6 +854,7 @@ cekilisbinance.com
 cekilisi-paribu.co
 cekilisleriparibu.com
 cekilissonucqnbfinans.com.ph
+cekilissonucuqnbfinans.com.ph
 cep-te-teb.myonlineportal.de
 cepde-tebden.myonlineportal.de
 cepgarantisube.ph
@@ -1103,7 +1103,6 @@ dijitalbilgi-giriskampanya.sbs
 dijitalbilgi-girisnetkampanya.sbs
 dijitalbilgi-sorgu.sbs
 dijitalbilgi-sorguislem.sbs
-dijitalbilginet-giris.sbs
 dijitalbilginet-giriskampanya.sbs
 dijitalgiris-bilginet.sbs
 dijitalgiris-netbilgi.sbs
@@ -1519,6 +1518,7 @@ garantibbva-acres.com.ph
 garantibbva-bell.com.ph
 garantibbva-com-tr.replit.app
 garantibbva-isbank.com.ph
+garantibbva-vero.ph
 garantibbvafirsatlri.duckdns.org
 garantibbvahesaphareketleri.ph
 garantibbvaiade.ph
@@ -1897,7 +1897,6 @@ hazineleri.com
 hazinesicil.org
 hdfportfoy.com
 headlinecore.gifts
-headly.online
 healthvello.com
 heasdawdas.duckdns.org
 hedeffon.com
@@ -2090,7 +2089,6 @@ hukukbirimi.org
 hukukcezasi.org
 hukukdava.org
 hukuksistem.net
-huligili-gulederase.lol
 hulukuede-reteyesede.lol
 hurgadatour.shop
 hvao.jbgroup21.com
@@ -3376,7 +3374,6 @@ otokocarabakirala.com.tr
 otokocarabakiralama.com.tr
 otokocarackirala.com.tr
 otokocarackirala.net.tr
-otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
@@ -3848,7 +3845,6 @@ renatalopeslope.pro
 rentirent.com
 rentiva.net
 reportifynu.com
-revola.life
 rexzr300xbsvruzrt0.click
 rhymedream.com
 rhythmora.com
