@@ -3283,7 +3283,6 @@ e-devletmhrss.sbs
 e-devletresmituvturk.site
 e-devletteniadelerrgerigeldi.com.ph
 e-dosyalarim.com
-e-ehliyet.art
 e-elektronik-firsat-sepetimiz.com
 e-giftportal.com
 e-girionlin.cfd
