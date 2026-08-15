@@ -201,7 +201,6 @@ a-101-extra-sadece-bugune-ozel-sepette-tr.pay-tr.online
 a-101-extra-sadece-mobile-ozel-sepette-indirim-tr.sepette.online
 a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
-a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
 a-101-sadece-bugune-ozel-mobil.online-tr-shop-mobil.site
@@ -366,7 +365,6 @@ allneedsstore.shop
 allportcargoservice.com
 allpurposebay.shop
 alo182biziz.duckdns.org
-alphabitcapital.info
 alphagridnexus1.lol
 alphagridnexus10.lol
 alphagridnexus2.lol
@@ -1196,7 +1194,6 @@ e-sube.tunafonyonetimi.com
 earthsignal.capital
 easynexora.online
 ebebekonline.shop
-ecezamkontrol.org
 echojournal.world
 echosecure.space
 ecologygrid.capital
@@ -1300,7 +1297,6 @@ enveil.online
 envell.xyz
 envercicek.com
 enviirandevu.org
-eorthopaedics.com
 eportalsorgu.org
 equuyl.com
 era7capone.sbs
@@ -3146,7 +3142,6 @@ nexuswavecore7.lol
 nexuswavecore8.lol
 nexuswavecore9.lol
 ngdance.fun
-niggerdemon.in
 nilbort.online
 nileora.sbs
 nilohipolna-katore.lol
@@ -3987,9 +3982,7 @@ sahibinden.siparisverhemen.com
 sahibinden.sozlesme-islemleri-online.com
 sahibinden63.com
 sahibindenguvenlikasko.com
-sahibindenguvenlimuhasebeodemeleri.duckdns.org
 sahibindenkargo-islem.com
-sahibindenkaskoodemenoktasi.duckdns.org
 sahibindenparamguvende.islemonaylatr.online
 sahibindenparamguvendeonay.com
 sahibindenpay.shop
@@ -3999,7 +3992,6 @@ sahibindensatis.org
 sahibindensatisonay.com
 sahibindensatiss.click
 sahibindensigorta.com
-sahibindensigortaodemesi.com
 sahiplenici-edinim-gr.ink
 sahlbindeni.com.tr
 sahtediplomam.com
@@ -4011,7 +4003,6 @@ saltokunur.casa
 santaskagsaen.online
 sapdfsaodfsadl.online
 sarah199012344.workers.dev
-sastoro.com
 satir-web.ink
 satiskapida.com
 satiskapinda.com
@@ -4979,7 +4970,6 @@ whiteads.ru
 widthzo.com
 wiley-photographer-started-conservative.trycloudflare.com
 wincdn.ru
-windowscreenrepairnearme.com
 windowserv.net
 wispren.click
 woltexi.com
@@ -5259,5 +5249,4 @@ ztrtrtryl.cfd
 zunarikex.com
 zunvexo.com
 zuretede-sedevedere.lol
-zynaris.io
 zzirfhd.cfd
