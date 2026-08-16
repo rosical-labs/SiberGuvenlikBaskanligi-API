@@ -66,6 +66,7 @@
 182-web.sbs
 182-webb.sbs
 182-webs.biz
+182-webs.help
 182-webs.online
 182-webs.sbs
 182.24612-20114.xyz
@@ -703,7 +704,6 @@ botasinternational.com.tr
 botonline.click
 boyner.demrebicer.com
 brasimhrsrandvlrmz.sbs
-brdamhrsarandvlrmz.sbs
 brdamhrsrandvlrmz.sbs
 brdamhrsrarandvzhmzr.sbs
 brdan1-82rvdleralnr.com
@@ -1277,13 +1277,13 @@ envercicek.com
 enviirandevu.org
 eportalsorgu.org
 equuyl.com
-era7capone.sbs
 era7capone3.sbs
 era7capone5.sbs
 erde-rederesedere.lol
 erisim-denizacik.my-homeip.de
 erisim.casa
 erkendenalma.duckdns.org
+erkengulen.biz
 erkenmobilhizli.site
 erkndn1-82rvdalsn.org
 erp-account-sg.top
@@ -1706,6 +1706,7 @@ gulluoglubaklavalari.shop
 gulluoglushop.abacusai.app
 guncelatlas.site
 gunceldosyalarim.com
+guncelmerkez.abrdns.com
 guncelpencere.site
 guncelses.world
 guncelsikayetler-458.sbs
@@ -1713,6 +1714,7 @@ guncelsikayetler-459.sbs
 guncelsikayetler-773.sbs
 guncelsikayetler-778.sbs
 gunceltrsikayetler-258.sbs
+gundelikhaberlerr.sbs
 gundemdunyasi.world
 gundemkaynak.org
 gundemnokta.world
@@ -2016,7 +2018,6 @@ honejestrer.duckdns.org
 honejsterheyr.duckdns.org
 honejsterkestler.click
 honesjerkteryers.duckdns.org
-honestlerkesjer.duckdns.org
 honestx.duckdns.org
 hopcipiti-fipfipsede.lol
 horizonguard.space
@@ -2754,7 +2755,6 @@ markettrailway.shop
 marketvistae.gifts
 marketwarehouse.shop
 marksandspencer1.online
-markunabaras.click
 marmaracicekcim.com.tr
 masakpro.app
 masaktakibi.org
@@ -2772,6 +2772,7 @@ mavbuylo.com
 mazi-web.myonlineportal.ch
 mcafilo.com
 mcelerndeslesw.duckdns.org
+mdsfhfgsr.com
 mediamarkt.guvenli-hizmet.online
 megadencer.top
 meherse.com
@@ -2799,7 +2800,6 @@ merkeziyetsizbasvuru.com
 merkezkayiti.abrdns.com
 merkezlekayit.abrdns.com
 merkezlerkayitli.abrdns.com
-merkezlkayit.abrdns.com
 merkezyasam.com
 merlrdenslesw.duckdns.org
 mersiniyilikor.net
@@ -3136,6 +3136,7 @@ npmjs.store
 npmjs.us.org
 ns-wwwhaber7com.almach.shop
 ns-wwwhaber7com.descarga-mg.co
+ns-wwwhaber7com.rojadirecta-com.co
 nunuhugu-gugufueu.lol
 nwcsprasevess.duckdns.org
 nxtdrcliam.site
@@ -4810,6 +4811,7 @@ vusuydryt.love
 vuvugufere-dadada.lol
 vxzcbvcbnbnxsszssd21.click
 w2m7r9t3n5x6.click
+wastingtime.co
 wdyenisafakvm.com
 web-bas-vur.myonlineportal.de
 web-garanti-subesi-tr.ph
