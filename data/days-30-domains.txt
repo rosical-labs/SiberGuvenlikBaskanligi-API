@@ -494,7 +494,6 @@ autodiscover.1254598989899894.duckdns.org
 autodiscover.862413415907186110.duckdns.org
 avansy-web.ink
 avantaj-tr.online
-avantaj-web.guru
 avantajnoktasi24.sbs
 avaraj.my-homeip.de
 avirox.gifts
@@ -828,7 +827,6 @@ cdnatapple.ru
 cdnjsdelivr.beer
 cdns3.51quickfox.cn
 ce953a0eb08246617b7f849486c4b26a7af37e9d2e8f0e13b3ae1bf0da8a70a.xyz
-cebinde-temmuz.biz.tr
 cebinde-temmuz.com.tr
 cebinde-temmuz.org.tr
 cebinde-temmuz.tv.tr
@@ -1769,7 +1767,6 @@ haberler2373432.shop
 haberler311748.shop
 haberler3242.sbs
 haberler332348.shop
-haberler33544.sbs
 haberler34063.sbs
 haberler34341.sbs
 haberler344232.shop
@@ -1864,7 +1861,6 @@ helboystr.duckdns.org
 helfeguystr.duckdns.org
 hellomonsterler.duckdns.org
 helwmgsl.sbs
-hemeleterfesa.duckdns.org
 hemen-aninda.cards
 hemen-birkacdakika.guru
 hemen-siparisver.com
@@ -2195,7 +2191,6 @@ iztoaofsa.blogspot.com
 iztsdwws.blogspot.com
 jabber.evsahibibasvuru.com
 jaiydteds.love
-jekep3410.store
 jerusalem.androiddebugbridge.su
 jetcepte.info
 jhdgfad.nicepage.io
@@ -2407,6 +2402,7 @@ laminyamalfans.duckdns.org
 landerlerdesnes.duckdns.org
 larek.vu
 larpers.fun
+layout-v.ink
 lazada-bankmandiri-garantibbva.com.ph
 lderdelnerdenews.duckdns.org
 learnivo.xyz
@@ -3234,7 +3230,6 @@ onemoytoring.top
 onemytoring.top
 onlaynilebirliktesahipol.sbs
 online-hizli-islem.com
-online-islemlerim.com.tr
 online-islemnktansa.net
 online-kredi-merkezi.cloud
 online-kredi-onay.cloud
@@ -3730,7 +3725,6 @@ randevuekranportalmhrsonline.duckdns.org
 randevuhzmtlerburdsas.store
 randevulugunlerburada.duckdns.org
 randevunoktasi.duckdns.org
-randevusorgulamamhrsonline.duckdns.org
 randevusuzgunlerden.duckdns.org
 randvhsziemtsd.store
 randvuislmlerinizburadan.duckdns.org
@@ -4863,6 +4857,7 @@ wsb-tapsverndvun.info
 wsb-tapsverndvun.net
 wututuututu.nicepage.io
 wwvhalkbankcekilis.org.ph
+www-braun-tr.com
 www-brauntr.com
 www-internetbankacilik-qnbfinansbank.ph
 www-qnb-finansbank-access.ph
