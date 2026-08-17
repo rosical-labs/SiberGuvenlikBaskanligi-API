@@ -1040,6 +1040,7 @@ basvuruasdagarantili.shop
 basvuruherzamandevamsiparis.sbs
 basvurukontrlleri.rf.gd
 basvurukuvytpromosyon.duckdns.org
+basvurulari-1.sbs
 basvurularimiz.myonlineportal.de
 basvurulariniaslasman.sbs
 basvurularinitamamlar.sbs
@@ -6091,6 +6092,7 @@ otokocarabakiralama.com.tr
 otokocarackirala.com.tr
 otokocarackirala.net.tr
 otokocarackirala.org
+otokocaviskiralama.net
 otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
@@ -7662,6 +7664,7 @@ shoplunaq.digital
 shopmobil.online
 shops-mobil.online
 shopsites.shop
+shopstore-tr.online
 showmixly.net
 showpulsera.net
 showsix.digital
@@ -9464,7 +9467,6 @@ yavshopi.digital
 yayin-web.casa
 yayinlanan-detay.guru
 yaytrartkrpatmyn.shop
-yaz-ayi-express-bonus.sbs
 yaz-ppromosyonlariburada.com
 yaz.firsatlari.kacirma.hizmetlersqwrhizmetls.click
 yaz.firsatlari.kacirma.oprpesfkfpoogslkdalkasflk.click
