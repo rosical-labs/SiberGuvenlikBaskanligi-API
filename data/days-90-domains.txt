@@ -2727,6 +2727,7 @@ cryptotoki.site
 cryptotokimarket.store
 crystaltoki.site
 csaxasdsafa-ee.cfd
+csdf.rauzmiklimlendirme.com
 csgb-gov-tr.app
 csgb-gov-tr.com
 csgbgovtr.me
@@ -7081,6 +7082,7 @@ login-netsuite.com
 login-odoo.com
 login-salesforce.com
 login.evsahibibasvuru.com
+login.org.tr
 login.trees4sale.net
 logisticabiomedica.com
 logiswebmail.top
@@ -8887,6 +8889,7 @@ osymodeme.xyz
 osymodemeekrani.xyz
 otaviofritzen.online
 otoaracteoglion.org
+otobus.obilet-mobil.uk
 otokoc.rent
 otokocarabakirala.com.tr
 otokocarabakiralama.com.tr
@@ -8900,8 +8903,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9680,7 +9683,6 @@ psmsynnnkmpnyaaaa.live
 ptksdasfasxa-sa.cfd
 ptt-avm-arac-km-sorgu-sist.firebaseapp.com
 ptt-avm-arac-km-sorgu-sist.web.app
-ptt-avm-bireysel-sepetim.com
 ptt-avm-islemleriniz-km.firebaseapp.com
 ptt-avm-islemleriniz-km.web.app
 ptt-avm-kilo-metre-sorgula.firebaseapp.com
@@ -12493,6 +12495,7 @@ turksistem.space
 turksondakikadunyasi.com
 turksondakikalar.com
 turktelekom.sbs
+turkticaretbankasi.login.org.tr
 turkticaretbankasi.org.ph
 turktoday.blog
 turnervault.net
@@ -13527,6 +13530,7 @@ yatirim.oykportfolio.online
 yatirimblogu.com
 yatirimci-merkezi.com
 yatirimci-merkezi.net
+yatirimhedef.com
 yatirimmerkeziinfo.net
 yatirimnotu.world
 yatirimrehberi.site

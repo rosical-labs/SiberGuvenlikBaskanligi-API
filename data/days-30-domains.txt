@@ -189,7 +189,6 @@
 9f317aeb98.nxcli.io
 a-1-0-1-sadece-online-ozel-mobil-indirimler-sepette-tr.bilgis-tr.online
 a-101-bireysel-extra-indirimler.online-tr-shop.site
-a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site
 a-101-bugune-ozel-indirim-sepeti-mobil-cep.pay-tr.online
 a-101-bugune-ozel-indirim-tr-sepette-mobil.online-ozel-siparis.online
 a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
@@ -946,6 +945,7 @@ cryptomeshforge6.lol
 cryptomeshforge7.lol
 cryptomeshforge8.lol
 cryptomeshforge9.lol
+csdf.rauzmiklimlendirme.com
 csgbgovtr.me
 cugeredesede-sederese.lol
 cugufirede-sedete.lol
@@ -2217,7 +2217,6 @@ kafamaskacagim.sbs
 kafamaskarimlan.sbs
 kafamaskarimlan1.sbs
 kahvemakinasial.xyz
-kaitakcl12lk3xk1l3212.cfd
 kalsandnsdansdn.com
 kampanhshshshs.com
 kampanyadijitalvakifmobil.com.ph
@@ -2438,6 +2437,7 @@ login-microsoft-virtualpe.com
 login-netsuite.com
 login-odoo.com
 login-salesforce.com
+login.org.tr
 login.trees4sale.net
 logmabx.click
 loli32.vip
@@ -3289,6 +3289,7 @@ oskeyconnect.com
 oskeysync.com
 osmurmaomurga.click
 otoaracteoglion.org
+otobus.obilet-mobil.uk
 otokoc.rent
 otokocarabakirala.com.tr
 otokocarabakiralama.com.tr
@@ -3299,7 +3300,6 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilom.net
-otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
 otokocfiloturkiye.com
@@ -3715,7 +3715,6 @@ rafaeldyidenqz.duckdns.org
 rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
 rafata3131acsldjcklk1j3x12.cfd
-rafatafax123213z123.sbs
 rafatebx1j23jx123z123.cfd
 raksdlaskckjlc123x132.cfd
 rakvtxsdn.cc
@@ -4602,6 +4601,7 @@ turkiyeperspektif.com
 turkiyesigorta.com.ph
 turkpress.blog
 turktelekom.sbs
+turkticaretbankasi.login.org.tr
 turktoday.blog
 turquoisetr.sbs
 tursabdogrulama.com
@@ -4950,6 +4950,7 @@ yasamyolculugu.com
 yasanan.ink
 yatirim.oykportfolio.com
 yatirim.oykportfolio.online
+yatirimhedef.com
 yayin-web.casa
 yayinlanan-detay.guru
 yaytrartkrpatmyn.shop
