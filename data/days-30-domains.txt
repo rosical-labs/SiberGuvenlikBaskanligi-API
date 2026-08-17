@@ -2706,6 +2706,7 @@ maliyeeavukat.org
 maliyetakibi.org
 maliyevergiformu.com
 maliyevezne.com
+maliyeveznedartalepformu.com
 managementapiservice.com
 mangocloudfile.com
 mangorbit.com
@@ -3661,7 +3662,6 @@ qunlivo.com
 qwdx12xqadxqx.duckdns.org
 qwdx21x1xd12.duckdns.org
 r6w2q8n5t9k1.click
-radio.evsahibibasvuru.com
 rafa10jkascdkaskx13x123123x.cfd
 rafa10sakcdjakxk12k3lx123x12.cfd
 rafa11adkaxdkjxk12x213x13.cfd
@@ -4161,6 +4161,7 @@ soft-feather-7807.0x.cloudflare-workers.workers.dev
 softex.cyou
 sok-marketler-kampanyasi-stoklarla52052052.sbs
 sokfirsatlarburada.com
+sokisokkapidafirsattilari.duckdns.org
 sokmarketlerfirsatlarim.com
 soktabugun.site
 soktabugun.space
@@ -4340,6 +4341,7 @@ tarzxgiyimistxx.xyz
 tasaqx1xadds.duckdns.org
 taskveria.gifts
 tcadli.org
+tchazinemasak.org
 tckalkinmabankasi.com
 tckalkinmayatirimbankasi.com
 tckceza.org
