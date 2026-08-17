@@ -157,6 +157,7 @@
 182-webs.help
 182-webs.online
 182-webs.sbs
+182-webs.store
 182-website.com
 182-weeb.net
 182.24612-20114.click
@@ -2143,8 +2144,10 @@ bsvurrrkmpnyylrrsnfrstlarr.info
 bsvurum-kvveyt.xyz
 bsvvrrrrkrediiiprmsynnnkmpnyaa.info
 bsvvrrrrkrediiiprmsynnnkmpnyaa.pro
+bsvvvurrrsnfrstlrrrkmpyasii.click
 bsvvvurrrsnfrstlrrrkmpyasii.info
 bsvvvurrrsnfrstlrrrkmpyasii.live
+bsvvvurrrsnfrstlrrrkmpyasii.pro
 bsykartech.com
 btcturk-cekilis.com
 btcturk-kripto1781772972.zendesk.com
@@ -5291,7 +5294,6 @@ hhgcyklmeisl.click
 hhgsykleodemells.com.ph
 hhizservs.click
 hhizservslr.click
-hhizzlgcis.click
 hhizzlgcs.click
 hhizzlgecs.click
 hhportfolio.com
@@ -7766,6 +7768,7 @@ mhlshemen.uk
 mhlshemenc.men
 mhlsrlrfand.com
 mhltkfardn.com
+mhpubrsle.digital
 mhr-al-hadisende.duckdns.org
 mhr.serceparmak.cyou
 mhr.serceparmak.xyz
@@ -8893,8 +8896,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9727,7 +9730,6 @@ pttavm-hizli-ve-guvenli.firebaseapp.com
 pttavm-hizli-ve-guvenli.web.app
 pttavm-hizliveguvenlidir.firebaseapp.com
 pttavm-hizliveguvenlidir.web.app
-pttavm-ilanlarim-sepette.com
 pttavm-kilo-metre-sorgulama.web.app
 pttavm-km-hizliogren.firebaseapp.com
 pttavm-km-hizliogren.web.app
@@ -9836,6 +9838,7 @@ publiclumen.sbs
 publicpost.garantibbvakredibasvuru.com
 publicspeakingtip.org
 publicyn.com
+pubmhsl.digital
 pueedusstaff.unaux.com
 pulse-vol.com
 pulsechronicle.site
@@ -10715,6 +10718,7 @@ sepetimde-odeme-3957.com
 sepetimdeindirimleriyakala.com
 sepetimdeonline.click
 sepetimdeonline.online
+sepetimdeonline.site
 sepetimdeonline.store
 sepetimonay.click
 sepetimonay.online
@@ -12493,7 +12497,6 @@ turnkeyaiagents.com
 turquoisetr.sbs
 tursab.acentasorgu.com
 tursabacentasorgula.com
-tursabacentesorgula.org
 tursabdogrulama.com
 tursabonlinesorgu.com
 tutiq.vu
@@ -12568,6 +12571,7 @@ tvtrkjhzmetlrebsd.online
 tvtrkjhzmetlrebsd.store
 tvtrkkdshhzimetburds.online
 tvtrkkdshhzimetburds.store
+tvtrksnrhzsdme.store
 tvtur-k.net
 tvturk-ei.digital
 tvutkyns.net
