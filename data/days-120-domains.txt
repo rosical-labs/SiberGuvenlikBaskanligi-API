@@ -12309,8 +12309,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -17518,7 +17518,6 @@ tursabsorgu.org
 tursil-cepte.biz.tr
 tursil-cepte.name.tr
 tursil-cepte.web.tr
-turvex.click
 tutacagiz81ileverdigimizsozleri.sbs
 tutfox.cfd
 tutiq.vu
