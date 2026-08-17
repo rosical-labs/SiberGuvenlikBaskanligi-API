@@ -9346,7 +9346,6 @@ kmsorgupratik.web.app
 kmsorgupttavm.com
 kmsrgoalamayapalimhemenlea.duckdns.org
 kmsrgoalamyapalimkmhmnamt.com
-kmsrgoalmasinemyaps2.web.app
 kmsrgulamagovptt.duckdns.org
 kmsrogalamyapsinem2.duckdns.org
 kmverimerkezi.firebaseapp.com
@@ -12313,8 +12312,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
