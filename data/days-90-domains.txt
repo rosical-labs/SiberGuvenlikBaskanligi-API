@@ -3942,7 +3942,6 @@ flakecheck.online
 flas-smart-umut.org
 flashforward.longviews.ai
 flashledger.top
-flashsignal.world
 flashtrail.online
 flavorlino.com
 flbayatirim.com
@@ -4018,7 +4017,6 @@ freshvista.website
 friestea.info
 friestea.xyz
 frm1ktr.top
-frontstory.pro
 frrrstllrrrkmpppnnnyaaaabsvrrr.info
 frrrstllrrrkmpppnnnyaaaabsvrrr.pro
 frrstlrrkmnyaabsvrrr25479123.info
@@ -5366,7 +5364,6 @@ hizligecisbakiesni.web.app
 hizligecisbakiyebayi.web.app
 hizligecisbakiyemerkezi.web.app
 hizligecisbakiyeniz.firebaseapp.com
-hizligecisbakiyeniz.web.app
 hizligecisbakiyerdm.firebaseapp.com
 hizligecisbakiyesistemi.firebaseapp.com
 hizligecisbakiyesistemi.web.app
@@ -6865,7 +6862,6 @@ kubaaraclari.com
 kubafabrika.com
 kubamagaza.com
 kubamotorluaraclar.com
-kubaonlinesatis.com
 kufar.org
 kufsen.netlify.app
 kuluhugude-redesede.lol
@@ -7566,7 +7562,6 @@ marksandspencer-login.ph
 marksandspencer1.online
 markunabaras.click
 marmaracicekcim.com.tr
-marmaralink.com
 marnetico.com
 marnikovel.capital
 marqexo.xyz
@@ -8325,7 +8320,6 @@ newremupdate.duckdns.org
 newrentalsenterprise.com
 news24go.com
 newscend.online
-newschannelnow.com
 newsfolio.info
 newsgardensnde.duckdns.org
 newsgradelerdsew.duckdns.org
@@ -8333,7 +8327,6 @@ newsiora.pro
 newsolutionsxsenterprise.icu
 newsonburduartc4b1kpromosyonkrebu.online
 newsonburduartc4b1kpromosyonkrebu.store
-newsoria.online
 newspeakly.com
 newsportalx.com
 newsquark.top
@@ -8645,7 +8638,6 @@ onayekraniniz-sorogrengiris.sbs
 onayekrniniz-sorupogren.sbs
 onaygirisasamalari.sbs
 onaylama-bilet-received.myonlineportal.eu
-onaylandiaktarimi.duckdns.org
 onayli-siparis-417843.ph
 onaylislem.com
 onayvermebana.art
@@ -8896,8 +8888,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10153,7 +10145,6 @@ referansfba.com
 referansmenkuldeger.com
 reformyn.com
 regdev-google.com
-regeurope.online
 reggysolution.info
 reggyupdated.info
 registerpasskey.com
@@ -10296,7 +10287,6 @@ s.orove.cn
 s0k-malrket.shop
 s0karmetler.shop
 s0kf1rsatlr.com
-s0kfi-rsatiar-s1mdi-sibura.shop
 s0kmalketler.shop
 s0kmalrketller.shop
 s0kmalrlet.shop
@@ -11433,7 +11423,6 @@ storvam.pics
 storvax.com
 story-vers.xyz
 storyflux.company
-storyflux.org
 storyhubix.com
 storyiqo.com
 storylinez.store
@@ -12416,7 +12405,6 @@ turkeyoutofnatoproject2028.com
 turkeypulse.online
 turkeystore.xyz
 turkeyynewss.com
-turkflash.site
 turkhaberaktiflink.com
 turkhaberaktuel.com
 turkhaberz.com
@@ -12539,7 +12527,6 @@ tuvturkerose.com
 tuvturkerps.com
 tuvturkespr.com
 tuvturkistasyonlari.ph
-tuvturkk.duckdns.org
 tuvturklse.com
 tuvturkmuayene.duckdns.org
 tuvturkmuayene.org
@@ -12805,7 +12792,6 @@ vaxdori.tr
 vaxorilqemu.xyz
 vaxunor.gifts
 vaydunyavay.sbs
-vaylele.click
 vaylele.lat
 vaylele.sbs
 vayro.cyou
@@ -13192,7 +13178,6 @@ worldcupstreameast.xyz
 worldcupusa.world
 worldcupusa.xyz
 worlddispatch.blog
-worldeconomyinsights.com
 worldmarketpulse.world
 worldpressline.com
 worldtrend.online
