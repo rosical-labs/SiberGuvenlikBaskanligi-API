@@ -3655,7 +3655,6 @@ ceviri-lifonsi-edinim.myonlineportal.eu
 cevirkazanbntr.duckdns.org
 cevredostutasarimlarpazari.shop
 ceza-kgm.cc
-cezabirim.org
 cezabirimi.net
 cezadavasorgu.org
 cezadosya.org
@@ -6163,7 +6162,6 @@ ghostbladed.info
 ghwhdx.cyou
 gibdijtial.com
 gibeportal.com
-gibgov.com
 gibharcode.com
 gidiptegelememekvar.sbs
 gidisgelisekraniniz.sbs
@@ -7373,6 +7371,7 @@ hgs-odemeleri.duckdns.org
 hgs-pttavm.ph
 hgs-rho.vercel.app
 hgs-simdi-yukleme-zamani.cfd
+hgs-v575.vercel.app
 hgs15temmuz.ph
 hgsaracdolum.web.app
 hgsbaciyetkisi.art
@@ -12388,8 +12387,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12643,9 +12642,17 @@ paribu-sponsorlu-cekilis.online
 paribu-sponsorlu-cekilisi.live
 paribu-sponsorlu-cekilisi.online
 paribu-sponsorlu-cekilisler.live
+paribu-sponsorlu.online
 paribu-sponsorlucekilis.live
 paribu-sponsorlucekilis.online
+paribu-sponsorlucekilisleri.online
 paribu-sponsorlugunda-cekilis.live
+paribu-sponsorlugunda-cekilisi.online
+paribu-sponsorlugunda-cekils.online
+paribu-sponsorlugunda.online
+paribu-sponsorlugundacekilisi.online
+paribu-sponsorlugundacekilisleri.online
+paribu-sponsorlugundacekils.online
 paribu-technology.com
 paribu-tr.click
 paribu-tr.site
@@ -12793,9 +12800,17 @@ paribupepehediyem.info
 paribupepehediyem.link
 paribusanscarki.com
 paribusponsorlu-cekilis.online
+paribusponsorlu.online
 paribusponsorlucekilis.online
 paribusponsorlucekilisi.online
+paribusponsorlucekilisim.online
+paribusponsorlucekilisleri.online
+paribusponsorlucekils.online
+paribusponsorlugunda-cekilisi.online
+paribusponsorlugunda-cekils.online
 paribusponsorlugundacekilis.online
+paribusponsorlugundacekilisi.online
+paribusponsorlugundacekils.online
 paribustock.org
 paributechnology.com
 parkfauna.com
@@ -13538,7 +13553,6 @@ pttavn-kilomtre-islem-sorgu.web.app
 pttavn-km-sorgu-merkezi.web.app
 pttawmbireysel.com
 pttawmkmsorgulamam.shop
-pttgovi.icu
 pttguvenliodemesiparis.com
 ptthgsbakieyukleme.web.app
 ptthgsbakiyeyuklemes.web.app
@@ -14470,6 +14484,7 @@ sahibinden.sepetimonay.site
 sahibinden.shenzylegend.com
 sahibinden.siparis-magazasi.com
 sahibinden.siparishizli-ver.com
+sahibinden.siparishizliver.com
 sahibinden.siparisim-guvende.online
 sahibinden.siparisim-sepette.com
 sahibinden.siparissatin-al.com
@@ -14820,6 +14835,7 @@ sepette-ilanlar-9812.com
 sepette-siparis.com
 sepette-siparisim.com
 sepetteindirimlergel.xyz
+sepetteonline.click
 sepetteonline.site
 sephora-careers.com
 ser-tas-tas-al-rand.duckdns.org
@@ -15152,6 +15168,7 @@ siparisaktif.online
 siparisbilgitr.online
 siparishizli-ver.com
 siparishizliolsut.cloud
+siparishizliver.com
 siparisim-guvende.online
 siparisim-sepette.com
 siparisimpttavm.com
@@ -15341,6 +15358,7 @@ sokarcas.store
 sokayfrstlar.sudehzndrogl.workers.dev
 soketescepte.lat
 sokfirsatlarburada.com
+sokflrsatlarharikala.shop
 sokfrstlaslsad.s0k.workers.dev
 sokindirim-market.com
 sokisokkapidafirsattilari.duckdns.org
@@ -16862,6 +16880,7 @@ timticaret.val.run
 timticaret.w-staticblitz.com
 timticaret.wixsite.com
 timticaret.zone.id
+tiny-cloud.ink
 tioagliea.net
 tiogleon.com
 tiogleon.com.tr
