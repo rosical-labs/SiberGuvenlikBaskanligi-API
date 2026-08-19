@@ -1441,7 +1441,6 @@ btf-adalet-bakanligi.pages.dev
 btksikayet-btk-sikayet.up.railway.app
 btkurumsal.ph
 bu-ff-dd-ss-de.xyz
-bu-garanti-yaz-ayi-naz-ayi.xyz
 buapp1-99579a8a4cfa.herokuapp.com
 buf2.com
 bugfudafadadsede.xyz
@@ -2042,6 +2041,7 @@ dijital-islemlerbilgi.sbs
 dijital-islemleriniz.sbs
 dijital-kampanyaindirimler.sbs
 dijital-kampanyalarindirim.sbs
+dijital-kapinda.sbs
 dijital-onlinehizlisiparis.sbs
 dijital-servisler.sbs
 dijitalbilgi-giris.sbs
@@ -2091,6 +2091,7 @@ discover-garantibbva.com.ph
 discovergarantibbva.com.ph
 disticaretmevzuat.xyz
 djflslfjflslfikrorie.blogspot.com
+dkatilim.com
 dkyatirimmenkul.com
 dl.wel1.ru
 dmca-chrome-extensions.click
@@ -2239,6 +2240,7 @@ earthsignal.capital
 easynexora.online
 eb289d5c-5.b-cdn.net
 ebebekonline.shop
+ebilgi.org
 ecd31356-d.b-cdn.net
 ecezabildirim.org
 ecezamaliye.com
@@ -2277,6 +2279,7 @@ eevtasmenuguncell.xyz
 efesotomotiv.com
 effectivevideostrategies.click
 efhtkuvrevrbfv.blogspot.com
+efix-odeme.com
 efsane-lndirim-havasi-kapinda.com
 efsane1o1kmpnyalartukenyr.shop
 efsanefrstlarburdakpnda1o1.shop
@@ -2481,10 +2484,12 @@ eticaret-beta.vercel.app
 etikkurulbasvurusistemi.onrender.com
 etkiliuzlasma.org
 etuv-turkl.digital
+euyapbildirim.org
 euyapbilgi.org
 euyaptakip.org
 euyapuzlasma.org
 euyapvatandas.org
+euzlasmabildirim.org
 euzlasmasorgu.org
 euzlasmatalimat.org
 euzlasmateblig.com
@@ -3294,7 +3299,6 @@ haber1453.sbs
 haber1453.shop
 haber344323.sbs
 haber360tc2026.shop
-haber3661.shop
 haber41533.sbs
 haber45778656.shop
 haber789124.sbs
@@ -3950,6 +3954,7 @@ ile-e-islemler.com.tr
 ile-e-sepetler.com.tr
 ile-guvende-islemini-yap.com
 ile-guvende-tamamla.com
+ile-onay-sepete.com
 ileribakislar.com
 ilerivizyonrotasi.com
 ilerleme-yaptirim-grim.myonlineportal.ch
@@ -4244,6 +4249,7 @@ k0bidestegim.cfd
 k5z8p3t9w2q7.sbs
 k6w1n8p4r9x2.sbs
 k8v2m9q4x1z7.cfd
+k8y1b.my
 k9d9c.my
 kacirimayacakpaslanmazcelik.sbs
 kacirmadanalhemenkapinda.xyz
@@ -5942,7 +5948,6 @@ ogrenmesorgulamaislerinz.sbs
 ogrenmevizyonu.biz
 ohlsdtes.net
 oilwealthpro.com
-okidoki-flax.vercel.app
 okkziug.cfd
 okohholdingsltd.com
 oktaenroll.com
@@ -6066,6 +6071,7 @@ onlinemagazafisleri.com
 onlinemarketafisi.com
 onlineodememaliye.com
 onlinerandevuportalekranlarimizdir.duckdns.org
+onlinereferansfba.com
 onlinesiparislerim.com
 onlinetebmobil.sbs
 onlinetemmuzfirsatlari.com
@@ -6581,6 +6587,7 @@ payvora.capital
 pazarama-com-tr.shopsites.shop
 pazarama.anindaodeme.com
 pazarama.anlik-ilan-odemesi.com
+pazarama.bireysel-ilan.com
 pazarama.bireyselsiparis.com
 pazarama.fast-ilan.com
 pazarama.guvenliodemeonay.com
@@ -6600,6 +6607,7 @@ pazarama.ilan-magaza.com
 pazarama.ilanda-sepetim-1092.com
 pazarama.ilandan-fast.com
 pazarama.ile-e-sepetler.com.tr
+pazarama.ile-onay-sepete.com
 pazarama.islemcepte.com
 pazarama.magazada-online.com
 pazarama.magazamda-ilanim.com
@@ -6955,7 +6963,6 @@ pyrzdnsndys2313.com
 q-n-bislem.duckdns.org
 q3w8n5r2t6p9.click
 q4x9n2v7m1k6.cfd
-q52gk1ifewrutsc8.eptt-pttavm.info
 q7m2v9x4b6n8.cfd
 q7m2z9k4t1p8.cfd
 q9w2k7r5t8x1.sbs
@@ -7242,7 +7249,6 @@ royalsabit2026.com
 rs2y15sungu.com
 rshal.com
 rsmn7383rn-99de155d802b.herokuapp.com
-rtkatrbascuru.sbs
 rudvesato-pasta.info
 ruhsuzpanel.online
 ruhsuzpanel.site
@@ -7484,6 +7490,7 @@ satiskapinda.com
 satiskontrol.com
 savcilikhukum.org
 saxdasc123x12312.shop
+sayatatata.click
 sayayaya.duckdns.org
 sayayayaya.duckdns.org
 saydimsenikalbime.duckdns.org
@@ -8442,6 +8449,7 @@ tksiccerde.net
 tksiehhfi.net
 tlgrdplantwzqyy.com
 tlkkkslekr.space
+tlr-finans.com
 tmoodemelercan.online
 toaksenawse.ezgateway.net
 toby44292.softr.app
@@ -8523,7 +8531,6 @@ tokifusion.digital
 tokigov-tr.vercel.app
 tokikonut10000000146.vercel.app
 tokikonut20giris.vercel.app
-tokikonutbasvurulari2.vercel.app
 tokikonuthamurabi.vercel.app
 tokitoplukonut.gravitycl.app
 tombankhadi.com
@@ -9219,8 +9226,6 @@ voxterra.xyz
 vpn-myxa.ru
 vpn.garantibbvakredibasvuru.com
 vpn.turkcellpasajsanalmagaza.com
-vpn01.eptt-pttavm.info
-vpn01.epttavm-pttavm.online
 vpnfasters.space
 vpnkomar.space
 vpnmyha.shop
@@ -9537,6 +9542,7 @@ yardimdestek.net
 yardimdestek.org
 yardimdestekpaketim.com
 yardimelim.com
+yardimevim.com
 yardimkapisi.org
 yardimpaketim.com
 yardimpaketim.net
