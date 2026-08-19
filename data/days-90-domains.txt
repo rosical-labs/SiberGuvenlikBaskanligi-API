@@ -4367,7 +4367,6 @@ girilenler-de-gr.biz
 giris-bns-latr.guru
 giris-guvenli.xyz
 giris-hepsibura-auth.soundandshinesolutions.cv
-giris-kampanya.com
 giris-kampanya.online
 giris-mhrs-randevu.vercel.app
 giris-secim-kampany.sbs
@@ -8960,8 +8959,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -11902,7 +11901,6 @@ test.shellsell.market
 test1.evsahibibasvuru.com
 testediyorum.sbs
 testjoys.ru
-testterms.com
 testxyz123random.icu
 tevmui.shop
 textplot.top
