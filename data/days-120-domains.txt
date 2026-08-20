@@ -1360,7 +1360,6 @@ alvenco.site
 alvenco.store
 alvoriax.shop
 alyrmmdombvsaglklgn.b-cdn.net
-alyrmmdombvsaglklgn.cyou
 alyrmmdombvsaglklgn.lol
 alyrmmdombvsaglklgn.quest
 amazon-garantibbva.ph
@@ -12429,8 +12428,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
