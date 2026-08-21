@@ -99,7 +99,6 @@
 119930984165.duckdns.org
 11b423xz122.duckdns.org
 11canistassiparislerin.cloud
-11dsskd255asds.com
 11lll23x232.duckdns.org
 11tariksdans.nicepage.io
 1211122211112.duckdns.org
@@ -4466,7 +4465,6 @@ dijitalhizli-kapinda.sbs
 dijitalhizzlihizmet.duckdns.org
 dijitalindirim-kampanyalar.sbs
 dijitalislemfirsati.sbs
-dijitalkampanya-basvurular.com
 dijitalnet-bilgi.sbs
 dijitalnetbilgi-giris.sbs
 dijitalnetform.sbs
@@ -12444,8 +12442,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -15192,7 +15190,6 @@ silent-harvester.cc
 silent-orbit.cc
 silentharbor.top
 silikonfiyat.shop
-silkeleyelim.click
 silva.rest
 silverharvest.info
 simclipquartz.cfd
