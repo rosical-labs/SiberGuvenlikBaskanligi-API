@@ -64,6 +64,7 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
+101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online
 101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
@@ -1354,6 +1355,7 @@ alrzumcaymaknesi.shop
 alsicane.net
 alsversyaptmsendeartkyapmalsn.online
 alt.e-wl.com
+altinyunushotelcesme.com
 alts6343.blogspot.com
 altzserberin.info
 aluminiostramuntana.com
@@ -1523,6 +1525,7 @@ araba-paribu.com
 arabacekilis.com
 arabacekilis.info
 arabacekilisi.click
+arabacekilisi.online
 arabacekilisim.com
 arabacekilisim.info
 arabam--paribu.com
@@ -4641,6 +4644,7 @@ drive-mofa-account-downlaod-folder-production.up.railway.app
 driverbackup.gifts
 driverclone.gifts
 drivervault.gifts
+dro4432.site
 dromax.digital
 dromax.vu
 dropboxi.com
@@ -8361,7 +8365,6 @@ istakbildoldurma.xyz
 istakbilhizmetler.xyz
 istakbilislemler.xyz
 istanbancan.com
-istanbelgimvz.xyz
 istanbsaass.xyz
 istanbubizimx.sbs
 istanbuklcsac.xyz
@@ -9336,7 +9339,6 @@ kmchc78xjosmlas.cfd
 kmdurumanaliz.com
 kmeksper.com
 kmgecmisiniogren.com
-kmgecmisiniogren.firebaseapp.com
 kmhizlikontrol.firebaseapp.com
 kmhizlikontrol.web.app
 kmhn-82rvdalsn.org
@@ -12452,8 +12454,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14634,6 +14636,7 @@ sana-ozeel-zrrat.cfd
 sana-ozel.duckdns.org
 sanalbasvuruolustura.cloud
 sanalcilarsystem.pro
+sanalcilarsystems2.pro
 sanasiparilerindensok.cloud
 sanatsal-g.myonlineportal.ch
 sanayeminedebilirim.sbs
@@ -16999,6 +17002,7 @@ tkibsvrrsc.sbs
 tkisencis.net
 tkkg-edvtapkon-v.online
 tkkg-edvtapkonv.online
+tkktktklaspsrlurklm.com
 tksiccerde.net
 tksiehhfi.net
 tkssafafaxassxcafc.xyz
@@ -17042,6 +17046,7 @@ togg5000stok.cfd
 togg5000stok.click
 toggarac.com
 toggbasvurum.com
+toggfinans.com
 toggfinans.online
 toggfinansman.com
 togghaziran5000.com
