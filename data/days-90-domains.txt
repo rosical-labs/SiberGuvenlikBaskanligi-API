@@ -37,6 +37,7 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
+101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
@@ -809,6 +810,7 @@ agendayn.com
 agfaireland.com
 agilemast3r.duckdns.org
 agstosfrsatttwa.com
+agstosindiirmbnm.duckdns.org
 agugoawsdasdhga923asdas.click
 agustosayikacirilmayacakmalzemeler.sbs
 agustosc.dnsup.net
@@ -844,6 +846,7 @@ aileyardimdestek.com
 airtravelkit.shop
 airtvio.bond
 aisjsodmskdmwk.cfd
+aisosym.com.tr
 ajb8.com
 ajcsdskjacjdkscjkx213x312.cfd
 ajhuy39393.click
@@ -1139,6 +1142,7 @@ araba-cekilisi.online
 araba-cekilisii.com
 araba-cekilisim.com
 araba-cekilisim.info
+araba-cekilisin.online
 araba-paribu.com
 arabacekilis.com
 arabacekilis.info
@@ -1217,6 +1221,7 @@ arrzuminndrim.com
 arrzzumnndrrs.com
 arsbeyzfstt.com
 arskrgmnsnz.giize.com
+artafana.click
 artcnb.com
 arti-web.my-homeip.de
 artkhersesycokbasitsendegelbzekatl.online
@@ -1760,6 +1765,7 @@ belsis.xyz
 beltmealmusic.com
 beltrainstormsnowman.com
 belverisglobal.com
+benbenks.duckdns.org
 benburdaykenkimseekmekyiyemez1.net
 benburdaykenkimseekmekyiyemez2.net
 benburlarnherseyncanlagrdm35.info
@@ -2303,6 +2309,7 @@ c2.saintpetersburgresident.ru
 c2qv9xrh7mzk4ptw6jyniii.click
 c4433.site
 c5v2t8k6n1w9.sbs
+c77478.site
 c8q1r4x7p9m3.cfd
 cabalakosturkaltak.sbs
 cabbarbro.duckdns.org
@@ -2457,6 +2464,7 @@ ceptesokfirsatlarim.com
 ceptesokindirmleri.online
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-merkeziislemler.my-homeip.de
+ceptetebli-basvurum.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceredefe-dereteyeuere.lol
 ceretese-derersede.lol
@@ -2614,6 +2622,7 @@ cogunluk-gima-tgrn.myonlineportal.ch
 cohezo.com
 cohezo.io
 coin-secimi.com
+coin-tr.net
 coingolfsummer.com
 coinsec.co
 cokyt.top
@@ -3309,6 +3318,7 @@ e-online-ilan-sepetim.com
 e-sagligahemenkavussss.digital
 e-sozlesme.kurumsal-online-islem.com
 e-sube-isbank.ph
+e-sube.coin-tr.net
 e-sube.hdfportfoy.com
 e-sube.hedeffon.com
 e-sube.hedefonmusteripanel.com
@@ -3799,6 +3809,7 @@ fareluaceze.click
 fark-hazirdikkat.casa
 farkedermi.lol
 farketmez34cc.yyuyy.com
+fartanasa.click
 fas3215fsapstor.click
 fasea.top
 fasos.nicepage.io
@@ -5071,7 +5082,6 @@ hastanesizin.com
 hastaneyapakrandv.duckdns.org
 hastanrsdedede.uk
 hastatnatente.uk
-hastesserae.cfd
 hastnedkekse.com
 hastneisleriogrn.cfd
 hastnhrandvm.online
@@ -5140,6 +5150,7 @@ healthtipst.info
 healthvello.com
 healvion.gifts
 heasdawdas.duckdns.org
+heddalesedc.duckdns.org
 hedeffon.com
 hedefon.hdfportfoy.com
 hedefon.hedeffon.com
@@ -6188,6 +6199,8 @@ ivdharcpulu.com
 ivdmobil.com
 ivdportalmobil.com
 ivorilla.cloud
+iwanttodie.vip
+iwasdevastated.biz
 iyilikhareketi.cc
 iyilikmerkezi.capital
 iyiliknoktasi.live
@@ -7876,7 +7889,6 @@ mhjr-s.com
 mhkasdmk34734awdzg.com
 mhkasdmk3474578f.com
 mhkastohemen.uk
-mhkrdsasdh.com
 mhkrsvzcv.sbs
 mhlasdkrnd.com
 mhldkrsd.com
@@ -11295,6 +11307,7 @@ snipr.site
 sniuntmdnhergnicpagdm.shop
 snksnctysnysnns.com
 snkzbrdansatnalrkennrd.cfd
+snkzbrdansatnalrkennrd.lol
 snkzlplrdansnnns.com
 snnfrstlrarrkmpnyaabsvrsu14785.info
 snnfrstlrarrkmpnyaabsvrsu14785.pro
@@ -12382,7 +12395,6 @@ trdosyamasak.com
 trdosyamasak.org
 tredsz.cfd
 trees4sale.net
-tregmkurum.org
 trekonomimobileonlineapp.xyz
 tremobillgrnlidijitalmenu.xyz
 trendcast.media
