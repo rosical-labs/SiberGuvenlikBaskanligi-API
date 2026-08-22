@@ -846,6 +846,7 @@ ceptesokindirmleri.online
 ceptesoklarile.online
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-merkeziislemler.my-homeip.de
+ceptetebeva.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceredefe-dereteyeuere.lol
@@ -2501,6 +2502,7 @@ kur.e-abakus.net
 kurummali.org
 kurumsicil.org
 kurumsorgulama.org
+kurumtr.org
 kustanoma.ooguy.com
 kuveyjttjkredibsvru.duckdns.org
 kuvvetdenkuvvetdogar.co

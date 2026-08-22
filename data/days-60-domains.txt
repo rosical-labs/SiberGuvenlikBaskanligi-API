@@ -1668,6 +1668,7 @@ ceptesokindirmleri.online
 ceptesoklarile.online
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-merkeziislemler.my-homeip.de
+ceptetebeva.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceredefe-dereteyeuere.lol
@@ -4793,6 +4794,7 @@ kurumsal-online-islem.com
 kurumsicil.org
 kurumsorgu.org
 kurumsorgulama.org
+kurumtr.org
 kustanoma.ooguy.com
 kutysadhahsdhsad82sad.click
 kuveyjttjkredibsvru.duckdns.org
@@ -8740,7 +8742,6 @@ travels-network-contrast-slides.trycloudflare.com
 travoleniq.capital
 travorazone.com
 trazomika.capital
-trbinance-tr.duckdns.org
 trbirim.org
 trcezasorgu.org
 trees4sale.net
