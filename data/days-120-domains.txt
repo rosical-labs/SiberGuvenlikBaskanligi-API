@@ -602,7 +602,6 @@
 67534624512432.net
 6754233303.sbs
 675895632432457.org
-6767676767.sbs
 6773345531.xyz
 6773345577.xyz
 6773345589.xyz
@@ -11166,7 +11165,6 @@ mmhrsrrandevuum.com
 mmisjr.cc
 mmmmmmm4.duckdns.org
 mmny77ghf3223.duckdns.org
-mmrs-saglik.com
 mnrsbnlrncanykr.shop
 mobicoolotobuzdolabi.click
 mobiildeislemlerim.duckdns.org
@@ -12489,8 +12487,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -15641,7 +15639,6 @@ sorgulagec.online
 sorgulama-ekrani.online
 sorgulama-tr.online
 sorgulamaislemleriniz.duckdns.org
-sorgulamaislemlerinizfast.duckdns.org
 sorgulamasisteminde.xyz
 sorgumahkeme.org
 sorgumali.org
