@@ -306,7 +306,6 @@
 34236544.net
 3434343434istanbul.sbs
 3434343434istanbul.xyz
-345043674984032.net
 346346wdrf234.click
 346346wdrf23465.click
 346347452112412436.org
@@ -551,7 +550,6 @@ a-101-extra-internete-ozel.indirim-online-mobil.site
 a-101-extra-mobil-online-ozel-tr.mobil-bireysel-shop-web-tr.sbs
 a-101-extra-mobil-sadece-bugune-ozel-indirimli-sepet-tr.cepte-shop.online
 a-101-extra-mobil-sadece-online-ozel-siparis-tr.online-mobil-shop-tr.com
-a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-indirimler-mobilde.ekstra-tr.online
 a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click
@@ -1862,6 +1860,7 @@ binance--cekilisi.com
 binance--cekilisleri.com
 binance-cekilisi.com
 binance-cekilisleri.com
+binance-sign-in.vercel.app
 binance-tr-cekilis.com
 binancecekilisi.com
 binancemasakdogrulamaactivasyon.duckdns.org
@@ -5473,7 +5472,6 @@ hizligecisbakiymerkezi.web.app
 hizligecisbakyeyuklme.web.app
 hizligecisbakynsi.lat
 hizligecisbakysi.lat
-hizligecisbaysi.web.app
 hizligecisdolmbayi.lat
 hizligecisdolumnoktasi.firebaseapp.com
 hizligecisdolumnoktasi.web.app
@@ -9072,8 +9070,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9620,7 +9618,6 @@ pfpro-dpmhin81x651.edgeone.dev
 pfpro-dpswdueht4s8.edgeone.dev
 pg-cordivant-m6.pages.dev
 philipsturkey.com
-phillipcapitaltrader.com
 photbookguest.pro
 photo-12425.xyz
 photo-12454.cfd
