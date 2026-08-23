@@ -19598,7 +19598,6 @@ zirgirismobildenekrani.sbs
 zirindfc.cfd
 zirkalex.mom
 zirmobilaktifekran.sbs
-zirmobilekranlarim.sbs
 ziroootget.cfd
 zirpon.forum
 zirsis.cfd
