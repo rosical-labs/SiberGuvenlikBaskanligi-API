@@ -757,7 +757,6 @@ a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click
 a-101-extra-online-sadece-bugune-ozel-tr.onlinecep-tr.site
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-indirimler-mobilde.ekstra-tr.online
-a-101-extra-sadece-bugune-ozel-mobil.extra-online-mobilde-tr.sbs
 a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click
 a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com
 a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
@@ -1204,7 +1203,6 @@ aktarimekranim.duckdns.org
 aktarimsorgurkranlariniz.sbs
 aktarimyapguvenli.duckdns.org
 aktfbncasgrslertr.com
-aktifbnnscsonlinetr.com
 aktifbnnsvsbonlinetr.com
 aktiff-kal-onnlne-ssrggusstemi.sbs
 aktifgirisparibu.xyz
@@ -3506,6 +3504,7 @@ capitolom.com
 caprino.gifts
 capulcu.xyz
 capvero.gifts
+caramodi-jalapara.lol
 carderyakuptv.click
 cardioora.com
 cardo.workers.dev
@@ -5618,10 +5617,13 @@ firsat-urununuz-sondemler.sbs
 firsatarackiralama.online
 firsatavcisi.sbs
 firsatbonus.digital
+firsatcilarcepte.online
 firsatdefteri.sbs
 firsatgunlugu.sbs
 firsati-kacirma.duckdns.org
 firsatisindeekran.duckdns.org
+firsatkapinda.online
+firsatkutusu.sbs
 firsatlar-diyari.duckdns.org
 firsatlar-herzaman-burada.blogspot.com
 firsatlar.myonlineportal.ch
@@ -5703,6 +5705,7 @@ floworix.com
 flowradarpro.com
 floxyra.info
 flrsatagustos.com
+flrsatdiyari.com
 flrsatiaria1-0-1-lndlrlmleri.online
 flrsatlardiyari.com
 flrsatlarla1-0-1-lndlrlmleri.online
@@ -6662,7 +6665,6 @@ gusenvpn.online
 gusikkwski.top
 gustavo69xxx.neocities.org
 guuak.cn
-guvedekalin.com
 guven-oto-cikma.com
 guvencelisiparisler.com
 guvencesiyle.online
@@ -8162,6 +8164,7 @@ indirimli-sepet-mobilde-tr.online
 indirimlibirgun.duckdns.org
 indirimligunlerretto.duckdns.org
 indirimmarketleri.click
+indirimsepeti.sbs
 indirimsepetinde.com
 indirimsonfrstt.dnsup.net
 indirimsonfrsttxx.duckdns.org
@@ -9146,6 +9149,7 @@ keskn5brdaclsyrz.com
 kespola.surf
 kevangida.com
 kexbazar.gifts
+keyifteyiz.duckdns.org
 keyokta.com
 keypmenu.info
 keysyncos.com
@@ -9473,7 +9477,6 @@ kmsorgupttavm.com
 kmsrgoalamyapalimkmhmnamt.com
 kmsrgulamagovptt.duckdns.org
 kmverimerkezi.firebaseapp.com
-kmverimerkezi.web.app
 kmverisorgu.com
 kmyenilmezi.xyz
 kmyikilmazi.xyz
@@ -9637,6 +9640,7 @@ kredi-merkezison.com
 kredi-online-basvuru-platform.sbs
 kredi-online-basvurular.net
 kredi-online-hizmetleri.buzz
+kredi-online-hizmetleri.online
 kredi-online-islem.lat
 kredi-online-islem.sbs
 kredi-online-islemleri.lat
@@ -14411,7 +14415,6 @@ safsaqwrcs.sbs
 sagligakavusmakicinbiradim.digital
 saglik-182.com
 saglik-gov.sbs
-saglik-mrs.app
 sagliklibilgi.duckdns.org
 saglikligunlerhuzurdolu.loseyourip.com
 sagliklihizmetleregunleresizlere.webredirect.org
