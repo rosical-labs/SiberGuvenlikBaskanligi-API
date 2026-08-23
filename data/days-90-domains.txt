@@ -5330,7 +5330,6 @@ hgsbakiyeukleyin.web.app
 hgsbakiyeyukleme.duckdns.org
 hgsbakiyeyuklemeniz.firebaseapp.com
 hgsbakiyeyuklemetr.com.ph
-hgsbakiyeyuklme.web.app
 hgsbakiyeyuklmeanlik.web.app
 hgsbakiyeyuklmei.firebaseapp.com
 hgsbakiyeyuklmei.web.app
@@ -7672,7 +7671,6 @@ maliyetebligat.org
 maliyevergiformu.com
 maliyevezne.com
 maliyeveznedartalepformu.com
-malkocbakie.lat
 mallora.shop
 mamaciteyze.net
 manaflest.xyz
@@ -9074,8 +9072,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9149,7 +9147,6 @@ ozel-magazam.com
 ozelarackiralama.com
 ozelkmpnyaprmsynnbsvruuuu.click
 ozelkmpnyaprmsynnbsvruuuu.info
-ozeltrack-lifonsi-statik.myonlineportal.ch
 ozeltrack-statik.myonlineportal.ch
 ozlkkmpnyssbsvrrrrrsnfrstlrr.info
 ozllkmpnyaprmsnnbsvr.art
@@ -9744,7 +9741,6 @@ porladtr.shop
 porland-tr.shop
 porlandsale.shop
 porlanducuz.shop
-portakalisoydum.lat
 portal-mhrs.digital
 portal-netgsm.co
 portal-netgsm.live
@@ -11773,7 +11769,6 @@ t90141296286.p.clickup-attachments.com
 t9x1q6m4z8w3.sbs
 taatas.com
 tabble.site
-tabkherkersegeleceksennerdesn85.info
 tablemint.biz
 tablo-edilgen-deger.myonlineportal.ch
 tabocer-t.co
@@ -12563,7 +12558,6 @@ trmasakbinancedogrulama.duckdns.org
 trmasakportal.com
 trmasakportal.org
 trmasaksorgu.com
-trmerkezigarantimenucozumlerim.online
 trndyl.medianova.com
 trnewsel.com
 trnewsio.com
@@ -14069,7 +14063,6 @@ zenmezi.website
 zeno-place.ink
 zensec.vip
 zenshield.space
-zenvira.vu
 zenvoria.top
 zerdesa-turyederte.lol
 zerdesede-yuhgurete.lol
@@ -14190,7 +14183,6 @@ zrt300zzrtt.sbs
 zrtdijital.sbs
 zrtmorbilek.cfd
 zrtytrak.nicepage.io
-zsafdsaghfdassax.sbs
 zsaxsadsadssax.sbs
 zt93mx87zr300cxa.cfd
 ztakrim.cfd
