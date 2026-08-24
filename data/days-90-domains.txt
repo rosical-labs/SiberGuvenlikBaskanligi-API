@@ -4996,7 +4996,6 @@ haberpusula.cyou
 habersler.online
 habertry1.shop
 habertry364.shop
-habertry4561.shop
 haberturk1453.sbs
 haberturkey1453.sbs
 haberturkiye.shop
@@ -5907,7 +5906,6 @@ ile-guvende-tamamla.com
 ile-guvenle-islem-tr.com
 ile-guvenlice-tamamlama.com
 ile-onay-sepete.com
-ile-saitin-al.online
 ile-sepetlerim.com.tr
 ileri-agency.myonlineportal.ch
 ileribakislar.com
