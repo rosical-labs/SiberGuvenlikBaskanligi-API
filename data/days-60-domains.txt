@@ -3760,7 +3760,6 @@ hizlibasvurulariolustur3.sbs
 hizlibasvurulariolusturum.sbs
 hizlicadevamsektorer.sbs
 hizlicasatinalhemensendebirlikteyiz.online
-hizlicasatinalhemensendebirlikteyiz.store
 hizliciadevametmeliyiz.sbs
 hizliciatoplama.sbs
 hizlidanogren.xyz
@@ -6232,8 +6231,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9691,7 +9690,6 @@ yqhalktvmf.com
 ytrsdsndsn-ytrseresrsr.com
 yubo.watch
 yugosadgsagdgasd92sadh23s.click
-yukeshapi.neocities.org
 yukifabrika.com
 yukifabrikasatis.com
 yuklmezamni.cfd
@@ -9766,7 +9764,6 @@ zereolipso-certesede.xyz
 zesco.ae
 zessdeli.club
 zeuscarkiralama.com
-zexcommunity.xyz
 zeytaro.com
 zfonemk.cfd
 zfwalfjcadcswlfjwsdfw.sbs
