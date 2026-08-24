@@ -9751,7 +9751,6 @@ porland-tr.shop
 porlandsale.shop
 porlanducuz.shop
 portal-mhrs.digital
-portal-netgsm.co
 portal-netgsm.live
 portal-netgsm.online
 portal-web3-extension-welcome.pages.dev
@@ -13392,6 +13391,7 @@ website6667589999.nicepage.io
 website6667809.nicepage.io
 website6668123.nicepage.io
 webstt182.com
+websube-akbank.ph
 webte-182.com
 webte182.com
 webtkrmsal.com
