@@ -1023,7 +1023,6 @@ amznprod.in
 ana-sayfa-web.biz
 anababayala.com
 anabniyahtolbanur.lol
-anadoluajanslari.com
 anadolucizgisi.com
 anadoludefteri.com
 anadoludosyasi.com
@@ -4394,6 +4393,7 @@ gercekrealistsa.remotewire.net
 gercektencokozurdileriz.duckdns.org
 gerdasreea.duckdns.org
 gerdelerdesess.duckdns.org
+gerdenleawkelr.duckdns.org
 gereatas.nicepage.io
 geri-bildirim.biz
 geri-bildirimler.ink
@@ -4482,6 +4482,7 @@ glantix.surf
 glantos.org
 glatas.nicepage.io
 glazed-client.com
+glerdanesakare.duckdns.org
 glerdenlerdews.duckdns.org
 glimzo.click
 glintryvo.com
@@ -6780,6 +6781,7 @@ kizlarvixlex.baby
 kizlarvixlex.cfd
 kizlarvixlex.click
 kizlarvixlex.monster
+kizlarvixlex.sbs
 kizlarvixlex.xyz
 kkajdasics.net
 kkfkfjpdlfdmfsndfnsdnfmnvcxnvb58.click
@@ -9172,8 +9174,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9234,6 +9236,7 @@ outlookturk24x.com
 overlapsnowbound.com
 ovsversyn.net
 owa-ms365.com
+oyaktradeplus.com
 oykportfolio.online
 oynat.click
 oyrnassevry.net
@@ -11427,6 +11430,7 @@ skyproxy.space
 skythelight.co
 sldmigeldisten.xyz
 sleno.pro
+sliyteye-aktrlar.com
 slkmalkretler.shop
 slkmalrkelr.shop
 slmgr.sh
@@ -11537,6 +11541,7 @@ solvio.cfd
 solvixo.xyz
 solvoro.xyz
 solxo.xyz
+somkerler.com
 son-gun-destekleme.cfd
 son101.duckdns.org
 son101cilerkaldi.cloud
@@ -13315,7 +13320,6 @@ vexo-daily.ink
 vexoluniq.capital
 vexoluntri.com
 vexomiral.cyou
-vexorpvip-api.alwaysdata.net
 vexqiro.gifts
 vexulon.info
 vexunorqati.xyz
