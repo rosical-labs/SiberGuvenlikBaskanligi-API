@@ -1032,6 +1032,8 @@ basvruncepte-garanti.dns.army
 basvruncepte-garanti.duckdns.org
 basvu-r-tok-gov-basvur-dev.com
 basvu-r-tok-gov-basvur-dev.xyz
+basvur-teb-cep.myonlineportal.de
+basvur-tebcep.myonlineportal.de
 basvurbrd.sbs
 basvurdunyasi.shop
 basvurlarininsonucal.sbs
@@ -1068,6 +1070,7 @@ basvurumburada.click
 basvurumburda.click
 basvurumerkezi.abrdns.com
 basvurun-cepten.myonlineportal.de
+basvurunuz-cebte.myonlineportal.de
 basvurusirasi.online
 basvurusitesi-production.up.railway.app
 basvurziyytar.cfd
@@ -1115,7 +1118,6 @@ bb-bb-vv-aa-ss-dd.xyz
 bb-cc-vv.shop
 bb-dd-cc-aa-gg.lat
 bb-dd-cc-aa-gg.xyz
-bb-vv-aa-aa-gg-dd.xyz
 bb-vv-aa-aa-gg-sd.xyz
 bb-vv-aa-aa-ss-dd.xyz
 bb-vv-aa.shop
@@ -1217,6 +1219,7 @@ bilgiveislemsistemi.abrdns.com
 bilgiveiyilik.sbs
 bilgiyansimasi.com
 bilgiyolu.vu
+bilinclituketim.abrdns.com
 billuno.top
 bilopiddsade-cere.xyz
 bilsesavasiyorumdahanelerle.sbs
@@ -1483,7 +1486,6 @@ buildnexa.study
 buildnoria.space
 bulten-aktarimweb.guru
 bulugarese-dafure.xyz
-bulunmakta-fayda-g.myonlineportal.ch
 bumuhufudese-sederese.lol
 bumuhugu-gulukutere.lol
 bumuhugude-redesede.lol
@@ -1600,6 +1602,8 @@ cebinde-temmuz.tv.tr
 cebteteb.my-homeip.de
 cebteteb.myonlineportal.de
 cebtetebi.myonlineportal.ch
+cebtetebli.my-homeip.de
+cebtetebli.myonlineportal.at
 cebteteblim.myonlineportal.ch
 cederese-deresedese.lol
 cekilis--araba.live
@@ -1635,6 +1639,7 @@ ceptemi-tebdemi.my-homeip.net
 ceptemobildeyiz.my-homeip.de
 ceptemobili.my-homeip.de
 ceptemobilim.my-homeip.de
+cepten-mobile-basvur.myonlineportal.de
 ceptenmobilkredi.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
 ceptesokfirsatlarim.com
@@ -2021,6 +2026,7 @@ dgellolardaws.duckdns.org
 dhdsjsdjxc.duckdns.org
 dhetressedest.duckdns.org
 diamond-cli-znsxphqell.cn-shanghai.fcapp.run
+digital-login.shop
 digital-page.shop
 digitalcircuithub.com
 digitalforms.shop
@@ -2483,6 +2489,7 @@ estatetaxrecords.com
 esube-fibamenkul.com
 esube-fibayatirim.com
 esube-referans.com
+esube-teb-cepteteb.myonlineportal.de
 esube-teraportfoy.com
 esube.hbyatirim.com
 esube.hdfonmusteripaneli.com
@@ -2827,6 +2834,7 @@ gamaforge.com
 gameguy.neocities.org
 garandibas.cfd
 garandibasvru.cfd
+garanitide-firsatlar.myonlineportal.de
 garanti-basvuru-bireysel-com.webredirect.org
 garanti-basvuru-bonus-islemlerim.mayddns.com
 garanti-basvuru-bonus.mayddns.com
@@ -2839,7 +2847,6 @@ garanti-bonus-islemler-com.mayddns.com
 garanti-cepte-basvuru-com.webredirect.org
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-cepte-islemler-com.webredirect.org
-garanti-kredi-basvurusu.sbs
 garanti-kredili-bonus-com.mayddns.com
 garanti-krediye-basvur.sbs
 garanti-sube-bonus-islemlerim.mayddns.com
@@ -2854,6 +2861,7 @@ garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-cgd.ph
 garantibbva-com-tr.replit.app
 garantibbva-creditsuisse.ph
+garantibbva-hepsiburada.com.ph
 garantibbva-isbank.com.ph
 garantibbva-netflix.ph
 garantibbva-vero.ph
@@ -2961,6 +2969,7 @@ gesugivol.store
 get7zip.ru
 getaf.ru
 getaimp.ru
+getalisveris.online
 getavast.ru
 getbandicam.ru
 getbluestacks.ru
@@ -3276,6 +3285,7 @@ guvenli-hizmet.online
 guvenli-tamamla.com
 guvenlialisveris-odeme.com
 guvenlialisverisin.online
+guvenlialisverispttmarket.online
 guvenlianindaodeme.com
 guvenlihavuz2026.com
 guvenlik-web-security.ink
@@ -3588,6 +3598,7 @@ hemen--hediye-burada.online
 hemen--hediyeburada.online
 hemen-aninda.cards
 hemen-birkacdakika.guru
+hemen-hediye--burada.online
 hemen-hediye-burada.online
 hemen-siparisver.com
 hemenalnsanra.net
@@ -3826,7 +3837,6 @@ hmnislmnknts.net
 hmnislmnktasni.net
 hmnislmnktnas.net
 hmnislmnktnasnn.net
-hmnislmnktnsi.net
 hmnislmnkts.net
 hmnlnltanannta.net
 hmnsamnsansamhsahsasnmsamn443.sbs
@@ -4080,6 +4090,7 @@ insuarence-lgty.myonlineportal.ch
 intelbyte.cc
 inter-bouw.eu
 interiordecor.pics
+internet-teb-entry.my-homeip.de
 internet-teb-entry.myonlineportal.de
 internetislemleri-akmobil-bireysel-com.duckdns.org
 internetkobi.duckdns.org
@@ -4088,6 +4099,7 @@ internetprvpn.ru
 internetsube-qnbfinansbankasi.ph
 internetsubesi-finans.my-homeip.net
 internetsubesi-ingbank-tr.ph
+internetsubesi-qnb-com-tr.my-homeip.de
 internetsubesi.online
 intranet.evsahibibasvuru.com
 intrenet-basvurulari4.click
@@ -4478,6 +4490,7 @@ kendinehas.click
 kendmzszemenaetettksendebasvur4.click
 kendnols.duckdns.org
 kentermen.duckdns.org
+kentermens.duckdns.org
 kentjerk.info
 kentrav.forum
 kep-hepsiburada.com
@@ -5531,6 +5544,7 @@ mobicoolotobuzdolabi.click
 mobil-basvuru-talep.vercel.app
 mobil-cep-online-tr.site
 mobil-cep-ozel.online
+mobil-cepte.myonlineportal.de
 mobil-deniz-com-esube.duckdns.org
 mobil-deniz-com-promossyon-albay.duckdns.org
 mobil-deniz-com-promossyon-aninda.webredirect.org
@@ -5550,13 +5564,16 @@ mobil-ozel.site
 mobil-sepet-shop.click
 mobil-sepet-shop.online
 mobil-sepet-tr.online
+mobil-tepden-basvur.myonlineportal.de
 mobil-tradresi.live
 mobil.obilet-tr.uk
 mobilbasvuru.my-homeip.de
+mobilbasvurunuz.myonlineportal.de
 mobilbireyselkatilimm.online
 mobilcep-erisim.my-homeip.de
 mobilcepdenportal.myonlineportal.de
 mobildebasvurumlarim.click
+mobilden-basvur.myonlineportal.de
 mobilden.myonlineportal.de
 mobildeyiz.myonlineportal.de
 mobile-akbank-basvurum.github.io
@@ -5595,6 +5612,7 @@ mobilservisleriniz-3.sbs
 mobilservisleriniz-4.sbs
 mobilservisleriniz-5.sbs
 mobilseyehatisleml.duckdns.org
+mobilsubede.my-homeip.de
 mobilsubem.myonlineportal.de
 mobilsubemiz.myonlineportal.de
 mobilsubende.my-homeip.de
@@ -5612,7 +5630,6 @@ modernsorgulamam.shop
 modernsupplyhub.shop
 molavex.gifts
 molecularpath.capital
-molipy8trk.com
 molvent.forum
 monerix.capital
 monitor.evsahibibasvuru.com
@@ -6233,8 +6250,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6304,7 +6321,6 @@ p3w9z6c1r8t2.lol
 p4z67ft6w3y9.cfd
 p4z8r1t6w3y9.cfd
 p5t8r3w9n2x6.click
-p8z4t1k6r9w3.cfd
 p9q4x6v1k8z2.lol
 package-proxy.cf11oobworker.workers.dev
 package-proxy.cf5oobworker.workers.dev
@@ -7187,7 +7203,6 @@ ravemora.gifts
 ravinox.gifts
 ravo-world.ink
 ravolio.biz
-ravorel.gifts
 ravzelo.gifts
 raxvesta.shop
 raynihere.site
@@ -7388,6 +7403,7 @@ sahibinden-get.eurunhizmetin.com
 sahibinden-get.guveli-hizmet.online
 sahibinden-get.guvenli-hizmet.online
 sahibinden-get.guvenliodemehizmet.online
+sahibinden-get.hizlikapimda.com
 sahibinden-get.ilanservis-odemehizmetin.online
 sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.islem-guvende.online
@@ -7488,6 +7504,7 @@ sahibindenpay.shop
 sahibindensatici.com
 sahibindensaticionay.com
 sahibindensatis.org
+sahibindensatis.xyz
 sahibindensatisonay.com
 sahibindensatiss.click
 sahibindensigorta.com
@@ -7953,6 +7970,7 @@ sokmarkethepsi.shop
 sokmarketler.shop
 sokmarketlerdeindirim.shop
 sokmarketlerfirsatlarim.com
+sokmarketlerhepsi.shop
 sokta-gunler.com.tr
 sokta-gunler.info.tr
 sokta-gunler.org.tr
@@ -8301,6 +8319,7 @@ tcsicil.org
 te-teb-cep.myonlineportal.de
 teaandcake-how.info
 teb-bank.com
+teb-com-tr-emekli.myonlineportal.at
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de
@@ -8329,6 +8348,7 @@ technovy.digital
 techovoise.digital
 techveras.online
 tecnorix.com
+tedbanibuni.duckdns.org
 teeeekfirsatspnsrlurklam.com
 tefasplatfrom.com
 tefasportfoyyonetimi.com
@@ -8499,7 +8519,6 @@ toggtrumoresatis.com
 tok-basvurum-dev.store
 toki-apartman.gravitycl.app
 toki-gov-e-dev-basvuru-yap.online
-toki-gov-tc.vercel.app
 toki-gov-tr-011.vercel.app
 toki-gov-tr-012.vercel.app
 toki-gov-tr-014.vercel.app
@@ -8574,7 +8593,6 @@ toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app
 toplukonutsignalgiris.vercel.app
 topluluk-t.garden
 topluluknet.org
-topprogressstores.online
 toprakline.com
 toprakpazar.com
 toptandonertantuniiixxx.xyz
@@ -8612,6 +8630,7 @@ tr-karaca.store
 tr-onaybilgi.online
 tr-siparisonay.online
 tr-sube-isbank.ph
+tr-teb-com.my-homeip.de
 tr-tekoaos.cc
 tr45-guncelsikaytler.sbs
 trackliva.com
@@ -9241,7 +9260,6 @@ w9qtx4mvl2rkap8.cfd
 walter.filloco.icu
 warwarawra.my.canva.site
 wastingtime.co
-wbnsn-tapurandvusun.com
 wbnsn-tapurandvusun.info
 wbnsn-tapurandvusun.net
 wbnsn-tapurandvusun.online
@@ -9416,7 +9434,6 @@ xavneli.xyz
 xbossgymxistanbul.xyz
 xczvcxdsa.com
 xddqjfhgtwbg.xyz
-xe54ghj.com
 xelimorav.capital
 xelmunqavero.shop
 xelomarun.com
@@ -9709,7 +9726,6 @@ zaktrimd.cfd
 zalkupiq.com
 zaltori.org
 zaltrom.xyz
-zanavel.com
 zanmarketq.com
 zanstore.gifts
 zarzurtiki-raprapsada.lol

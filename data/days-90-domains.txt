@@ -1331,7 +1331,6 @@ audshop.top
 auramatrixa.com
 aurekh.com
 auroraclair.com
-aurorait.blog
 authorized-logins.net
 authstep-booking8442.com
 autodiscover.1254598989899893.duckdns.org
@@ -1533,6 +1532,8 @@ basvu-r-tok-gov-basvur-dev.com
 basvu-r-tok-gov-basvur-dev.xyz
 basvur-hemenbasvurgiris100yildeniz.ph
 basvur-isceponay.space
+basvur-teb-cep.myonlineportal.de
+basvur-tebcep.myonlineportal.de
 basvur.myonlineportal.de
 basvurbizlkelerle.sbs
 basvurbrd.sbs
@@ -1589,6 +1590,7 @@ basvurumerkezi.abrdns.com
 basvurummobildenbntr.duckdns.org
 basvurumunadresinde.cfd
 basvurun-cepten.myonlineportal.de
+basvurunuz-cebte.myonlineportal.de
 basvurusirasi.online
 basvurusitesi-production.up.railway.app
 basvurziyytar.cfd
@@ -1842,6 +1844,7 @@ bilgiveiyilik.sbs
 bilgivizyonu.com
 bilgiyansimasi.com
 bilgiyolu.vu
+bilinclituketim.abrdns.com
 billuno.top
 bilopiddsade-cere.xyz
 bilsesavasiyorumdahanelerle.sbs
@@ -2422,6 +2425,8 @@ cebinde-temmuz.tv.tr
 cebteteb.my-homeip.de
 cebteteb.myonlineportal.de
 cebtetebi.myonlineportal.ch
+cebtetebli.my-homeip.de
+cebtetebli.myonlineportal.at
 cebteteblim.myonlineportal.ch
 cederese-deresedese.lol
 cekilis--araba.live
@@ -2464,6 +2469,7 @@ ceptemi-tebdemi.my-homeip.net
 ceptemobildeyiz.my-homeip.de
 ceptemobili.my-homeip.de
 ceptemobilim.my-homeip.de
+cepten-mobile-basvur.myonlineportal.de
 ceptenmobilkredi.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
 ceptesok.guncelfirsatiniz.com
@@ -3035,6 +3041,7 @@ dhamoyush.com
 dhdsjsdjxc.duckdns.org
 dhetressedest.duckdns.org
 diamond-cli-znsxphqell.cn-shanghai.fcapp.run
+digital-login.shop
 digital-ode.com
 digital-page.shop
 digitalcircuithub.com
@@ -3684,6 +3691,7 @@ esterbutik.com
 esube-fibamenkul.com
 esube-fibayatirim.com
 esube-referans.com
+esube-teb-cepteteb.myonlineportal.de
 esube-teraportfoy.com
 esube.expresgroup.com
 esube.fbpiyasa.com
@@ -4198,6 +4206,7 @@ garaburasibasvurusu.duckdns.org
 garaktifmenusu.duckdns.org
 garandibas.cfd
 garandibasvru.cfd
+garanitide-firsatlar.myonlineportal.de
 garanti-acc.myonlineportal.ch
 garanti-bank-bireysel.ph
 garanti-bankasionline.ph
@@ -4231,6 +4240,7 @@ garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-cgd.ph
 garantibbva-com-tr.replit.app
 garantibbva-creditsuisse.ph
+garantibbva-hepsiburada.com.ph
 garantibbva-isbank.com.ph
 garantibbva-netflix.ph
 garantibbva-vero.ph
@@ -4374,6 +4384,7 @@ gesugivol.store
 get7zip.ru
 getaf.ru
 getaimp.ru
+getalisveris.online
 getavast.ru
 getbandicam.ru
 getbluestacks.ru
@@ -4772,6 +4783,7 @@ guvenli-tamamla.com
 guvenlialisveris-odeme.com
 guvenlialisveris.online
 guvenlialisverisin.online
+guvenlialisverispttmarket.online
 guvenlianindaodeme.com
 guvenlihavuz2026.com
 guvenlik-web-security.ink
@@ -5210,6 +5222,7 @@ hemen--hediye-burada.online
 hemen--hediyeburada.online
 hemen-aninda.cards
 hemen-birkacdakika.guru
+hemen-hediye--burada.online
 hemen-hediye-burada.online
 hemen-siparisver.com
 hemenalnsanra.net
@@ -5317,7 +5330,6 @@ hesseyyarkablo.click
 hf7x.com
 hg.xxxxxxxxx111111.click
 hg73983943.click
-hgceyklm.click
 hgceyklme.click
 hgdfjhgdfjgdfg.com
 hggspttavm.firebaseapp.com
@@ -5955,6 +5967,7 @@ inter-bouw.eu
 interiordecor.pics
 interland-ofise-g.myonlineportal.ch
 internet-koveyttork.duckdns.org
+internet-teb-entry.my-homeip.de
 internet-teb-entry.myonlineportal.de
 internetal.xyz
 internetbasvurukatilimi.xyz
@@ -5965,6 +5978,7 @@ internetprvpn.ru
 internetsube-qnbfinansbankasi.ph
 internetsubesi-finans.my-homeip.net
 internetsubesi-ingbank-tr.ph
+internetsubesi-qnb-com-tr.my-homeip.de
 internetsubesi.online
 intranet.evsahibibasvuru.com
 intrawld.com
@@ -6602,6 +6616,7 @@ kendnols.duckdns.org
 kent-civilian-men-detailed.trycloudflare.com
 kentblack.cfd
 kentermen.duckdns.org
+kentermens.duckdns.org
 kentfiresafe.com
 kentjerk.info
 kentrav.forum
@@ -8103,6 +8118,7 @@ mobil-basvuru-talep.vercel.app
 mobil-cep-online-tr.site
 mobil-cep-ozel.online
 mobil-cep-shop-tr.sbs
+mobil-cepte.myonlineportal.de
 mobil-deniz-com-esube.duckdns.org
 mobil-deniz-com-promossyon-albay.duckdns.org
 mobil-deniz-com-promossyon-aninda.webredirect.org
@@ -8126,14 +8142,17 @@ mobil-ozel.site
 mobil-sepet-shop.click
 mobil-sepet-shop.online
 mobil-sepet-tr.online
+mobil-tepden-basvur.myonlineportal.de
 mobil-tradresi.live
 mobil-yazda-yakinini-davet.xyz
 mobil.obilet-tr.uk
 mobilbasvuru.my-homeip.de
+mobilbasvurunuz.myonlineportal.de
 mobilbireyselkatilimm.online
 mobilcep-erisim.my-homeip.de
 mobilcepdenportal.myonlineportal.de
 mobildebasvurumlarim.click
+mobilden-basvur.myonlineportal.de
 mobilden.myonlineportal.de
 mobildendijitalfirsatlar.sbs
 mobildeyiz.myonlineportal.de
@@ -8178,6 +8197,7 @@ mobilservisleriniz-3.sbs
 mobilservisleriniz-4.sbs
 mobilservisleriniz-5.sbs
 mobilseyehatisleml.duckdns.org
+mobilsubede.my-homeip.de
 mobilsubem.myonlineportal.de
 mobilsubemiz.myonlineportal.de
 mobilsubende.my-homeip.de
@@ -9097,8 +9117,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9863,9 +9883,6 @@ prmsynnbsvrrrkmmmnpyyaaasnfrlstr.info
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
 prmsynnkmpnyaabsv2569858477.info
 prmsynnkmpnyaabsv2569858477.online
-prmsynnnbsvrrrkmonyaaason.art
-prmsynnnbsvrrrkmonyaaason.click
-prmsynnnbsvrrrkmonyaaason.online
 prmsynnnkmpnyaabsvrr.art
 prmsynnnkmpnyaabsvrr.info
 prmsynnnkmpnyaabsvrr.online
@@ -10652,6 +10669,7 @@ sahibinden-get.guvenli-hizmet.online
 sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.guvenliodemelerim.online
 sahibinden-get.guvenlisepetler-hizmet.online
+sahibinden-get.hizlikapimda.com
 sahibinden-get.ilanservis-odemehizmetin.online
 sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.islem-guvende.online
@@ -10789,6 +10807,7 @@ sahibindenpay.shop
 sahibindensatici.com
 sahibindensaticionay.com
 sahibindensatis.org
+sahibindensatis.xyz
 sahibindensatisonay.com
 sahibindensatiss.click
 sahibindensigorta.com
@@ -11420,6 +11439,7 @@ sokmarkethepsi.shop
 sokmarketler.shop
 sokmarketlerdeindirim.shop
 sokmarketlerfirsatlarim.com
+sokmarketlerhepsi.shop
 soksinirlistok.duckdns.org
 sokta-gunler.com.tr
 sokta-gunler.info.tr
@@ -11953,6 +11973,7 @@ teachbite.co.uk
 teampulsynk.team
 teapot-sale.xyz
 teb-bank.com
+teb-com-tr-emekli.myonlineportal.at
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de
@@ -11983,6 +12004,7 @@ techovoise.digital
 techva.cyou
 techveras.online
 tecnorix.com
+tedbanibuni.duckdns.org
 teeeekfirsatspnsrlurklam.com
 tefasplatfrom.com
 tefasportfoyyonetimi.com
@@ -12441,6 +12463,7 @@ tr-sokarca.shop
 tr-sokraca.shop
 tr-sube-isbank.ph
 tr-suwen.shop
+tr-teb-com.my-homeip.de
 tr-tekoaos.cc
 tr.karacasales.shop
 tr45-guncelsikayetler.sbs
@@ -14126,7 +14149,6 @@ zhelerdsnlerd.duckdns.org
 zhuknet.online
 zhukvpn.online
 zi2gr.cfd
-ziganaresortcesme.com
 ziliyn.site
 zimbranotereminder.weebly.com
 ziookkiid.cfd
