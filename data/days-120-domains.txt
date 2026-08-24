@@ -693,7 +693,6 @@
 876654465.net
 87665543.net
 8768345345.net
-87878787.sbs
 87e0b6c636999b.lhr.life
 87e0bbc636999b.lhr.life
 887879ymnsdssdsas.com
@@ -1381,7 +1380,6 @@ anadoluisigi.com
 anadolukapsami.com
 anadolukesiti.com
 anadolukoprusu.com
-anadolulinked.com
 anadolumahkeme.org
 anadolusehri.com
 anadolusync.com
@@ -2716,7 +2714,6 @@ binancetr.duckdns.org
 binancetrbasvurulari.duckdns.org
 binancetrcekilis.com
 binancetrkampanya.com
-binanceturbasvuru2.duckdns.org
 binanciapools.top
 binanciasgreece.top
 binanciaspool.top
@@ -10546,7 +10543,6 @@ mail.adayislem.com.tr
 mail.aotuzbirharcaharcatmez.duckdns.org
 mail.avskocfilo.net
 mail.ayuzbirdeotuzbir.duckdns.org
-mail.binanceturbasvuru2.duckdns.org
 mail.blnance-basvuru.info
 mail.digital-ode.com
 mail.evsahibibasvuru.com
@@ -12034,7 +12030,6 @@ ns-wwwntvcomtr.sludgy.cfd
 ns-wwwpostacomtr.fakingguango.cfd
 nsacasbvsaasa.sbs
 nsaxasdahdasd.cfd
-nsortasikrca.cfd
 ntamlnmtalnmtla.net
 ntkltklnklntlknt.net
 ntlanmatkak.net
@@ -12567,8 +12562,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -15735,7 +15730,6 @@ sorgula-borctahsilat.com
 sorgulagec.online
 sorgulama-ekrani.online
 sorgulama-tr.online
-sorgulamaislemleriniz.duckdns.org
 sorgulamasisteminde.xyz
 sorgumahkeme.org
 sorgumali.org
