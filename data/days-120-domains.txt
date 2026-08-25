@@ -6745,7 +6745,6 @@ guvenlialisverispttmarket.online
 guvenlianindaodeme.com
 guvenlihavuz2026.com
 guvenlihizmet.online
-guvenlihizmetler.com
 guvenlihizmetler.online
 guvenlihizmetleri.online
 guvenlik-web-security.ink
@@ -12573,8 +12572,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
