@@ -679,6 +679,7 @@ binance-sign-in.vercel.app
 binance-tr-cekilis.com
 binancecekilisi.com
 binancetrcekilis.com
+biramodi-folepara.lol
 birasude-foledepo.lol
 bireysel-akmobil-cepte-com.duckdns.org
 bireysel-islemler-com-garanti.duckdns.org
@@ -1231,7 +1232,6 @@ elektronikdtm.com
 elenen-edinim-gr.ink
 elitgsm.com
 emaliyeegm.org
-emcrpt.com
 emekli-ozel-kampanya.online
 emiratea-post.top
 emiratespost.fnbd.top
@@ -1500,6 +1500,7 @@ frsttlrrrkmpnyaabsvrrrrsonnnn.pro
 frsttlsnbsvrrkmponyaa128549.online
 frsttlsnbsvrrkmponyaa128549.pro
 frsttrndvulrdaim.com
+frsttrnetdvulrdaim.com
 funchats.ru
 fusu.us.ci
 fximbra.weebly.com
@@ -3460,6 +3461,7 @@ omnidataflow8.lol
 omnidataflow9.lol
 onayvermebana.art
 one-cikar.casa
+onedayjustwillbe.top
 onemitoring.top
 onemoatoring.top
 onemoctoring.top
@@ -4115,7 +4117,6 @@ s0kmarlketlr.com
 s0kmarlketr.com
 s0lmalktlret.com
 s1z1raf.cfd
-s3.eu-north-1.amazonaws.com
 s3177.site
 sabigtgirsi2026.com
 sabitlgirzsi2026.com
@@ -4812,7 +4813,6 @@ toggotoyedek.com
 toggtrumoresatis.com
 toki-apartman.gravitycl.app
 tokitoplukonut.gravitycl.app
-tombankhadi.com
 tony.scriptdemo.top
 toplukonut-toki.gravitycl.app
 toplukonut.gravitycl.app
@@ -4902,7 +4902,6 @@ turkiye-petrolleri-hisseleri.com
 turkiye.gov.1pgw.com
 turkiyegovtr.lovestoblog.com
 turkiyekalkinmayatirimbankasi.com
-turkiyeogrenme.com
 turkiyepetrolleri.pro
 turkiyepetrolleri.shop
 turkiyesigorta.com.ph
