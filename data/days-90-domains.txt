@@ -22,6 +22,7 @@
 10-06-2026bntr.duckdns.org
 10-06-2026dogrulama.duckdns.org
 10-06-2026kampanyam.duckdns.org
+101-bugune-ozel-sadece-online-sepet-indirimleri-tr-mobil.sepetim-tr.online
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
@@ -1312,6 +1313,7 @@ asleoaslaeodsla.online
 aslicezasorgu.org
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.48465498456.sbs
+asncxbyaaasdanala.4849846518494221.sbs
 asncxbyaaasdanala.489415686332522.sbs
 asncxbyaaasdanala.49843544322684.sbs
 asncxbyaaasdanala.65735677234232.sbs
@@ -3731,6 +3733,7 @@ esube-fibamenkul.com
 esube-fibayatirim.com
 esube-referans.com
 esube-teb-cepteteb.myonlineportal.de
+esube-teb-com-cepteteb.my-homeip.de
 esube-teraportfoy.com
 esube.expresgroup.com
 esube.fbpiyasa.com
@@ -6376,6 +6379,7 @@ izakdos.dnsup.net
 izakfsss.blogspot.com
 izakkfosa.blogspot.com
 izalkoofss.blogspot.com
+izelkqrwq.blogspot.com
 izeltoot.dnsup.net
 izkaoodps.blogspot.com
 izlakd.dnsup.net
@@ -6738,6 +6742,7 @@ kendimlehepsorunumvar.click
 kendinehas.click
 kendmzszemenaetettksendebasvur4.click
 kendnols.duckdns.org
+kennszaltas.blogspot.com
 kent-civilian-men-detailed.trycloudflare.com
 kentblack.cfd
 kentermen.duckdns.org
@@ -8985,6 +8990,7 @@ oktaenroll.com
 oktaportalsso.com
 okuyucum-son-web.ink
 olacak-entry-comment.myonlineportal.ch
+olaraganba.click
 olaybudakikabukadarkolay360.click
 olcumt-grenaysdir.myonlineportal.ch
 old.evsahibibasvuru.com
@@ -9273,8 +9279,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13027,6 +13033,7 @@ tuvkdkaksaksaas.com.tr
 tuvmhr-ss.com
 tuvmuayeneturkrandevu.online
 tuvonay.site
+tuvramuayne.site
 tuvrkekakdsad.net
 tuvtrkaracmuayene.govt.hu
 tuvtrkaracmuayene.ldtp.com
@@ -13412,6 +13419,7 @@ ventusmeridian.duckdns.org
 veonllinevservise.xyz
 veralunahorizon.com
 verdantcore.biz
+verenacicek.com
 veri-donustur.ink
 veri-ikonik.click
 veri.casa
