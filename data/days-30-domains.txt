@@ -4120,7 +4120,6 @@ rigmanets.in
 rinexibansorguapi.rf.gd
 rinexinstegramsorguapi.rf.gd
 rinexsystems.edgeone.dev
-rixosluxuryhotels.com
 rixosparkhotels.com
 rixospremiumshotels.com
 rixosshotels.com
