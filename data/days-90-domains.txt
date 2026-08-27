@@ -5519,7 +5519,6 @@ hgsbakiyedollum.web.app
 hgsbakiyeniziyukleyn.web.app
 hgsbakiyeukleyin.firebaseapp.com
 hgsbakiyeukleyin.web.app
-hgsbakiyeyukleme.duckdns.org
 hgsbakiyeyuklemeniz.firebaseapp.com
 hgsbakiyeyuklemetr.com.ph
 hgsbakiyeyuklmeanlik.web.app
@@ -6537,7 +6536,6 @@ jsfeterst.duckdns.org
 jspara-col.cfd
 juberno.com
 juk2a.site
-jurnemov.media
 just-giris-web.casa
 justiceinturkey.info
 jvbomzwbhaedeihch.qsewjn.icu
@@ -8992,6 +8990,7 @@ nviirandevun.com
 nvirandevucunuz.online
 nvirandevulariniz.online
 nvirandevularinizz.online
+nvirandevularinizz.site
 nvirandvu.org
 nwcspraseves.duckdns.org
 nwcsprasevess.duckdns.org
@@ -9340,6 +9339,7 @@ osavpn.su
 oselyaonline.com
 oskeyconnect.com
 oskeysync.com
+osmanlisorgupaneli.site
 osmurmaomurga.click
 osogransd.online
 osvitahub.club
@@ -9919,6 +9919,7 @@ pepecekilisim.com
 pepepx00x0xw23.duckdns.org
 pepsico-jobs.com
 peraboko-seremoli.lol
+perasude-serenapo.lol
 perion.vu
 perplexity-platform.gitlab.io
 pestquiltsurprise.com
@@ -10592,6 +10593,7 @@ rafatafakitap123x545x.shop
 rafatafatufatifa41x12313.shop
 rafatafax123213z123.sbs
 rafatebx1j23jx123z123.cfd
+rafatfitkx213123v5c.shop
 rafkasdkjxqkekq3131.cfd
 rafsaxasxasttsax.xyz
 raftoksafasgfasax.cfd
@@ -10792,6 +10794,7 @@ ruhsuzpanel5.site
 ruhsuzpanel6.site
 ruhsuzpanel7.site
 ruhsuzpanel8.site
+ruhsuzpanel9.site
 rust-play.ru
 ruxbuyra.gifts
 ruxdevol.gifts
@@ -12338,6 +12341,7 @@ tek-uygulamada-gecerli.lol
 tekdokunustaevinde.com
 tekdokunustaevinizde.com
 tekdokunustalndirim.com
+tekdokunustalndirimevinde.com
 tekfirsatsponsorlurklam.com
 tekgercekkampanyaburasuaktc4.life
 tekgirismrt2025.com
@@ -13106,7 +13110,6 @@ turkiyepetrolleri-yatirim.com
 turkiyepetrolleri.pro
 turkiyepetrolleri.shop
 turkiyerotasi.com
-turkiyesesi.com
 turkiyesignal.com
 turkiyesigorta.com.ph
 turkiyevisioner.com
@@ -14015,6 +14018,7 @@ xleonalpos.icu
 xlinmensadhas3cx3.cfd
 xmsae.sbs
 xn--aatszu-o9a.xyz
+xn--alhadisalikliyasa-9lc.xyz
 xn--alsveis-sok-indirimli-gunlerii-3qe.info.tr
 xn--arkasakoskar-d5b.com
 xn--asjdoasdjsadsda-blc.xyz
