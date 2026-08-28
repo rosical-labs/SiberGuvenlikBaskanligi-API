@@ -5531,7 +5531,6 @@ heymens.duckdns.org
 hf7x.com
 hg.xxxxxxxxx111111.click
 hg73983943.click
-hgceyklme.click
 hggspttavm.firebaseapp.com
 hgjnertnwernwer.sbs
 hglsyuklegecissystem.cfd
@@ -9429,8 +9428,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10359,7 +10358,6 @@ pttavm.online-alisveris-sepetiniz.com
 pttavm.onlinedogrulama.com
 pttavm.saticimerkezi.com
 pttavm.securesepetin.com
-pttavm.sepetguvende.online
 pttavm.sepetimde-ilanlar.pro
 pttavm.sepette-siparis.com
 pttavm.sepette-siparisim.com
@@ -11352,7 +11350,6 @@ sepet-mobil-tr.online
 sepet-odemesi-1985.com
 sepet-odemesi-1988.com
 sepete-ozel-tr.site
-sepetguvende.online
 sepetimde-odeme-3955.com
 sepetimde-odeme-3957.com
 sepetimdeindirimleriyakala.com
