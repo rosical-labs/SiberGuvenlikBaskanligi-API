@@ -159612,8 +159612,8 @@ ezik-0025912.top
 ezik-0098285.top
 ezik-0098924.top
 ezik.fun
-ezik.live
 Ezik.live
+ezik.live
 ezik.store
 ezik.world
 ezikfanlar.sbs
@@ -363606,8 +363606,8 @@ servicedelivery.ddns.net
 servicedeliverypost.ddns.net
 servicedisneypay.ddns.net
 servicedlivery.ddns.net
-servicedny.site
 Servicedny.site
+servicedny.site
 servicedoc-kg.com
 serviceexpress.hopto.org
 servicefor8.com
@@ -415570,8 +415570,8 @@ update.flash-installers.com
 update.gdrives.top
 update.githubtestbak.workers.dev
 update.heroisshit.com
-update.hobiter.com
 Update.hobiter.com
+update.hobiter.com
 update.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
 update.ictdp.com
 update.inet2.org
