@@ -4090,7 +4090,6 @@ filecedarwallet.online
 filecopperbasket.sbs
 filecrimsonsignal.online
 filedwnld.top
-filelocker.locker
 filemarblegarden.sbs
 fileoceanhammer.sbs
 filerubyfolder.sbs
@@ -4188,7 +4187,6 @@ fisio1-enim32.sbs
 fisio6-voluptatem46.sbs
 fisio8-molestiae30.sbs
 fitcore.gifts
-fitlevel.sbs
 fitluma.xyz
 fiusyevr.live
 fiyatinikarsilastirmalar.xyz
@@ -5990,7 +5988,6 @@ hopcipiti-fipfipsede.lol
 hopdedik.click
 horferruhs.duckdns.org
 horizoneguide.com
-horizonera.cfd
 horizonguard.space
 horizonmindventure.sbs
 hospitalinstallation.com
@@ -8848,7 +8845,6 @@ nelerdeshanewds.duckdns.org
 nelik.click
 neltron-geltron.shop
 nemesistrade.work
-nentacht.com
 neo-g.my-homeip.de
 neobankora.xyz
 neoncloak.space
@@ -9551,8 +9547,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -11513,7 +11509,6 @@ sepetimonay.study
 sepetimonay.surf
 sepetimonaycom.shop
 sepetin-cepte.net.tr
-sepetinguvende.online
 sepette-ilanlar-9811.com
 sepette-ilanlar-9812.com
 sepetteindirimlergel.xyz
