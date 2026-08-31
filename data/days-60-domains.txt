@@ -3772,6 +3772,7 @@ hgsbakiyeyuklemetr.com.ph
 hgsbakiyeyuklmeanlik.web.app
 hgsbakiyeyuklmei.firebaseapp.com
 hgsbakiyeyuklmei.web.app
+hgsbakiyukleme.org
 hgsbakiyukleme.web.app
 hgsbakiyuklemes.firebaseapp.com
 hgsbakiyuklemes.web.app
@@ -3868,6 +3869,7 @@ hizlifinansyeriniz.xyz
 hizligecisbakiyesistemi.firebaseapp.com
 hizligecisbakiyesistemi.web.app
 hizligecisbakyeyuklme.web.app
+hizligecisbayisi.org
 hizligecisetiketiniz.firebaseapp.com
 hizligecisetiketiniz.web.app
 hizligecissbakiyedoldurma.web.app
@@ -5682,6 +5684,7 @@ mobilinbankasi-akbank.ph
 mobils-tr.online
 mobilsepet-tr.online
 mobilsepetalim-10.online
+mobilsepetalim-20.online
 mobilsepetlerimservis.online
 mobilsepetlerimtralimlar.online
 mobilsepetlerimtrservis.online
@@ -9746,6 +9749,7 @@ zirailillf.cfd
 ziraitarimfs.cfd
 ziraqvmtxkplndwbhsca.sbs
 zirat.sbs
+ziratkampanya.sbs
 ziratoff.online
 ziratpngj.cfd
 ziratxha300zir3x00.sbs
