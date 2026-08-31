@@ -2064,7 +2064,6 @@ hizli-islemtuv.site
 hizli-kilometre-onlinesorgula.web.app
 hizli-kredi-basvurusu.cloud
 hizli-odemem.com
-hizli-online-islemler.com
 hizli-seri-entry-g.ink
 hizli-siparisislem.com
 hizli-tuvttr.site
@@ -3655,7 +3654,6 @@ paribu-arabakazanma.com
 paribu-arabakazanma.info
 paribu-arabakazanma.link
 paribu-arabasansi.com
-paribu-arabasansi.info
 paribu-arabayakala.com
 paribu-arabayakala.info
 paribu-arabayakala.link
