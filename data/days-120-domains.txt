@@ -2031,7 +2031,6 @@ basurvu-y.cfd
 basuvurlardevamedc.sbs
 basvr.tombnk-basvr.click
 basvrsawkxa.sbs
-basvru-merkkzei.cfd
 basvruncepte-garanti.dns.army
 basvruncepte-garanti.duckdns.org
 basvu-r-tok-gov-basvur-dev.com
@@ -10964,7 +10963,6 @@ mobilcepdenportal.myonlineportal.de
 mobilde-baglanti.com
 mobildebasvurumlarim.click
 mobildefirasthizmeti.duckdns.org
-mobildehizmetlerimsizde.duckdns.org
 mobilden-basvur.myonlineportal.de
 mobilden.myonlineportal.de
 mobildendijitalfirsatlar.sbs
