@@ -85,7 +85,6 @@
 12457889989998.duckdns.org
 12457889989999.duckdns.org
 125125121.click
-125415554558998993.duckdns.org
 1254598989899890.duckdns.org
 1254598989899893.duckdns.org
 1254598989899894.duckdns.org
@@ -2013,10 +2012,8 @@ deniz-mobil-com-promosyonn-giriss.duckdns.org
 deniz-mobil-com-promosyonn-usom.duckdns.org
 deniz-mobil-com-promosyonun-aninda.duckdns.org
 deniz-mobil-com-promosyyon-aninnda.duckdns.org
-deniz-mobil-com-promosyyon-ceptenn.duckdns.org
 deniz-mobil-com-promosyyon-direkt.duckdns.org
 deniz-mobil-com-promosyyon-fast.duckdns.org
-deniz-mobil-com-promosyyon-giriss.duckdns.org
 deniz-mobil-promossyon-bilgi-ekrani-com.duckdns.org
 deniz-mobil-promossyon-ekrani-aspx-com.duckdns.org
 deniz-mobil-promossyon-ekrani-guncel-com.duckdns.org
@@ -3310,6 +3307,7 @@ grantipromosynlari.com
 grantiscylk.cfd
 gratis-tr.obliqueprism.com
 gratis.anointedacres.com
+gratis.ask4tree.com
 gratis.dumfi.com
 gratis.ghy3.com
 gratis.globalscholarpress.com
@@ -4133,6 +4131,7 @@ ikcjxlsjsq8n3x.cfd
 ilan-havale-fast.com
 ilan-havale-odemem.com
 ilan-havale-odemesi.com
+ilan-hizmetim.online
 ilan-hizmetin.online
 ilan-ikinciel.com
 ilan-magaza.com
@@ -5768,7 +5767,6 @@ mobilservisin-22.sbs
 mobilservisin-32.sbs
 mobilservisin-34.sbs
 mobilservisler-55.sbs
-mobilservisler-68.sbs
 mobilservisler-83.sbs
 mobilservisler-85.sbs
 mobilservisler-87.sbs
@@ -6334,6 +6332,7 @@ online-web-store.online
 online.csgb.govct.tr
 online.evsahibibasvuru.com
 onlineads.cfd
+onlineakreklamlar.sbs
 onlineal.cam
 onlinedinamik.com
 onlinefba.com
@@ -6471,7 +6470,6 @@ otokocturkiyefilo.com
 otokofilomkurumsal.net
 otomakdenemelerimzer.duckdns.org
 otomaktifgaleryys.duckdns.org
-otoplus-arac.com
 otoplusaracal.com
 otoplusaracim.com
 otoplusaraclar.com
@@ -6543,8 +6541,6 @@ paribu--araba.live
 paribu--arabacekilisi.com
 paribu--arabam.com
 paribu--cekilis.live
-paribu--cekilisi.com
-paribu--technology.com
 paribu-app.digital
 paribu-araba-cekilis.live
 paribu-araba-cekilis.online
@@ -6636,7 +6632,6 @@ paribu-sponsorlugundacekilis.online
 paribu-sponsorlugundacekilisi.online
 paribu-sponsorlugundacekilisleri.online
 paribu-sponsorlugundacekils.online
-paribu-technology.com
 paribu.coin-secimi.com
 paribu.com.co
 paribu.de
@@ -6855,7 +6850,6 @@ pepecekilisim.com
 pepsico-jobs.com
 peraboko-seremoli.lol
 perasude-serenapo.lol
-pestquiltsurprise.com
 photo.evsahibibasvuru.com
 phpmyadmin.evsahibibasvuru.com
 picknow.top
@@ -7466,6 +7460,7 @@ sahibinden-param-guvende.siparisonayin.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
 sahibinden-paramguvende-tr.ct.ws
+sahibinden-paramguvende.ilan-hizmetim.online
 sahibinden-paramguvende.ilan-hizmetin.online
 sahibinden-paramguvende.islemonaylatr.online
 sahibinden-paramguvendesartlar.duckdns.org
@@ -8208,6 +8203,8 @@ stabil-olgu-gelisim.myonlineportal.ch
 stableproxy.space
 staging.deep-eprime.app
 stanblksrtm.com
+stanley15.shop
+stanley20.shop
 stardancer.fun
 starffdshsvsdd.com
 starkampanya.com
@@ -8409,6 +8406,7 @@ teb-com-tr.my-homeip.de
 teb-com.my-homeip.de
 teb-digital-emekliye-ozel.my-homeip.de
 teb-emeklilere.my-homeip.de
+teb-emekliye.my-homeip.de
 teb-hizmet.my-homeip.de
 teb-sube-com-tr.my-homeip.de
 teb-sube.my-homeip.de
@@ -8554,7 +8552,6 @@ tioagliea.net
 tiogleon.com
 tiogleon.com.tr
 tiogleon.org
-tiriipsec.net
 tirtiillkelebekvadisi.duckdns.org
 titanixo.com
 tj.tajikistandip.com
