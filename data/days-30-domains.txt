@@ -339,6 +339,7 @@ aktuelfirsat.com
 aktuelindrmcebd.duckdns.org
 aktuelseninle.com
 akutelfirsat.com
+al-g.myonlineportal.ch
 al-tr.online
 al0rvdal182.org
 albarakaaiprojects.com
@@ -361,6 +362,12 @@ alisveris-sepetimiz.com
 alisveris.lol
 alisverishizmeti.online
 alisverishizmetin-10.sbs
+alisverishizmetin-20.sbs
+alisverishizmetin-25.sbs
+alisverishizmetin-30.sbs
+alisverishizmetin-35.sbs
+alisverishizmetin-40.sbs
+alisverishizmetin-50.sbs
 alisverishizmetin-55.sbs
 alisverisjet.online
 alisverisptt-avm.ph
@@ -761,6 +768,7 @@ botitilanme-katore.lol
 botivedonse-katore.lol
 boursoramagarantibbva.com.ph
 boz0031.site
+bp-garantibbva-anna.ph
 bpi-garantibbva.com.ph
 bq8x4nzm7cvlp5ka.cfd
 brasimhrsrandvlrmz.sbs
@@ -833,7 +841,6 @@ cc8ttkv35b.com
 ccleanerwind.top
 cctvv2.com
 cdnjsdelivr.beer
-cdns3.51quickfox.cn
 cebinde-temmuz.org.tr
 cebinde-temmuz.tv.tr
 cebteteb-com.my-homeip.de
@@ -882,6 +889,7 @@ cepte-islemleriniz-garanti.duckdns.org
 cepte-teb-com-tr.my-homeip.de
 cepte-teb-emekliye.my-homeip.de
 cepte-teblim.my-homeip.de
+cepte-tepli-firsat.my-homeip.de
 ceptemi-tebdemi.my-homeip.net
 ceptemobildeyiz.my-homeip.de
 ceptemobili.my-homeip.de
@@ -1100,6 +1108,7 @@ diji-internetsiparis.sbs
 diji-login.shop
 diji-mobile.shop
 diji-siparis.sbs
+diji-teb.my-homeip.de
 dijionline-kampanya.sbs
 dijionline-siparis.sbs
 dijionline-siparisim.sbs
@@ -1243,6 +1252,7 @@ edosyabildirim.org
 edosyacbs.org
 edosyasorgu.com
 edosyatakip.com
+edosyauzlasma.com
 edvs-tapursvnnusz.info
 edvs-tapursvnnusz.net
 edvs-tapursvnnuszs.org
@@ -1274,7 +1284,6 @@ elektronikdtm.com
 elenen-edinim-gr.ink
 emaliyecbs.org
 emasakbildirim.org
-emekli-ozel-kampanya.online
 emeklilik-promosyon.com
 emeklipromosyon.online
 emeklipromosyonlari.com
@@ -1327,6 +1336,7 @@ enuygunaraba.com.tr
 enuygunarabakirala.com.tr
 enuygunarabakiralama.com.tr
 enuygunarackirala.com.tr
+enuygunsigorta.my-homeip.de
 enveil.online
 envell.xyz
 enviirandevu.org
@@ -1695,6 +1705,7 @@ gitgidebildiginyerdeyiz.sbs
 gitnow.dev
 gizemligunlersdz.sbs
 gizlieyllkmpnysi.mywire.org
+gizlieyllkmpnysiwax.giize.com
 gkkcl123klx12k3lz1312.shop
 glazed-client.com
 glbrdrvalsn.com
@@ -2152,7 +2163,6 @@ hizlifinansyeriniz.xyz
 hizligecisbayisi.org
 hizligectimoldu.shop
 hizliidanismannliklar.com
-hizlikapida.com
 hizlikapimda.com
 hizlikargolama.com
 hizlikargolar.com
@@ -2268,7 +2278,6 @@ ifonedaybetellmee.top
 ifoodgarantibbva.com.ph
 Igsx.closedfistllc.com
 ihggarantibbva.com.ph
-ilan-havale-fast.com
 ilan-ikinciel.com
 ilan-onayi.online
 ilan-onayla.online
@@ -2464,7 +2473,6 @@ jonesthom.duckdns.org
 jott.life
 journotix.com
 jpbankgarantibbva.ph
-js-mirror.com
 jsadetersaeter.help
 jsfeterst.duckdns.org
 jspara-col.cfd
@@ -2625,7 +2633,6 @@ kisiyeozeldegilherkeseozel.sbs
 kit-pro-bot.click
 kizibittik.click
 kizlarburada.click
-kizlarburada.sbs
 kizlarvixlex.baby
 kizlarvixlex.cfd
 kizlarvixlex.click
@@ -3297,7 +3304,6 @@ mobilservisleriniz-14.sbs
 mobilsokkamp.site
 mobilsubede.my-homeip.de
 mobilsubende.my-homeip.de
-mobilsubeniz.my-homeip.de
 mobilsubesi.my-homeip.de
 mobiltrsepetleriniz-alim.online
 mobilyamerkezi.shop
@@ -3506,7 +3512,6 @@ nova-client.com
 novafinans.digital
 novarixelto.world
 noxelavitumporazek.cfd
-npm-cache.com
 ns-wwwhaber61net.cobblex.sbs
 ns-wwwhaber61net.feints.cfd
 ns-wwwhaber7com.almach.shop
@@ -3658,7 +3663,6 @@ online-garanti-kredi-basvuru.net
 online-garantibbva.vibtee.com
 online-islemler-garanti.ph
 online-kredi-merkezi.cloud
-online-kredi-onay.cloud
 online-sbm.org.tr
 online-siparis.com
 online-tuv.com
@@ -4082,7 +4086,6 @@ pulseriz.com
 pulturturizm.com
 pusulafondanismanlik.com
 pwk6zmtq3rnvcl8x.sbs
-pypi-get.com
 pyrzdnsndys2313.com
 qantasrewardsa-homes.info
 qantasrewardsb-homes.info
@@ -4217,7 +4220,6 @@ s-guvenliodemebiriminiz.duckdns.org
 s-guvenlisigortaodemenoktasi.duckdns.org
 s-paramguvende.islemonaylatr.online
 s-paramguvende.urunhizmetleri.online
-s-x.xxxxxxxxx111111.xyz
 s0kfirsatlarim.duckdns.org
 s0kkap1n4gel5infir5s4tl4ri.cyou
 s0kkap1n4gel5infir5s4tl4ri.duckdns.org
@@ -4302,7 +4304,6 @@ sahibinden.guvendealimlarimiz.com
 sahibinden.guvenli-tamamla.com
 sahibinden.hizlial-siparis.com
 sahibinden.id53131.cfd
-sahibinden.ilan-havale-fast.com
 sahibinden.ilanda-sepetim-1099.com
 sahibinden.ileservishzmetlerinz.com
 sahibinden.kolaysiparisler.com
@@ -4410,7 +4411,6 @@ selgeotelside.com
 selgeside.com
 selinbutikorgududulu.duckdns.org
 sellectum.com
-senbnademdnmmvgzl.com
 sende-katil.online
 sendegelbasvurkazanpromosyon75.click
 sendegelbesendegelartkyap52.click
@@ -5484,6 +5484,7 @@ zhuknet.online
 zhukvpn.online
 zira-at-basvuru-sureci.my-homeip.de
 zira-trade.icu
+ziraa-t-login-int.my-homeip.de
 ziraat-cvc.cfd
 ziraat-inislemin.cfd
 ziraat-mobil.net

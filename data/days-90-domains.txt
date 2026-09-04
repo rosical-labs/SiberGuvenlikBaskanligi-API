@@ -937,6 +937,7 @@ aktutelfirsatlarkapinda.com
 aktutelfirsatlarkapinda.xyz
 akutelfirsat.com
 akyaman-lodrefiku.lol
+al-g.myonlineportal.ch
 al-rndev-smdi-hemen.duckdns.org
 al-tr.online
 al0rvdal182.org
@@ -984,6 +985,12 @@ alisveris-sepetimiz.com
 alisveris.lol
 alisverishizmeti.online
 alisverishizmetin-10.sbs
+alisverishizmetin-20.sbs
+alisverishizmetin-25.sbs
+alisverishizmetin-30.sbs
+alisverishizmetin-35.sbs
+alisverishizmetin-40.sbs
+alisverishizmetin-50.sbs
 alisverishizmetin-55.sbs
 alisverisjet.online
 alisverislerikacirma1o1.ph
@@ -2127,6 +2134,7 @@ boz0031.site
 bozdere-novepaki.lol
 bozkiran-furezopa.lol
 boztekin-qirevopa.lol
+bp-garantibbva-anna.ph
 bpi-garantibbva.com.ph
 bq8x4nzm7cvlp5ka.cfd
 bra-inns-drops-strategic.trycloudflare.com
@@ -2582,6 +2590,7 @@ cepte-sokindirim.rf.gd
 cepte-teb-com-tr.my-homeip.de
 cepte-teb-emekliye.my-homeip.de
 cepte-teblim.my-homeip.de
+cepte-tepli-firsat.my-homeip.de
 ceptehizlimenulerss.store
 ceptemi-tebdemi.my-homeip.net
 ceptemobildeyiz.my-homeip.de
@@ -3214,6 +3223,7 @@ diji-internetsiparis.sbs
 diji-login.shop
 diji-mobile.shop
 diji-siparis.sbs
+diji-teb.my-homeip.de
 dijionline-kampanya.sbs
 dijionline-siparis.sbs
 dijionline-siparisim.sbs
@@ -3597,6 +3607,7 @@ edosyaegm.org
 edosyasorgu.com
 edosyatakip.com
 edosyatakip.org
+edosyauzlasma.com
 edvs-tapursvnnusz.info
 edvs-tapursvnnusz.net
 edvs-tapursvnnuszs.org
@@ -3803,6 +3814,7 @@ enuygunarabakirala.com.tr
 enuygunarabakiralama.com.tr
 enuygunarackirala.com.tr
 enuygunfilo.com
+enuygunsigorta.my-homeip.de
 enveil.online
 envell.xyz
 envercicek.com
@@ -4704,6 +4716,7 @@ gitnow.dev
 gittigidiyor.com.ph
 gizemligunlersdz.sbs
 gizlieyllkmpnysi.mywire.org
+gizlieyllkmpnysiwax.giize.com
 gjswxattkq.yoga
 gkkcl123klx12k3lz1312.shop
 gkldkasxklkl13x12z123.sbs
@@ -14896,6 +14909,7 @@ zir-dijitalinternetbasvuru.sbs
 zir-dijitalinternetbasvurulari.sbs
 zira-at-basvuru-sureci.my-homeip.de
 zira-trade.icu
+ziraa-t-login-int.my-homeip.de
 ziraat-cvc.cfd
 ziraat-inislemin.cfd
 ziraat-mobil.net
@@ -15023,5 +15037,4 @@ zyvanta.pro
 zzasdsacxasasdfa.sbs
 zzirfhd.cfd
 zzshops.top
-zzzxxsadadxasr-tkjk.cyou
 zzzzzzzzzza.cfd
