@@ -478,7 +478,6 @@ asdkmi.mom
 asdkmwlqkmkl36347.duckdns.org
 aselsan-ai.sbs
 aselsan-soft-com.pages.dev
-aselsan-system.com
 aselsan-trade.co
 aselsantrade.com
 asfgaxq.sbs
@@ -606,7 +605,6 @@ basvurulari-1.sbs
 basvurulariniaslasman.sbs
 basvurunuz-cebte.myonlineportal.de
 basvurunuzuyapij.duckdns.org
-basvurusitesi-production.up.railway.app
 batangemininmallaribunlar.sbs
 batrakossvkad.click
 batuhancicekcilik.com.tr
@@ -1414,6 +1412,7 @@ facebook-login-facebook-access-secure.ph
 facebook-login-guide.com.ph
 facebookhelpdesklogin.blogspot.com
 facebookloginadmin.blogspot.com
+facebookloginapparel.com.ph
 facebookloginlabd.com.ph
 facebookloginlabe.com.ph
 facebookloginlabe.net.ph
@@ -1445,6 +1444,7 @@ faturakom-faskero.it.com
 favelotu-mikadese.lol
 fbaesubem.com
 fbareferans.com
+fblogin.click
 fdvcxdfgsd.sbs
 feastlane.food
 feelyourpain.co
@@ -1549,6 +1549,7 @@ garantibbva-au.com.ph
 garantibbva-bankofamerican.ph
 garantibbva-bb.ph
 garantibbva-bell.com.ph
+garantibbva-boll.com.ph
 garantibbva-bot.com.ph
 garantibbva-cainiao.ph
 garantibbva-cepmobilsubekazandiriyor.ph
@@ -1777,6 +1778,8 @@ gratis.obliqueprism.com
 gratis.paperbacksins.com
 gratis.simplysweetcakesoc.com
 gratis.twinslist.com
+grnte.com
+grnttam.com
 grove-12.com
 grove-satin.com
 grup-web.ink
@@ -1800,6 +1803,7 @@ guncelajans.world
 guncelhemen.abrdns.com
 guncelmerkez.abrdns.com
 guncelses.net
+guncelsikayetler-453.sbs
 gunceltrsikayetler-258.sbs
 gundelikhaberlerr.sbs
 gunu-tr.online
@@ -2018,6 +2022,7 @@ hepsiburada-kep.com
 hepsiburada-kinotam.ph
 hepsiburada-mobilepay-indeed.ph
 hepsiburada-norton.com.ph
+hepsiburada-sberbank.ph
 hepsiburada-you.com.ph
 hepsiburadagarantibbva.ph
 hepsiburadania.ph
@@ -2349,6 +2354,7 @@ istanbullbelggimkartu.xyz
 istanbullbelggimm.xyz
 istanbullbelgiimkart.xyz
 istanbullbelgimkart.xyz
+istanbullbelgimmkartt.xyz
 istanbullbelgimtek.xyz
 istanbullbellgiimm.xyz
 istanbullkaartttcan.xyz
@@ -2724,6 +2730,7 @@ ljot1cem6jhzfu53yb9aj3h.app
 ljr.1001gacor.org
 ljsaa.cc
 lloydsbank-homesa.info
+lloydsbankgarantibbva.com.ph
 lmktan.net
 lndirimi-takipetsene.com
 lndirimikapinagetirdik.com
@@ -3066,7 +3073,6 @@ merhametsizlerdiyari.xyz
 merkezdenguncel.abrdns.com
 merkezdensize.abrdns.com
 merkezi-sozlesme-islemleri.com
-merkeziyetsizbasvuru.com
 merkezzinciri.abrdns.com
 merlrdenslesw.duckdns.org
 mesaj.cam
@@ -3136,6 +3142,7 @@ mhrscinizhakan49786.duckdns.org
 mhrsgiris-edvltlogin2026.com
 mhrshemenler.com
 mhrsislemlerin.com
+mhrsislemyapgiris.vercel.app
 mhrsrandevuhizmetlerinizonlinebasvuru.com
 mhrsrandevumerkezi.myshopify.com
 mhrsrandevunx.blogspot.com
@@ -3380,6 +3387,7 @@ nilohipolna-katore.lol
 nilokalisra-solere.lol
 nimbosity.world
 nimbusshield.space
+nimc-onlinesbi-garantibbva.com.ph
 nimohipolse-tadore.lol
 ninjavan.adrup.top
 ninjavan.cokta.top
@@ -3722,7 +3730,6 @@ paribu-sponsorlugundacekilisi.online
 paribu-sponsorlugundacekilisleri.online
 paribu-sponsorlugundacekils.online
 paribuaraba-kazandim.com
-paribuaraba-kazandim.info
 paribuaraba-kazandim.link
 paribucark-alhediye.com
 paribucark-burada.info
@@ -4017,6 +4024,7 @@ reklam-cekilis.online
 reklam-cekilisi.online
 reklam-kura.online
 reklam-kurasi.online
+reklam-link-mhrs.vercel.app
 reklamlaronlineak.sbs
 reklammeklamyokkk.sbs
 reklammetaonline.cfd
@@ -4625,8 +4633,6 @@ store-plus.online
 storego-tr.online
 studio.evsahibibasvuru.com
 sube-garantilibbva.my-homeip.net
-sube.garanti.fun
-subedenmobiliz.myonlineportal.de
 submitpages.shop
 sugar.evsahibibasvuru.com
 sugarantidenalalimartik.sbs
@@ -5238,6 +5244,7 @@ yklemgsdr.cfd
 ykleodekylesmdi.cfd
 ykleodmehgs.cfd
 yklesmddeme.cfd
+yklesrglhgs.cfd
 yklmebslasmdi.cfd
 ynlndr-gr-t.my-homeip.de
 yokboyleolaysendegelcabukbasvr.click
