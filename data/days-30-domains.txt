@@ -102,7 +102,6 @@
 312221222145558999893.duckdns.org
 312221222145558999898.duckdns.org
 312221222145558999899.duckdns.org
-31852858529696963.baby
 3212221112445479890.duckdns.org
 3212221112445479892.duckdns.org
 3212221112445479895.duckdns.org
@@ -195,7 +194,6 @@ a-life-groundweb.myonlineportal.ch
 a-right-look-mr.myonlineportal.ch
 a-yonlendir.ink
 a1-82rvdnalbrdan.org
-a101-firsatlariniza-gelin.duckdns.org
 a101-girisfacebook.click
 a101aktuelfiyatlari.com
 a101firsaturunu.duckdns.org
@@ -2556,7 +2554,6 @@ kgmnmubeyb.xyz
 kilabeyt-org.my-homeip.de
 kilometresorgulamayapburadagovpet.duckdns.org
 kilomtresorgulabilgi.web.app
-kilomtresorgulma.web.app
 kiralikaraclarimislemler.com
 kirameso-hulavite.lol
 kisaltsaniza.space
