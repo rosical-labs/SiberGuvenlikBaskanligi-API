@@ -34,6 +34,7 @@
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
+101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
 101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
 101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
@@ -1513,6 +1514,7 @@ bva-lite.shop
 bva-mobile.shop
 bva-request.shop
 bvmdva.duckdns.org
+bvvdbdbdbsbmx.sbs
 bxfh.tzcdq.cn
 bytezi.xyz
 bytra.cyou
@@ -2258,6 +2260,7 @@ e-sube.hedeffon.com
 e-sube.hedefonmusteripanel.com
 e-sube.hedefonportfoyum.com
 e-sube.hedefportfoyfon.com
+e-sube.hpfon.com
 e-sube.my-homeip.de
 e-sube.tefaskurumsal.com
 e-sube.tunafonyonetimi.com
@@ -2857,6 +2860,7 @@ garandibas.cfd
 garandibasvru.cfd
 garanitide-firsatlar.myonlineportal.de
 garantam.com
+garanthmn.art
 garanti-basvuru-bireysel-com.webredirect.org
 garanti-basvuru-bonus-islemlerim.mayddns.com
 garanti-basvuru-bonus.mayddns.com
@@ -2975,6 +2979,7 @@ gedikesubem.com
 gedikeyatirim.com
 gedikportfoyum.com
 gediksubem.com
+gedikyt.com
 gehie246.com
 geldasdawcce.duckdns.org
 geldelerdensgeasw.duckdns.org
@@ -3396,6 +3401,7 @@ haberler.sizde.com.akbadonerd.click
 haberler.sizde.com.solanamolana.click
 haberler11278945.shop
 haberler122746.sbs
+haberler123143.sbs
 haberler123243.sbs
 haberler12342.shop
 haberler12343.sbs
@@ -4879,7 +4885,6 @@ ktcjadskjx1k23xk1zl123123.click
 kubafabrika.com
 kubamotor.net
 kuhugug-redesede.lol
-kuluhugude-redesede.lol
 kumuhuguduere-sederete.lol
 kunaz.xyz
 kur.e-abakus.net
@@ -4901,6 +4906,7 @@ kuvvetdenkuvvetdogar.co
 kuzeymenkulas.com
 kuzeymenkuldegerleras.com
 kuzeyportfoyyonetim.com
+kuzeytr.com
 kvm.evsahibibasvuru.com
 kxfqznpvtrmlydch.sbs
 kyfyvuwifdukctqyggto.supabase.co
@@ -5606,6 +5612,7 @@ mhsdfbavbsd.art
 mhsdfbcxvbsd.art
 mhsdhfxbvcb.art
 mhsksrsnrndsv.com
+mhsraaggwa.site
 mhsrarandvlrmzbrda.sbs
 mhsrrandvu.com
 mhsrrekaliya.site
@@ -6385,6 +6392,7 @@ otokoctturkiye.com
 otokocturkeyfilo.net
 otokocturkiyefilo.com
 otokofilomkurumsal.net
+otokokurumsal.net
 otomakdenemelerimzer.duckdns.org
 otomaktifgaleryys.duckdns.org
 otoplusaracal.com
@@ -8017,6 +8025,7 @@ sorguadliye.net
 sorguapileri-tc.onrender.com
 sorguhukuk.org
 sorgulagec.online
+sorgulagec.site
 sorgulama-ekrani.online
 sorgulama-tr.online
 sorgulamasisteminde.xyz
@@ -8269,6 +8278,7 @@ tarihi-entry-web.ink
 tarihi-sayfa.click
 tarihsizvalibaba.duckdns.org
 tarim667oyed.nicepage.io
+tarimkooparatif.vercel.app
 tarmenr34da.duckdns.org
 tarzgymsporfitnness.duckdns.org
 tarzxgiyimistxx.xyz
@@ -8287,6 +8297,7 @@ tbdqxq.net
 tbk.ist
 tcadli.org
 tcadliye.org
+tcbtk.com
 tcbtk.org
 tchazinemasak.net
 tchazinemasak.org
