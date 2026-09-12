@@ -578,6 +578,7 @@ a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
 a-101-extra-sadece-online-ozel-mobil-tr.bilgi-mobil-shop-ozel-tr.sbs
 a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
+a-101-mobil-sadece-bugune-ozel-tr.cepte-indirimler.online
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
@@ -3712,6 +3713,7 @@ enlightgo.com
 enlimitonay.online
 enonline.help
 enonline.lat
+enpabasvuru.cfd
 enpara-mobilsubem.ph
 enpara-qnbfinansnankan.ph
 enpara-yilbasianketi.ph

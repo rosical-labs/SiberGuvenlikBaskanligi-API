@@ -395,6 +395,7 @@ a-101-extra-sadece-bugune-ozel-sepette-tr.pay-tr.online
 a-101-extra-sadece-mobile-ozel-sepette-indirim-tr.sepette.online
 a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
+a-101-mobil-sadece-bugune-ozel-tr.cepte-indirimler.online
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
@@ -2481,6 +2482,7 @@ enhanceblabber.cc
 eniyisiyim.sbs
 enlightgo.com
 enlimitonay.online
+enpabasvuru.cfd
 enpara-yilbasianketi.ph
 enparakampanyabasvuru.ph
 enparasubegiris.ph
@@ -5670,7 +5672,6 @@ mhrss-2026.duckdns.org
 mhrss-aps.online
 mhrss.mersinstar.com
 mhrssizden.duckdns.org
-mhrsvatandaslaricinonline.duckdns.org
 mhrsvatandasportalekranlarimiz.duckdns.org
 mhrsvatandasportalyonlendirme.duckdns.org
 mhrsxrandevuxhxzmetleriniz3940.com
@@ -6432,7 +6433,6 @@ otokocarabakirala.com.tr
 otokocarabakiralama.com.tr
 otokocarackirala.com.tr
 otokocarackirala.net.tr
-otokocarackirala.org
 otokocaviskiralama.net
 otokocavskiralama.com
 otokocelektroniksozlesme.com
@@ -6459,7 +6459,6 @@ otokoconline.com.tr
 otokoconline.net
 otokoconline.net.tr
 otokoconlinekirala.com.tr
-otokoconlinekirala.online
 otokocotokirala.com.tr
 otokocotomobil.com
 otokocrent.org
@@ -6470,7 +6469,6 @@ otokocrental.org
 otokocrentcar.org
 otokocrentcars.com
 otokocrentecar.com
-otokocrezervasyon.net
 otokoctturkiye.com
 otokocturkeyfilo.net
 otokocturkiyefilo.com
@@ -7005,7 +7003,6 @@ ptt-trendyol.com.ph
 ptt.avmsatislarim.com
 ptt.govsf.life
 ptt.mobilservis-43.sbs
-ptt.mobilservisler-67.sbs
 ptt.mobilservisler-87.sbs
 pttaevm.com
 pttavm-arac-bilgileriniz.web.app
@@ -8183,7 +8180,6 @@ sozlesme-police.com
 sozlesme.hizli-islemler-merkezi.com
 sozlesmeimza.com
 sozlesmeler.kurumsal-online-islem.com
-sozlesmeotokoc.com
 sozlesmepolice.net
 sozlesmepolice.tech
 spalirm.vu
