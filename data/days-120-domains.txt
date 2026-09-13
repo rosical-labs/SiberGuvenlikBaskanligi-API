@@ -105,6 +105,7 @@
 12211455441554555889891.xyz
 12211455441554555889892.xyz
 12211455441554555889894.xyz
+12211455441554555889895.xyz
 122455512222455588899890.duckdns.org
 1231516frrrssrstlarrkmpnyaasbsvrr.info
 1231516frrrssrstlarrkmpnyaasbsvrr.online
@@ -478,7 +479,6 @@
 41865485646468.sbs
 41m4at124bsbs.com
 421327142.sbs
-421412540055444.duckdns.org
 421482142131.sbs
 42164662431.sbs
 4216466431.sbs
@@ -524,7 +524,6 @@
 50tarak.nicepage.io
 5115151.duckdns.org
 511caa97-a.b-cdn.net
-512351235.duckdns.org
 512saqqwr12.icu
 5151501010.duckdns.org
 5151510000.duckdns.org
@@ -606,7 +605,6 @@
 65432342.net
 65445345.net
 65454234423.net
-66600516666664.duckdns.org
 666021545858666.gleeze.com
 66662021250250666.gleeze.com
 6666sdsdsysdanas.com
@@ -659,7 +657,6 @@
 76535432.net
 765534324.net
 7658576324143645.org
-77700051455705s0a.duckdns.org
 77757547.sbs
 777771112202102777.gleeze.com
 777777777.duckdns.org
@@ -1748,7 +1745,6 @@ aslankaplanherkeseburdakaplan.site
 asleoaslaeodsla.online
 aslicezasorgu.org
 aslihukuksorgu.com
-asliyegov.org
 asliyesorgusu.org
 asmdkasmk43k712.duckdns.org
 asnasnahyaaslananala.49843544322684.sbs
@@ -6356,7 +6352,6 @@ guzelgunlerbizim.com
 guzelgunlere-ormana-dogaya.sbs
 guzelgunlergeldi.com
 guzelgunlerinizicinverin.sbs
-guzelgunleryakinda.com
 guzelgunleryaknsendekatlyap16.click
 gvnelerdesnew.duckdns.org
 gw-sogou.com.cn
@@ -8062,7 +8057,6 @@ istanbul-indirimci.com
 istanbul-ticket.co
 istanbul-turat.xyz
 istanbul24k.shop
-istanbulavrupa.shop
 istanbulavrupasm.shop
 istanbulbasvuru.xyz
 istanbulbasvurukart.xyz
@@ -9057,7 +9051,6 @@ kmpnyafrstlrrrprmsynnnbsvrr.pro
 kmpnyamrkzbsvrnktasi.info
 kmpnyamrkzbsvrnktasi.live
 kmpnyamrkzbsvrnktasi.pro
-kmpnyaprmsynbsvrusendekatl.pro
 kmpnyapromosyonmrkzzz.art
 kmpnyapromosyonmrkzzz.info
 kmpnyasnbfrfskataa64885.online
@@ -11960,8 +11953,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12781,7 +12774,6 @@ portaluyap.com
 portalvatandasmhrsonlinegirisekranimiz.duckdns.org
 portalvatandasmhrsz.duckdns.org
 portalweb-password-security.myonlineportal.ch
-portfoyislem.online
 portfoynurol.com
 portlabs.store
 porty-lyb.myonlineportal.ch
@@ -14768,6 +14760,7 @@ siteyegelgel.cfd
 sivri.ezpizi.click
 sixseven-krdili-taruzyuz.xyz
 size-ozel.ink
+sizeozel-basvuru.abrdns.com
 sizeozel.xyz
 sizeozelteklfimiz.abrdns.com
 sizinicinburadayiz1.sbs
@@ -15286,7 +15279,6 @@ statusnode.sbs
 steadybulletin.com
 stealthpath.space
 steelseries-cn.com.cn
-stellaonline.biz.tr
 stellar-minds.cfd
 stellarnodegrid1.lol
 stellarnodegrid10.lol
@@ -15749,7 +15741,6 @@ tekrarsa.dnsup.net
 tekrartekrarbasvurdana.sbs
 teksenbilisimn.com
 teksoksiparisi.cloud
-tektikileelindee.me
 tektikileevinegelsin.com
 tektikilesanagelsin.com
 tektikilesendeolsun.com
@@ -16949,7 +16940,6 @@ uyapkurumportal.netlify.app
 uyaptalimat.org
 uyapteblig.org
 uyaptebligat.org
-uyapuzlastirma.org
 uyapvatandas-sorgu.com
 uyapvatandas.org
 uyari-detaylar-tr.ink
