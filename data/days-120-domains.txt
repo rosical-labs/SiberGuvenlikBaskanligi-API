@@ -370,6 +370,7 @@
 256sdx43m6hacx32.sbs
 263737.sbs
 27478900120127.duckdns.org
+27478900120127.webredirect.org
 27478900203.duckdns.org
 278973fea636720-5xrydy.csb.app
 2841948923.com
@@ -527,7 +528,6 @@
 511caa97-a.b-cdn.net
 512351235.duckdns.org
 512saqqwr12.icu
-5145143214123.duckdns.org
 5151501010.duckdns.org
 5151510000.duckdns.org
 515155555555555.duckdns.org
@@ -1643,6 +1643,7 @@ arrzuminndrim.com
 arrzzumnndrrs.com
 arsbeyzfstt.com
 arskrgmnsnz.giize.com
+art-rol.myonlineportal.ch
 artafana.click
 artcnb.com
 arti-web.my-homeip.de
@@ -2029,6 +2030,7 @@ bas-vur-firsati.myonlineportal.de
 basennwrpin.com
 basitdom.click
 basivurucu.duckdns.org
+baskenslfmds.click
 basketandmore.shop
 baskwms.top
 basladikla4.sbs
@@ -3301,7 +3303,6 @@ ceptemobilim.my-homeip.de
 cepten-mobile-basvur.myonlineportal.de
 ceptenmobilkredi.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
-ceptepromosyon.my-homeip.de
 ceptesok.guncelfirsatiniz.com
 ceptesok.hizlifirsatim.com
 ceptesok.hizligiriss.com
@@ -6460,6 +6461,7 @@ haberler.sizde.com.akbadonerd.click
 haberler.sizde.com.solanamolana.click
 haberler103342.shop
 haberler112233.shop
+haberler11237489.sbs
 haberler11278945.shop
 haberler122746.sbs
 haberler123.shop
@@ -8933,7 +8935,6 @@ kkajdasics.net
 kkfkfjpdlfdmfsndfnsdnfmnvcxnvb58.click
 kkk44443.site
 kkldktttdt.nicepage.io
-kkmpnyasonnnnfrstkbsvrr.art
 kkozelkmpnycklsbsvrrr.info
 kkozelkmpnycklsbsvrrr.pro
 kkuuuveytts.duckdns.org
@@ -10613,6 +10614,7 @@ mhshemen.uk
 mhskastogreen.uk
 mhsksrsnrndsv.com
 mhslaatkfff.uk
+mhsraaggwa.cfd
 mhsraaggwa.rest
 mhsraaggwa.sbs
 mhsraaggwa.site
@@ -10818,7 +10820,6 @@ mobilservisleriniz-14.sbs
 mobilservisleriniz-3.sbs
 mobilservisleriniz-4.sbs
 mobilservisleriniz-5.sbs
-mobilservisorg.com
 mobilseyehatisleml.duckdns.org
 mobilsokkamp.site
 mobilsubede.my-homeip.de
@@ -11972,8 +11973,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14201,6 +14202,7 @@ sanvo.cyou
 saotykaso.xyz
 sapaos.shop
 sapdfsaodfsadl.online
+sappada.maisonboutique.it
 sarah199012344.workers.dev
 sarcmqyerehqbeqrsiniqz.blogspot.com
 sarcmqyerehqberiniqz.blogspot.com
@@ -17636,6 +17638,7 @@ www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli-sayfasi.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-internet-islemleri.my-homeip.de
+www-teb-com-tr-internet-subesi.my-homeip.de
 www-teb-com-tr-islem-merkezi.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
