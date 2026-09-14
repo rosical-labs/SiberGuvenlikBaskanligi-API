@@ -1651,6 +1651,7 @@ basvurun-cepten.myonlineportal.de
 basvurunuz-cebte.myonlineportal.de
 basvurunuzuyapij.duckdns.org
 basvurusirasi.online
+basvurusistem.abrdns.com
 basvurusitesi-production.up.railway.app
 basvurziyytar.cfd
 basvurznr.sbs
@@ -1852,6 +1853,8 @@ bilgilennyolgeciss.netlify.app
 bilgilennyollgeciss.netlify.app
 bilgilenyolgecis.netlify.app
 bilgilerde-bugun-yg.myonlineportal.ch
+bilgilislem.abrdns.com
+bilgilislemsayfasi.abrdns.com
 bilgipanel.net
 bilgiplatformu.biz
 bilgiplatformu.com
@@ -5230,7 +5233,6 @@ halkdijital.help
 halkdijital.space
 halkdijital.wiki
 halkdyruonay.webhop.me
-halkfaizsizkredibasvuru.duckdns.org
 halkfirsat.cam
 halkfirsat.click
 halkfirsat.online
@@ -5508,6 +5510,7 @@ hergetens.duckdns.org
 hergetxdeedxx.duckdns.org
 herkes-kullanabilsindiye.sbs
 herkesbizmleonlne.sbs
+herkeseozelteklifimiz.abrdns.com
 herkesfirsatibulsun.sbs
 herkesfirsatiniyakalasin.sbs
 herkesindirimibulsun.sbs
@@ -6649,7 +6652,6 @@ kapsamsekil-acil.biz
 kapsandalyenimasani.sbs
 karaca-a5q5-git-main-redmi1.vercel.app
 karaca-ev.shop
-karaca-haziran.vercel.app
 karaca-home.shop
 karaca-homes.shop
 karaca-store.shop
@@ -7410,6 +7412,7 @@ lmktan.net
 lmrsrandevu-3a5060ee327b.herokuapp.com
 lnatlanlatn.net
 lnbnsnanrdenttldm.shop
+lndirimayieylultt.com
 lndirimi-takipetsene.com
 lndirimikapinagetirdik.com
 lndiriminboylesi-sende.com
@@ -8018,6 +8021,7 @@ merkezcicekci.com
 merkezcicekcilik.site
 merkezdekayit.abrdns.com
 merkezdenguncel.abrdns.com
+merkezdenkayit.abrdns.com
 merkezdensize.abrdns.com
 merkezekayit.abrdns.com
 merkezekayitli.abrdns.com
@@ -8029,14 +8033,17 @@ merkezikayit.abrdns.com
 merkezikayitli.abrdns.com
 merkezinceleme.com
 merkezindenkayit.abrdns.com
+merkezinkayit.abrdns.com
 merkezinkayitli.abrdns.com
 merkezisistem-b.com
 merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.abrdns.com
 merkeziyetsizbasvuru.com
+merkeziyetsizkayit.abrdns.com
 merkezkayitarayuzu.abrdns.com
 merkezkayiti.abrdns.com
 merkezlekayit.abrdns.com
+merkezlerkayit.abrdns.com
 merkezlerkayitli.abrdns.com
 merkezlikayit.abrdns.com
 merkezlkayit.abrdns.com
@@ -8065,12 +8072,14 @@ metakaitabmplreas.sbs
 metakaitaoffline.sbs
 metakaitareklamofflinebee.sbs
 metakamp.site
+metalaroralarburalar.sbs
 metaofflinereklam.sbs
 metaorasiburasioffline.sbs
 metareklam.shop
 metareklam9503.cfd
 metareklam9503.sbs
 metareklamoffline.sbs
+metareklamonline.sbs
 metax51c23x132.cfd
 metaxrkox23z.sbs
 meteorclients.com
@@ -11664,6 +11673,11 @@ sivri.ezpizi.click
 sixseven-krdili-taruzyuz.xyz
 size-ozel.ink
 sizeozel-basvuru.abrdns.com
+sizeozel-ekran.abrdns.com
+sizeozel-giris.abrdns.com
+sizeozel-girisadresi.abrdns.com
+sizeozel-girisyap.abrdns.com
+sizeozel-sayfa.abrdns.com
 sizeozelteklfimiz.abrdns.com
 sizinicinburadayiz1.sbs
 sizinicinburadayiz2.sbs
@@ -12183,6 +12197,7 @@ sv.evsahibibasvuru.com
 svclsc.com
 svdlyrklerdbyzsrgnler.shop
 svdlyrklerdenbyzsrgn.click
+svdlyrklerdenbyzsrgn.xyz
 sverchtun.store
 sverchvpn.space
 svkkvalcay.lat
@@ -12414,7 +12429,6 @@ tek-uygulamada-gecerli.lol
 tekdoknstaevneglecek.com
 tekdokunusaevegelecek.com
 tekdokunusqevegelecek.com
-tekdokunustaevinizde.com
 tekdokunustalndirim.com
 tekdokunustalndirimevinde.com
 tekdokunusundalndirimgeldi.com
@@ -14242,10 +14256,12 @@ yenigundeyizbzlerds.giize.com
 yenigunebaslczeylulde.duckdns.org
 yenigunleremerhbadiylm.duckdns.org
 yenilenenarayuzumuz.abrdns.com
+yenilenenislemler.abrdns.com
 yenilenenteklifzinciri.abrdns.com
 yenileniyoruz.online
 yenilenmisarayuzteklifi.abrdns.com
 yenilmezbabaasla.sbs
+yenimerkezkayiti.abrdns.com
 yeninokta.abrdns.com
 yenipartibagisgovtr.sbs
 yenpanlen35x321.duckdns.org

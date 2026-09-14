@@ -1149,6 +1149,7 @@ basvurun-cepten.myonlineportal.de
 basvurunuz-cebte.myonlineportal.de
 basvurunuzuyapij.duckdns.org
 basvurusirasi.online
+basvurusistem.abrdns.com
 basvurusitesi-production.up.railway.app
 basvurziyytar.cfd
 basvurznr.sbs
@@ -1169,9 +1170,6 @@ baykar-pro.today
 baykar-tr2024.com
 baykar-turkish.com
 baykarajans.info
-baykargazete.info
-baykargundem.info
-baykarledger.info
 baykarmagaza.org.ph
 baykarmtal.com.ph
 baykarplatform-system.com
@@ -1264,6 +1262,8 @@ bilgilendirme-merkezi.sbs
 bilgilendirme-shop.online
 bilgilendirme-tr.online
 bilgilendirmemm.netlify.app
+bilgilislem.abrdns.com
+bilgilislemsayfasi.abrdns.com
 bilgipanel.net
 bilgiplatformu.biz
 bilgiplatformu.com
@@ -1404,7 +1404,6 @@ boz0031.site
 bp-garantibbva-anna.ph
 bpi-garantibbva.com.ph
 bq8x4nzm7cvlp5ka.cfd
-branteloq.com
 brasimhrsrandvlrmz.sbs
 brdamhrsarandvlrmz.sbs
 brdamhrsrandvlrmz.sbs
@@ -1828,7 +1827,6 @@ connect.giraffetoothpaste.xyz
 connect.holecompany.info
 connect.reactionbit.info
 connect.zebratransport.xyz
-connectasia.asia
 consequuntur.com
 consol.e-wl.com
 console.evsahibibasvuru.com
@@ -1900,7 +1898,6 @@ cugufirede-sedete.lol
 cugufuerede-sederese.lol
 cuhugu-gufiderese.lol
 cupheadplay.ru
-currentbeam.online
 currentwave.top
 customer.evsahibibasvuru.com
 cutredere-tuyredese.lol
@@ -2225,7 +2222,6 @@ drembal.xyz
 drenzol.org
 drenzol.vu
 dreo-turkiye.com
-drillinsight.click
 drimbalt.com
 drmadanrvdalmyaclsn.click
 dro4432.site
@@ -2333,7 +2329,6 @@ edwnbabaxik.abrdns.com
 edwngarxkdb.abrdns.com
 efesgrtbq.ice.fo
 efesotomotiv.com
-effectivevideostrategies.click
 efhtkuvrevrbfv.blogspot.com
 efiukydskwkeatexavdp.supabase.co
 efix-odeme.com
@@ -3348,9 +3343,7 @@ guncelsikayetler-773.sbs
 guncelsikayetler-778.sbs
 gunceltrsikayetler-258.sbs
 gundelikhaberlerr.sbs
-gundemdunyasi.company
 gundemdunyasi.world
-gundemfeneri.online
 gundemkaynak.org
 gundemnokta.world
 gundemrota.world
@@ -3753,6 +3746,7 @@ hergetens.duckdns.org
 hergetxdeedxx.duckdns.org
 herkes-kullanabilsindiye.sbs
 herkesbizmleonlne.sbs
+herkeseozelteklifimiz.abrdns.com
 herkesfirsatibulsun.sbs
 herkesfirsatiniyakalasin.sbs
 herkesindirimibulsun.sbs
@@ -5000,6 +4994,7 @@ lloydsbank-homesa.info
 lloydsbankgarantibbva.com.ph
 lmktan.net
 lnbnsnanrdenttldm.shop
+lndirimayieylultt.com
 lndirimi-takipetsene.com
 lndirimikapinagetirdik.com
 lndiriminboylesi-sende.com
@@ -5466,6 +5461,7 @@ merkezcicekci.com
 merkezcicekcilik.site
 merkezdekayit.abrdns.com
 merkezdenguncel.abrdns.com
+merkezdenkayit.abrdns.com
 merkezdensize.abrdns.com
 merkezekayitli.abrdns.com
 merkezi-sozlesme-islemleri.com
@@ -5473,11 +5469,14 @@ merkeziiprmsynnfrstlarrbsvrr.art
 merkeziislemler.my-homeip.de
 merkezikayitli.abrdns.com
 merkezindenkayit.abrdns.com
+merkezinkayit.abrdns.com
 merkezinkayitli.abrdns.com
 merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.com
+merkeziyetsizkayit.abrdns.com
 merkezkayiti.abrdns.com
 merkezlekayit.abrdns.com
+merkezlerkayit.abrdns.com
 merkezlerkayitli.abrdns.com
 merkezlikayit.abrdns.com
 merkezlkayit.abrdns.com
@@ -5503,12 +5502,14 @@ metakaitabmplreas.sbs
 metakaitaoffline.sbs
 metakaitareklamofflinebee.sbs
 metakamp.site
+metalaroralarburalar.sbs
 metaofflinereklam.sbs
 metaorasiburasioffline.sbs
 metareklam.shop
 metareklam9503.cfd
 metareklam9503.sbs
 metareklamoffline.sbs
+metareklamonline.sbs
 metax51c23x132.cfd
 metaxrkox23z.sbs
 meteorclients.com
@@ -5616,7 +5617,6 @@ mhrss-aps.online
 mhrss.mersinstar.com
 mhrssizden.duckdns.org
 mhrsvatandasportalekranlarimiz.duckdns.org
-mhrsvatandasportalyonlendirme.duckdns.org
 mhrsxrandevuxhxzmetleriniz3940.com
 mhrsyenihemen.blogspot.com
 mhrtg1gdg16dd15.fun
@@ -5937,7 +5937,6 @@ netgsm.online
 netroutehub.space
 netsprot.in
 netsproto.in
-netvanta.digital
 network.evsahibibasvuru.com
 networkads.in
 neuralcoreflux1.lol
@@ -5991,7 +5990,6 @@ newsglaedneds.duckdns.org
 newsgradelerdsew.duckdns.org
 newsiora.pro
 newsmingle.top
-newsquark.top
 newsturk.blog
 newswisp.today
 nexahub.lat
@@ -6509,7 +6507,6 @@ paribu-araba.live
 paribu-araba.online
 paribu-arababurada.com
 paribu-arababurada.link
-paribu-arabacekilisi.com
 paribu-arabahediyem.com
 paribu-arabahediyem.info
 paribu-arabahediyem.link
@@ -6839,7 +6836,6 @@ planyapldsendehemengelkatl3.click
 plllrrrdssaaasssss.beauty
 plllrrrdssaaasssss.homes
 plmilliyetxb.com
-plovis.sbs
 plrdanbrdansnnn.com
 plsk2jjk123xjk123x123z132.cfd
 plskcjsajkdasx123x123.cfd
@@ -6906,7 +6902,6 @@ prmsynnnkmpnyrrsonffrstlar.info
 prmsynnnkmpnyrrsonffrstlar.pro
 prod-artfkt.com
 profitnow.io
-progetto-finanziario24.org
 programgreedz.info
 programseeget.info
 projectjuventus.xyz
@@ -7852,7 +7847,6 @@ shieldtunnel.space
 shop-ozel.online
 shop-tr-ozel.online
 shop.evsahibibasvuru.com
-shoparo.info
 shopextra.online
 shopier.e-ilan-elektronik-siparisim.com
 shopier.guvenli-hizmet.online
@@ -7927,6 +7921,11 @@ siteadresi.sbs
 sivri.ezpizi.click
 size-ozel.ink
 sizeozel-basvuru.abrdns.com
+sizeozel-ekran.abrdns.com
+sizeozel-giris.abrdns.com
+sizeozel-girisadresi.abrdns.com
+sizeozel-girisyap.abrdns.com
+sizeozel-sayfa.abrdns.com
 sizeozelteklfimiz.abrdns.com
 sizinicinburadayiz1.sbs
 sizinicinburadayiz2.sbs
@@ -8273,6 +8272,7 @@ sutgeldsendegelartkherksburdabas34.click
 suwens.shop
 sv.evsahibibasvuru.com
 svdlyrklerdenbyzsrgn.click
+svdlyrklerdenbyzsrgn.xyz
 sverchtun.store
 sverchvpn.space
 svkkvalcay.lat
@@ -8314,7 +8314,6 @@ tahtahde-deretesede.lol
 tahtahde-yuhdare.lol
 taikei-rmc-co.biz
 tajikistandip.com
-takas-change.click
 takip-mesafesi.ink
 taksim-net.ink
 taktik-operational.ink
@@ -8589,7 +8588,6 @@ tom00bnk01.duckdns.org
 tomhadi.com
 tony.scriptdemo.top
 tooourhow.shop
-topicforge.top
 toplu-konut.gravitycl.app
 toplukonut-toki.gravitycl.app
 toplukonut.gravitycl.app
@@ -8913,8 +8911,6 @@ uktservice.sa.com
 ukzisrgh.cfd
 ulandunya.sbs
 ulkjxmnzxopr32rx.cfd
-ulusalcember.com
-ulusaldoga.com
 ulusalisik.com
 ulusalodak.com
 ulusalpusula.com
@@ -9470,8 +9466,10 @@ yenigundeyizbzlerds.giize.com
 yenigunebaslczeylulde.duckdns.org
 yenigunleremerhbadiylm.duckdns.org
 yenilenenarayuzumuz.abrdns.com
+yenilenenislemler.abrdns.com
 yenilenenteklifzinciri.abrdns.com
 yenilmezbabaasla.sbs
+yenimerkezkayiti.abrdns.com
 yenipartibagisgovtr.sbs
 yerlivemillielektrikli.com
 yesilyuvabungalov.com
