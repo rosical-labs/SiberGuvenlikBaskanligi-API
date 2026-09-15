@@ -86,7 +86,6 @@
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
 1245445898978979907990.duckdns.org
-124566556565899097.duckdns.org
 12457889989990.duckdns.org
 12457889989991.duckdns.org
 12457889989992.duckdns.org
@@ -627,8 +626,6 @@ akmobil-cepteislemler-ekrani-com.webredirect.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
 akmobil-onlineislem-ekrani.duckdns.org
 akmobil-onlineislem-guncel-ekran.duckdns.org
-akmobil-onlineislemler-com.duckdns.org
-akmobil-onlineislemlerim-com.duckdns.org
 akmobil-onlineislemlerim-guncel.duckdns.org
 akmobildend.duckdns.org
 aknmmrafaelcm.webhop.me
@@ -1820,7 +1817,6 @@ cns-fl.com
 cocuklarabilerinizgeldi.sbs
 codomira.shop
 coin-tr.net
-coingolfsummer.com
 cokguzelolaysendekatil75.info
 cokyt.top
 col012f0232di.duckdns.org
@@ -2183,7 +2179,6 @@ dnsapple.ru
 dnsrelays.ru
 dnzbnk.duckdns.org
 dnzbnkpsmnbsvrlrhmnyararlan.site
-dobroway.com
 docs-viewer.org
 docsmoonstudioclayworks.online
 documentodigital.cloud
@@ -2580,7 +2575,6 @@ evdenbasvuruadresi.abrdns.com
 evdenbasvuruadresim.abrdns.com
 evdenbasvuruyap.abrdns.com
 eventos3a.com
-eventura.info
 everydaycartshop.shop
 everydayneedsco.shop
 everydayvaluebay.shop
@@ -2848,7 +2842,6 @@ frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.info
 frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.online
 frrstlrrkmnyaabsvrrr25479123.info
 frrstlrrkmnyaabsvrrr25479123.pro
-frsattt-site.s3.eu-north-1.amazonaws.com
 frstlarhemnkapnda1o1.online
 frstlarrkmpnyaasbsvrr1231516.info
 frstlarrkmpnyassiibsvrremeklii.click
@@ -4000,7 +3993,6 @@ honejsatery.duckdns.org
 honejsterheyr.duckdns.org
 honejsterkestler.click
 honesjerkteryers.duckdns.org
-honesjterlarser.duckdns.org
 honeskdefeter.duckdns.org
 honestlerkesjer.duckdns.org
 honestx.duckdns.org
@@ -4179,7 +4171,6 @@ indirimsepeti.sbs
 indirimsonfrstt.dnsup.net
 indirimsonfrsttxx.duckdns.org
 indrismteklfsdnfdv.com
-indrmli-149luk-gunler.sbs
 infazdava.org
 infazevrak.org
 infaztc.net
@@ -5588,7 +5579,6 @@ mhrscinizhakan49786.duckdns.org
 mhrsekrangirisyonlendirme.duckdns.org
 mhrsgiris-edvltlogin2026.com
 mhrshemenler.com
-mhrsilerandevuekrani.duckdns.org
 mhrsislemlerin.com
 mhrsislemyapgiris.vercel.app
 mhrskhsdh.art
@@ -6780,7 +6770,6 @@ pazarama.onayda-sepet-7181.com
 pazarama.online-siparisler-burda.com
 pazarama.online-siparisler-onaylama.com
 pazarama.onlinesiparislerim.com
-pazarama.ozel-magazadan.com
 pazarama.satiskapida.com
 pazarama.siparisguvende.com
 pazarama.siparisim-onay-1923.com
