@@ -44,6 +44,7 @@
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
+101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
@@ -2331,7 +2332,6 @@ be2dfxorunilakemvytosa.sbs
 beamsits.neocities.org
 beatsculpture.com
 beautyvexa.com
-beavernewsticket.com
 bebeler.sbs
 bedavapanel.net
 bedavapanel2.site
@@ -3353,8 +3353,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5357,7 +5357,6 @@ fkelrdexsew.duckdns.org
 fkerlerdesnesa.duckdns.org
 fkrlatos.co
 flakecheck.online
-flannelwing.com
 flas-smart-umut.org
 flashforward.longviews.ai
 flashledger.top
@@ -6951,7 +6950,6 @@ hemen-hediye-burada.online
 hemen-hediyeburada.online
 hemen-siparisver.com
 hemenalnsanra.net
-hemenalpttavm.com
 hemenalsnlsa.net
 hemenaracbakim.blogspot.com
 hemenas-sonvlsak.net
@@ -8096,6 +8094,7 @@ istakbildoldurma.xyz
 istakbilhizmetler.xyz
 istakbilislemler.xyz
 istanbancan.com
+istanbbulkaarty.xyz
 istanbsaass.xyz
 istanbuklcsac.xyz
 istanbul-cdonut.xyz
@@ -8603,7 +8602,6 @@ kamutalimat.org
 kanal-liste.click
 kandemirol.duckdns.org
 kankacmsendebasvurartdesign.art
-kankanerdesnzyau3028109e323d.click
 kanmaynsahtesetlergbehaydebak45.click
 kanpamyaburedayenc4b1.pro
 kantorons.duckdns.org
@@ -9572,7 +9570,6 @@ likemojo.com
 likid-write-logrnol.myonlineportal.ch
 likihigidese-derepiluyu.lol
 liksaderese-zeredesede.lol
-lilacspire.com
 lilhzvkpsmxn.icu
 lilipoliposideferszede.xyz
 lilokokobilmem.click
@@ -11189,7 +11186,6 @@ ncxbmbvxvccxcnbvxcnnbvd57.click
 nealanterlerdsew.duckdns.org
 nebulachecker.icu
 necenyouz.xyz
-nedemekyokbsey.click
 nedensendegelemdincabukgel.click
 needcherries.online
 nefeshhope.com
@@ -12031,8 +12027,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14407,6 +14403,7 @@ sendwatcherzzv.com
 seniseviyorumyadaichliebe5.click
 seniseviyorumyadaichliebe6.click
 seniseviyorumyadaichliebe9.click
+senkrona.com
 sennerdesncabkgelbasvr81.info
 sensemeks.duckdns.org
 sensemeksa.duckdns.org
@@ -16106,6 +16103,7 @@ toki-gov-trk.vercel.app
 toki-gov.yapisalkonutlar.lol
 toki-govtr-tc.vercel.app
 toki-konut-basvurutr.org
+toki-konutlarim.sbs
 toki-toplu-konutlar.vercel.app
 toki-toplukonut.gravitycl.app
 toki-toplukonut.vercel.app
@@ -16716,7 +16714,6 @@ tursab.acentasorgu.com
 tursabacentasorgu.com
 tursabacentasorgula.com
 tursabacentasorgulama.com
-tursabacentesorgula.org
 tursabdogrulama.com
 tursabonlinesorgu.com
 tursabsorgula.com
@@ -17674,6 +17671,7 @@ www-teb-com-tr-internet-islemleri.my-homeip.de
 www-teb-com-tr-internet-subesi.my-homeip.de
 www-teb-com-tr-islem-merkezi.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
+www-teb-com-tr-musteri-girisi.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de

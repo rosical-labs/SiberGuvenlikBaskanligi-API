@@ -25,6 +25,7 @@
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
+101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
@@ -1511,7 +1512,6 @@ bsvvvurrrsnfrstlrrrkmpyasii.xyz
 bsygy.help
 btcturkcekilisi.online
 btf-adalet-bakanligi.pages.dev
-btksikayet-btk-sikayet.up.railway.app
 btkurumsal.ph
 buapp1-99579a8a4cfa.herokuapp.com
 buf2.com
@@ -1767,8 +1767,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -3005,7 +3005,6 @@ garantili-islemlerim-cepte-com.webredirect.org
 garantilihall.shop
 garantillifk.cfd
 garantillik.cfd
-garantisizlerlerkredii.lol
 garantisube-gir-passwordentrypersonal.myonlineportal.at
 garantitr.com
 garantivbbvaefmkasa.duckdns.org
@@ -3799,7 +3798,6 @@ hgsbakiye-yuklemeciburda.firebaseapp.com
 hgsbakiyeukkleme.web.app
 hgsbakiyeyuklmeanlik.web.app
 hgsbakiyukleme.org
-hgsbkyeyklecfd.cfd
 hgshahgfakf-sada.shop
 hgshgsdeykle.cfd
 hgshgsykleykle.cfd
@@ -3967,7 +3965,6 @@ hobestlerkest.duckdns.org
 hodefmenst.duckdns.org
 hodenstler.duckdns.org
 hodeslerkest.duckdns.org
-hodesterker.duckdns.org
 hodskerlteyer.duckdns.org
 hofesnesmtkerk.duckdns.org
 hofestlerkes.duckdns.org
@@ -4292,6 +4289,7 @@ issue-needed-buffalo-carrying.trycloudflare.com
 ist2krtanabunapalm.duckdns.org
 ist343434.xyz
 istaanbulkartcan.xyz
+istanbbulkaarty.xyz
 istanbul-indirimci.com
 istanbul-kiralikkonut.vercel.app
 istanbulbbelllgim.xyz
@@ -4785,7 +4783,6 @@ kmpnylrrbsvrrsnfrstlrrr.art
 kmpnylrrbsvrrsnfrstlrrr.pro
 kmpnylrrsnffrsttbsvrrr.click
 kmpnyprmssyncklssssss.live
-kmpnyprmssyncklssssss.pro
 kmpnysprmsynfrstbsvrrr.click
 kmpnyyprmsynnbsvrrr214859.info
 kmpnyyprmsynnbsvrrr214859.pro
@@ -7645,6 +7642,7 @@ sendegelbesendegelartkyap52.click
 sendegelcabukbasvursondak34.click
 sendensns.duckdns.org
 sendgridpasskey.com
+senkrona.com
 sensemeks.duckdns.org
 sensemeksa.duckdns.org
 sepet-mobil-tr.online
@@ -7657,7 +7655,6 @@ sepetimdeonline.site
 sepetimdeonline.store
 sepetimonay.click
 sepetimonaycom.shop
-sepetin-cepte.net.tr
 sepetteonline.click
 sepetteonline.online
 sepetteonline.site
@@ -7666,7 +7663,6 @@ sepsslsdi.com
 ser-tas-tas-al-rand.duckdns.org
 serhathosting.xyz
 serkancx.duckdns.org
-server-guide--microsoftsignin.replit.app
 service-center-instagram.com
 service-infos.info
 service-nowinc.com
@@ -8599,6 +8595,7 @@ toggodeme.online
 toggotoyedek.com
 toggtrumoresatis.com
 toki-apartman.gravitycl.app
+toki-konutlarim.sbs
 toki-toplukonut.gravitycl.app
 tokitoplukonut.gravitycl.app
 tokyolokko.co
@@ -8804,7 +8801,6 @@ turkiyeaidatiade.duckdns.org
 turkiyebilgi.cc
 turkiyedevletgiris.com.ph
 turkiyeegitim.vu
-turkiyefinans-katilim-com.duckdns.org
 turkiyefinans-katilimyap-com.duckdns.org
 turkiyefinans.my-homeip.de
 turkiyegovtr.lovestoblog.com
@@ -9290,6 +9286,7 @@ www-teb-com-tr-internet-islemleri.my-homeip.de
 www-teb-com-tr-internet-subesi.my-homeip.de
 www-teb-com-tr-islem-merkezi.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
+www-teb-com-tr-musteri-girisi.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
@@ -9374,7 +9371,6 @@ xxxxxxxxx111111.sbs
 xyzsource.xyz
 xyzsystem.xyz
 xzcvcbvmnsaddfgsdfgfsssa59.click
-xzeez.cfd
 xziraalglrlsonlineislem.duckdns.org
 xziralmobilonline.duckdns.org
 xzr300xbsvruzrt0.click
