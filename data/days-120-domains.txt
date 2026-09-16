@@ -6514,6 +6514,7 @@ haberler14534925.shop
 haberler145365349.sbs
 haberler145425462.shop
 haberler1542334.shop
+haberler1564568.sbs
 haberler163234.shop
 haberler1642432.shop
 haberler167523.sbs
@@ -12024,8 +12025,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14400,7 +14401,6 @@ sendwatcherzzv.com
 seniseviyorumyadaichliebe5.click
 seniseviyorumyadaichliebe6.click
 seniseviyorumyadaichliebe9.click
-senkrona.com
 sennerdesncabkgelbasvr81.info
 sensemeks.duckdns.org
 sensemeksa.duckdns.org

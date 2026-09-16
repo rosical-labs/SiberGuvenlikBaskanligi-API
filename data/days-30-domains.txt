@@ -1705,6 +1705,7 @@ haberler1425123.shop
 haberler14253231.shop
 haberler142536231.shop
 haberler14534925.shop
+haberler1564568.sbs
 haberler1642432.shop
 haberler167523.sbs
 haberler23432.shop
@@ -3693,7 +3694,6 @@ sendegelbesendegelartkyap52.click
 sendegelcabukbasvursondak34.click
 sendensns.duckdns.org
 sendgridpasskey.com
-senkrona.com
 sensemeks.duckdns.org
 sensemeksa.duckdns.org
 sepet-net.online
