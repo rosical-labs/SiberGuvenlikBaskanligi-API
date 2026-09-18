@@ -2610,8 +2610,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -6139,6 +6139,7 @@ ile-guvende-tamamla.com
 ile-guvenle-islem-tr.com
 ile-guvenli-ilan-web.com
 ile-guvenlice-tamamlama.com
+ile-isleminiz.com.tr
 ile-islemlerdeyim.com.tr
 ile-onay-sepete.com
 ile-sepet-islemler.com.tr
@@ -12585,7 +12586,6 @@ toaksenawse.ezgateway.net
 toby44292.softr.app
 todayverse.online
 toegleon.com
-toekibassvur.vercel.app
 togfinans.com
 togg-finans-kredim.com
 togg-hizlisiparis.xyz

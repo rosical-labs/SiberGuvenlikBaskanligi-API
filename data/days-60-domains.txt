@@ -1501,7 +1501,6 @@ brieflio.info
 bright-links.com
 brightnexa.in
 brinelavo.vu
-brispol.click
 britishairways-noon-garantibbva.com.ph
 brivaxo7nqel2t9k.cfd
 broadbasket.shop
@@ -1627,7 +1626,6 @@ cacti.evsahibibasvuru.com
 cag-hizlanmasi-tr.ink
 cairivo.sbs
 calibre-ebook.com.cn
-calisma-net.casa
 caninelab.co
 cansincargallery45.duckdns.org
 canva-arts.com
@@ -1803,15 +1801,14 @@ ceredefe-dereteyeuere.lol
 cerencans.duckdns.org
 ceretese-derersede.lol
 ceretesedesede-agafadaesede.lol
-certeyerete-desedae.lol
 cetethrem.com
 ceyhunturizm.com
 cezabirimi.net
 cezadavasorgu.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -2295,7 +2292,6 @@ drawmi.icu
 dreamspace-garantibbva.ph
 dreaub.top
 drenzol.org
-drenzol.vu
 dreo-turkiye.com
 drimbalt.com
 drmadanrvdalmyaclsn.click
@@ -2489,7 +2485,6 @@ ekonomimersin.net
 ekonomirehberi.capital
 ekontrolceza.org
 ekontroldava.org
-ekranim.turkcell-magaza.com
 ekwlqrsgm.sbs
 elaexallance.com
 elaexxalence.com
@@ -3166,7 +3161,6 @@ gelecekcephesi.com
 gelecekgunlugu.com
 gelecekongorusu.misecure.com
 gelecekyakini.com
-gelecekyonelim.com
 gelengidenalsindiye.lol
 gelerdesewend.duckdns.org
 geliridaresibaskanligi.org
@@ -3542,7 +3536,6 @@ haber-stanbul1453.sbs
 haber-turk.sbs
 haber-turkey12721.shop
 haber-turkey4567.shop
-haber-turkiye1923.sbs
 haber145216562.sbs
 haber165498.sbs
 haber2026.doordk.com
@@ -4290,6 +4283,7 @@ ile-guvende-tamamla.com
 ile-guvenle-islem-tr.com
 ile-guvenli-ilan-web.com
 ile-guvenlice-tamamlama.com
+ile-isleminiz.com.tr
 ile-islemlerdeyim.com.tr
 ile-onay-sepete.com
 ile-sepet-islemler.com.tr
@@ -6527,7 +6521,6 @@ orhanceylan.art
 orhanlisubesindelerr.duckdns.org
 orjinaltoggyedekparca.com
 ortakbakisagi.com
-ortakkilavuz.com
 ortakkosemiz.com
 ortaksehir.com
 ortakyasamyolu.com
@@ -8730,7 +8723,6 @@ toplukonut.gravitycl.app
 toplukonut2026-toki2026.vercel.app
 toplukonutidaresi.gravitycl.app
 topluluk-t.garden
-toprakpazar.com
 topu-randevu-devlet.vercel.app
 topu-randevum-e-devlet.vercel.app
 topu-rondevum-e-devlet.vercel.app
