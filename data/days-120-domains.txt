@@ -2580,6 +2580,7 @@ biremoli-folebazi.lol
 bireybasvur.click
 bireybasvurular.click
 bireysel-akmobil-cepte-com.duckdns.org
+bireysel-bireysel-ziraat.my-homeip.de
 bireysel-firsatlar.click
 bireysel-guvenli-siparis-onay-sistemi-guncel.online
 bireysel-iade-halkbank.ph
@@ -2593,6 +2594,7 @@ bireysel-satis.com
 bireysel-shop-tr.click
 bireysel-shops-mobil.online
 bireysel-ziraatli-kampanya.my-homeip.net
+bireysel-zirai-tarim.my-homeip.de
 bireyselbasvurdenizbank.74-235-34-0.plesk.page
 bireyselsiparis.com
 bireyselsiparisin.online
@@ -3372,6 +3374,7 @@ ceptesokfirsatlarim.com
 ceptesokindirmleri.online
 ceptesoklarile.online
 cepteteb-c-o-m-tr.my-homeip.de
+cepteteb-com-tr-emekliye-ozell.my-homeip.de
 cepteteb-com-tr.my-homeip.de
 cepteteb-com.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
@@ -4229,7 +4232,6 @@ diplomasatisi.online
 diramodi-ralamoli.lol
 dirapala-ralasude.lol
 direktsube-akbank.ph
-dis-ak-kampaing.myonlineportal.ch
 disciplinenahidwin.st
 disclaud-password-security.myonlineportal.ch
 discountonline.click
@@ -5591,7 +5593,6 @@ frrrstllrrrkmpppnnnyaaaabsvrrr.info
 frrrstllrrrkmpppnnnyaaaabsvrrr.pro
 frrstlrrkmnyaabsvrrr25479123.info
 frrstlrrkmnyaabsvrrr25479123.pro
-frsattsonnnbsvrrkmpnyyaaa.live
 frsattt-site.s3.eu-north-1.amazonaws.com
 frsltrkmpnyabsvr.info
 frsltrkmpnyabsvr.live
@@ -5833,7 +5834,6 @@ garentarentcar.org
 garfielddom.xyz
 garikalisna-solere.lol
 garislennmenleritemmuzfrsatalr.site
-garlt-lo-istatistik.myonlineportal.ch
 garposegirisleri.duckdns.org
 garrkasdcjk123x1csdakx123.cfd
 gartnix21j3x12jk1x2.sbs
@@ -7941,7 +7941,6 @@ iletisimonllne-sorguekranlariacildi.sbs
 iletisimsorguaktif.sbs
 ilgenelibasvurubasvuru.online
 ilgenelitoplubasvuru.online
-ilgileniyoruz.com
 ilgili-disp-asist.ink
 ilginc-detay-web.ink
 ilhamverenprojelerim.sbs
@@ -10839,7 +10838,6 @@ mlgrsshazlrann.online
 mlktnaln.net
 mlsriantvi.icu
 mlyna38393.click
-mmhhrhhrhrrs87.sbs
 mmhrrksl.com
 mmhrsrrandevuum.com
 mmmmmmm4.duckdns.org
@@ -11704,7 +11702,6 @@ ny-car-dealership.it.com
 nycpartnersenterprise.com
 nytherionecho.org
 o-bilet.info
-o-bilets.com
 o.peer4you.net
 o4545c.click
 oaklandwaterdamage.com
@@ -14466,7 +14463,6 @@ secure.ssa-documentsync.com
 secureauthpasskey.com
 securelink.qtproxy.xyz
 securepulse.space
-securesitem1.co
 security-password.casa
 securityhelpmicrosoft.com
 secutoki.site
@@ -15168,7 +15164,6 @@ sondakikamegaport.com
 sondakikanet.world
 sondakikanin.com
 sondakikaodasi.com
-sondakiraturk.com
 sondaksonbasvursonhareket34.click
 sondemlemebitiyor.sbs
 sonfffrstlrbstsbvrrrkmpnyaaaa986532.info
@@ -15898,7 +15893,6 @@ techrock.digital
 techsysscanner.com
 techsysscanner.lol
 techva.cyou
-techvera.digital
 techveras.online
 tecnorix.com
 tedbanibuni.duckdns.org
@@ -17715,7 +17709,10 @@ www-cepte-teb-com.my-homeip.de
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
+www-cepteteb-emekli-kampanyalari.my-homeip.de
+www-cepteteb-emekliye.my-homeip.de
 www-cepteteb-ozelkampanya.my-homeip.de
+www-ceptetebden-ayricalik.my-homeip.de
 www-dot-turkiye-dot-gov-dot-tr.jp.gmproxy.org
 www-enpara-qnbfinans-com-tr.ph
 www-fifa.com
