@@ -155,8 +155,6 @@
 124124124.duckdns.org
 1244422115455455888899991.duckdns.org
 1244422115455455888899993.duckdns.org
-124451545544554888787990.duckdns.org
-124451545544554888787991.duckdns.org
 124451545544554888787992.duckdns.org
 124451545544554888787993.duckdns.org
 124451545544554888787994.duckdns.org
@@ -395,6 +393,7 @@
 5askdcjkaslx1kl23klx1312.cfd
 5mp.eu
 5wg3w278e3oamlohmcinrkh.live
+6017266923.cloud
 61322122214545578899892.duckdns.org
 61322122214545578899893.duckdns.org
 61322122214545578899894.duckdns.org
@@ -752,7 +751,6 @@ akbank-bireysel-subesi.ph
 akbank-direkt-firsatkampanyasi-esubetr.ph
 akbank.com.ph
 akbank.online
-akbankinvestprogram.click
 akbankonline-giris.ph
 akbnkpk.cfd
 akillisaatt.duckdns.org
@@ -1106,7 +1104,6 @@ asgasdgqwre.sbs
 ashforgemaplehold.com
 asimple-lear-gorl.myonlineportal.ch
 asis-asc-awr.myonlineportal.ch
-asist-web.casa
 aslicezasorgu.org
 aslicicek.com
 aslihukuksorgu.com
@@ -1311,9 +1308,7 @@ basvurrrrkmpnyaasnfrslatttr.info
 basvursendmn.sbs
 basvursendr.sbs
 basvursendsmr.sbs
-basvursenrnz.sbs
 basvursenszv.sbs
-basvursenxm.sbs
 basvursmn.sbs
 basvursns.sbs
 basvursondkkkkmpnyaa98754frstlar.info
@@ -2364,10 +2359,12 @@ dolayli-kestirme.click
 dolmaq.shop
 domainlify.net
 domestlerkest.duckdns.org
+domuzkurtboz.duckdns.org
 donalurdesconfeitos.site
 dondurmakraliduck.duckdns.org
 dorduncuetap.vercelcloud.com
 dosya-takip.com.idea-files.com
+dosyagibsorgula.com
 dosyaincele.org
 dosyalarim.conjugaizen.com
 dosyasorgugib.com
@@ -2457,6 +2454,8 @@ ebebekonline.shop
 ebelgesorgu.com
 ebilgi.org
 ebilisimceza.com
+ebilisiminfaz.com
+ebilisimteblig.com
 ebtkceza.com
 ebtkportal.com
 ecbsdosya.org
@@ -3753,7 +3752,6 @@ halkfirsat.online
 halkfirsat.shop
 halkfirsat.tech
 halkfirsat.wiki
-halkicanocan.co
 halkinadamirafael.site
 halkinfirsati.cam
 halklimit.click
@@ -3886,7 +3884,6 @@ hemenhediye-burada.online
 hemenhediye.online
 hemenhediyeburada.online
 hemenislemkn-nsonuc.net
-hemenislemn-sonuc.net
 hemenislemnktasna.net
 hemenislmatknas.net
 hemenislmkntokas.net
@@ -4562,6 +4559,7 @@ istcanistanbulbelgim.xyz
 istelmancankart.xyz
 istkadarbkasadn.com
 istkarlanlasanadas.com
+istkartbelgim.xyz
 istkartlabuanlama.duckdns.org
 istkartlahmnadak.com
 istkartlahzlacn.duckdns.org
@@ -4895,7 +4893,6 @@ kingbss.com
 kiralikaraclarimislemler.com
 kiralikkonutbasvurularim.cfd
 kirameso-hulavite.lol
-kisa-edinim.guru
 kisaltsaniza.space
 kisim-edinim-hakkinda.ink
 kisitkaldirma-linki.duckdns.org
@@ -5998,6 +5995,7 @@ moodle.evsahibibasvuru.com
 more-inf.ink
 morgangentleman.com
 morganstbftanley.vu
+moskovapanel.42web.io
 mossmesh17.com
 mossylorex.com
 motorlineyedekparca.com
@@ -6143,6 +6141,7 @@ nebulachecker.icu
 nedensendegelemdincabukgel.click
 needcherries.online
 neflixtr.icu
+negan-service.xyz
 nelerdeshanewds.duckdns.org
 neo-g.my-homeip.de
 neoncloak.space
@@ -6272,6 +6271,7 @@ njreanbva.duckdns.org
 nlamatkanahem.net
 nlhmrsrabklmdn.com
 nltaman.net
+nltkammt.net
 nltkmamt.net
 nltknam.net
 nltknant.net
@@ -7149,6 +7149,7 @@ pazarama.onlinesiparislerim.com
 pazarama.satiskapida.com
 pazarama.sepet-odemeler-2211.com
 pazarama.sepet-odemeler-2212.com
+pazarama.sepet-odemeler-2213.com
 pazarama.siparisguvende.com
 pazarama.siparisim-onay-1923.com
 pazarama.siparisimhizli.com
@@ -7306,6 +7307,7 @@ pttavm-hizli-gecisyklemsiyap.web.app
 pttavm-kilometrsorgu.web.app
 pttavm-kmsorgulamakkicn.web.app
 pttavm-kmsorgulayin.web.app
+pttavm-kmsxrgulama.web.app
 pttavm-online-siparis.com
 pttavm-yedekparca.com
 pttavm.avmsiparis.com
@@ -7925,7 +7927,6 @@ satinal-hemen.com
 satir-web.ink
 satiskapida.com
 sayatatata.click
-sayayaya.duckdns.org
 sayayayaya.duckdns.org
 saydimsenikalbime.duckdns.org
 sbelnlcan.duckdns.org
@@ -7964,7 +7965,6 @@ securityhelpmicrosoft.com
 seedmora.com
 sefi.jspara-col.cfd
 seguranca.versionnova.site
-sehaaredales.duckdns.org
 sehhatdeniz.duckdns.org
 sejda.hl.cn
 sekermenkulglobal.com
@@ -8199,6 +8199,7 @@ sgkprimiade.com
 sgkprmborcsorgulahzmeti.net
 sgksorgulama.us
 sgktesviksorgulama.info
+sharkturkiye.com
 shb-guvenlimuhasebeodemesi.duckdns.org
 shelternode18.com
 shershvpn.space
@@ -8916,6 +8917,7 @@ tkg-tapsurndvnuzs.net
 tkg-tapvrdvsunuz.info
 tkg-tapvrdvsunuz.net
 tkg-tapvrdvsunuz.org
+tkg-tpuransevdnuz.com
 tkg-tpuransevdnuz.net
 tkgg-edvtap-randvv.org
 tkgms.com.tr
@@ -8955,7 +8957,6 @@ toki-konut-basvuru.sbs
 toki-konut.sbs
 toki-konutlarim.sbs
 toki-konutum.sbs
-toki-toplukonut.gravitycl.app
 tokinmony.pro
 tokitoplukonut.gravitycl.app
 tokyolokko.co
@@ -8963,12 +8964,10 @@ tom00bnk01.duckdns.org
 tomcrm.net
 tomhadi.com
 tony.scriptdemo.top
-toplu-konut.gravitycl.app
 toplukonut-toki.gravitycl.app
 toplukonut.gravitycl.app
 toplukonut2026-toki2026.vercel.app
 toplukonut35912911.vercelcloud.com
-toplukonutidaresi.gravitycl.app
 topluluk-t.garden
 topu-rondevum-e-devlet.vercel.app
 topxgax.click
@@ -9300,6 +9299,7 @@ uzaktanhemen.abrdns.com
 uzaktankayit.abrdns.com
 uzerlerguzelim.co
 uzlasmaaktifdosyasorgula.com
+uzlasmabilisim.com
 uzlasmabirim.org
 uzlasmacezasorgu.org
 uzlasmadosyakontrol.org
@@ -9712,6 +9712,7 @@ yapuresi-lodanome.lol
 yardimdestek.net
 yardimdestek.org
 yardimdestekpaketim.com
+yardimetmeyiseviyoruz.com
 yardimevim.com
 yardimevim.net
 yardimevim.org
