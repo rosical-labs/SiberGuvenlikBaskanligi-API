@@ -218,7 +218,6 @@
 182-web.cfd
 182-web.sbs
 182-webb.cfd
-182-webb.sbs
 182-webpsp.com
 182-webs.biz
 182-webs.cfd
@@ -1067,7 +1066,6 @@ artoaslfasfoela.biz
 artsketch.pl
 arvanokamplndirimleri.com
 arzssrtwt.com
-arzumtblenn.com
 as-alon-av.myonlineportal.ch
 as-anc-ayt.myonlineportal.ch
 as-gr-lr-tk.myonlineportal.ch
@@ -2451,7 +2449,6 @@ e-devletresmituvturk.site
 e-hgs.de
 e-imza-filo.com
 e-imza-sozlesme.com
-e-islemler-online-saglik.com
 e-islemler-online-sagliklar.com
 e-islemtuv.site
 e-mhrsilesagligakavuskos.digital
@@ -3106,7 +3103,6 @@ forex-inside.com
 formatf.ru
 formentor.klasna.solm.batrakossvkad.click
 formsayfasi.netlify.app
-fortunstan.com
 forum2.evsahibibasvuru.com
 forvar-d.my-homeip.de
 forvard.best
@@ -4500,7 +4496,6 @@ islemlerim-garanti.bounceme.net
 islemlerim-garanti.freemyip.com
 islemlerim-hemen-garanti.duckdns.org
 islemleriniz.duckdns.org
-islemnoktasihemn.net
 islemonay-tr.online
 islemonayla-tr.online
 islemonayla.online
@@ -4703,7 +4698,6 @@ kadersiz.shop
 kadlkburdaartknapcagzburda37.art
 kafamaskacagim.sbs
 kafamaskarimlan.sbs
-kahvemakinasial.xyz
 kait1laylayloommmm.shop
 kait3laylaylommmxkj1x232.shop
 kaita2elleme3434.sbs
@@ -5976,7 +5970,6 @@ mobil-deniz-promosyyon-cepte.webredirect.org
 mobil-deniz-promosyyon-ekrani.theworkpc.com
 mobil-dijital-firsatlar.sbs
 mobil-indirimleri.online
-mobil-ozel-tr.online
 mobil-ozel.site
 mobil-simdi.com
 mobil-tepden-basvur.myonlineportal.de
@@ -6175,12 +6168,6 @@ nakletmek-web.garden
 nakliyathizmetlerieniyisiburada.sbs
 nalikalisgo-modere.lol
 nas.evsahibibasvuru.com
-nato-by.info
-nato-ie.info
-nato-mp.info
-nato-te.info
-nato-xv.info
-nato-zp.info
 naturturizmvilla.com
 navi-happy.ink
 ncalb1rzb2rq5-3zdx1.app
@@ -6641,7 +6628,6 @@ olyuuflgjd.nicepage.io
 om8w2krx5qvph9tcn4ylb.sbs
 omerfarukgun57.xyz
 omio-trips.com
-omiohotels.com
 ommid.e-wl.com
 omnidataflow1.lol
 omnidataflow10.lol
@@ -7512,7 +7498,6 @@ rafa14dcsjkadjkskjx123x12312.cfd
 rafa1cadcjksakx13x12x3123x.cfd
 rafa2lcdsajcjksakjx123x12.cfd
 rafa3cajkcdaskx1x3213x.cfd
-rafa4aksdjjkx123x12.cfd
 rafa4dkjacjkdcakdx23.cfd
 rafa5cjkadscasdjxk13x123.cfd
 rafa6cadkjasjkdax13x1x312.cfd
@@ -7627,7 +7612,6 @@ rinexsystems.edgeone.dev
 rivex.lol
 rivexsorgupaneli.top
 rivexsrogupaneli.top
-rixosluxuryhotels.com
 rixosparkhotels.com
 rixospremiumshotels.com
 rixosshotels.com
@@ -9023,7 +9007,6 @@ toki-konutlarim.sbs
 toki-konutum.sbs
 toki-onlinepay.com
 tokinmony.pro
-tokitoplukonut.gravitycl.app
 tokyolokko.co
 tom00bnk01.duckdns.org
 tomcrm.net
@@ -9410,7 +9393,6 @@ vancarsfilo.com
 varlikatlas.info
 vatandas-basvuru-islemleri.sbs
 vatandas-uyap-gov-tr-evrak-dogrulama-uyap.vercel.app
-vatandasgirsmhrslersx.mtvleyi2026s.xyz
 vatandsprrtalmrshz.duckdns.org
 vatankonutlari-toki.vercel.app
 vatiter.click
@@ -9626,6 +9608,7 @@ www-cepte-frst-sync.myonlineportal.ch
 www-cepte-only.myonlineportal.ch
 www-cepte-smdi.myonlineportal.ch
 www-cepte-teb-com.my-homeip.de
+www-cepte-teb-work.myonlineportal.ch
 www-ceptedir-sync.myonlineportal.ch
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
@@ -9913,6 +9896,7 @@ yomestlerkest.duckdns.org
 yonhome-g.my-homeip.de
 yonlen-toplan-security.ink
 yonlen.best
+yonlendi.space
 yonlendir-g.my-homeip.de
 yonlendir-secur-gr.my-homeip.de
 yonlendir-sifre-guncel.ink
