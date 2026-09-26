@@ -95,6 +95,7 @@
 1010010177200.bounceme.net
 101001310177200.bounceme.net
 10108283004588.bounceme.net
+1014545082504588.bounceme.net
 101flrsatlarlburada1o1.duckdns.org
 101kariyer.net
 101kariyer.org
@@ -216,6 +217,7 @@
 412121145441555445592.duckdns.org
 412121145441555445593.duckdns.org
 412542212224555455589991.duckdns.org
+421412421412124.duckdns.org
 44444321.sbs
 45685153456431.duckdns.org
 468416515654451232.duckdns.org
@@ -1013,8 +1015,8 @@ ceyhunturizm.com
 cezabildirim.com
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -1157,6 +1159,7 @@ dijitalonline-kapinda.duckdns.org
 dijitalonline-sepetsiparis.sbs
 dijitalsiparis-kampanyasi.sbs
 dijitalsiparisler-kapinda.duckdns.org
+dijitalsube-onlinebasvur.sbs
 dijitalurun-aynigunkapinda.duckdns.org
 dijitalweb-basvurlarim.sbs
 dijitalweb-kategori.sbs
@@ -1212,11 +1215,13 @@ dynotatattaas.lol
 dynotatattaas.xyz
 e-alisveris.sbs
 e-alisveriskampanya.sbs
+e-alisverissepet.sbs
 e-devlet-turkiye-tr.vercel.app
 e-hgs.de
 e-imza-filo.com
 e-sagliklibiryasammucadele.digital
 e-sbm.org
+e-sepetalisveris.sbs
 e-sozlesme.online
 e-sube-teb-com-tr.my-homeip.de
 e-sube.hedefportfoyfon.com
@@ -1270,6 +1275,7 @@ edosyatalimat.com
 edosyauzlasma.com
 edvs-tapursvnnuszs.info
 edvs-tapursvnnuszs.org
+efescim.cc.cd
 efesgrtbq.ice.fo
 efesoskr.bot.cd
 efokesker.ccwu.cc
@@ -1419,7 +1425,6 @@ etebligkamu.com
 etebligsorgu.com
 etebliguyap.com
 etebliguzlasma.com
-etisalat-bankofamericac-isbank.com.ph
 euioxu.net
 euwingsvisaconsultancy.com
 euyapadalet.org
@@ -1501,6 +1506,7 @@ fegrs.adidasabc.com
 felkaritasle.live
 felkelselfel.sbs
 fellanfllansas.live
+femonester.duckdns.org
 fernasburs.site
 feww3534ft19vs324s127cd.cfd
 ff-de.shutgpt.ir
@@ -1681,7 +1687,6 @@ go.0010v.lol
 gogle-travelflights.com
 gogle-travelflights.info
 gojestlerkest.duckdns.org
-golesude-viredepo.lol
 gomestlerkst.duckdns.org
 googlecomfunkyehh.vercel.app
 gorsite.online
@@ -1955,7 +1960,6 @@ hofesnesmtkerk.duckdns.org
 hojesjelretekset.duckdns.org
 hojesnadfetrese.duckdns.org
 hojesterser.duckdns.org
-hojsdfewer.duckdns.org
 hokayakabiturkiye.com
 homadise-vurageno.lol
 homecub.cfd
@@ -2516,6 +2520,7 @@ mail.uaiubifas.top
 mailchimp-passkey.com
 malaysiapulse.com
 malicezasorgu.com
+malidosya.org
 malimasak.net
 maliportaltc.org
 maliportaltr.org
@@ -3296,6 +3301,7 @@ ptt.govsf.life
 ptt.mobilservis-26.sbs
 pttavkilometresrgu.web.app
 pttavm-gecis-hizliykl.web.app
+pttavm-gecisbakiyenoktasi.web.app
 pttavm-hizli-gecisyklemsiyap.web.app
 pttavm-kilometredetaykolayca.web.app
 pttavm-kmsxrgulama.web.app
@@ -4186,13 +4192,13 @@ uyapvatandas.org
 uygungunlerdyzblzer.duckdns.org
 uzlasmaaktifdosyasorgula.com
 uzlasmabaro.com
+uzlasmabildirim.com
 uzlasmabilisim.com
 uzlasmacezasorgu.org
 uzlasmadosyatr.com
 v30105.site
 vaha-yatirim.com
 vakiflarasadasfas.com
-vakiflarkamasdswfs.com
 vakko.appmira.co
 validationsetupac.com
 vancarsfilo.com
@@ -4217,7 +4223,6 @@ volmira.site
 voltabayi.com
 voltafabrikamagaza.com
 voltamotorsatis.com
-voltaonline.co
 vomeka-jupiseraton.lol
 vorfy.org
 votile-safemur.lol
@@ -4423,7 +4428,6 @@ zedese-doliuyere.lol
 zedesedeliopolse.lol
 zefoluri-danipote.lol
 zekoma-rupilo.lol
-zelenapo-maledepo.lol
 zeluspanel.art
 zen3bet.shop
 zen8bet.shop

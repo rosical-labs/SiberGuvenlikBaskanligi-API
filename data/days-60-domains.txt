@@ -133,6 +133,7 @@
 1010010177200.bounceme.net
 101001310177200.bounceme.net
 10108283004588.bounceme.net
+1014545082504588.bounceme.net
 101flrsatlarlburada1o1.duckdns.org
 101kariyer.com
 101kariyer.net
@@ -357,6 +358,7 @@
 41414155.duckdns.org
 41865485646468.sbs
 41m4at124bsbs.com
+421412421412124.duckdns.org
 44444321.sbs
 4444444555.duckdns.org
 452145632563256255.duckdns.org
@@ -1909,8 +1911,8 @@ cezabirimi.net
 cezadavasorgu.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -2304,6 +2306,7 @@ dijitalsiparis-kampanyasi.sbs
 dijitalsiparis-kapinda.sbs
 dijitalsiparisler-kapinda.duckdns.org
 dijitalsiparisler-kapinda.sbs
+dijitalsube-onlinebasvur.sbs
 dijitalurun-aynigunkapinda.duckdns.org
 dijitalweb-basvurlarim.sbs
 dijitalweb-kategori.sbs
@@ -2414,6 +2417,7 @@ dynotatattaas.lol
 dynotatattaas.xyz
 e-alisveris.sbs
 e-alisveriskampanya.sbs
+e-alisverissepet.sbs
 e-devlet-kap-s.vercel.app
 e-devlet-rehberi.com
 e-devlet-tr.vip
@@ -2437,6 +2441,7 @@ e-nvirandevu.org
 e-sagligahemenkavussss.digital
 e-sagliklibiryasammucadele.digital
 e-sbm.org
+e-sepetalisveris.sbs
 e-sozlesme.online
 e-sube-teb-com-tr.my-homeip.de
 e-sube.coin-tr.net
@@ -2507,6 +2512,7 @@ edvs-tapursvnnusz.net
 edvs-tapursvnnuszs.info
 edvs-tapursvnnuszs.org
 edwardeggcup.shop
+efescim.cc.cd
 efesgrtbq.ice.fo
 efesoskr.bot.cd
 efesotomotiv.com
@@ -2941,6 +2947,7 @@ fegrs.adidasabc.com
 felkaritasle.live
 felkelselfel.sbs
 fellanfllansas.live
+femonester.duckdns.org
 fennelspire.info
 ferigaporas.click
 fernasburs.site
@@ -5557,6 +5564,7 @@ makepasskey.com
 malaysiapulse.com
 malerdenlerdens.duckdns.org
 malicezasorgu.com
+malidosya.org
 malimasak.net
 maliportaltc.org
 maliportaltr.org
@@ -7295,6 +7303,7 @@ ptt.mobilservis-43.sbs
 pttavkilometresrgu.web.app
 pttavm-arackmsorgulayiniz.web.app
 pttavm-gecis-hizliykl.web.app
+pttavm-gecisbakiyenoktasi.web.app
 pttavm-hizli-gecisyklemsiyap.web.app
 pttavm-kilometredetaykolayca.web.app
 pttavm-kilometrsorgu.web.app
@@ -9274,6 +9283,7 @@ uzaktankayit.abrdns.com
 uzerlerguzelim.co
 uzlasmaaktifdosyasorgula.com
 uzlasmabaro.com
+uzlasmabildirim.com
 uzlasmabilisim.com
 uzlasmabirim.org
 uzlasmacezasorgu.org
