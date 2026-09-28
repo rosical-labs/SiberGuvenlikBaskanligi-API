@@ -470,7 +470,6 @@
 27478900120127.duckdns.org
 27478900120127.webredirect.org
 2747890012056.duckdns.org
-27478900203.duckdns.org
 27660175439.cloud
 278973fea636720-5xrydy.csb.app
 290299234.sbs
@@ -12604,8 +12603,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
