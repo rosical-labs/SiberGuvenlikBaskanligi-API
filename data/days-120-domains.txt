@@ -5605,7 +5605,6 @@ filecedarwallet.online
 filecopperbasket.sbs
 filecrimsonsignal.online
 filedwnld.top
-filelocker.locker
 filemarblegarden.sbs
 fileoceanhammer.sbs
 filerubyfolder.sbs
@@ -5741,7 +5740,6 @@ fisios2-qui70.sbs
 fisios3-velit95.sbs
 fisios5-amet89.sbs
 fitcore.gifts
-fitlevel.sbs
 fitluma.xyz
 fiusyevr.live
 fivemsevmeyenerkekler.xyz
@@ -7952,7 +7950,6 @@ hopdedik.click
 horferruhs.duckdns.org
 horizon-frankfurt-pharmacology-charleston.trycloudflare.com
 horizoneguide.com
-horizonera.cfd
 horizonguard.space
 horizonmindventure.sbs
 hosemejst.duckdns.org
@@ -11604,7 +11601,6 @@ nelerdeshanewds.duckdns.org
 nelik.click
 neltron-geltron.shop
 nemesistrade.work
-nentacht.com
 neo-g.my-homeip.de
 neobankora.xyz
 neoncloak.space

@@ -6760,7 +6760,6 @@ paribu-araba-cekilis.online
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online
-paribu-araba-kazanma.com
 paribu-araba.live
 paribu-araba.online
 paribu-arababurada.com
@@ -6893,8 +6892,6 @@ paribununhediyekampanyalari.online
 paribununhediyelicekilisleri.online
 paribununodulluyarismalari.online
 paribununsponsorlucekilisleri.online
-paribupepe-cekilisim.com
-paribupepe-cekilisin.com
 paribupepe-hediyem.com
 paribupepe-hediyem.info
 paribupepe-hediyem.link
@@ -7367,7 +7364,6 @@ random.royalifield.app
 randvhsziemtsd.store
 randvshzksimerts.store
 randvuislmlerinizburadan.duckdns.org
-raramic640.xyz
 ravo-world.ink
 ravun8qelix3zonaterima.sbs
 rbcroyalbank-homesa.cc
