@@ -218,7 +218,7 @@
 127919552784050.webredirect.org
 1279199552030.duckdns.org
 1288300023802.duckdns.org
-129996.com
+1288400002992.webredirect.org
 1300000.duckdns.org
 13222112211445799890.duckdns.org
 13222112211445799891.duckdns.org
@@ -317,6 +317,7 @@
 22888xx8888.sbs
 22qq-client.com
 2312059939299112.webredirect.org
+235124125235.duckdns.org
 235976235dfsohu32.click
 24124214124.duckdns.org
 24325555555555232.webredirect.org
@@ -434,7 +435,6 @@
 5426554265521.duckdns.org
 543543534534.sbs
 5638563454132.org
-5685632523532.org
 57586876r8544ee.duckdns.org
 58475226235125.duckdns.org
 58746231basvrurksmynansda.online
@@ -675,6 +675,7 @@ a101pro.shop
 a1capitalmenkulonline.com
 a1kapitalmenkulonline.com
 a1newtemuzfirstlari.xyz
+a1o1haftanlnfrstlari.duckdns.org
 a1o1marketafisleri.com
 a1o1onlinesadeconlin1d.blogdns.com
 a1o1sarkuterifirsatlarinizburadaa.com
@@ -717,7 +718,6 @@ active-enable-right-click.top
 acunmedia.digital
 ad-g.org
 ada322e232.pzbsin.com
-adaadada.top
 adaletgib.org
 adaletmali.net
 adamiboleskerzddskskvsdva.sbs
@@ -1013,13 +1013,11 @@ anlikgiris.abrdns.com
 anlikvizyon.site
 annacicek.com
 anomkit.shop
-anticonstitutionally.sbs
 anzrewardse-homes.info
 aol-adns-ab.myonlineportal.ch
 aotuzbirharcaharcatmez.duckdns.org
 apartment.devour.top
 apexkurumsalfilo.com
-apexrecord.top
 api-garantibbva.ph
 api.baykar-investmentopportunity-com.topmarketingoffer.com
 api.baykardevletprogrami-com.topmarketingoffer.com
@@ -1566,7 +1564,6 @@ binance-cekilisleri.com
 binance-sign-in.vercel.app
 binance-tr-cekilis.com
 binancecekilisi.com
-binancechainus.com
 binancelogin-tr.com
 binancetrcekilis.com
 biramodi-folepara.lol
@@ -1786,6 +1783,7 @@ cahide1453rezervasyon.online
 cahidepalazzo.online
 calibre-ebook.com.cn
 campscapellc.com
+canpackcom.com
 cans666843.site
 cansincargallery45.duckdns.org
 canva-arts.com
@@ -1805,7 +1803,6 @@ carogra.biz
 carrefoursasuperim.com.ph
 carts-tr.online
 casasbella.org
-cataclysmdda.xyz
 catalyst-pro.lat
 catalystboostfunding.com
 catchingthewindoutdoors.org
@@ -2365,7 +2362,6 @@ diplomaal.web.app
 diplomasatisi.online
 diramodi-ralamoli.lol
 dirapala-ralasude.lol
-discountonline.click
 discover-garantibbva.com.ph
 discovergarantibbva.com.ph
 divekickspolic.org
@@ -2965,7 +2961,6 @@ faslizabita.click
 fast-guvenli-hizmet.com
 fast-ilanlar.com
 fast-islem-merkezi.com
-fastsecurey.info
 faststoneportal.ru
 faturakom-faskero.it.com
 faturaturkcell.com
@@ -4369,7 +4364,6 @@ instagramlogin74.blogspot.com
 instagramlogin910.blogspot.com
 instagramloginpage2021.blogspot.com
 installpasskey.com
-instantmessagehub.tech
 instructure-garantibbva.com.ph
 integratedsso.com
 interiumdev.xyz
@@ -4618,8 +4612,6 @@ jsfeterst.duckdns.org
 jsnetlify.com
 jspara-col.cfd
 juk2a.site
-jump.qt-proxy.org
-jump.qt-team.com
 jvbomzwbhaedeihch.qsewjn.icu
 k0bidestekk.click
 k0biprojelerii.click
@@ -4840,6 +4832,7 @@ kgmigov.homes
 kgmigov.qpon
 kgmipfngmsypp.online
 kgmnmubeyb.xyz
+kiilometresorguhesap.web.app
 kikmmdkdlrmaz.sbs
 kilabeyt-org.my-homeip.de
 kilissubesndyzbizlerr.duckdns.org
@@ -4847,7 +4840,13 @@ kilometre-sonuclarinizi-ogrnn.web.app
 kilometre-sonuclarnzi-ogrnin.web.app
 kilometredetaym.web.app
 kilometregecmisikolay.lol
+kilometresorguhesaap.web.app
 kilometresorguhesap.web.app
+kilometresorguhesap1.web.app
+kilometresorguhesap2.web.app
+kilometresorguhesap3.web.app
+kilometresorguhesapcan.web.app
+kilometresorguhesaptr.web.app
 kilometresorgulamasi.info
 kilometresorgulamayapburadagovpet.duckdns.org
 kilometresorgumadan.web.app
@@ -4881,7 +4880,9 @@ kizlarvixlex.sbs
 kizlarvixlex.xyz
 kkfkfjpdlfdmfsndfnsdnfmnvcxnvb58.click
 kkfkkdkag.com
+kkilometresorguhesap.web.app
 kkk44443.site
+kkmsorgulamaislemleri.web.app
 kktcedevlet.console.icont.ai
 kl21177.com
 kladenslesdwa.duckdns.org
@@ -4965,6 +4966,7 @@ kmsolhemenyap.shop
 kmsorglamahizmeti.web.app
 kmsorguanaliziniz.web.app
 kmsorguislemlerinz.web.app
+kmsorgulaamaislemleri.web.app
 kmsorgulaamhzmetleriniz.online
 kmsorgulamahizmetcinizz.online
 kmsorgulamahizmeti.web.app
@@ -4977,7 +4979,13 @@ kmsorgulamahizmetmiz.com
 kmsorgulamahizmettimiz.web.app
 kmsorgulamahzmetleriniz.online
 kmsorgulamahzmetleriniz.web.app
+kmsorgulamaiislemleri.web.app
 kmsorgulamaislemleri.web.app
+kmsorgulamaislemleri1.web.app
+kmsorgulamaislemleri2.web.app
+kmsorgulamaislemleri3.web.app
+kmsorgulamaislemlerican.web.app
+kmsorgulamaislemleritr.web.app
 kmsorgulamamizz.web.app
 kmsorgulamamizzw.web.app
 kmsorgulamammiz.web.app
@@ -5864,7 +5872,6 @@ mindmoster.com.cn
 minewave.info
 miporuk-tasewilo.lol
 miporukan-tasewilore.lol
-mirrorstorage.org
 misyonmenkuldegerler.com
 misyonyatirimmenkuldegerler.com
 mivoxel.com
@@ -6144,7 +6151,6 @@ newsmingle.top
 newssjs.com
 newsturk.blog
 newswisp.today
-newtourism.pw
 nexahub.lat
 nexenttradr.com
 nexentyatirimweb.com
@@ -6646,7 +6652,6 @@ onlineucuzlukfirsati.com
 onlinezlraatmenuglrls.duckdns.org
 onlinnehzmtlerim.com
 onlinozlxxldante.gt.tc
-onlion.shop
 onlline.csgb.govct.tr
 onlne-182.cfd
 oob-worker.cf102-baf.workers.dev
@@ -7311,8 +7316,6 @@ qnbstart.com
 qori-space.ink
 qsewjn.icu
 qt-proxy.org
-qt-team.com
-qtproxy.com
 qtproxy.xyz
 quantumbytehub1.lol
 quantumbytehub10.lol
@@ -7925,7 +7928,6 @@ sepsslsdi.com
 serenthorneglen.com
 serhathosting.xyz
 serkancx.duckdns.org
-serverbks.xyz
 service-infos.info
 service-nowinc.com
 service8date.com
@@ -9278,7 +9280,6 @@ vgksucdjccsojzuhckzk.supabase.co
 viemio.com
 view-sour-c.myonlineportal.ch
 vigmanet.ru
-vigorlabs.info
 vine-96.com
 viogarxnti.ice.fo
 violet-87cardo.workers.dev
@@ -9396,7 +9397,6 @@ wincdn.ru
 windowserv.net
 windowsmp.ru
 windwsecurity.run
-wintel.biz
 winter-smoke-a612.icy-star-f45c.workers.dev
 winter-waterfall-0606.rihaniomar21.workers.dev
 wmhlkfskdw.duckdns.org
@@ -9435,6 +9435,7 @@ www-cebteteb-emeklim.my-homeip.de
 www-cebteteb-promosyonu-com.my-homeip.de
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
+www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-birey-async.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
@@ -9481,6 +9482,7 @@ www-cepteteb-emekliye.my-homeip.de
 www-cepteteb-ozelkampanya.my-homeip.de
 www-ceptetebden-ayricalik.my-homeip.de
 www-ceptetebliye-ayricalikli.my-homeip.de
+www-ceptetepde-emekli.my-homeip.de
 www-cf.com
 www-dot-turkiye-dot-gov-dot-tr.jp.gmproxy.org
 www-internetbankacilik-qnbfinansbank.ph
@@ -9525,7 +9527,6 @@ www-ziraatbank-com-tr-mobil-ekran.my-homeip.de
 www.blackcat880.shop
 www.cheng770.cyou
 www.heilongyk.top
-www.zhc-ms-whatsappweb.com.cn
 wwwaww.sbs
 wwwdhl-parcel.dffbeauty.com.au
 wwwmartfirsatlarimizqnbfinansbankcom.ph
