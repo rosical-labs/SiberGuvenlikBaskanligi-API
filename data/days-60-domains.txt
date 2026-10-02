@@ -193,7 +193,9 @@
 1111999937384gr.duckdns.org
 1111x1111.sbs
 120200000000034445.duckdns.org
+120219292929388.webredirect.org
 120298573000294.webredirect.org
+1220294899922.bounceme.net
 122048882008288.bounceme.net
 122048882008329.bounceme.net
 122111145541155455455899990.duckdns.org
@@ -205,6 +207,7 @@
 12211455441554555889895.xyz
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
+1222222222994949388.webredirect.org
 1222233122455666512255991.xyz
 1222233122455666512255993.xyz
 122455512222455588899890.duckdns.org
@@ -327,6 +330,7 @@
 2312059939299112.webredirect.org
 235124125235.duckdns.org
 235976235dfsohu32.click
+239929292920101993.webredirect.org
 24124214124.duckdns.org
 24325555555555232.webredirect.org
 245891251.sbs
@@ -1341,6 +1345,7 @@ ayasdasagsdgasgdw990w.click
 ayhadsalosadl.online
 aylincicekcilik.com
 ayplnsnnaa.duckdns.org
+ayrica-ceptetebde.my-homeip.de
 ayricalik-cepte.myonlineportal.ch
 ayricalik-ceptetebde.my-homeip.de
 ayricalik-tepte.my-homeip.de
@@ -1963,6 +1968,7 @@ ceptetebden-emekli.my-homeip.de
 ceptetebden-emeklin.my-homeip.de
 ceptetebden-firsati.my-homeip.de
 ceptetebden.my-homeip.de
+ceptetebdeniz.my-homeip.de
 ceptetebeva.my-homeip.de
 ceptetebli-ayricalik.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
@@ -2478,6 +2484,7 @@ e-sube.tunaportfoyyonetimitr.com
 e-tuvtr.site
 e7xq3vkn9zmp4lra.cfd
 eadaletcezadosya.org
+eadli.org
 eare23.s.gy
 earnvia.top
 ebelgesorgu.com
@@ -2939,6 +2946,7 @@ facebookloginuser.com.ph
 faderdasdleer.duckdns.org
 faelthornebrook.com
 fafwatch.xyz
+fakedooomm.duckdns.org
 falabella-trendyol.com.ph
 falanfilanintermilan.sbs
 fallosalsajens.co
@@ -4773,7 +4781,6 @@ kernelmonitor.cc
 kerosand.net
 keskin55buradaydi.duckdns.org
 keskin55sa.duckdns.org
-keskn5brdaclsyrz.com
 ket.1001gacor.org
 ket.sm188daftar.mom
 key-unlock.com
@@ -4879,7 +4886,6 @@ km-sorgulama-islemleriniz.store
 kmarsanbrdana-182.org
 kmbilgisi-ogrenin.web.app
 kmhn-82rvdalsn.org
-kmmngti.net
 kmnpyaabasvurruuusonfrstlarr1348212.online
 kmnpyaabasvurruuusonfrstlarr1348212.pro
 kmnpyaabsvrrfrsttsonnn36528.info
@@ -7073,6 +7079,8 @@ pivetoru-sakilemu.lol
 pivotq.top
 pixel-press.xyz
 pixeltokihub.site
+piyasabizim.com
+piyasabizim.org
 piyasaodagi.site
 pkg.dl.wel1.ru
 place-goruntu.garden
@@ -7183,6 +7191,7 @@ pttavkilometresrgu.web.app
 pttavm-arackmsorgulayiniz.web.app
 pttavm-gecis-hizliykl.web.app
 pttavm-gecisbakiyenoktasi.web.app
+pttavm-hemen-siparis.com
 pttavm-hizli-gecisyklemsiyap.web.app
 pttavm-kilometredetaykolayca.web.app
 pttavm-kilometrsorgu.web.app
@@ -7403,6 +7412,7 @@ reklamcigeldi.sbs
 reklamcikaita.sbs
 reklamgeldi.sbs
 reklamgitti.sbs
+reklamkristel.sbs
 reklamlaronlineak.sbs
 reklammeklamyokkk.sbs
 reklammetaonline.cfd
@@ -9300,6 +9310,7 @@ wasilewski-investments.pl
 wastingtime.co
 wavel.apple03cloudstore.com
 web-braun.com
+web-online-alisveris.sbs
 web-online-kampanya.sbs
 web-online-siparis.sbs
 web-shop-tr.online
@@ -9381,6 +9392,7 @@ wsb-tapsverndvun.net
 wtrzgecsbilgi.sbs
 wvziraatbankasi.click
 wwvhalkbankcekilis.org.ph
+www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
 www-any-cepte-webtb.myonlineportal.ch
 www-art-cepte-tvb.myonlineportal.ch
@@ -9684,6 +9696,7 @@ yonlendir-g.my-homeip.de
 yonlendir-secur-gr.my-homeip.de
 yonlendir-sifre-guncel.ink
 yonlendiring.space
+yonver.cc
 youngel.biz
 your-house.myonlineportal.ch
 your-nextstep.online
