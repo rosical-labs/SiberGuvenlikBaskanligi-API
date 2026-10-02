@@ -97,6 +97,7 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-shop-tr.trendex-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
@@ -296,6 +297,7 @@
 12855w652.forum
 1288300023802.duckdns.org
 1288400002992.webredirect.org
+129996.com
 1300000.duckdns.org
 13222112211445799890.duckdns.org
 13222112211445799891.duckdns.org
@@ -1077,6 +1079,7 @@ a101onlineaktuelmarket.com
 a101onlineislemlermerkezi.pages.dev
 a101pazar.com
 a101pro.shop
+a101reklam.com
 a101yuzyilinfirsatlari.duckdns.org
 a10firsat.duckdns.org
 a10l.org
@@ -3695,8 +3698,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -9596,6 +9599,7 @@ kmsorgulamahizmettimiz.web.app
 kmsorgulamahzmetleriniz.online
 kmsorgulamahzmetleriniz.web.app
 kmsorgulamaiislemleri.web.app
+kmsorgulamaiislemleri1.web.app
 kmsorgulamaislemleri.web.app
 kmsorgulamaislemleri1.web.app
 kmsorgulamaislemleri2.web.app
@@ -12631,8 +12635,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -18375,6 +18379,7 @@ www-brauntr.com
 www-cebte-tvb-ony.myonlineportal.ch
 www-cebteteb-emeklim.my-homeip.de
 www-cebteteb-promosyonu-com.my-homeip.de
+www-cep-on-btb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepte-acc-tvb.myonlineportal.ch

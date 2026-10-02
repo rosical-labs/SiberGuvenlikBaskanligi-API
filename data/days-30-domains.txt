@@ -64,6 +64,7 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
+101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-shop-tr.trendex-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.shop-buy-tr.online
@@ -175,6 +176,7 @@
 1279199552030.duckdns.org
 1288300023802.duckdns.org
 1288400002992.webredirect.org
+129996.com
 1300000.duckdns.org
 13222112211445799890.duckdns.org
 13222112211445799891.duckdns.org
@@ -458,6 +460,7 @@ a101market.duckdns.org
 a101marketaliverisaktif.duckdns.org
 a101marketler2026.duckdns.org
 a101pro.shop
+a101reklam.com
 a1capitalmenkulonline.com
 a1kapitalmenkulonline.com
 a1o1haftanlnfrstlari.duckdns.org
@@ -2315,6 +2318,7 @@ kmsorgulamahizmetmiz.com
 kmsorgulamahizmettimiz.web.app
 kmsorgulamahzmetleriniz.online
 kmsorgulamaiislemleri.web.app
+kmsorgulamaiislemleri1.web.app
 kmsorgulamaislemleri.web.app
 kmsorgulamaislemleri1.web.app
 kmsorgulamaislemleri2.web.app
@@ -4129,6 +4133,7 @@ www-avr-cep-web.myonlineportal.ch
 www-cebte-tvb-ony.myonlineportal.ch
 www-cebteteb-emeklim.my-homeip.de
 www-cebteteb-promosyonu-com.my-homeip.de
+www-cep-on-btb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepte-acc-tvb.myonlineportal.ch
