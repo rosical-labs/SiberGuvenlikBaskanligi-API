@@ -595,12 +595,6 @@ alilisverilisyal.shop
 alilsverlisi-glti.shop
 alisverisepetin-12.sbs
 alisverisepetin-13.sbs
-alisverishizmetin-20.sbs
-alisverishizmetin-25.sbs
-alisverishizmetin-30.sbs
-alisverishizmetin-35.sbs
-alisverishizmetin-40.sbs
-alisverishizmetin-50.sbs
 alisverisinsepet-17.sbs
 alisverisinsepet-18.sbs
 alisverisitesi.co
@@ -741,6 +735,7 @@ autogoarackiralama.com
 automationportal.cc
 av-r-tg.myonlineportal.ch
 avantajsepet-tr.online
+avantajsepeti.sbs
 ave-art-alk.myonlineportal.ch
 avis-otokiralama.com
 avisfilorezervasyon.com
@@ -781,6 +776,7 @@ ayrica-ceptetebde.my-homeip.de
 ayricalik-cepte.myonlineportal.ch
 ayricalik-ceptetebde.my-homeip.de
 ayricalik-tepte.my-homeip.de
+ayricalikla-ceptetebde.my-homeip.de
 ayricaliklar-cepteteb-emekliye.my-homeip.de
 ayricaliklar-cepteteb.my-homeip.de
 azracicekcilik.com
@@ -926,7 +922,6 @@ borneobulletins.top
 boyneronlinesale.shop
 boynertronline.shop
 bozdomuz.duckdns.org
-bp-garantibbva-anna.ph
 bpdaersa.click
 bpost.be-pakje-ontvangen-nl-recevoir-colis-fr.my.id
 bpost.center
@@ -959,6 +954,7 @@ bumuhugudeferesede.lol
 bunadegildeneyeverilecek.lol
 bunelosa-tegaviru.lol
 bunualmadanolmaz.sbs
+bunuarayanburada.sbs
 bunuencoksenisters.sbs
 bunuoylecegecme.sbs
 burada-nisan.biz.tr
@@ -1075,6 +1071,7 @@ ceptetebden-firsati.my-homeip.de
 ceptetebdeniz.my-homeip.de
 ceptetebli-ayricalik.my-homeip.de
 ceptetebli-emekliye.my-homeip.de
+cevgerepilokigufere.club
 ceyhunturizm.com
 cezabildirim.com
 cezadosyabilgisi.com
@@ -1296,7 +1293,6 @@ edosyainfaz.org
 edosyasorgulama.com
 edosyasorguyap.com
 edosyatalimat.com
-edosyauzlasma.com
 edvs-tapursvnnuszs.info
 efescim.cc.cd
 efesgrtbq.ice.fo
@@ -1699,6 +1695,7 @@ gryacvm.click
 guach.net
 guardiancapitalway.com
 guardiangrowthfunding.com
+guncellemezamani.abrdns.com
 guncelsayfabilgisi.abrdns.com
 guncelsikayetler-453.sbs
 guncelsikayetler-553.sbs
@@ -1729,6 +1726,7 @@ haberler1234813.sbs
 haberler123499.sbs
 haberler1235634122.sbs
 haberler1242123561.sbs
+haberler12531.sbs
 haberler125421.sbs
 haberler125423.sbs
 haberler12564.sbs
@@ -1833,6 +1831,7 @@ herkesinkendikampanyasi.sbs
 herkestarafindansahipolunsundiye.sbs
 herseyhizlicaveguzelce.com
 hesaplikasabim.site
+hesaplikasabim.world
 hesaplishop-tr.online
 hftanin101firsati.duckdns.org
 hgs-odeme-guncel-429014.vercel.app
@@ -1965,6 +1964,7 @@ ikbalthermalhotel.com
 ikinciel-siparis.com
 ikincietap.vercelserver.com
 ikslamlt.myshopify.com
+ilan-alisverisi-sepeti.com
 ilan-get-siparis.online
 ilan-getonay.online
 ilan-getsiparis.online
@@ -2405,6 +2405,7 @@ login4matik.shop
 lojinhadoluiz.online
 losr066.site
 lrdnbrdnrvdalsn.lol
+lrklaytmaynthglk.duckdns.org
 lucky-random.sbs
 lunixel.com
 lunverollc.com
@@ -3129,6 +3130,7 @@ pttavm-siparis.ile-guvenlice-web-tr.com
 pttavm-yedekparca.com
 pttavm.avmsiparis.com
 pttavm.bireysel-ilan.com
+pttavm.ilan-alisverisi-sepeti.com
 pttavm.ilanlar.duckdns.org
 pttavm.ile-guvenli-ilan-web.com
 pttavm.ile-guvenli-web-tr.com
@@ -3179,6 +3181,7 @@ qumel.link
 quorvella.blog
 quorzenfy.com
 qwertyuiopa.pro
+qwfqwfqfw124214.duckdns.org
 r2mazan-oze1-firs2tl2r-aabb11.cfd
 r4ft19d4fd3w6dv.cfd
 rafaelcimx.online
@@ -3243,6 +3246,7 @@ rivex.lol
 rivex.space
 rivexsorgupaneli.top
 rivexsrogupaneli.top
+rklmflnykkrdsmmmmmmbrknnn.duckdns.org
 rkssatis.com
 rndevcldm.cfd
 rndevualsmdi.cfd
@@ -3664,6 +3668,7 @@ sponsporlucekilisim.online
 spraygroundtr.com
 srdgdnoktsnsa.duckdns.org
 ssl.evsahibibasvuru.com
+sssslllddddddsss.duckdns.org
 sstc-garantibbva.com.ph
 stanley15.shop
 stanley20.shop
@@ -3734,6 +3739,7 @@ tarimmarketim.vercel.app
 tastan.av.tr
 tatil.son.bitti.eldengelenler.click
 tavsanciksorgupaneli.online
+tavsanciksorgupaneli.website
 taweruk-hisopalem.lol
 tbinyo.ccwu.cc
 tbpromo.ccwu.cc
@@ -4130,6 +4136,7 @@ www-ceptetebliye-ayricalikli.my-homeip.de
 www-ceptetepde-emekli.my-homeip.de
 www-ceptetepden-emekliye.my-homeip.de
 www-cf.com
+www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
 www-dot-turkiye-dot-gov-dot-tr.jp.gmproxy.org
 www-kgm-gov-tr.translate.goog
