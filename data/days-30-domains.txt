@@ -1071,8 +1071,8 @@ cezabildirim.com
 cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4143,6 +4143,7 @@ wwwaww.sbs
 wwwptt-gov-tr.express-online.website
 wwwptt-tr.tracking-online.website
 wwwtrumore.com
+wwww-ayricaliklar-kapisi-com.my-homeip.de
 wwwww0.sbs
 x14hidgz0ez.s3.ap-south-1.amazonaws.com
 x1opay.co
