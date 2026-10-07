@@ -398,7 +398,6 @@
 315455564447889889989991.duckdns.org
 315455564447889889989992.duckdns.org
 315455564447889889989993.duckdns.org
-31852858529696963.baby
 3212221112445479890.duckdns.org
 3212221112445479892.duckdns.org
 3212221112445479895.duckdns.org
@@ -677,7 +676,6 @@ a-s-b-c.myonlineportal.ch
 a-vrage-c-b.myonlineportal.ch
 a-yonlendir.ink
 a1-82rvdnalbrdan.org
-a101-firsatlariniza-gelin.duckdns.org
 a101-girisfacebook.click
 a101.dijitalbayim.com
 a101.ilan-sepetlerimiz-burada.com
@@ -1996,8 +1994,8 @@ cezadavasorgu.org
 cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3581,6 +3579,7 @@ haber165498.sbs
 haber2026.doordk.com
 haberler.sizde.com.akbadonerd.click
 haberler.sizde.com.solanamolana.click
+haberler10978.sbs
 haberler11237489.sbs
 haberler11278945.shop
 haberler123143.sbs
@@ -4803,7 +4802,6 @@ kilometresorgumerkezi.web.app
 kilometresorgus.web.app
 kilometresorgusubayin.web.app
 kilomtresorgulabilgi.web.app
-kilomtresorgulma.web.app
 kingbss.com
 kiralikaraclarimislemler.com
 kiralikkonutbasvurularim.cfd
@@ -7011,7 +7009,6 @@ prmsynnnkmpnyrrsonffrstlar.info
 pro.taustas.com
 prod-artfkt.com
 profitnow.io
-projectjuventus.xyz
 projectnightcrawler.dev
 projectpartapple.com
 promosyon-isbanka.xyz
