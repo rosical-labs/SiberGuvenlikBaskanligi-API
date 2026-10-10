@@ -6024,6 +6024,7 @@ garanti-kredi-basvuru.sbs
 garanti-kredi-basvurusu.cloud
 garanti-kredi-basvurusu.sbs
 garanti-kredi-firsati-ekim-ayina-ozel.cloud
+garanti-kredi-firsati.cloud
 garanti-kredi-uzmani.cloud
 garanti-kredili-bonus-com.mayddns.com
 garanti-krediye-basvur.sbs

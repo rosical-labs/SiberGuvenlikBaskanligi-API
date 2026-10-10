@@ -1623,6 +1623,7 @@ fuzulyatirimi.com
 garanti-ekim-kampanyasi.cloud
 garanti-kredi-basvurusu.cloud
 garanti-kredi-firsati-ekim-ayina-ozel.cloud
+garanti-kredi-firsati.cloud
 garanti-kredi-uzmani.cloud
 garanti-online-ekim-ayina-ozel.cloud
 garantibasvuru.cloud
