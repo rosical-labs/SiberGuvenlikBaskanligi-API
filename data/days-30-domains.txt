@@ -1103,8 +1103,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3047,7 +3047,6 @@ osmanliyatirimwebreferanstrader.com
 otoavs.com
 otoavsfilo.com
 otokocarackirala.net
-otokocavskiralama.com
 otokocfilootomotiv.com
 otokocotomobil.com
 otokocrental.net
