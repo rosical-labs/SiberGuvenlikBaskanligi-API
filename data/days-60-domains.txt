@@ -686,6 +686,7 @@ a-s-b-c.myonlineportal.ch
 a-vrage-c-b.myonlineportal.ch
 a-yonlendir.ink
 a101.dijitalbayim.com
+a101.dpdns.org
 a101.ilan-sepetlerimiz-burada.com
 a1011.frstlarbrdsmgs.store
 a101aktuelfiyatlari.com
@@ -961,7 +962,6 @@ alisverisptt-avm.ph
 alisveriste-tr.online
 alkampanyadan.cfd
 allegro-hepsiburada.ph
-allianzim.la
 allnaturalwellness.org
 allowed-exploin.myonlineportal.ch
 almagestshop.org
@@ -1957,8 +1957,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5645,7 +5645,6 @@ medioran.com
 meetonline.cam
 megamacnz.com
 megthegullo.com
-meherse.com
 mehersel.com
 meherselerle.com
 mehersem.com
@@ -8730,6 +8729,7 @@ trible-shot.myonlineportal.ch
 trickflag.info
 tridari.org
 tridaribirim.org
+tridariceza.org
 tridarikurum.org
 trident-sip-filter.ngrok-free.dev
 trinstroisbank.com
