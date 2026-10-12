@@ -1329,7 +1329,6 @@ alisveriste-tr.online
 alkampanyadan.cfd
 allegro-hepsiburada.ph
 allgoodscenter.shop
-allianzim.la
 alllahnerdekiya.sbs
 allnaturalwellness.org
 allneedsbay.shop
@@ -5501,7 +5500,6 @@ hazineleri.com
 hazinerandevuformu.com
 hazinesicil.org
 hazinesorgu.com
-hazinesorgu.org
 Hazinetr.org
 hazineuzlasma.com
 hazmedemeyenvar.sbs
@@ -8006,7 +8004,6 @@ magaza.22web.org
 magaza.online
 magazada-shop.online
 magazadan-odeme.com
-magazadan-odemem.com
 magazafislerionline.com
 magazaindirimi.com
 magazamda-ilanim.com
