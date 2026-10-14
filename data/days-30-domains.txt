@@ -134,6 +134,7 @@
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri.storego-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.indirimtakipte.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
+101-mobil-extra-sadece-bugune-ozel-indirim-sepeti-alisveris-tr.ceptex.online
 101-mobil-extra-sadece-bugune-ozel-indirimler-tr.shops-mobil.online
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip-shop-tr.online
@@ -649,7 +650,6 @@ andxxxo.com
 anesthesiaschool.com
 aneviirnadvm.online
 animalview.xyz
-anindabasvur.cfd
 anthropic-ads-beta.com
 anthropic-ads-marketing.com
 anthropic-ads.com
@@ -912,6 +912,7 @@ bedavapanel1.world
 bedavapanel2026.cyou
 bedavapanel4.site
 bedavapanelariyorum.world
+bedavapanelciniz.website
 bedavapanelhizmetleri.website
 bedavapanelhizmetleri.world
 bedavasorgupanel.netlify.app
@@ -1054,6 +1055,7 @@ capsysnet.vg
 capulcu.net
 careers-appointment.com
 careers-interview.com
+careffoursa.vercel.app
 carefoursa.vercel.app
 cark-cekilisi.info
 cartierrrr.duckdns.org
@@ -1840,6 +1842,7 @@ haberler274556.sbs
 haberler298451.sbs
 haberler411235.sbs
 haberler41289.sbs
+haberler42213.sbs
 haberler443198.sbs
 haberler456289.sbs
 haberler463221.sbs
@@ -2782,7 +2785,6 @@ maliyedosyabilgi.com
 maliyeegm.net
 maliyeodemeislemleri.com
 maliyesorgulama.net
-maliyesorgutc.net
 maliyevezneislem.com
 mamatarifleri.kedi-baklicisi.shop
 manager-guzel-certificateid97597739.florenceconcerts.it
@@ -2891,6 +2893,7 @@ mhsrakoga.sbs
 mhsrakogr.cfd
 mhsrakogr.cyou
 mhsrakogr.sbs
+mhsrhrmhmrms.duckdns.org
 mhssraca.buzz
 mhssraca.cyou
 mhssraca.fun
@@ -2916,6 +2919,7 @@ mhsssras.sbs
 microsoft-cache.com
 microsoft-online.hoyadar723.workers.dev
 midas.com.ng
+migros-tr.com
 minewave.info
 misiraycicek.cfd
 mivoxel.com
@@ -3989,6 +3993,7 @@ syncgoogleadsback-production-cde6.up.railway.app
 syncgoogleadsback-production.up.railway.app
 syncgoogleadsback.onrender.com
 synchvault.co
+sysbasvurular.com
 t-e-b-ayricaliklar.my-homeip.de
 t0kibsvuru.lol
 t0kibsvuru.sbs
@@ -4535,7 +4540,6 @@ yklemlrhzlicaypin.cfd
 yklmehgsnktalari.cfd
 yklmehgsnktsi.cfd
 yklmenktlarihgs.cfd
-yklmenktnizhgs.cfd
 ynlndr.xyz
 yomeneskters.duckdns.org
 yonelt.site

@@ -173,6 +173,7 @@
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri.storego-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.indirimtakipte.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
+101-mobil-extra-sadece-bugune-ozel-indirim-sepeti-alisveris-tr.ceptex.online
 101-mobil-extra-sadece-bugune-ozel-indirimler-tr.shops-mobil.online
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip-shop-tr.online
@@ -2070,7 +2071,6 @@ baykar-turkish.com
 baykarajans.info
 baykardevlet-programi.digital
 baykardevletprogrami.digital
-baykargazete.info
 baykarhisseleri.digital
 baykarmagaza.org.ph
 baykarmtal.com.ph
@@ -2119,6 +2119,7 @@ bedavapanel2.site
 bedavapanel2026.cyou
 bedavapanel4.site
 bedavapanelariyorum.world
+bedavapanelciniz.website
 bedavapanelhizmetleri.website
 bedavapanelhizmetleri.world
 bedavapanelimizyeniden.gt.tc
@@ -2633,6 +2634,7 @@ caramodi-jalapara.lol
 cardo.workers.dev
 careers-appointment.com
 careers-interview.com
+careffoursa.vercel.app
 carefoursa.vercel.app
 cariwebsiteku.com
 cark-cekilisi.com
@@ -3517,7 +3519,6 @@ drenzol.org
 drenzol.vu
 dreo-turkiye.com
 driftshare.co
-drillinsight.click
 drimbalt.com
 drive-mofa-account-download-folder-production.up.railway.app
 drivegoogel.cam
@@ -5320,6 +5321,7 @@ haberler411235.sbs
 haberler41289.sbs
 haberler421352.shop
 haberler4215434.sbs
+haberler42213.sbs
 haberler432432.shop
 haberler443198.sbs
 haberler45171154.sbs
@@ -8526,6 +8528,7 @@ mhsrakogr.cfd
 mhsrakogr.cyou
 mhsrakogr.sbs
 mhsrarandvlrmzbrda.sbs
+mhsrhrmhmrms.duckdns.org
 mhsrrandvu.com
 mhsrrekaliya.site
 mhsrrekaliyb.site
@@ -8581,6 +8584,7 @@ microsoft365-secure.login6.com
 microsoft365support.org
 midas.com.ng
 midiroseagustos.sbs
+migros-tr.com
 migrosisbasvurulari.sbs
 miki.jspara-col.cfd
 mikunakanon.com
@@ -9832,7 +9836,6 @@ paribu-araba.online
 paribu-arababurada.com
 paribu-arababurada.info
 paribu-arababurada.link
-paribu-arabacekilisi.com
 paribu-arabahediyem.com
 paribu-arabahediyem.info
 paribu-arabahediyem.link
@@ -10326,7 +10329,6 @@ prmsynnnkmpnyrrsonffrstlar.pro
 pro.taustas.com
 prod-artfkt.com
 profitnow.io
-progetto-finanziario24.org
 programgreedz.info
 programseeget.info
 projectjuventus.xyz
@@ -12289,6 +12291,7 @@ syncstime.to
 synctime.to
 syqwe.ezpizi.click
 sys-tools.cfd
+sysbasvurular.com
 szgtch.com
 szhpnzleotkbrda.lol
 t-e-b-ayricaliklar.my-homeip.de
@@ -12315,7 +12318,6 @@ tahtahde-yuhdare.lol
 tahuguderepoli.lol
 taikei-rmc-co.biz
 tajikistandip.com
-takas-change.click
 takip-mesafesi.ink
 taksim-net.ink
 taktik-operational.ink
@@ -12706,7 +12708,6 @@ tomcrm.net
 tomhadi.com
 tony.scriptdemo.top
 tooourhow.shop
-topicforge.top
 toplu-konut.gravitycl.app
 toplubloklar.vercelserver.com
 toplukonut-toki.gravitycl.app
