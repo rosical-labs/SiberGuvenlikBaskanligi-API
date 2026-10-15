@@ -3217,6 +3217,7 @@ bu-garanti-yaz-ayi-naz-ayi.xyz
 bu-sonfirsatlarhaziran.online
 buapp1-99579a8a4cfa.herokuapp.com
 buf2.com
+bufirstbirkeregelir.giize.com
 bufiyatakcmz.duckdns.org
 bufiyatkcmzkmpny.duckdns.org
 bufy-web-lyt.myonlineportal.ch
@@ -3281,6 +3282,7 @@ bunuarayanburada.sbs
 bunuencoksenisters.sbs
 bunuhemeniste.sbs
 bunuoylecegecme.sbs
+bunusendegormelisin.sbs
 burada-nisan.biz.tr
 buradahemensagliklanve.digital
 buradasokaklarfazladacadaar.digital
@@ -4990,7 +4992,6 @@ elaexallance.com
 elaexxalence.com
 elaexxellanceresorts.net
 elativexona.sbs
-elconews.blog
 eldaventhoris.blog
 eldengelenler.click
 eldoria.blog
@@ -7430,6 +7431,7 @@ hesseyyarkablo.click
 heymens.duckdns.org
 hf7x.com
 hftanin101firsati.duckdns.org
+hftnyldzlbrada.click
 hftyldzlrdikmpn.click
 hg.xxxxxxxxx111111.click
 hg73983943.click
@@ -7439,7 +7441,6 @@ hgmyrtmy.sbs
 hgs-islemleriniz-sorgulama-hemen.com
 hgs-ode-smdii.cfd
 hgs-ode-yukle-simdi.cfd
-hgs-ode-zamani.cfd
 hgs-odeme-guncel-429014.vercel.app
 hgs-odeme-guncel.vercel.app
 hgs-pttavm.ph
@@ -14320,7 +14321,6 @@ s0kmarkeletler.shop
 s0kmarkeltler.shop
 s0kmarklemler.com
 s0kmarklet.shop
-s0kmarkletler.shop
 s0kmarkletlm.com
 s0kmarkletlt.com
 s0kmarkletmer.shop
@@ -14709,7 +14709,6 @@ sahibindensatisonay.com
 sahibindensatiss.click
 sahibindensigorta.click
 sahibindensigorta.com
-sahibindensigortaodeme.com
 sahibindensigortaodemesi.com
 sahibirdenguvnde.com
 sahibiyiz.sbs
@@ -16604,6 +16603,7 @@ togg-nato-ozel-cekilis.xyz
 togg-onsiparis.com
 togg-satisi.cfd
 togg-trumore.com
+togg.bar
 togg.best
 togg.cc
 togg.live
@@ -16717,7 +16717,6 @@ toplu-konut-idaresi-basvurusu.vercel.app
 toplu-konut-projesi-toki-gov-tr.ph
 toplu-konut.gravitycl.app
 toplubloklar.vercelserver.com
-toplukonu5391282121.vercel.app
 toplukonut-toki.gravitycl.app
 toplukonut.gravitycl.app
 toplukonut0701455346.vercel.app
@@ -18218,7 +18217,6 @@ www-qnb-finansbank-service.ph
 www-qnb-finansbank-transfer.ph
 www-qnbfinansbank-access.ph
 www-qnbfinansbank-banking.ph
-www-qnbfinansbank-cepsubesi-com.ph
 www-qnbfinansbank-contact.ph
 www-qnbfinansbank-help.ph
 www-qnbfinansbank-internetsubesi-com-tr.ph
