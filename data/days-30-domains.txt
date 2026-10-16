@@ -1109,6 +1109,7 @@ cepte-eylul.name.tr
 cepte-eylul.net.tr
 cepte-shop-tr.online
 cepteehizlisal.xyz
+cepteindirim.org
 cepten-ayricaliklar.my-homeip.de
 ceptes0k-indir1m.gt.tc
 ceptes0k.site.je
@@ -1863,6 +1864,7 @@ haberler298451.sbs
 haberler411235.sbs
 haberler41289.sbs
 haberler42213.sbs
+haberler453108794.sbs
 haberler456289.sbs
 haberler463221.sbs
 haberler56311.sbs
@@ -4101,6 +4103,7 @@ togg-arac-finansmani.com
 togg-arac-finansmanlari.com
 togg-faizsizlimitlerim.com
 togg.bar
+togg.casa
 togg.pro
 togg.top
 togg.wiki
@@ -4499,7 +4502,6 @@ www-teb-com-tr-emekli-kampanya-firsatlari.myonlineportal.eu
 www-teb-com-tr-firsatlar-emeklilik.myonlineportal.ch
 www-teb-com-tr-internet-mobil-sube.my-homeip.de
 www-teb-com-tr-mobil-site.myonlineportal.ch
-www-teb-com-tr-musteri-girisi.my-homeip.de
 www-teb-com-tr.internet-subesi.site
 www-web-cept-tb.myonlineportal.ch
 www-ziraat-bank-com-tr-internet-islemleri.my-homeip.de
