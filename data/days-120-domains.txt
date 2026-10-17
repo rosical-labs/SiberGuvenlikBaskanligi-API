@@ -252,6 +252,7 @@
 10108283004588.bounceme.net
 1014545082504588.bounceme.net
 101aldinaldinextra.sbs
+101aldinextrakapidan.sbs
 101extraaldinaldinkapinda.sbs
 101extrakampanyalari.online
 101flrsatlarlburada1o1.duckdns.org
@@ -3679,8 +3680,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -8754,7 +8755,6 @@ istanbulombelgim.xyz
 istanbulombelgimkart.xyz
 istanbulonline.uk
 istanbulrandevutek.xyz
-istanbulrandevvuucanaa.xyz
 istanbultamamco.online
 istanbululasim.duckdns.org
 istanbulyorum.info
@@ -9261,7 +9261,6 @@ kemanci322.xyz
 kemandersidenemeleri.duckdns.org
 kemolarinizburda.xyz
 kemopscuklar.xyz
-kemopscularburda.xyz
 kempisadminister.pro
 kendinehas.click
 kendmzszemenaetettksendebasvur4.click
@@ -11070,6 +11069,7 @@ mhsraca.sbs
 mhsraca.site
 mhsrakog.cyou
 mhsrakog.lol
+mhsrakog.sbs
 mhsrakoga.biz
 mhsrakoga.buzz
 mhsrakoga.lol
@@ -11414,6 +11414,7 @@ muhugudueresede-afderese.lol
 muhugudueretese-duguhuderede.lol
 muhugufe-redesede.lol
 muhuguferedeliseli.lol
+muhugufu-reteyeuy.lol
 muhugulipiferemceve.club
 mujdecicek.com
 mujuhubi-bililide.lol

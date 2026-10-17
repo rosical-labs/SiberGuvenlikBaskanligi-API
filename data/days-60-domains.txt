@@ -228,6 +228,7 @@
 10108283004588.bounceme.net
 1014545082504588.bounceme.net
 101aldinaldinextra.sbs
+101aldinextrakapidan.sbs
 101extraaldinaldinkapinda.sbs
 101extrakampanyalari.online
 101flrsatlarlburada1o1.duckdns.org
@@ -2031,8 +2032,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -2611,7 +2612,6 @@ ehazinegib.com
 ehazinegov.com
 ehazinekamu.com
 ehazinemaliye.com
-ehazinemasak.org
 ehazineportal.com
 ehazinesorgu.com
 ehazinesorgula.com
@@ -3552,7 +3552,6 @@ haberler125423.sbs
 haberler1256236.shop
 haberler12564.sbs
 haberler1278945.shop
-haberler1283432.shop
 haberler132423.sbs
 haberler1346428.sbs
 haberler1358636.shop
@@ -5664,6 +5663,7 @@ mhsraca.sbs
 mhsraca.site
 mhsrakog.cyou
 mhsrakog.lol
+mhsrakog.sbs
 mhsrakoga.biz
 mhsrakoga.buzz
 mhsrakoga.lol
@@ -5849,6 +5849,7 @@ muhtesem-lndrm-kaplna-geldl.com
 muhtesem-yuzyilin-indirimi-sende.com
 muhugilipolisedere.club
 muhuguferedeliseli.lol
+muhugufu-reteyeuy.lol
 muhugulipiferemceve.club
 mujdecicek.com
 mukulujuhuesedere.lol
@@ -6843,7 +6844,6 @@ qualimorphenvo.com
 queencreekwatersofteners.com
 quick-conn.shop
 quickfly.online
-quiet-house.ink
 quiet-thunder-ade3.bankoganger.workers.dev
 quietbotatt.com
 quirkyclub.club
@@ -7542,7 +7542,6 @@ sizeozelteklfimiz.abrdns.com
 sizinicinburadayiz1.sbs
 sizinicinburadayiz2.sbs
 sizinicinburadayiz3.sbs
-sizinicinburadayiz5.sbs
 sizinleyizzz.sbs
 sizinleyizzz2.sbs
 sizlerdefaydalanindiye.sbs
