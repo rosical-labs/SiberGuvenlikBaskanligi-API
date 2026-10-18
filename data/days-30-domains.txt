@@ -340,6 +340,7 @@
 7.ddns.me
 7126115.xyz
 72682091.duckdns.org
+7777775456.sbs
 781976296.cloud
 7874651498656844864864.duckdns.org
 79446515646848456.duckdns.org
@@ -466,6 +467,7 @@ a-101-tr-sadece-bugune-ozel-indirimler-sepeti-tr.mobil-ozel.site
 a-101de-bugune-ozel-indirim-tr.cep-tr-mobilde-online-sepet.cfd
 a-101extra-da-bugune-ozel-tr.cepte-shop-online.sbs
 a10001firstlari.giize.com
+a101-aktuel.netlify.app
 a101.dpdns.org
 a101dehayatvar.duckdns.org
 a101destanleyindirimiaktif.duckdns.org
@@ -894,6 +896,7 @@ bilgisel-cepte.online
 bilgisorgu.org
 bilgivermeservisi.bid
 bilipta.top
+bim-turkiye.pages.dev
 bin-airdrop.online
 binance-account-login.vercel.app
 binancehediyefirsati.duckdns.org
@@ -945,6 +948,7 @@ borsahedef.pages.dev
 bozdomuz.duckdns.org
 bpdaersa.click
 brakeliontrail.com
+brandefense.co
 bravento.blog
 brcnsfdasbdgx.art
 brcnsfdasdg.art
@@ -1029,6 +1033,7 @@ cebteb-emekli-kampanya.my-homeip.de
 cebteteb-ayricalik.my-homeip.de
 cebteteb-emeklimize.my-homeip.de
 cebtetebde-ayricaliklar.my-homeip.de
+cehte-som.lol
 cekilis-sponsorlu.online
 cep-101-mobil-sadece-online-ozel-indirimler-tr.online
 cep-tebde-emekli.myonlineportal.ch
@@ -1773,6 +1778,7 @@ haberler12531.sbs
 haberler125421.sbs
 haberler125423.sbs
 haberler12564.sbs
+haberler1269315.sbs
 haberler15123424.sbs
 haberler154313.sbs
 haberler16572.sbs
@@ -1857,7 +1863,6 @@ hemenkap.online
 hemenkapinda.duckdns.org
 hemenmagaza-tr.online
 hemenmarket.online
-hemenportaldanislem.lol
 hemensiparis.online
 hepsiburada.ile-sepetinizde.com.tr
 hepsiburadalj.com
@@ -2316,6 +2321,7 @@ iocrist.online
 iphoneal.com
 ironpeaksupply.cc
 isbak.sbs
+isbaknagtia.com
 iseekaigogo.com
 isiticibirligindeyiz.sbs
 isiticidunyasindailkler.sbs
@@ -2858,6 +2864,7 @@ microsoft-update-catalog.servehttp.com
 microsoft-updates-check-windows.serveftp.com
 microsoft-updates-windows.servehttp.com
 microsoft-ws-updates.serveftp.com
+microsoft365sub.digital
 midas.com.ng
 migros-tr.com
 migrosanal.github.io
@@ -3014,7 +3021,6 @@ northernavenue.info
 norvelynthread.com
 nostrashop.xyz
 novafilom.com
-novakurumsal.online
 npugovua.cfd
 nrrhrsctyylnmase.com
 ns-wwwhaber7com.gratispilots.beer
@@ -3580,6 +3586,7 @@ sahibinden-get.servisinguvenli-80.sbs
 sahibinden-get.servislerinmobil-12.sbs
 sahibinden-get.servislerinmobil-13.sbs
 sahibinden-get.urundetay-sepet-10.sbs
+sahibinden-get.urundetay-sepet-15.sbs
 sahibinden-getilan.islemler-webtr-getalisveris.online
 sahibinden-getilan.tr-alisveris-tr-webislemler.online
 sahibinden-getilan.tr-alisveris-web-getislemler.online
@@ -3715,7 +3722,6 @@ shopta-tr.online
 shps-cep.online
 siberinanasinisiken.webredirect.org
 silkhavenkaiellc.com
-simdibenianliyormusun.sbs
 simpstti.net
 siparis-ilanda-tr.online
 siparis-ilanda.online

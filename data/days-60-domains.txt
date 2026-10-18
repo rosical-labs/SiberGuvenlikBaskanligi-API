@@ -565,6 +565,7 @@
 745542655465652256.duckdns.org
 7542875425852585385.xyz
 77757547.sbs
+7777775456.sbs
 781976296.cloud
 7851254545411.sbs
 7854263515615612313152.duckdns.org
@@ -716,6 +717,7 @@ a-rs-m.myonlineportal.ch
 a-s-b-c.myonlineportal.ch
 a-vrage-c-b.myonlineportal.ch
 a10001firstlari.giize.com
+a101-aktuel.netlify.app
 a101.dijitalbayim.com
 a101.dpdns.org
 a101.ilan-sepetlerimiz-burada.com
@@ -1607,6 +1609,7 @@ bilgivermeservisi.bid
 bilinclikullanim.abrdns.com
 bilinclituketim.abrdns.com
 bilipta.top
+bim-turkiye.pages.dev
 bin-airdrop.online
 binanc.loadportal.site
 binance-account-login.vercel.app
@@ -1730,6 +1733,7 @@ bpi-garantibbva.com.ph
 bpost.be-pakje-ontvangen-nl-recevoir-colis-fr.my.id
 bpost.center
 brakeliontrail.com
+brandefense.co
 bravento.blog
 brcnsfdasbdgx.art
 brcnsfdasdg.art
@@ -1911,6 +1915,7 @@ cebtetebli.myonlineportal.at
 cebteteblim.myonlineportal.ch
 cebtetep-com.my-homeip.de
 ceceriya.s.gy
+cehte-som.lol
 cekememezlikvar.sbs
 cekilis--sans.online
 cekilis-burada.online
@@ -3576,6 +3581,7 @@ haberler125421.sbs
 haberler125423.sbs
 haberler1256236.shop
 haberler12564.sbs
+haberler1269315.sbs
 haberler1278945.shop
 haberler132423.sbs
 haberler1346428.sbs
@@ -3637,7 +3643,6 @@ haberler834756.shop
 haberler8676.shop
 haberler9854.sbs
 haberler99534945.shop
-haberlerturk146519.sbs
 hacbasvuru.org
 hadartkssendekatbuguzelortama21.click
 hadhsynsynr.uk
@@ -4546,6 +4551,7 @@ iphoneal.com
 irealm-server.com
 ironpeaksupply.cc
 isbak.sbs
+isbaknagtia.com
 isbnqamfirsatlarisonkampanyasinda.com
 isbo31w1o7xk3fztvmgpbv.app
 isbrakasi.com
@@ -5740,6 +5746,7 @@ microsoft-updates-check-windows.serveftp.com
 microsoft-updates-windows.servehttp.com
 microsoft-ws-updates.serveftp.com
 microsoft365-secure.login6.com
+microsoft365sub.digital
 microsoft365support.org
 midas.com.ng
 midiroseagustos.sbs
@@ -7147,6 +7154,7 @@ sahibinden-get.siparisguvende.com
 sahibinden-get.siparisimhizli.com
 sahibinden-get.siparisislemleri.com
 sahibinden-get.urundetay-sepet-10.sbs
+sahibinden-get.urundetay-sepet-15.sbs
 sahibinden-getilan.islemler-webtr-getalisveris.online
 sahibinden-getilan.tr-alisveris-e-islemler.online
 sahibinden-getilan.tr-alisveris-e-islemlerim.online
