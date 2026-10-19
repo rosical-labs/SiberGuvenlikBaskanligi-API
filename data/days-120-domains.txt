@@ -9369,7 +9369,6 @@ kgmborcsorgulamaodeme.ddnsgeek.com
 kgmgom.cfd
 kgmgov.cfd
 kgmgov.info
-kgmgov.sbs
 kgmgovhelp.cc
 kgmgovm.cfd
 kgmgovs.cfd
@@ -9436,7 +9435,6 @@ kingbss.com
 kinghoruswe.info
 kinovialun.duckdns.org
 kiptownim.info
-kira-yardim-edevlet-tr-gov.ph
 kiralikaraclarimislemler.com
 kiralikkonutbasvurularim.cfd
 kirameso-hulavite.lol
@@ -16731,7 +16729,6 @@ toplam-talip-eden.myonlineportal.ch
 toplu-konut-idaresi-basvurunh.vercel.app
 toplu-konut-idaresi-basvurunuzu.vercel.app
 toplu-konut-idaresi-basvurusu.vercel.app
-toplu-konut-projesi-toki-gov-tr.ph
 toplu-konut.com
 toplu-konut.gravitycl.app
 toplubloklar.vercelserver.com
