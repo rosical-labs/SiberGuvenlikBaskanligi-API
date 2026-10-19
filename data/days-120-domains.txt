@@ -2830,7 +2830,6 @@ billuno.top
 bilopiddsade-cere.xyz
 bilsesavasiyorumdahanelerle.sbs
 bilukufere-gudazese.xyz
-bim-turkiye.pages.dev
 bimcellodeme.ph
 bin-airdrop.online
 binanc.loadportal.site
@@ -3679,8 +3678,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org

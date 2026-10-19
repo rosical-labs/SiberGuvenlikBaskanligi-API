@@ -1610,7 +1610,6 @@ bilgivermeservisi.bid
 bilinclikullanim.abrdns.com
 bilinclituketim.abrdns.com
 bilipta.top
-bim-turkiye.pages.dev
 bin-airdrop.online
 binanc.loadportal.site
 binance-account-login.vercel.app
@@ -2032,8 +2031,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com

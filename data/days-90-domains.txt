@@ -2253,7 +2253,6 @@ bilinclikullanim.abrdns.com
 bilinclituketim.abrdns.com
 bilipta.top
 billuno.top
-bim-turkiye.pages.dev
 bin-airdrop.online
 binanc.loadportal.site
 binance--cekilisi.com
@@ -2877,8 +2876,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
