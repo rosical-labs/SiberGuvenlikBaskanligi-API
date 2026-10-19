@@ -526,7 +526,6 @@
 2026kasim2026.click
 2026kasim2026onayli.duckdns.org
 2026onayli2026.duckdns.org
-20bintanekonutaciksatisda.vercel.app
 2121124555555441554445990.xyz
 2121124555555441554445991.xyz
 212114551221455122452245590.xyz
@@ -3680,8 +3679,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
