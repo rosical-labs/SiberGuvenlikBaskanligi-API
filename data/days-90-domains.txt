@@ -924,7 +924,6 @@ a-101-sadece-online-bugune-ozel-sepet-indirimleri-tr.shop
 a-101-sadece-online-bugune-ozel-sepet-indirimleri-tr.shop-bilgi-tr.online
 a-101-sadece-online-ozel-extra-indirim-tr.cepte-shop.online
 a-101-sadece-online-ozel-extra-mobil-indirim-tr.bilgilendirme-tr.online
-a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
 a-101-sadece-online-ozel-sepet-indirimleri-mobilde-tr.shop
 a-101-sadece-online-ozel-sepet-indirimleri-mobilde-tr.shop-mobilde-tr.online
 a-101-sepete-ekle-ramazana-ozel-tr.cep-tr-mobilde-online-sepet.sbs
@@ -1511,7 +1510,6 @@ applehosts.ru
 appleid-customertelemetry.gl
 appletime.in
 application.colibriathenas.com.br
-applinecore.digital
 appnexa.digital
 approe.shop
 apricotfilepoint.com
@@ -1545,7 +1543,6 @@ arabacekilisim.info
 arabacekilisim.link
 arabacekilisim.online
 arabacekilisin.online
-arabam-paribu.com
 arabaprotokol.com
 arabuluculukmaliye.org
 arac-bakiye.lol
@@ -2327,7 +2324,6 @@ bitmekbitmezsenben.sbs
 bitmkblmeynuzunbiyol.sbs
 bizherzamanaktifizkral.com
 bizimgencleryilmazyilmaz.duckdns.org
-bizimleberaber.sbs
 bizimleyardimlar.shop
 bizland-garantibbva.com.ph
 bizlerdeburalardayizherzaman.sbs
@@ -2547,7 +2543,6 @@ buhugufiliresede.lol
 buhugufure-desedese.lol
 buhugugu-fefererede.lol
 builderwebsite.carrd.co
-buildnexa.study
 bukmpykcmzeylul.duckdns.org
 bulndirimikacirmayin.com
 bulten-aktarimweb.guru
@@ -2882,8 +2877,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -3067,7 +3062,6 @@ corepala-jalesude.lol
 corralos.beer
 couturista.shop
 covenya.shop
-cozone.co
 cozyhavenbroccolillc.com
 cpanel.862413415907186110.duckdns.org
 cpcalendars.862413415907186110.duckdns.org
@@ -3228,7 +3222,6 @@ debian-update-system.servehttp.com
 debian.evsahibibasvuru.com
 decisionreaction.xyz
 decserve.top
-deeptechminer.digital
 defi-claim.xyz
 definatelynoone.com
 defipulsetracker.pro
@@ -3248,7 +3241,6 @@ delvexan.com
 demirkolturizm.com
 demlemerehberi.online
 demlenedemlene.sbs
-demlervedemlikbizimisimiz.sbs
 demlikkamplanyasi.com
 demo-axxel1.com
 demo.axxel1.com
@@ -3541,7 +3533,6 @@ drenzol.org
 dreo-turkiye.com
 dressergym.com
 driftshare.co
-drimbalt.com
 drive-mofa-account-download-folder-production.up.railway.app
 drivegoogel.cam
 drivers-microsoft-catalog.serveirc.com
@@ -3675,7 +3666,6 @@ ecezatakip.com
 ecezatalimat.com
 echoatt.com
 echoberlin.info
-echojournal.world
 echosecure.space
 edavabildirim.org
 edavabilgi.org
@@ -4371,7 +4361,6 @@ femonester.duckdns.org
 fendril.rest
 fenmallu.com
 fennelspire.info
-fentrax.sbs
 ferigaporas.click
 fernasburs.site
 ferrari-invite.com
@@ -4627,7 +4616,6 @@ fuzulyatirimholding.com
 fuzulyatirimi.com
 fximbra.weebly.com
 fxt124y5fs263fd.click
-fymixae.digital
 fzclbsmartcbeaa.com
 g8688808.com
 galderenderlerdens.duckdns.org
@@ -4670,6 +4658,7 @@ garanti-kredili-bonus-com.mayddns.com
 garanti-nakit-destek.cloud
 garanti-nakit-merkezi.cloud
 garanti-nakit-noktasi.cloud
+garanti-odeme-sistemi.cloud
 garanti-onay-sistemi.cloud
 garanti-onayli-kredi.cloud
 garanti-online-ekim-ayina-ozel.cloud
@@ -4809,7 +4798,6 @@ geldesgeahhsder.duckdns.org
 geldesmmeasdwas.duckdns.org
 geldivegidiceksadecezaman.sbs
 geleceginvizyonadresi.sbs
-gelecekbasligi.com
 gelecekgunlugu.com
 gelecekongorusu.misecure.com
 gelecekyakini.com
@@ -5210,7 +5198,6 @@ gulluoglubaklavalari.com
 gulluoglubaklavalari.shop
 gulluoglushop.abacusai.app
 guncelajans.world
-gunceldosyalarim.com
 guncelhemen.abrdns.com
 guncellemezamani.abrdns.com
 guncelmerkez.abrdns.com
@@ -5229,7 +5216,6 @@ gunceltrsikayetler-258.sbs
 guncelwep.forum
 gundelikhaberlerr.sbs
 gundem-sikayet-var.sbs
-gundemkaynak.org
 gundemnokta.world
 gundemrota.world
 gundemrotasi.info
@@ -5310,7 +5296,6 @@ haber2026.doordk.com
 haber789124.sbs
 haberdar.at
 haberincepte4567891.shop
-haberkapisi.site
 haberler.sizde.com.akbadonerd.click
 haberler.sizde.com.solanamolana.click
 haberler019315.sbs
@@ -5894,7 +5879,6 @@ hizladirsiparislerinden27agus.cloud
 hizlagecisbakiyuklme.web.app
 hizlgcsdldr.click
 hizlgecisbakiyedoldurma.web.app
-hizlgecisbakiyeyukleme.web.app
 hizlgecisbayniz.art
 hizlgecisiniziyukleyn.art
 hizlgecisistembakiyesi.web.app
@@ -6226,7 +6210,6 @@ hlmnket.net
 hlnkaemntlanas.net
 hlsknta.net
 hlzrndlsa.com
-hmansahsmnashamnsahmnsahmashns99.space
 hmbakanlikvezne.com
 hmbdosya.org
 hmbkxcbv.art
@@ -6495,7 +6478,6 @@ ilan-get-siparis.online
 ilan-getonay.online
 ilan-getsiparis.online
 ilan-havale-fast.com
-ilan-havale-odemem.com
 ilan-havale-odemesi.com
 ilan-hizmetim.online
 ilan-hizmetin.online
@@ -7037,7 +7019,6 @@ kampanhshshshs.com
 kampanya-burada.online
 kampanya-hemenburada.online
 kampanyabul.sbs
-kampanyadijitalvakifmobil.com.ph
 kampanyagnu.dnsup.net
 kampanyahemen-burada.online
 kampanyahemenburada.online
@@ -8193,6 +8174,7 @@ malivezne.com
 malivezne.net
 malivezneformu.org
 maliye-vezne.com
+maliye.gov.ct.tr
 maliyearastirma.com
 maliyebildirim.com
 maliyecezahukuk.org
@@ -8595,6 +8577,7 @@ mhrsxzcvzxc.com
 mhrsyenihemen.blogspot.com
 mhrtg1gdg16dd15.fun
 mhsagh.autos
+mhsagh.best
 mhsagh.buzz
 mhsagh.cfd
 mhsagh.cyou
@@ -9040,7 +9023,6 @@ nesenbununfarkindanedepolisfarkinda2.duckdns.org
 nesenbununfarkindasinnedepolisfarkinda.duckdns.org
 nestledawn.org
 nestsort.net
-net-basvurular.myonlineportal.de
 net-plyron.cyou
 net.dl.wel1.ru
 netapsdev.ru
@@ -9913,7 +9895,6 @@ parfumfinansapp25.com
 paribu--araba.com
 paribu--araba.live
 paribu--arabacekilisi.com
-paribu--arabam.com
 paribu--cekilis.live
 paribu-app.digital
 paribu-araba-cekilis.live
@@ -10199,7 +10180,6 @@ pazarama.hizlikargolar.com
 pazarama.hizlisiparishizmeti.com
 pazarama.ikinciel-alisverisler.com
 pazarama.ikinciel-ilan.com
-pazarama.ilan-havale-odemem.com
 pazarama.ilan-havale.com
 pazarama.ilan-ikinciel.com
 pazarama.ilan-sepetlerimiz-alisveris.com
@@ -10323,7 +10303,6 @@ plmilliyetxb.com
 plrdanbrdansnnn.com
 plsk2jjk123xjk123x123z132.cfd
 plskcjsajkdasx123x123.cfd
-plsxkkj123k1z3123z12.cfd
 plumaclean.com
 plushseat.org
 pluskurumsal.net
@@ -10552,7 +10531,6 @@ pubmhsl.digital
 pueedusstaff.unaux.com
 pulharc.com
 pulse-g.my-homeip.de
-pulsechronicle.site
 pulseriz.com
 pulturturizm.com
 punchbowl.cyou
@@ -10811,7 +10789,6 @@ rfdws3sdgt19gsd24gsd7cd.sbs
 rfes42432423erwdfa1312df.icu
 rhodeislandhomepage.com
 rhymedream.com
-rhythmora.com
 rhythmza.com
 ridgewellapparel.com
 rigacdn.in
@@ -11691,6 +11668,7 @@ shops-trendtr.online
 shopstore-tr.online
 shopta-tr.online
 shps-cep.online
+siberinanasinisiken.webredirect.org
 sibonex.com
 sicilkamu.org
 sicilmahkeme.org
@@ -11782,6 +11760,7 @@ sizeozel-sayfa.abrdns.com
 sizeozel-usom.abrdns.com
 sizeozelflrsatlar.com
 sizeozelteklfimiz.abrdns.com
+sizin-siparisleriniz.com
 sizinicinburadayiz1.sbs
 sizinicinburadayiz2.sbs
 sizinicinburadayiz3.sbs
@@ -12016,6 +11995,7 @@ sorgupaneli.ph
 sorgupaneli.rest
 sorgupaneli.vip
 sorgupaneli.world
+sorgupaneli1.click
 sorgupaneli1.world
 sorgupaneli1.xyz
 sorgupaneliguvenli.store
@@ -12204,7 +12184,6 @@ stiye-yolnlendirme.com
 stiye-yonlendiirci.com
 stnlyyenikmp.com.tr
 sto.1001gacor.org
-stocksnt.com
 stoklaribitiriyoruzsondusus.sbs
 stokta-sayili-urun.sbs
 storage-apis.vercelcloud.com
@@ -12918,7 +12897,6 @@ tridariceza.org
 tridarikurum.org
 trident-sip-filter.ngrok-free.dev
 trinstroisbank.com
-trispol.surf
 trivoxa.vu
 trixsolvesxa.shop
 trizratfrfs.cfd
@@ -13043,7 +13021,6 @@ turkticaretbankasi.login.org.tr
 turktoday.blog
 turnclass.xyz
 turnstiIe-cIoudfIare.com
-turquoisetr.sbs
 tursabacentasorgu.com
 tursabacentasorgulama.com
 tursabdogrulama.com
@@ -13139,6 +13116,7 @@ ubakafrank8.workers.dev
 ubudturkiye.ubud-spa.fr
 ubyul.help
 ucarim-mesela.sbs
+ucretsiz-umre-firsatlarimiz.sbs
 ucurumsunbana4.uk
 ucurumsunbana5.uk
 ucurumsunbana9.uk
