@@ -3296,6 +3296,7 @@ gelvebasinial.duckdns.org
 gemgovrmn.my.id
 gemgovrmn.web.id
 gemgovrnm.biz.id
+gemgovrnm.my.id
 gemimi-ads.com
 gemini-ads-ai.com
 gemini-ads-invite.com
@@ -5362,7 +5363,6 @@ malisorgulama.org
 malivezne.net
 malivezneformu.org
 maliye-vezne.com
-maliye.gov.ct.tr
 maliyearastirma.com
 maliyebildirim.com
 maliyecezasorgulama.com
@@ -7421,7 +7421,6 @@ shops-alisveris-tr.online
 shops-trendtr.online
 shopta-tr.online
 shps-cep.online
-siberinanasinisiken.webredirect.org
 sibonex.com
 signalharbor.blog
 signin-1psswoord.com

@@ -6265,6 +6265,7 @@ gelvebasinial.duckdns.org
 gemgovrmn.my.id
 gemgovrmn.web.id
 gemgovrnm.biz.id
+gemgovrnm.my.id
 gemimi-ads.com
 gemini-ads-ai.com
 gemini-ads-invite.com
@@ -10628,7 +10629,6 @@ malivezne.com
 malivezne.net
 malivezneformu.org
 maliye-vezne.com
-maliye.gov.ct.tr
 maliyearastirma.com
 maliyebildirim.com
 maliyecezahukuk.org
@@ -12653,8 +12653,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -15343,7 +15343,6 @@ showmixly.net
 showpulsera.net
 showsix.digital
 shps-cep.online
-siberinanasinisiken.webredirect.org
 sibonex.com
 sicilkamu.org
 sicilmahkeme.org
