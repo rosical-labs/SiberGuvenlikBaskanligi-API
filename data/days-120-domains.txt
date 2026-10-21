@@ -12669,8 +12669,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -16963,7 +16963,6 @@ travels-network-contrast-slides.trycloudflare.com
 travoleniq.capital
 travorazone.com
 trazomika.capital
-trbinance-tr.duckdns.org
 trbirim.org
 trbuyukbenbir.click
 trcezasorgu.org
