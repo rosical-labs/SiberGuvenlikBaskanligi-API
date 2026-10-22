@@ -207,6 +207,7 @@
 101-mobil-extra-sadece-bugune-ozel-online-siparis-ver-tr.cepspts.online
 101-mobil-extra-sadece-online-ozel-alisveris-sepeti-indirimleri.genel-indirim-tr.online
 101-mobil-extra-sadece-online-ozel-alisveris-sepeti-tr.trendyl-mobil-tr.online
+101-mobil-extra-sadece-online-ozel-indirimler-tr.shopspay.online
 101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
 101-mobil-online-extra-indirimler-sadece-bugune-ozel-tr.shopping-tr.online
 101-mobil-sadece-bugune-ozel-extra-indirim-sepeti-cep.trendy-shop-tr.online
@@ -1837,7 +1838,6 @@ aspers.myonlineportal.ch
 asri-as-alt-a.myonlineportal.ch
 asset-finnans.com
 assignpasskey.com
-ast.ols-img-12.workers.dev
 asterisk.evsahibibasvuru.com
 asteronllc.com
 astratechuthree.top
@@ -2616,6 +2616,7 @@ bvncjfkd.shop
 bvva-application.sbs
 bvvdbdbdbsbmx.sbs
 bxfh.tzcdq.cn
+byedubaicenter.duckdns.org
 bytezi.xyz
 byveo.org
 byyrdrmdmdnsnttt.com
@@ -4406,7 +4407,6 @@ felkelselfel.sbs
 fellanfllansas.live
 femonester.duckdns.org
 fendril.rest
-fenmallu.com
 fennelspire.info
 ferigaporas.click
 fernasburs.site
@@ -5275,7 +5275,6 @@ gunceltrsikayetler-258.sbs
 guncelwep.forum
 gundelikhaberlerr.sbs
 gundem-sikayet-var.sbs
-gundemrotasi.info
 guneymoto.com
 guneymotor.com
 gunfileningunu.duckdns.org
@@ -7738,7 +7737,6 @@ lalelicicekcisime.duckdns.org
 lalelisubsndyzbizler.duckdns.org
 lalezarbotanik.live
 lalezarte346655ter.duckdns.org
-laminyamalfans.duckdns.org
 lanceagstosayi.duckdns.org
 landelarandw.duckdns.org
 landerlerdesnes.duckdns.org
@@ -8441,7 +8439,6 @@ merkeziislemler.my-homeip.de
 merkezinkayit.abrdns.com
 merkeziyetsizbasvuru.com
 merkeziyetsizkayit.abrdns.com
-merkezlekayit.abrdns.com
 merkezlerkayit.abrdns.com
 merkezlisistem.com
 merkezlisistemim.art
@@ -10190,7 +10187,6 @@ pastayiyiyin.sbs
 patakuti-cartcurtede.lol
 pauktun.space
 pawpalace.cc
-pawsmira.com
 pawsockenjoyer.site
 pawsprint.cc
 paxtonvirela.shop
@@ -10348,7 +10344,6 @@ pkg.dl.wel1.ru
 pl.star-boostmedia.com
 place-goruntu.garden
 placespoon.xyz
-plambex.com
 plansonval.impostosrapido.top
 planyapldsendehemengelkatl3.click
 play.kitsumc.com
@@ -10405,7 +10400,6 @@ pre.evsahibibasvuru.com
 precipart.ink
 premium-firsatlar.online
 premium-oduller.online
-presscraftly.net
 presslifyra.com
 pressureulcerlawyer.com
 presswavxo.org
@@ -11293,13 +11287,11 @@ sahibindenparamguvendeonay.com
 sahibindenpay.shop
 sahibindenpay.store
 sahibindensatici.com
-sahibindensaticionay.com
 sahibindensatis.org
 sahibindensatis.xyz
 sahibindensatisonay.com
 sahibindensatiss.click
 sahibindensigorta.click
-sahibindensigorta.com
 sahibindensigorta.quest
 sahibirdenguvnde.com
 sahibndensatis.click
@@ -11800,7 +11792,6 @@ siparisonayi.online
 siparisonayim.online
 siparisonayin.online
 siparisonayla.online
-siparisver-hemen.com
 siparisverhemen.com
 sipsapsop.click
 siritmax.cfd
@@ -12258,7 +12249,6 @@ store-plus.online
 storego-tr.online
 storex-tr.online
 storyquestnu.com
-stparaguvende.servisbilgi-tr.online
 stpatlakbrdacalsm.duckdns.org
 streamyard.appstore.com.mx
 streepinoks.world
@@ -12556,6 +12546,7 @@ tebde-emekliye.my-homeip.de
 tebde-firsat.my-homeip.de
 tebdeburdabasvuru.my-homeip.de
 tebdecep-emekli.myonlineportal.ch
+tebden-basvuru.mobil-bankacilik.site
 tebefes.site
 tebefeso.bounceme.net
 tebelindosa.co
@@ -12760,7 +12751,6 @@ togg.top
 togg.website
 togg.wiki
 togg.zuzzuu.com
-toggarac.com
 toggfinans.com
 toggfinans.online
 toggfinansman.com
@@ -12974,7 +12964,6 @@ trustedgoods.shop
 trustfee.club
 trvrksdnbsrudfs.store
 trvrksdnbsrudfssf.online
-trvtrkdsnrsvjsd.online
 trx-exchange.com
 tryhappycards.ru
 tryweb-logr-home.ink
@@ -13044,13 +13033,11 @@ turkiyebanian.com
 turkiyebankasi.live
 turkiyecumhuriyetisiberguvenlikvesavunma.org
 turkiyedevletgiris.com.ph
-turkiyeegitim.vu
 turkiyefinans.my-homeip.de
 turkiyegovtr.lovestoblog.com
 turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
 turkiyekalkinmayatirimbankasi.com
 turkiyeogrenme.com
-turkiyeperspektif.com
 turkiyepetrolleri.pro
 turkiyepetrolleri.shop
 turkiyesigorta.com.ph
@@ -13513,7 +13500,6 @@ wavel.apple03cloudstore.com
 wealthlift.click
 web-alisveriskapinda.sbs
 web-alisverissiparis.sbs
-web-bas-vur.myonlineportal.de
 web-braun.com
 web-dijitalkampanya.sbs
 web-lanse.ink
