@@ -2075,8 +2075,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5701,7 +5701,6 @@ mhrfivems.lol
 mhrhssrs.duckdns.org
 mhrk23emfsdfkl347.duckdns.org
 mhrlsmlrsm.com
-mhrlww.com
 mhrrs-randevular.com
 mhrs-giris-islem-link.vercel.app
 mhrs-giris.online
