@@ -2963,8 +2963,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4322,6 +4322,7 @@ faaliyetonunde.abrdns.com
 face-book-login-extra.ph
 facebook--login-inactive.ph
 facebook--login-report.ph
+facebook--login-safe.ph
 facebook--login-security.ph
 facebook--login-session.ph
 facebook--signupzzzzzzzzzzzzzhu.ph
@@ -4337,6 +4338,7 @@ facebook-login-guide.com.ph
 facebook-login-help-de.com.ph
 facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
+facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
 facebook-login-in-se.com.ph
@@ -4826,6 +4828,7 @@ garanti-kredi-firsati.cloud
 garanti-kredi-uzmani.cloud
 garanti-kredili-bonus-com.mayddns.com
 garanti-nakit-destek.cloud
+garanti-nakit-hizmeti.click
 garanti-nakit-hizmeti.cloud
 garanti-nakit-merkezi.cloud
 garanti-nakit-noktasi.cloud
@@ -5785,7 +5788,6 @@ he-have-look.garden
 headlinecore.gifts
 headwearhaven.com
 healthiron.space
-heasdawdas.duckdns.org
 heddalesedc.duckdns.org
 hedefon.hedefborsa.com
 hedefon.hedefonportfoyum.com
@@ -5812,6 +5814,7 @@ heemenisn-sonuc.net
 hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 hegeseodemesi.vercel.app
+hegwgsaagl.giize.com
 heilongyk.top
 heismebktaltara.net
 helboystr.duckdns.org
@@ -10089,6 +10092,7 @@ palagire-saladiro.lol
 palasude-salabazi.lol
 palmiiyesultan.com
 palmiyesulltan.site
+palmiyesultam.site
 palmiyesultn.com
 panel.alwaysdata.net
 panel.hedefonportfoyum.com
@@ -11224,7 +11228,6 @@ sadcxdfdf.click
 saddasdasdsa.duckdns.org
 sadeceonlineicingecerli.sbs
 sadeceonlinheroz101.ct.ws
-sadeconbfirsatlartrsdv.blogdns.com
 sadeosolsprisatlaybftrk112111.blogspot.com
 saderete-teredesede.lol
 sadertipilohigerese.club
@@ -13254,7 +13257,6 @@ turkiyefinans.my-homeip.de
 turkiyegovtr.lovestoblog.com
 turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
 turkiyekalkinmayatirimbankasi.com
-turkiyeogrenme.com
 turkiyepetrolleri.pro
 turkiyepetrolleri.shop
 turkiyesigorta.com.ph

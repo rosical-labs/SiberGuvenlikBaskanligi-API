@@ -2084,8 +2084,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -2957,6 +2957,7 @@ f3dlvbk5edo5s57.icu
 faaliyetonunde.abrdns.com
 facebook--login-inactive.ph
 facebook--login-report.ph
+facebook--login-safe.ph
 facebook--login-session.ph
 facebook--signupzzzzzzzzzzzzzhu.ph
 facebook--update-available.ph
@@ -2968,6 +2969,7 @@ facebook-login-checker.ph
 facebook-login-help-de.com.ph
 facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
+facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
 facebook-login-in-se.com.ph
@@ -3301,6 +3303,7 @@ garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-kredi-firsati.cloud
 garanti-kredi-uzmani.cloud
 garanti-nakit-destek.cloud
+garanti-nakit-hizmeti.click
 garanti-nakit-hizmeti.cloud
 garanti-nakit-merkezi.cloud
 garanti-nakit-noktasi.cloud
@@ -3775,7 +3778,6 @@ halkefeso.bot.cd
 halkfirsat.cam
 halkfirsat.tech
 halkinadamirafael.site
-halkinfirsati.cam
 halklimit.help
 halklimit.shop
 halklimits.online
@@ -3845,12 +3847,12 @@ hedefon.hedefportfoyfon.com
 hedefportfoyfon.com
 hediye--burada.online
 hegeseodemesi.vercel.app
+hegwgsaagl.giize.com
 heilongyk.top
 helinbinergiler.duckdns.org
 helinemioki.duckdns.org
 help-instagram-advisor.ph
 hemcnsa.duckdns.org
-heme-sn-sonuc.net
 hemeisnan-sonu.net
 hemenapaortal.lol
 hemenbakiyem.lol
@@ -6480,6 +6482,7 @@ palagire-saladiro.lol
 palasude-salabazi.lol
 palmiiyesultan.com
 palmiyesulltan.site
+palmiyesultam.site
 palmiyesultn.com
 panel.alwaysdata.net
 panelsorgu.buzz
