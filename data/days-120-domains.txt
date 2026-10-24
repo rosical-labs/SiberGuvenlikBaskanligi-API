@@ -285,6 +285,7 @@
 101extrakampanyalari.online
 101extrakapidanaldinaldin.sbs
 101flrsatlarlburada1o1.duckdns.org
+101hizlialisverishizmeti.duckdns.org
 101hizlikapinda.com
 101kapindakampanyasi.duckdns.org
 101kapndasmdi.duckdns.org
@@ -977,6 +978,7 @@
 8879696.xyz
 888811111.duckdns.org
 8888188.duckdns.org
+88dhabr9s.com
 891244.xyz
 89339912834.sbs
 894561235864132.sbs
@@ -3752,8 +3754,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5911,6 +5913,7 @@ fisios5-amet89.sbs
 fitluma.xyz
 fiusyevr.live
 fivemsevmeyenerkekler.xyz
+fiyatinigorunceinanamayacaksin.xyz
 fiyatkcmzkampanya.duckdns.org
 fiyuukurye.com
 fizzy0-voluptas36.sbs
@@ -6148,7 +6151,6 @@ garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-kredi-firsati.cloud
 garanti-kredi-uzmani.cloud
 garanti-kredili-bonus-com.mayddns.com
-garanti-krediye-basvur.sbs
 garanti-nakit-destek.cloud
 garanti-nakit-hizmeti.cloud
 garanti-nakit-merkezi.cloud
@@ -7527,6 +7529,7 @@ hemenismlantans.net
 hemenkampanyaburaya.online
 hemenkap.online
 hemenkapinda.duckdns.org
+hemenkontrolsagla.abrdns.com
 hemenl-40binpromo-buradan.sbs
 hemenmagaza-tr.online
 hemenmarket.online
@@ -12757,8 +12760,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14087,7 +14090,6 @@ rafa1cadcjksakx13x12x3123x.cfd
 rafa1cjadskjk12k3x123v123.shop
 rafa1ckasdljcakx123x12.cfd
 rafa1fkdlcaskdlx1231.shop
-rafa1sackcsakkjx123.shop
 rafa1yapisadkjkcj12jk3x123.cfd
 rafa22xadskjqwkjecqw.shop
 rafa23aksdjackdkjx123.cfd
@@ -14105,7 +14107,6 @@ rafa4dkjacjkdcakdx23.cfd
 rafa5cjkadscasdjxk13x123.cfd
 rafa6cadkjasjkdax13x1x312.cfd
 rafa7cadscadskjxk13x123x123.cfd
-rafa9911klasdkajx123x123.sbs
 rafa9jdasjxjhasxakdjaxksx13123.cfd
 rafac123lx123klx123z1.cfd
 rafacicek.sbs
@@ -15154,7 +15155,6 @@ sepetimdeonline.site
 sepetimdeonline.store
 sepetimodeme.shop
 sepetimonay.click
-sepetimonay.online
 sepetimonay.shop
 sepetimonay.study
 sepetimonay.surf
@@ -16799,7 +16799,6 @@ toki-basvurular.com
 toki-ev.com
 toki-form.com
 toki-gov-e-dev-basvuru-yap.online
-toki-gov-tr-019.vercel.app
 toki-gov-tr-020.vercel.app
 toki-gov-tr-fatih.vercel.app
 toki-gov-tr-konut.vercel.app
@@ -18731,12 +18730,14 @@ yglasan.world
 yheqkrqxjpebtab.fun
 yhnbgh.click
 yieldup.ch
+yigebaciko.shorts.gy
 yilandaginakaryagmisbabus.com
 yildenix.live
 yildirimgroup.online
 yildiz-lndirim-haftasl-basladl.com
 yildora-venkupali.lol
 yildora.live
+yildzfirstdunyasi.duckdns.org
 yildzurunlerkampanysi.duckdns.org
 yillikmuzem.com
 yilmaz-ticaret-ile-siparis-tamamla.com
