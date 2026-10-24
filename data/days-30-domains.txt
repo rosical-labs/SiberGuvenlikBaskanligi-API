@@ -146,6 +146,7 @@
 1014545082504588.bounceme.net
 101aldinaldinextra.sbs
 101aldinextrakapidan.sbs
+101anindafirsatyakala.duckdns.org
 101extraaldinaldinkapinda.sbs
 101extrakampanyalari.online
 101extrakapidanaldinaldin.sbs
@@ -167,7 +168,9 @@
 11111128830029.bounceme.net
 11112222244444.webredirect.org
 11112222244494.webredirect.org
+111hizligiris.duckdns.org
 1124111123.com
+112hizligiris.duckdns.org
 120200000000034445.duckdns.org
 120219292929388.webredirect.org
 120298573000294.webredirect.org
@@ -345,7 +348,6 @@
 571255.xyz
 5fvvwssssss.com
 6.ddns.me
-6017266923.cloud
 616121.xyz
 620617625.cloud
 62616608764.cloud
@@ -744,7 +746,6 @@ at-govt-tr.icu
 atanibibulursamalahini.sbs
 atayatirimtr.com
 atb-acb-and.myonlineportal.ch
-attachmentsharingdrive.xyz
 attgenius.com
 au.lpa1.star-boostmedia.com
 auth-update-check.myddns.me
@@ -1107,7 +1108,6 @@ containislem.22web.org
 continueislem.22web.org
 cookiecraftr.com
 copytrade.lat
-corecloudfileshare.xyz
 corehost.ddns.net
 corexyfi.com
 crfsa-indlrm-49.vercel.app
@@ -1214,11 +1214,9 @@ dolunaypin.com
 domain-server-ms.securitytactics.com
 domannawlmyrmrr.duckdns.org
 domdomomoo.duckdns.org
-domuzkurtboz.duckdns.org
 doneplay.site
 doooomm.duckdns.org
 dopinghafiza-ftlmep21a-doping.vercel.app
-dosyagibsorgula.com
 dosyahazine.com
 dosyaincele.com
 dosyaincele.net
@@ -1270,8 +1268,6 @@ e-store-tr.online
 e-sube.hedefborsa.com
 eadli.org
 easyllms.xyz
-ebilisiminfaz.com
-ebilisimteblig.com
 eceptra-tr.online
 ecezahazine.com
 echoatt.com
@@ -2335,6 +2331,7 @@ hzlsstmlndaaarserrn.com
 hzlszsndnsmlk.com
 hzlszsndnsmlk.net
 hzlszsndnsmlk.online
+hzrnd.cfd
 i-mhrdnal.cfd
 i-nfodegerler.com
 id45780.com
@@ -2400,6 +2397,7 @@ infostreamzo.com
 infotelegram.org
 infoyatirim.51.79.38.120.sslip.io
 infvarlikdegerler.com
+insights.herbital.online
 instagram-clone-sigma-seven.vercel.app
 instagram-e-mail-confirm-info-desk.ph
 instagram-rosy-alpha.vercel.app
@@ -2463,7 +2461,6 @@ istbelgimkart34.xyz
 istecep.my-homeip.de
 istismar.online
 istkartbasvlarinizzburada.store
-istkartbelgim.xyz
 istkartbelgim3434.xyz
 istkartbelgimtr.xyz
 istkarthmnssdtnal.com
@@ -2822,6 +2819,7 @@ maliyehazinesorgu.com
 maliyevezne.org
 maliyeveznedar.org
 maliyevezneislem.com
+maliyevezneislem.org
 malowzx.sbs
 mamatarifleri.kedi-baklicisi.shop
 managedkafka.heyhru-server.cloud.goog
@@ -3016,7 +3014,6 @@ mobilservisler-38.sbs
 mobilservisler-39.sbs
 mobilyatasarimfuarlari.com
 monday-brief-claude.com
-moskovapanel.42web.io
 moweros.net
 mozvento.com
 mrhsmhrmsmaxa.duckdns.org
@@ -3071,7 +3068,6 @@ ncfncmd.shop
 ndsandsajdjsad.shop
 nedenatiyorkineqeke.sbs
 negan-service.com.tr
-negan-service.xyz
 negana.cc
 neihite.cc
 neiropplive.com
@@ -3124,7 +3120,6 @@ nltalnakmama.net
 nltalnalsn.net
 nltalnkamsa.net
 nltkamkas.net
-nltkammt.net
 nltkanasnart.net
 nltkkamats.net
 nltlnalnakar.net
@@ -3343,7 +3338,6 @@ pttavm-bireysel-siparis.com
 pttavm-gecisbakiyenoktasi.web.app
 pttavm-hemen-siparis.com
 pttavm-kilometredetaykolayca.web.app
-pttavm-kmsxrgulama.web.app
 pttavm-siparis.ile-guvenlice-web-tr.com
 pttavm-siparisim.ile-guvenlice-web-tr.com
 pttavm.gvnliodeme.com
@@ -3508,6 +3502,7 @@ ruhsuzpanel7.world
 ruhsuzpanelhizmetlerim.click
 ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
+ruhsuzpanelvsusom.click
 ruhsuzsistem1.click
 ruhzy.top
 russ12222.site
@@ -3532,6 +3527,8 @@ safrantermalhotel.com
 saglam-seyahatim.pages.dev
 saglikliolunuz.com
 saglikliyizlanbizzatengot.duckdns.org
+saglikrhbr.cfd
+saglkrnd.cfd
 sahabet.press
 sahabetgiriss.net
 sahabinden.cc
@@ -3683,7 +3680,6 @@ sftlr.com
 sgdfgsdfsdf.webredirect.org
 sharehub.space
 sharkninija.com
-sharkturkiye.com
 shift-api-control.com
 shinjirou.info
 shopmax-tr.online
@@ -3768,6 +3764,7 @@ sorgualgec.world
 sorgubirimi.org
 sorgupanel.fit
 sorgupanel33.click
+sorgupanelcileri.click
 sorgupanelciniz.world
 sorgupaneli.boats
 sorgupaneli.rest
@@ -3919,9 +3916,11 @@ teams-cloud.live
 teb-ayrica.my-homeip.de
 teb-bank-promosyon-emekli.myonlineportal.ch
 teb-bankas-login.my-homeip.com
+teb-basvuru.mobil-bankacilik.site
 teb-com-tr-emekli-promosyon.myonlineportal.de
 teb-com-tr-promo.internet-subesi.site
 teb-com-tr.internet-subesi.site
+teb-com-tr.mobil-bankacilik.site
 teb-com.internet-subesi.site
 teb-emekli.internet-subesi.site
 teb-emeklilik-promosyon-mobil.myonlineportal.de
@@ -3980,7 +3979,6 @@ thy2023gununde.duckdns.org
 thynovia.blog
 ticaret-tr.online
 tirreklerebalon.duckdns.org
-tkg-tpuransevdnuz.com
 tkg-tpuransevdnuz.online
 tkgm.ink
 tkkoop.vercel.app
@@ -4156,7 +4154,6 @@ uz-whatsapp.com
 uz-y-group.com
 uzlasmabaro.com
 uzlasmabildirim.com
-uzlasmabilisim.com
 uzlasmahazine.com
 uzygroup.net
 uzygroup.org
@@ -4475,7 +4472,6 @@ yapifinance.fun
 yapikrediworld.com.ph
 yaplkredl.sbs
 yapuikredisubesigiris.com.ph
-yardimetmeyiseviyoruz.com
 yardimyanimda.com
 yarkvrdabrdangldnal.lol
 yarrowdepth.org
