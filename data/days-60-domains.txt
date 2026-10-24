@@ -589,6 +589,7 @@
 6.ddns.me
 6017266923.cloud
 616121.xyz
+6164252151zsf.duckdns.org
 620617625.cloud
 625671717116.duckdns.org
 62616608764.cloud
@@ -1640,7 +1641,6 @@ beta-perplexity.com
 betgaranti-hizli-tr-giris.icu
 betgit1351.com
 bexorunilakemvytosa.sbs
-beygirogluumm.dnsup.net
 beylikduzualbaveteriner.pro
 beylikduzusubekmpn.duckdns.org
 bfhsdfsbdfbsf.shop
@@ -1681,7 +1681,6 @@ binancelogin-tr.com
 binancetrlogin.duckdns.org
 binfrstlariekm.duckdns.org
 bir-sigortam-nas-check-20261018.birsigortam-net-tr.workers.dev
-biramodi-folepara.lol
 bircan.22web.org
 bireboko-folasude.lol
 biremoli-folebazi.lol
@@ -2507,6 +2506,7 @@ e-alisverissepet.sbs
 e-bayi-hgs.lol
 e-devlet-trust.xyz
 e-devlet-turkiye-tr.vercel.app
+e-devlet.de
 e-devletblog.blogspot.com
 e-devletplatformu.xyz
 e-devlettc.netlify.app
@@ -2965,6 +2965,8 @@ facebook-login-berlin-us.ph
 facebook-login-berlin20.com.ph
 facebook-login-check-meta.ph
 facebook-login-checker.ph
+facebook-login-help-de.com.ph
+facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
@@ -2978,9 +2980,12 @@ facebook-login-instant-sa.net.ph
 facebook-login-instant-th.com.ph
 facebook-login-instant-vn.com.ph
 facebook-login-ireland-cork.com.ph
+facebook-login-lisbon.com.ph
 facebook-login-login-nz-asia.com.ph
 facebook-login-login.blogspot.com
+facebook-login-metrobankl.com.ph
 facebook-login-myanmar-intl.com.ph
+facebook-login-new-york.com.ph
 facebook-login-no-logino-com.ph
 facebook-login-osaka10014.com.ph
 facebook-login-page-secure.ph
@@ -3040,6 +3045,7 @@ facebookloginfloristonline.com.ph
 facebookloginfriends-anime.com.ph
 facebookloginhelp-denmark.com.ph
 facebookloginlabz1.com.ph
+facebookloginlakezx.net.ph
 facebookloginlamp.net.ph
 facebookloginlawfirms.com.ph
 facebookloginnuzen.ph
@@ -3251,7 +3257,6 @@ frstlrrsonnbsvrrkmpnyaa965849.info
 frstlrrsonnbsvrrkmpnyaa965849.online
 frstmlkklcsd.shop
 frsttlrrrkmpnyaabsvrrrrsonnnn.online
-frsttrnetdvulrdaim.com
 frstttkmpnylariiibsvrrrr.art
 fruitta.com
 frullam-nemo.com
@@ -4386,8 +4391,10 @@ hukukportal.org
 hulifpo-desedu.lol
 hulihpo-desedu.lol
 huncvkov9.icu
+hy13adega.duckdns.org
 hynzbirts.giize.com
 hzbdjx.com
+hzlalrndeuv.cfd
 hzli-bakye.art
 hzligcshgs.cfd
 hzligcslerinolsn.cfd
@@ -4891,7 +4898,6 @@ kasdertmonst.duckdns.org
 kaspersky-lab.hl.cn
 katafeester.company
 kataloghaftasn.giize.com
-katamoli-toromide.lol
 katarageliriz.duckdns.org
 katarfalan.duckdns.org
 katescraftybakes.com
@@ -5265,6 +5271,7 @@ leoartksnbrrhrsdsnbttn.com
 leocangurcu.duckdns.org
 lerosiku-manutafe.lol
 lesgeltes.duckdns.org
+letgo-cuzdanimguvende.online
 letgo-sigorta.co
 letgo.ile-odemeyi-tamamlayin.com
 letgo.ile-siparis-olustur.com
@@ -6332,7 +6339,6 @@ onayli-alisveris-1501903.com
 onayli-alisveris-1501905.com
 onboarding.evsahibibasvuru.com
 onecloudfilesync.com
-onedayjustwillbe.top
 onesdto.shop
 onikimlir.duckdns.org
 online-7d4x-garantibbva.ro-actualizare.com
@@ -7524,6 +7530,7 @@ siparisislemlerim.com
 siparislerimonline.com
 siparislerkapida.com
 siparisonayla.online
+siparisteslimati.com
 sipsapsop.click
 siritmax.click
 sirius.surpasstools.com
@@ -7635,6 +7642,7 @@ sondakika.cam
 sonfirsaattkmpnyaabsvrr.art
 sonfirsaattkmpnyaabsvrr.click
 sonfirsaattkmpnyaabsvrr.online
+sonfirsatlarihemenyakala.xyz
 sonfirsltarrribkmpnyabsavr.info
 sonfrlasaltikmpnyasirfvsavr.info
 sonfrsiattlarbsasvrkmnpyaaa.pro
@@ -7930,6 +7938,7 @@ tahuguderepoli.lol
 takip-merkezi.vercel.app
 takipidari.org
 takipkamu.org
+takipmali.org
 takipsorgu.org
 taklaciguvercinsevenlerdernegi.myshopify.com
 taksitlievbasvuru.com
@@ -8383,6 +8392,7 @@ tvtr-randevu.web.app
 tvtrarcmynb.sbs
 tvtrkmafylari.duckdns.org
 tvtrkmynexx.duckdns.org
+tvtrkogren.org
 tvtrkrndv.duckdns.org
 tvtrkrnvdmlrm.com
 tvtrkrvdal.org
@@ -8473,6 +8483,7 @@ v30105.site
 v707070.site
 v99999.site
 vaha-yatirim.com
+vakif-erken-onay.duckdns.org
 vakif.pzbsin.com
 vakifbank.cm.tr
 vakifbank2019web.com.ph
