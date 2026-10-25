@@ -1,5 +1,3 @@
-0000000333.duckdns.org
-000000044444.duckdns.org
 0000011111.duckdns.org
 00283945726.duckdns.org
 012492352.duckdns.org
@@ -397,14 +395,13 @@
 1231516frrrssrstlarrkmpnyaasbsvrr.online
 12333222244422.webredirect.org
 1234654psnylsyndns.com
+1235616345234.sbs
 12381239.xyz
 124124124.duckdns.org
 1241251.xyz
 124215151512.duckdns.org
 1244422115455455888899991.duckdns.org
 1244422115455455888899993.duckdns.org
-124451545544554888787997.duckdns.org
-124451545544554888787998.duckdns.org
 124992004888522.webredirect.org
 124992004888532.webredirect.org
 125122151251.duckdns.org
@@ -1001,7 +998,6 @@ a-101-sponsor-bugune-ozel-indirim-tr.mobil-sponsor-store-mobilde-tr.site
 a-101-stanley-indirimleri.duckdns.org
 a-101-tr-de-bugune-ozel-mobil.onlinecep-tr.site
 a-101-tr-de.onlinecep-tr.site
-a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
 a-101-tr-sadece-bugune-ozel-indirimler-sepeti-tr.mobil-ozel.site
 a-101de-bugune-ozel-indirim-tr.cep-tr-mobilde-online-sepet.cfd
 a-101extra-da-bugune-ozel-tr.cepte-shop-online.sbs
@@ -2351,7 +2347,6 @@ bilgiradar.co
 bilgis-tr.online
 bilgisel-cepte.online
 bilgisorgu.org
-bilgiveislemsayfasi.abrdns.com
 bilgivermeservisi.bid
 bilinclikullanim.abrdns.com
 bilinclituketim.abrdns.com
@@ -2639,7 +2634,6 @@ bulndirimikacirmayin.com
 bulten-aktarimweb.guru
 bumjuhukulufere.lol
 bumuhufudese-sederese.lol
-bumuhugude-reteredese.lol
 bumuhugudeferesede.lol
 bumuhuguferede-desedede.lol
 bunadegildeneyeverilecek.lol
@@ -3305,7 +3299,6 @@ davadosyam.org
 davadosyasorgu.com
 davaeavukat.org
 davahazine.com
-davsanllargiyimvs.duckdns.org
 daww3420.myddns.me
 dbs-ptt-garantibbva.com.ph
 dcfbuilders.com
@@ -4359,6 +4352,7 @@ facebook-login-in-se.com.ph
 facebook-login-in-tokyo.com.ph
 facebook-login-in-tokyo.net.ph
 facebook-login-instant-de.com.ph
+facebook-login-instant-de.net.ph
 facebook-login-instant-es.com.ph
 facebook-login-instant-hk.com.ph
 facebook-login-instant-sa.net.ph
@@ -4448,6 +4442,7 @@ facebookloginlan.com.ph
 facebookloginlan.net.ph
 facebookloginlawfirms.com.ph
 facebookloginlawyer.com.ph
+facebookloginmysteryk.com.ph
 facebookloginnuzen.ph
 facebookloginonlinelegal.com.ph
 facebookloginonlinezvr.com.ph
@@ -4472,6 +4467,8 @@ facebookloginstrends.net.ph
 facebookloginuser-updateinfo.ph
 facebookloginuser.com.ph
 facebookloginyt.com.ph
+facebookloginzk.com.ph
+facebookloginzm.com.ph
 facebookloginzonebe.com.ph
 facebookloginzonebr.com.ph
 facebookloginzonebu.com.ph
@@ -4766,7 +4763,6 @@ frstlllrrkmnnpyybsvrrprmsynn.pro
 frstlrkmpnyssbsvrrrprmoo.live
 frstlrnsmdjs.shop
 frstlrrkmpnylarribsvrr.art
-frstlrrrsnnnkmpnyaabsvrrkred.pro
 frstlrrsonnbsvrrkmpnyaa965849.info
 frstlrrsonnbsvrrkmpnyaa965849.online
 frstmlkklcsd.shop
@@ -5374,6 +5370,7 @@ greencn.ru
 grenight.com
 grfine.cfd
 gripsleep.xyz
+grlrandevu.com
 grnte.com
 grntibba.duckdns.org
 grntibsvrhmn.art
@@ -5610,7 +5607,6 @@ haberler47852.shop
 haberler4857489.sbs
 haberler53454321.shop
 haberler543343.shop
-haberler562346.sbs
 haberler56311.sbs
 haberler56321.sbs
 haberler5632494.sbs
@@ -6392,6 +6388,7 @@ hjsdfgffgdasgjvvzxvbte83.live
 hk.kalyanavaram.com
 hl-k-b-kkk-kr.space
 hlakolanmalko.cfd
+hleknaknr.net
 hlkbn2.blogspot.com
 hlkenta.net
 hlkwebsubayrntilarsub493.shop
@@ -7512,6 +7509,7 @@ kinovialun.duckdns.org
 kiralikaraclarimislemler.com
 kiralikkonutbasvurularim.cfd
 kirameso-hulavite.lol
+kirlenmekguzeldir.net
 kiro.cheap
 kisaltsaniza.space
 kisgunlerindeyiz.cfd
@@ -7898,7 +7896,6 @@ landerlerdesnes.duckdns.org
 laoeskmernes.duckdns.org
 lapellelaser.pl
 laracitytravel.today
-larek.vu
 lasdmqelwmx.com
 lasneyor.duckdns.org
 lateorearly.biz
@@ -8602,7 +8599,6 @@ merkezdenkayit.abrdns.com
 merkezdensize.abrdns.com
 merkezi-sozlesme-islemleri.com
 merkeziiprmsynnfrstlarrbsvrr.art
-merkeziislemler.my-homeip.de
 merkezinkayit.abrdns.com
 merkeziyetsizbasvuru.com
 merkeziyetsizkayit.abrdns.com
@@ -10350,7 +10346,6 @@ passkeyuser.com
 password-protect-pdf.com
 pastacanavari.duckdns.org
 pastayiyiyin.sbs
-patakuti-cartcurtede.lol
 pauktun.space
 pawpalace.cc
 pawsockenjoyer.site
@@ -10917,7 +10912,6 @@ randvhsziemtsd.store
 randvshzksimerts.store
 randvuislmlerinizburadan.duckdns.org
 rapid-craft567.com
-rapid-maple-281.injaltransferwillgonabaid.workers.dev
 raramic640.online
 raramic640.space
 raramic640.xyz
@@ -11061,6 +11055,7 @@ rockstar-gta-6.com
 rodddcycyrgttskym.live
 roddddybdrydln.shop
 roddddybdrydlnnn.shop
+rodgttenskm.cfd
 rodininbabasiyim.duckdns.org
 rodiwasherecandan.com
 rodrodrodrodmusic.com
@@ -11144,7 +11139,6 @@ ruten.observer
 ruthlessosint.byethost12.com
 ruuhsuzpanel.cyou
 rvdal182brdn.org
-rweretee.nicepage.io
 rwslink.net
 rwxv01sd23.duckdns.org
 rx534ft19vs324s127cd.cfd
@@ -11356,7 +11350,6 @@ sahibinden-param-guvende.siparis-onay.online
 sahibinden-param-guvende.siparis-onayi.online
 sahibinden-param-guvende.siparis-onayim.online
 sahibinden-param-guvende.siparis-onayla.online
-sahibinden-param-guvende.siparisbilgitr.online
 sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisim-guvenli.online
 sahibinden-param-guvende.siparisonayi.online
@@ -11555,7 +11548,6 @@ sartlarimiz.sbs
 sasirilmayacakgibidegil.sbs
 satanaldndabakherseyburdagelsendekan50.click
 satinal-hemen.com
-satir-web.ink
 satiskapida.com
 savcilikevrak.org
 sayatatata.click
@@ -11956,7 +11948,6 @@ siparis-onayli-115546.com
 siparis-onayli-115551.com
 siparis-teslimat.com
 siparis-tr.online
-siparisbilgitr.online
 siparisguvende.com
 siparisguvenli.com
 siparisguvenli.online
@@ -12432,7 +12423,6 @@ stiye-yonlendiirci.com
 stnlyyenikmp.com.tr
 sto.1001gacor.org
 stoklaribitiriyoruzsondusus.sbs
-stokta-sayili-urun.sbs
 storage-apis.vercelcloud.com
 storage-data.com
 storage.hubpage.cloud
@@ -12591,7 +12581,6 @@ takipsorgu.org
 taklaciguvercinsevenlerdernegi.myshopify.com
 taksim-net.ink
 taksitlievbasvuru.com
-taktik-operational.ink
 takvimlerrek.sbs
 talent-louisvuitton.com
 talentedwhispering.com
@@ -12871,7 +12860,6 @@ theistannbulllbelgimcan.com
 thesewap426322.shop
 theunforgiven.p8.hu
 thewitcherplay.ru
-things-solve-medicines-premium.trycloudflare.com
 thrygate.com
 thy2023gununde.duckdns.org
 thynovia.blog
@@ -13604,7 +13592,6 @@ vibram-turkiye.com
 viemio.com
 view-sour-c.myonlineportal.ch
 vigmanet.ru
-viixzhsldndu3dx3e.click
 vine-96.com
 viogarxnti.ice.fo
 violet-87cardo.workers.dev
@@ -14009,6 +13996,7 @@ www-qnbfinansbank-secure-login.ph
 www-qnbfinansbank-secure.ph
 www-qnbfinansbank-service.ph
 www-qnbfinansbank-transfer.ph
+www-sube-cepteteb.my-homeip.de
 www-suptb-extend-ayrica.myonlineportal.ch
 www-sync-ceptedir.myonlineportal.ch
 www-tamtb-cepte-screen.myonlineportal.ch
@@ -14050,6 +14038,7 @@ www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de
 www-teb-com-tr.internet-subesi.site
 www-tebfirsatlar-com.my-homeip.de
 www-tkgm-gov-tr.translate.goog
+www-tooltb-accuary-cepte.myonlineportal.ch
 www-tr-binance.com
 www-tracepte-tb-ayrica.myonlineportal.ch
 www-tracetb-cepte-ayrica.myonlineportal.ch
@@ -14410,7 +14399,6 @@ yxcpanel.online
 yxcvds.xyz
 z0iraat.cfd
 z102.site
-z1ffssa.cfd
 z2ratll.cfd
 z34777.site
 z3ratvv.cfd
@@ -14545,7 +14533,6 @@ zrt.quest
 zrtmorbilek.cfd
 zrtytrak.nicepage.io
 zt171.eu.cc
-zt93mx87zr300cxa.cfd
 ztraattrr-com.cfd
 ztrasattas.nicepage.io
 ztrasattass.nicepage.io
