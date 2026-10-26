@@ -162,7 +162,6 @@
 101-sadece-bugune-ozel-online-indirim-alisveris-sepeti-tr.bilgishop.online
 101-sadece-online-ozel-sepete-ekle.online-mobil-cep-tr.com
 1010010000020045.webredirect.org
-1010010177200.bounceme.net
 101001310177200.bounceme.net
 10108283004588.bounceme.net
 1014545082504588.bounceme.net
@@ -696,6 +695,7 @@ archat.us
 archivosdigitalescol.myonlineportal.ch
 argea-ai.org
 aroraarabasatis.com
+arorayedekparcamagazasi.com
 arracrndvual.govt.hu
 arrow-berry-gem.pages.dev
 artikyalanyokye.sbs
@@ -1144,6 +1144,7 @@ denemea1001111.duckdns.org
 denemealtyapi.com
 denizbank-bireysel.vercel.app
 denizbank-bireysel.web.app
+denizonlinebasvur.duckdns.org
 dertler-derya.sbs
 des199.site
 deserbet.link
@@ -1796,13 +1797,11 @@ gratis-tr.rataforo.com
 gratis-tr.sendreward.com
 gratis.aarikpokras.com
 gratis.adblickgranos.com
-gratis.fandomhousepress.com
 gratis.ianmaffett.com
 gratis.iynsed.com
 gratis.nexiapy.com
 gratis.ploteando.com
 gratis.raspberrydevice.com
-gratis.rataforo.com
 grfine.cfd
 grlrandevu.com
 grntibsvrhmn.art
@@ -1877,7 +1876,6 @@ haberler42213.sbs
 haberler453108794.sbs
 haberler463221.sbs
 haberler56311.sbs
-haberler56321.sbs
 haberler73452.sbs
 haberler9854.sbs
 haftaninfirsatliurunleri.sbs
@@ -1913,6 +1911,7 @@ hazinesorgu.com
 hazinesorgu.net
 hazineuzlasma.com
 hdbnyaprcamsnncnbnlr.rest
+hdbrdanrvalsnbrdn.sbs
 hdemiradiyamanedutr.weebly.com
 hdf.hedefborsa.com
 hdhmnbrdanlcbkk.lol
@@ -2252,7 +2251,6 @@ hizligecismerkzi.art
 hizligecisyuklemniz.web.app
 hizliislem.net
 hizliislemlerr.art
-hizlionlinekredibasvurusu.loseyourip.com
 hizlkmsorgu.web.app
 hizmetimizaktiftaklaci.myshopify.com
 hizmetimizcalisiyor.com
@@ -2261,7 +2259,6 @@ hjazfioe.surf
 hlakolanmalko.cfd
 hleknaknr.net
 hlldrymbrdansnz.duckdns.org
-hmbakanlikvezne.com
 hmbdosya.net
 hmbdosya.org
 hmbveznedar.org
@@ -2625,7 +2622,6 @@ kmsroglamahizmttimiz.web.app
 kmzsgsmdiza.web.app
 kocholding.world
 kocotomonlineodeme.com
-kocotorezervasyon.com
 koefes.cc.cd
 kolay-merkez-hekim.lol
 konut-basvurusutoki.com
@@ -2852,6 +2848,7 @@ merkez-hekim.lol
 merkezrent.com
 merkezsistemi.abrdns.com
 mertdanisma321.duckdns.org
+mertiyungalaa.duckdns.org
 mertiyungl.duckdns.org
 met2ndsiu8k.icu
 metamanus.im
@@ -3444,6 +3441,7 @@ ruhzy.top
 russ12222.site
 ruten.observer
 ruthlessosint.byethost12.com
+s-guvendesigortaodemeleri.duckdns.org
 s-guvenlimuhasebeodeme.com
 s-guvenlimuhasebeodemebirimi.com
 s-guvenlimuhasebeodemeleriniz.duckdns.org
@@ -3461,6 +3459,7 @@ saddasdasdsa.duckdns.org
 saderete-teredesede.lol
 safety-mcc.com
 saglam-seyahatim.pages.dev
+saglik-rnd.cfd
 saglikliolunuz.com
 saglikrhbr.cfd
 saglkrnd.cfd
@@ -3673,6 +3672,7 @@ sndkkfrslarrkmpnyaabasvrr25413698.pro
 sndmncbhsj.shop
 sndyaralnyesil.click
 snnfrstlarrkmpnyaa189765.info
+snowgirl.zki.lol
 snrszkmp.loseyourip.com
 socasttool.com
 sofradanmu.465165864.sbs
@@ -3767,7 +3767,6 @@ sub29929292.duckdns.org
 sube.anadolumenkulyatirim.com
 suggestutterly.com
 suottr.sbs
-supercelletkinlik.com
 support-center-freeexchange.ddns.net
 support-center.serveexchange.com
 support-service-update.serveftp.com
@@ -3848,7 +3847,6 @@ teb-ayrica.my-homeip.de
 teb-bank-promosyon-emekli.myonlineportal.ch
 teb-bankas-login.my-homeip.com
 teb-basvuru.mobil-bankacilik.site
-teb-com-tr-emekli-promosyon.myonlineportal.de
 teb-com-tr-promo.internet-subesi.site
 teb-com-tr.internet-subesi.site
 teb-com-tr.mobil-bankacilik.site
@@ -3864,6 +3862,7 @@ teb-online.duckdns.org
 teb.eu.com
 tebarrak.cfd
 tebbireyselsube2018.com.ph
+tebbreee.duckdns.org
 tebcim.space
 tebde-basvuru-cep.myonlineportal.ch
 tebdecep-emekli.myonlineportal.ch
@@ -3960,7 +3959,6 @@ tr-web-alisveris-get-islemler.online
 tr-web-islemler-get-alisveris.online
 tr-webalisveris-tr-getislemler.online
 tr-webalisverisler-tr-getislemler.online
-tr-webislemler-alisveris-get.online
 tr-webislemler-tr-getislemler.online
 tr-webislemlerin-tr-get-alisveris.online
 traceclean.cfd
@@ -4030,7 +4028,6 @@ tuvturkrandevumuayene.com
 tuvturkx.com
 tvtr-randevu.web.app
 tvtrarcmynb.sbs
-tvtrkmafylari.duckdns.org
 tvtrkmynexx.duckdns.org
 tvtrkogren.org
 tvtrkrndv.duckdns.org
@@ -4051,6 +4048,7 @@ ugrsbebirincisi.duckdns.org
 uhugudere-redeteye.lol
 uhukalami.duckdns.org
 ukrainerada.top
+umre-basvurukatilimi.vercel.app
 umrfrstlsmdi.click
 unisalesemina.giize.com
 unumalaka.duckdns.org
@@ -4245,7 +4243,6 @@ www-cebte-tvb-ony.myonlineportal.ch
 www-cebteteb-promosyonu-com.my-homeip.de
 www-cep-on-btb.myonlineportal.ch
 www-cep-on-tb.myonlineportal.ch
-www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepl-tvb-dolu.myonlineportal.ch
 www-cept-b-on.myonlineportal.ch
@@ -4398,6 +4395,7 @@ yemektarifleri.shop
 yenidom1.shop
 yenidommkadir.shop
 yenievl.com
+yenilenmisicerigimiz.abrdns.com
 yenitokibasvuru.online
 yerkalenec.lol
 yglasan.world
