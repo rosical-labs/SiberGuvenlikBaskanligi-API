@@ -3099,7 +3099,6 @@ bopaje7148.store
 borertors92.anondns.net
 borneobulletins.top
 borsaci.site
-borsahedef.app
 borsahedef.pages.dev
 borsalio.click
 borsava.capital
@@ -3742,8 +3741,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4934,6 +4933,7 @@ egmgovn.my.id
 egmgovn.web.id
 egmgovre.biz.id
 egmgovre.my.id
+egmgovren.my.id
 egmmali.org
 egmtrasliceza.org
 egngov.biz.id
@@ -16339,6 +16339,7 @@ tebooaoloka.cfd
 tebpageinternet.my-homeip.com
 tebpromo.site
 tebrafa.site
+tebresmiiii.duckdns.org
 tebsolansod.co
 techdriverhub.gifts
 techfront24.digital
