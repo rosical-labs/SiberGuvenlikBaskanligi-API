@@ -2503,6 +2503,7 @@ bool-trendyol.com.ph
 bopaje7148.store
 borertors92.anondns.net
 borneobulletins.top
+borsahedef.app
 borsahedef.pages.dev
 boss.turkiyekalkinmabankasi.com
 bot-trendyol.com.ph
@@ -12960,7 +12961,6 @@ toki-konutum.sbs
 toki-onlinepay.com
 tokinmony.pro
 tokioyo.cc.cd
-tokitoplukonut.gravitycl.app
 tokyo.bounceme.net
 tokyodndsa.cfd
 tokyolokko.co
@@ -13502,7 +13502,6 @@ vatandas-basvuru-islemleri.sbs
 vatandas-uyap-gov-tr-evrak-dogrulama-uyap.vercel.app
 vatandas-uyap.eu
 vatandasgiris.org
-vatandasgirsmhrslersx.mtvleyi2026s.xyz
 vatandsprrtalmrshz.duckdns.org
 vatankonutlari-toki.vercel.app
 vatiter.click
