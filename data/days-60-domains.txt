@@ -1695,7 +1695,6 @@ bireyselsube-enpara.ph
 bireyselsudeniz.com
 birimmahkeme.org
 birimportal.org
-birimsorgu.org
 birisineozeldegilbutunhalkaozel.sbs
 birsepet-tr.site
 bismillahkaliteyehosgeldiniz.duckdns.org
@@ -5781,7 +5780,6 @@ mobil.osmanlivportfoy.online
 mobilcepteteb.my-homeip.de
 mobilcitr.online
 mobilden.internet-subesi.site
-mobile-digital.shop
 mobile-facebook.com.ph
 mobilhizmetlerim1.sbs
 mobilite-pr-g.myonlineportal.ch
