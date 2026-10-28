@@ -407,7 +407,6 @@
 123512351235.duckdns.org
 1235616345234.sbs
 12381239.xyz
-124124124.duckdns.org
 1241251.xyz
 124215151512.duckdns.org
 1244422115455455888899991.duckdns.org
@@ -6304,7 +6303,6 @@ hizli-kredi-basvurusu.cloud
 hizli-odemem.com
 hizli-online-islemler.com
 hizli-seri-entry-g.ink
-hizli-siparis-onaylama-baglantisi.com
 hizli-siparisislem.com
 hizli-tuvttr.site
 hizli-yapgecisin-yk.web.app
@@ -9677,6 +9675,7 @@ nwcspraseves.duckdns.org
 nwcsprasevess.duckdns.org
 nwqly.top
 nwsccrf.duckdns.org
+nwylw.com
 nxsixihozitybwrbahiu.supabase.co
 nxtdrcliam.site
 nyxar.lol
@@ -10327,6 +10326,7 @@ passkeysupport.com
 passkeyuser.com
 password-protect-pdf.com
 pastacanavari.duckdns.org
+pastacibul.click
 pastayiyiyin.sbs
 patrokorkaas.duckdns.org
 patronhavale.cfd
@@ -10532,7 +10532,6 @@ pouhugufe-redesede.lol
 powerquizmaster.com
 poyuturyew-esederese.lol
 pppprrdannnn.duckdns.org
-pppzirpppsf.nicepage.io
 pr-arabacekilisi.online
 prairiepomes.com
 prarabacekilisi.online
@@ -10808,7 +10807,6 @@ qumel.link
 quorvella.blog
 quorzenfy.com
 qwdx12xqadxqx.duckdns.org
-qwdx21x1xd12.duckdns.org
 qwemonstekest.duckdns.org
 qwertyuiopa.pro
 qwfqwfqfw124214.duckdns.org
@@ -10874,7 +10872,6 @@ randbevhszlsd.store
 randevu-merkez-hekim.lol
 randevucunuz.com
 randevuhaliyle.duckdns.org
-randevulugunlerburada.duckdns.org
 randevumtuvturkorg.duckdns.org
 randevunoktasi.duckdns.org
 randevuntuvturkorg.duckdns.org
@@ -11103,6 +11100,7 @@ ruhsuzpanel7.world
 ruhsuzpanel8.site
 ruhsuzpanel9.site
 ruhsuzpanelhizmetlerim.click
+ruhsuzpanelimizbirtane.click
 ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
 ruhsuzpanelvsusom.click
@@ -12349,7 +12347,6 @@ ssslllllpppppsssbrrr.lat
 ssslllllpppppsssbrrr.lol
 ssslllllpppppsssbrrr.sbs
 sssslllddddddsss.duckdns.org
-sstbonlinebasvuru.com
 sstc-garantibbva.com.ph
 sstmrvdbrdanbk.click
 st-lg-gr-ol.myonlineportal.ch
@@ -12610,6 +12607,7 @@ tavonexuliramepo.sbs
 tavsanciksorgupaneli.online
 tavsanciksorgupaneli.site
 tavsanciksorgupaneli.website
+tavuk-dunyasi.qpon
 taweruk-hisopalem.lol
 tax.11gokil.org
 tax.sm188dnsx.top
@@ -12768,6 +12766,7 @@ tekrardanbasvurozamanas.sbs
 tekrartekrarbasvurdana.sbs
 tekrixly.com
 teksenbilisimn.com
+tektiklahizlihizmet.site
 tektikmettoreko.sbs
 tektikonlinehizmet.site
 tektqlspsrlrqlamsnde.com
@@ -13038,6 +13037,7 @@ transportfine.cfd
 transportsfine.cfd
 transzimbra.linkpc.net
 trastnewkt.com
+trbinance.tr
 trbuyukbenbir.click
 trcezasorgu.org
 trekmesh15.com
@@ -13381,7 +13381,6 @@ urunhizmetivebedeli.com
 urunhizmetleri.online
 urunlerin-online-satisi.com
 urunodeme-tr.online
-urunodemetr.online
 usa.on1xvpn.com
 usachvpn.su
 usdgsdgsd.shop
@@ -14069,7 +14068,6 @@ xn--dhsssrascrod-d5b.shop
 xn--halfevwjekqkvweleklbwndilnklndwi-z9fk.xyz
 xn--hukukcezas-6ub.org
 xn--hzlkmpssa-vpbc.com
-xn--markafrasst101-bgc.com.tr
 xn--nadrgold-e2a.com
 xn--nvirandevutrkaymakamlk-6ld.com
 xn--onemooring-rwia.top
@@ -14458,7 +14456,6 @@ ziraatssbank.xyz
 ziraattarimsa.cfd
 ziraattli.sbs
 ziraatyatirimborsahesabi.pro
-zirailillf.cfd
 ziraitarimfs.cfd
 ziralmobilislemlerl.duckdns.org
 ziralmobilonlineislemlerimtr.duckdns.org
