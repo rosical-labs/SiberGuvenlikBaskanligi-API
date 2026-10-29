@@ -1367,7 +1367,6 @@ asncxbyaaasdanala.46584546584.sbs
 asncxbyaaasdanala.4875648646541.sbs
 asncxbyaaasdanala.48965165841844.sbs
 asncxbyaaasdanala.654645654756765.sbs
-asncxbyaaasdanala.849561564486510.sbs
 asncxbyaaasdanala.86456816843568.sbs
 asncxbyaaasdanala.8796451654165333.sbs
 asncxbyaaasdanala.8889655532144.sbs
@@ -2098,8 +2097,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -2249,7 +2248,6 @@ cs.access.ly
 cslt168.com
 csmonestler.duckdns.org
 cspagtssnkmpnya.duckdns.org
-csperagustosayikmpny.duckdns.org
 ct54t1d74f25cd.cfd
 ct54t1d74fs127f.cfd
 ct54t1d74fs127fd.sbs
@@ -2824,7 +2822,6 @@ esd.asan.gov.zapto.org
 eservishizmetleriniz1.online
 eshops-mobile.online
 esimmobilbilgiler.duckdns.org
-eskiyeyluldeyiz.duckdns.org
 esmacicekcilik.com
 esmaersevincbutik.com
 esorgudetay.com
@@ -3907,7 +3904,6 @@ heryereherkesehaberverin.sbs
 herzamanburadarandevu.com
 hesaplikasabim.site
 hesaplikasabim.world
-hesaplikasap.site
 hesaplishop-tr.online
 hesapta-tr.online
 heyhru.com
@@ -5084,7 +5080,6 @@ kmsrglmazmn.cfd
 kmsroglamahizmttimiz.web.app
 kmsrogulamahizmetinizz.web.app
 kmzsgsmdiza.web.app
-kndemvaerc.duckdns.org
 knnasi.net
 kocfilonuz.net
 kocholding.group
@@ -6368,6 +6363,7 @@ orsenminlra.duckdns.org
 ortkyklmenktlari.vercel.app
 oscertdegree.com
 osdksdsndsanmsd.shop
+oshikaplan.giize.com
 oskeyregister.com
 oskeysetup.com
 osmanli.portfoymenkul.com
@@ -8013,7 +8009,6 @@ tekbasvuru.abrdns.com
 tekcihazaktivasyonlinki.duckdns.org
 tekcihazlaraktivasyonlinki.duckdns.org
 tekdoknstaevneglecek.com
-tekdokunusaevegelecek.com
 tekdokunusqevegelecek.com
 tekgercektazmanya.duckdns.org
 teklifonunde.abrdns.com
