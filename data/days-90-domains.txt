@@ -1274,7 +1274,6 @@ aiarmor.website
 aiask0912.com
 aidat-iades-web-grs-e-devlet-gov-tr.com.ph
 aidatcepdestekmobilkapisi-gov-tr.com.ph
-aidatiademerkezi.my-homeip.de
 aidatiadeonline.my-homeip.de
 aidatmerkezislem.my-homeip.de
 aidatsorgulama0081.org
@@ -5485,8 +5484,6 @@ guvendeilan.online
 guvenfiloavs.net
 guvenilir-checker.online
 guvenilir-site.info
-guvenilirsorgupaneli.fun
-guvenilirsorgupaneli.xyz
 guvenli-alisveris-tr.online
 guvenli-basvuru.online
 guvenli-hizmet.online
