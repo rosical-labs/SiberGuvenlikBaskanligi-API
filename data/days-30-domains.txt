@@ -84,7 +84,6 @@
 101-extra-sadece-bugune-ozel-indirim-sepete-ekle-tr.mobils-bilgide.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-tr-shop.tr-sepettex.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-shops.shops-trendtr.online
-101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti.sepetteindirim.online
 101-extra-sadece-bugune-ozel-mobil-indirim-vakti-tr.bilgisel-cepte.online
 101-extra-sadece-bugune-ozel-mobil-shop-urunleri-sepette-tr.buys-shop.site
@@ -363,7 +362,6 @@ a101hizmetayinda.duckdns.org
 a101jethiziyla.ct.ws
 a101market.netlify.app
 a101marketing.duckdns.org
-a101reklam.com
 a101stanleyfirsatlaraktifekimayinda.duckdns.org
 a1o1alsvrs.duckdns.org
 a1o1devamet.click
@@ -932,7 +930,6 @@ cafeoffdubai.duckdns.org
 caixaentradas1inboxshop.site
 callmylove.cyou
 canli2odme.22web.org
-canpackcom.com
 capsysnet.vg
 capulcu.net
 cardanocrypto.ch
@@ -1330,6 +1327,7 @@ ehukukuzlasma.com
 eikimfirstlari.hizlifirsatim.com
 ekamu.org
 ekamubdk.com
+ekim-cumhuriyet-bayrami59.67g7g.top
 ekimayifinssmanlar.biz.tr
 ekimayifinssmanlar.com.tr
 ekimayifinssmanlar.info
@@ -2454,6 +2452,7 @@ ile-odemeyi-tamamlayin.com
 ile-siparis-olustur.com
 ile-siparisiniz.com.tr
 ile-siparislerinizde.com.tr
+ile-siparisver.com.tr
 ileservishizmetleri.com
 ileservishzmetleri.sbs
 iletisimdestek.online
@@ -2727,7 +2726,6 @@ kmpnyaabasvruprmsynn19756.pro
 kmpnyabasvurrrprmsyn1786985.info
 kmpnyabasvurrrprmsyn1786985.pro
 kmpsndehmn.click
-kmsorgulamaiislemleri1.web.app
 kmsroglamahizmttimiz.web.app
 kocholding.world
 kocotomonlineodeme.com
@@ -3493,6 +3491,7 @@ pttavm.ilan-sepetlerimiz-buradan.com
 pttavm.ilanlar.duckdns.org
 pttavm.ile-sepete-islemler.net.tr
 pttavm.ile-sepetinizde.com.tr
+pttavm.ile-siparisver.com.tr
 pttavm.islem-siparisver.com
 pttavm.odeme-onay-1282.com
 pttavm.online-satislari-burada.com
@@ -4520,13 +4519,11 @@ www-ayricaliktb-cepte.myonlineportal.ch
 www-brovtb-cepte-ayrica.myonlineportal.ch
 www-browsertb-ayrica.myonlineportal.ch
 www-cebte-taraf-tb.myonlineportal.ch
-www-cep-on-btb.myonlineportal.ch
 www-cep-on-tb.myonlineportal.ch
 www-cepl-tvb-dolu.myonlineportal.ch
 www-cept-b-on.myonlineportal.ch
 www-cept-tb-on.myonlineportal.ch
 www-ceptb-ayricalik-on.myonlineportal.ch
-www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-ass-tb.my-homeip.de
 www-cepte-ayricalik-tvb.myonlineportal.ch
 www-cepte-entry-tvb.myonlineportal.ch
