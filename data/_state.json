@@ -1,7 +1,7 @@
 {
-  "pass_id": 55,
-  "last_run": "2026-11-02T03:02:11",
-  "last_full_completed": "2026-11-02T04:53:19",
+  "pass_id": 54,
+  "last_run": "2026-11-02T04:53:48",
+  "last_full_completed": "2026-11-01T05:09:29",
   "types": {
     "domain": {
       "full_crawl_complete": true,
