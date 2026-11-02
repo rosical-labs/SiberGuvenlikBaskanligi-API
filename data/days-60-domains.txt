@@ -2038,7 +2038,6 @@ cepteteb-c-o-m-tr.my-homeip.de
 cepteteb-com-tr-emekli-kampanya.myonlineportal.ch
 cepteteb-com-tr-emekliler.myonlineportal.ch
 cepteteb-com-tr-emekliye-ozell.my-homeip.de
-cepteteb-com-tr.my-homeip.de
 cepteteb-emekli-kampanyaniz.my-homeip.de
 cepteteb-emekli-sube.my-homeip.de
 cepteteb-emekli.myonlineportal.de
@@ -4454,6 +4453,7 @@ ile-siparis-olustur.com
 ile-siparisiniz.com.tr
 ile-siparislerinizde.com.tr
 ile-siparisver.com.tr
+ile-siparisver.net.tr
 ileservishizmetleri.com
 ileservishzmetleri.sbs
 iletisimdestek.online
@@ -4738,7 +4738,6 @@ jotulyri.site
 journoxfly.net
 joyfulworkshop.org
 jp-login.bsnotespublication.com
-jpbankgarantibbva.ph
 jpslidefin.com
 js-static.com
 jskdljk.top
@@ -5831,7 +5830,6 @@ mygreatmarket.org
 myheabmkatlsende58.info
 myhomequote.xyz
 mynearczamni.cfd
-myntra-yurticikargo.com.ph
 myprivatevpn202634342343242342.duckdns.org
 mypublicshare.com
 myrkava.com
@@ -8928,7 +8926,6 @@ ypsendektl.click
 ys2egt1hal.ooguy.com
 ysdvdcvd.click
 ytnvhfdk.com
-ytodaktirgarage34.duckdns.org
 ytrrrartkkkuzymynnbnn.duckdns.org
 yudumkampanya.online
 yudumkampanya.store

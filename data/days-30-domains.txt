@@ -1168,9 +1168,7 @@ dijitalkampanya-online.sbs
 dijitalmobilgiris-ziraatwebkampanya.sbs
 dijitalonay.online
 dijitalsepet-online.sbs
-dijitalsiparis-online.sbs
 dijitalweb-ziraatbireysel.sbs
-dildochecker.site
 diplomaalma.web.app
 diplomatic-mfa.org
 direktif.best
@@ -2447,6 +2445,7 @@ ile-odemeyi-tamamlayin.com
 ile-siparisiniz.com.tr
 ile-siparislerinizde.com.tr
 ile-siparisver.com.tr
+ile-siparisver.net.tr
 ileservishizmetleri.com
 ileservishzmetleri.sbs
 iletisimdestek.online
@@ -4268,7 +4267,6 @@ u.ddns.me
 uasputn.com
 uat.diyanetisleribakanligi.vercel.app
 ucretsiz-umre-firsatlarimiz.sbs
-ucuzindirimlliurun.com
 ufksvvs22.cfd
 ugrsbebirincisi.duckdns.org
 uhugudere-redeteye.lol
