@@ -10229,7 +10229,6 @@ paribu-araba-cekilisi.online
 paribu-araba.live
 paribu-araba.online
 paribu-arababurada.info
-paribu-arababurada.link
 paribu-arabahediyem.com
 paribu-arabahediyem.info
 paribu-arabahediyem.link
@@ -10300,7 +10299,6 @@ paribuaraba-kazanci.link
 paribuaraba-kazandim.com
 paribuaraba-kazandim.info
 paribuaraba-kazandim.link
-paribuaraba-kazanma.com
 paribuaraba-kazanma.info
 paribuaraba-kazanma.link
 paribuaraba-yakala.com
