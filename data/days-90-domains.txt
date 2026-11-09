@@ -707,11 +707,11 @@
 3z4.xyz
 3zz844.site
 4.ddns.me
+403-forbidden.icu
 403-forbidden.sbs
 412121145441555445591.duckdns.org
 412121145441555445592.duckdns.org
 412121145441555445593.duckdns.org
-412221222145558999892.duckdns.org
 412221222145558999893.duckdns.org
 412221222145558999894.duckdns.org
 412221222145558999896.duckdns.org
@@ -1441,7 +1441,6 @@ almagestshop.org
 almayankalmasinhereve.sbs
 alnmmmnrsrttyrs.com
 alo112bet.space
-alo182biziz.duckdns.org
 alohapages.pp.ua
 alomenstkerest.duckdns.org
 alpha.diyanetisleribakanligi.vercel.app
@@ -2700,6 +2699,7 @@ bva-request.shop
 bva-tanitim.sbs
 bva-web.shop
 bvc3456.site
+bvjrebvad.giize.com
 bvmdva.duckdns.org
 bvncjfkd.shop
 bvva-application.sbs
@@ -3574,7 +3574,6 @@ domdomomoo.duckdns.org
 domestlerkest.duckdns.org
 domuzkurtboz.duckdns.org
 donalurdesconfeitos.site
-dondurmakraliduck.duckdns.org
 doneplay.site
 dongu-concepts-gw2l.vercel.app
 doooomm.duckdns.org
@@ -4577,9 +4576,11 @@ fiftystates.news
 file.archat.us
 file.dgjm.online
 filemmarket.xyz
+filemobil.com.tr
 filescenter.cloud
 fileswiftonline.cloud
 filocar.net
+filodendie.giize.com
 filokoc.org
 filokocrental.com
 filokocrental.net
@@ -7246,6 +7247,7 @@ kalbimdesaklibirisin.xyz
 kalemmonst.duckdns.org
 kalskemnsner.duckdns.org
 kalyanavaram.com
+kameran5554.duckdns.org
 kamertanser32.duckdns.org
 kampanya-burada.online
 kampanya-hemenburada.online
@@ -9082,6 +9084,7 @@ mrsrndvuhzlial.top
 ms-system-check.top
 msahibinden.com.tr
 msbenefit.com
+msdsad.duckdns.org
 msedge-api-cdp-microsoft.serveftp.com
 mserehele.duckdns.org
 msfile.online
@@ -10314,7 +10317,6 @@ piyasabizim.com
 piyasabizim.org
 piyasaodagi.site
 pl.star-boostmedia.com
-place-goruntu.garden
 placespoon.xyz
 planer7.com
 planer7.online
@@ -11939,6 +11941,7 @@ sokmarketlerdeindirim.shop
 sokmarketlerhepsi.shop
 sokmarketlerin.com
 sokmarketodemesayfasi.sbs
+sokmarletin.com
 sokseviyoruzsoksokisokahl.duckdns.org
 soksoksok.com.tr
 solar-cloud-branch.pages.dev
@@ -12426,6 +12429,7 @@ tarimbirlikmarket.com
 tarimkoop.app
 tarimkoop.com
 tarimkooparatif.vercel.app
+tarimkooperatif-market.blogdns.com
 tarimkoopmarket.sbs
 tarimkoperatfmarketonlinee.blogspot.com
 tarimkopmarketonline.blogdns.com
@@ -12743,6 +12747,7 @@ togg-arac-finansmanlari.com
 togg-e.com
 togg-faizsizlimitlerim.com
 togg-finansman.com
+togg-tr.com
 togg-turk.com
 togg-turkiye.com
 togg.bar
@@ -12763,6 +12768,7 @@ toggmobilite.autos
 toggmobilite.com
 toggotoyedek.com
 toggreserve.com
+toggresmitr.com
 toggrezerv.com
 toggrezervasyon.com
 toggtrumore.autos
@@ -13201,6 +13207,7 @@ ulkerfestive.com
 ulkjxmnzxopr32rx.cfd
 uluslararasibelge.com
 umarotoklimatamir.duckdns.org
+umndfn89343.click
 umre-basvurukatilimi.vercel.app
 umrfrstlsmdi.click
 un98exb3k22azr3z7c.sbs
@@ -14012,7 +14019,6 @@ yatirimhedef.com
 yattaras.click
 yawrohta3ti.shareyourhtml.com
 yaz.firsatlari.kacirma.hizmetlersqwrhizmetls.click
-yaz.firsatlari.kacirma.varparlakahmtkslwlf.click
 yazaozelsizlerleyiz.com
 yazfirsatgunlerinde.sbs
 yazfirsatlaribizden.my-homeip.de

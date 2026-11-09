@@ -259,6 +259,7 @@
 3z4.xyz
 3zz844.site
 4.ddns.me
+403-forbidden.icu
 403-forbidden.sbs
 429472ae25.nxcli.io
 453546545434.sbs
@@ -910,6 +911,7 @@ buyukbabacan.net
 buzzlancing.com
 bva-promotion.sbs
 bvc3456.site
+bvjrebvad.giize.com
 bvva-application.sbs
 bvvbfgvb.click
 byedubaicenter.duckdns.org
@@ -1623,6 +1625,8 @@ fhdgfdgdfg.shop
 file.archat.us
 file.dgjm.online
 filemmarket.xyz
+filemobil.com.tr
+filodendie.giize.com
 fin-zen-ai.com
 financialmatcher.com
 finansbankasi-eqnbsube.ph
@@ -1729,7 +1733,6 @@ garanti-finansal-danismanlik.cloud
 garanti-finansal-destek.cloud
 garanti-hesap-uzmani.cloud
 garanti-imkredi.vercel.app
-garanti-kredi-firsati.cloud
 garanti-nakit-destek.cloud
 garanti-nakit-hizmeti.click
 garanti-nakit-hizmeti.cloud
@@ -2104,9 +2107,7 @@ hgsbayieyukmelmefs.art
 hgsdolumbayniz.art
 hgsgecisbakyniz.web.app
 hgsodeme.vercel.app
-hhizli-gecis-bakiye-yukleme26.web.app
 hhizli-gecis-bakiye-yukleme269.web.app
-hhizli-gecis-bakiye-yukleme27.web.app
 hhizli-gecis-bakiye-yukleme270.web.app
 hhizli-gecis-bakiye-yukleme271.web.app
 hhizli-gecis-bakiye-yukleme2710.web.app
@@ -2121,9 +2122,7 @@ hhizli-gecis-bakiye-yukleme273tr.web.app
 hhizli-gecis-bakiye-yukleme281.web.app
 hhizli-gecis-bakiye-yukleme282.web.app
 hicetnihil.top
-hiizli-gecis-bakiye-yukleme26.web.app
 hiizli-gecis-bakiye-yukleme269.web.app
-hiizli-gecis-bakiye-yukleme27.web.app
 hiizli-gecis-bakiye-yukleme270.web.app
 hiizli-gecis-bakiye-yukleme271.web.app
 hiizli-gecis-bakiye-yukleme2710.web.app
@@ -2148,13 +2147,11 @@ hizlcayklemesgla-hgr.netlify.app
 hizlgecisiniziyukleyn.art
 hizlgecisistembakiyesi.web.app
 hizli-garanti-kredi.cloud
-hizli-gecis-baakiye-yukleme26.web.app
 hizli-gecis-baakiye-yukleme269.web.app
 hizli-gecis-baakiye-yukleme2691.web.app
 hizli-gecis-baakiye-yukleme2692.web.app
 hizli-gecis-baakiye-yukleme2693.web.app
 hizli-gecis-baakiye-yukleme269tr.web.app
-hizli-gecis-baakiye-yukleme27.web.app
 hizli-gecis-baakiye-yukleme270.web.app
 hizli-gecis-baakiye-yukleme2710.web.app
 hizli-gecis-baakiye-yukleme272.web.app
@@ -2166,13 +2163,6 @@ hizli-gecis-baakiye-yukleme27342.web.app
 hizli-gecis-baakiye-yukleme273tr.web.app
 hizli-gecis-baakiye-yukleme281.web.app
 hizli-gecis-baakiye-yukleme282.web.app
-hizli-gecis-bakiye-yukleme251.web.app
-hizli-gecis-bakiye-yukleme252.web.app
-hizli-gecis-bakiye-yukleme253.web.app
-hizli-gecis-bakiye-yukleme25tr.web.app
-hizli-gecis-bakiye-yukleme261.web.app
-hizli-gecis-bakiye-yukleme262.web.app
-hizli-gecis-bakiye-yukleme263.web.app
 hizli-gecis-bakiye-yukleme265.web.app
 hizli-gecis-bakiye-yukleme266.web.app
 hizli-gecis-bakiye-yukleme267.web.app
@@ -2182,15 +2172,12 @@ hizli-gecis-bakiye-yukleme2692.web.app
 hizli-gecis-bakiye-yukleme2693.web.app
 hizli-gecis-bakiye-yukleme269can.web.app
 hizli-gecis-bakiye-yukleme269tr.web.app
-hizli-gecis-bakiye-yukleme26can.web.app
-hizli-gecis-bakiye-yukleme26tr.web.app
 hizli-gecis-bakiye-yukleme270.web.app
 hizli-gecis-bakiye-yukleme2701.web.app
 hizli-gecis-bakiye-yukleme2702.web.app
 hizli-gecis-bakiye-yukleme2703.web.app
 hizli-gecis-bakiye-yukleme270can.web.app
 hizli-gecis-bakiye-yukleme270tr.web.app
-hizli-gecis-bakiye-yukleme271.web.app
 hizli-gecis-bakiye-yukleme2710.web.app
 hizli-gecis-bakiye-yukleme27101.web.app
 hizli-gecis-bakiye-yukleme27102.web.app
@@ -2202,13 +2189,11 @@ hizli-gecis-bakiye-yukleme2712.web.app
 hizli-gecis-bakiye-yukleme2713.web.app
 hizli-gecis-bakiye-yukleme271can.web.app
 hizli-gecis-bakiye-yukleme271tr.web.app
-hizli-gecis-bakiye-yukleme272.web.app
 hizli-gecis-bakiye-yukleme2721.web.app
 hizli-gecis-bakiye-yukleme2722.web.app
 hizli-gecis-bakiye-yukleme2723.web.app
 hizli-gecis-bakiye-yukleme272can.web.app
 hizli-gecis-bakiye-yukleme272tr.web.app
-hizli-gecis-bakiye-yukleme273.web.app
 hizli-gecis-bakiye-yukleme2731.web.app
 hizli-gecis-bakiye-yukleme2732.web.app
 hizli-gecis-bakiye-yukleme27321.web.app
@@ -2269,8 +2254,6 @@ hizli-gecis-bakiye-yukleme276.web.app
 hizli-gecis-bakiye-yukleme277.web.app
 hizli-gecis-bakiye-yukleme278.web.app
 hizli-gecis-bakiye-yukleme279.web.app
-hizli-gecis-bakiye-yukleme27can.web.app
-hizli-gecis-bakiye-yukleme27tr.web.app
 hizli-gecis-bakiye-yukleme280.web.app
 hizli-gecis-bakiye-yukleme2801.web.app
 hizli-gecis-bakiye-yukleme2802.web.app
@@ -2289,15 +2272,6 @@ hizli-gecis-bakiye-yukleme2823.web.app
 hizli-gecis-bakiye-yukleme282can.web.app
 hizli-gecis-bakiye-yukleme282tr.web.app
 hizli-gecis-bakiye-yukleme29.web.app
-hizli-gecis-bakiye-yukleme30.web.app
-hizli-gecis-bakiye-yukleme31.web.app
-hizli-gecis-bakiye-yukleme32.web.app
-hizli-gecis-bakiye-yukleme33.web.app
-hizli-gecis-bakiye-yukleme34.web.app
-hizli-gecis-bakiye-yukleme35.web.app
-hizli-gecis-bakiye-yukleme36.web.app
-hizli-gecis-bakiye-yukleme37.web.app
-hizli-gecis-bakiye-yukleme38.web.app
 hizlianlikserilkampanyalarimburada.xyz
 hizlibasvuru.online
 hizlicicekci.org
@@ -2608,6 +2582,7 @@ kalakaldimdyorbirbasisma.sbs
 kalbimdesaklibirisin.xyz
 kalemmonst.duckdns.org
 kalskemnsner.duckdns.org
+kameran5554.duckdns.org
 kampanya-pro-cepteteb.my-homeip.de
 kampanya101.click
 kampanyafirstlair.sbs
@@ -2769,9 +2744,6 @@ kuzeymenkulgroup.com
 kuzeyportfoytr.com
 kvytfirsatpromosyonlari.ooguy.com
 kykdosyamisorgula.com
-kykdosyasorgulama.com
-kykdosyasorgulama.net
-kykdosyasorgulama.org
 kyvaronedge82.com
 kyywl.com
 kzeytrade.com
@@ -3138,6 +3110,7 @@ mrhsmhrmsmaxa.duckdns.org
 mrhsmxlsmlcm.duckdns.org
 mrsrndvuhzlial.top
 ms-system-check.top
+msdsad.duckdns.org
 msedge-api-cdp-microsoft.serveftp.com
 mshrhizlislemler.online
 msoaq.buzz
@@ -3874,6 +3847,7 @@ sokcepte-kampxny.com
 sokmarketik.com
 sokmarketlerin.com
 sokmarketodemesayfasi.sbs
+sokmarletin.com
 soksoksok.com.tr
 solar-cloud-branch.pages.dev
 solkmalrkeler.sualtihizleri.shop
@@ -4021,6 +3995,7 @@ takvimlerrek.sbs
 talpa-basvuru.vercel.app
 taplrksd.web.app
 tarimkoop.app
+tarimkooperatif-market.blogdns.com
 tarimkoopmarket.sbs
 tarimkoperatfmarketonlinee.blogspot.com
 tarimkopmarketonline.blogdns.com
@@ -4141,6 +4116,7 @@ tms.szbboys.com
 tnvnchfc.click
 togg-e.com
 togg-finansman.com
+togg-tr.com
 togg-turk.com
 togg-turkiye.com
 togg.bar
@@ -4155,6 +4131,7 @@ toggkampanya.com
 toggmobilite.autos
 toggmobilite.com
 toggreserve.com
+toggresmitr.com
 toggrezerv.com
 toggrezervasyon.com
 toggtrumore.autos
@@ -4296,6 +4273,7 @@ ulker-eidgift.com
 ulkerbayramhediye.com
 ulkerbayramkampanya.com
 ulkerfestive.com
+umndfn89343.click
 umre-basvurukatilimi.vercel.app
 unimarc-gifts.com
 unisalesemina.giize.com
