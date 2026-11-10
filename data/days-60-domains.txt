@@ -900,7 +900,6 @@ account-sync-data.com
 accounts-bvets-au.cncsinks.com
 accounts-cgi.lvborses.net
 accounts-google-signin.duckdns.org
-accounts-mail-google.com
 accounts.natrlyi.com
 acelepay.cfd
 acfpdorg.securemailencryptit.com
@@ -1099,7 +1098,6 @@ alpha.diyanetisleribakanligi.vercel.app
 alphapro-zyx.lovable.app
 alsverlsiegdici.lol
 alsvonli.click
-alternatifbank.online
 alternatifbankkredi.com
 alternatifbankkredisorgu.com
 alternatifkredisorgunuz.world
@@ -1983,7 +1981,6 @@ carrefoursafirsatlariniz991.duckdns.org
 carrefuorsa.sbs
 cartierrrr.duckdns.org
 cartoonmines.com
-carts-tr.online
 casasbella.org
 cash-revenue.xyz
 cashappewallet.com
@@ -2466,7 +2463,6 @@ dokunurcrm.duckdns.org
 dolap.ile-sepet-islemler.com.tr
 dolunaypin.com
 domain-server-ms.securitytactics.com
-domainlify.net
 domannawlmyrmrr.duckdns.org
 domdomomoo.duckdns.org
 domuzkurtboz.duckdns.org
@@ -4395,7 +4391,6 @@ homeofexcellentproducts.org
 homeyesholes.duckdns.org
 homkoqar.duckdns.org
 honemkslerkter.duckdns.org
-horizon-frankfurt-pharmacology-charleston.trycloudflare.com
 hosemenstkers.duckdns.org
 hosgeldinizhosgeldiniz.sbs
 host.portaromanahouse.it
@@ -4604,7 +4599,6 @@ infofinansmenkultr.online
 infomankul.com
 infomenkuldegerler.com
 infomenkuldegerler.net
-infomenkulyatirim.com
 inform.zapto.org
 informehoy.live
 infostreamzo.com
@@ -5041,7 +5035,6 @@ kkmnsks.shop
 kkmsorgulamaislemleri.web.app
 kknbabeex.shop
 kktcedevlet.console.icont.ai
-klasmansmcs.click
 kleenghjah.com
 klehrera.duckdns.org
 klemnfe.shop
@@ -5348,7 +5341,6 @@ login-diplomaticportal.global-mfa.org
 login.aselsan-global.com
 login.e-disisleri.com
 login.mfa-diplomatic.com
-login10matik.shop
 login4matik.shop
 loginfacebook-lockedsecure.ph
 logins-offcevents.icu
@@ -5449,7 +5441,6 @@ malivezneformu.org
 maliye-apple.ph
 maliye-deutschebank.ph
 maliye.online
-maliyearastirma.com
 maliyebildirim.com
 maliyebilgi.net
 maliyebirim.net
@@ -5757,8 +5748,6 @@ mhsssraa.cfd
 mhsssraa.rest
 mhsssraa.sbs
 mhsssras.sbs
-mhsssrassb.live
-mhsssrassc.live
 mhsssrassd.live
 miboykr.xyz
 microsoft-cache.com
@@ -6065,7 +6054,6 @@ nopanel-366213.top
 nopanel-37472.top
 nopanel-463125.top
 nopanel-466335.top
-nopanel-66235.top
 nopanel-92562.top
 noriquellc.com
 norlume.org
@@ -6392,9 +6380,7 @@ otaupdate.szbboys.com
 otoavs.com
 otoavsfilo.com
 otokocarackirala.net
-otokocfilootomotiv.com
 otokockirolama.com
-otokocotomobil.com
 otokocrental.net
 otokocrentcars.net
 otokocturkey.org
@@ -7268,7 +7254,6 @@ sekeryatirimportfoy.com
 sekuyo-mahopilur.lol
 sel6bu6eft06.primevoria.com
 selamherkese.duckdns.org
-selectumresorts.net
 selectumresortshotels.net
 selgeresortbeachside.com
 selgesidebeachhotel.com
@@ -7317,7 +7302,6 @@ serkandanismanlik.sbs
 serv.oss-cn-hongkong.aliyuncs.com
 server.activeworkshops.com
 servetsayar.top
-service-nowinc.com
 serviceupdate.dynns.com
 servisepetin-10.sbs
 servisepetin-15.sbs
@@ -7454,7 +7438,6 @@ smartoffer.lol
 smartsyncbox.com
 smartviewdevices.com
 smdialrndvual.cfd
-smdihgsykleme.cfd
 smdsndehmnbsvr.click
 snbrdanalcnbselyer.lat
 snbrdanmrhsrvdal.lol
@@ -7652,7 +7635,6 @@ sponsorlu-reklamlar.online
 sponsorlu-reklamlari.online
 sponsorlubasvuru.online
 sponsorlucekilisi.online
-sponsorlucekilisler.online
 sponsorluetkinlik.online
 sponsorlufirsat.online
 sponsorlugun.online
@@ -8453,7 +8435,6 @@ vestelkurumsal.com
 veterete-sedertete.lol
 veyramarketcollective.com
 veznedarodemeislemleri.com
-veznedarvergiformu.com
 vfdabaed.giize.com
 vfsglobalturkey.com
 vfsrandevu.net
@@ -8943,7 +8924,6 @@ yerkalenec.lol
 yeteneksizaze.duckdns.org
 yetkisiz-qnbfinansbank.ph
 yfportfoy.org
-yfyatirimgiris.com
 yfyatirimgiris.online
 yglasan.world
 yhnbgh.click
