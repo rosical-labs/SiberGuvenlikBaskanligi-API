@@ -406,10 +406,6 @@
 133213345665578555989899092.duckdns.org
 133213345665578555989899093.duckdns.org
 133749342.xyz
-13395003853321.duckdns.org
-1339500385355.duckdns.org
-13395003853566003.duckdns.org
-13395003853fark.duckdns.org
 142221111221154455589893.xyz
 146971.xyz
 1477852kmnpnyaaprmsynnbasvrrr.click
@@ -699,7 +695,6 @@
 88dhabr9s.com
 891244.xyz
 89339912834.sbs
-894561235864132.sbs
 8945646489.sbs
 8952142.sbs
 89856974prmsynnlmkmpnyaabasvur.pro
@@ -871,6 +866,7 @@ a101kasimda.com
 a101market.netlify.app
 a101marketing.duckdns.org
 a101onlines.com
+a101perekende.duckdns.org
 a101pro.shop
 a101reklam.com
 a101stanleyfirsatlaraktifekimayinda.duckdns.org
@@ -898,7 +894,6 @@ abetokyo.ccwu.cc
 abmrandevusistemi.com.tr
 abn3l8febkskxmce0tat6ide.store
 abuzbiirharcabitmez.duckdns.org
-ac-arla.myonlineportal.ch
 acayioynamazgencler.duckdns.org
 access-gate-knssk.b-cdn.net
 account-sync-data.com
@@ -911,7 +906,6 @@ acelepay.cfd
 acfpdorg.securemailencryptit.com
 acik-deniz-online.my-homeip.de
 acmlawoffice.nngresearch.com
-ad-g.org
 ad.starx-net.com
 adaletgib.org
 adamscountycogov.securemailencryptit.com
@@ -928,7 +922,6 @@ adeccohr-jobs.com
 adembademyemisniyebizegetirmemis.duckdns.org
 adenpanel.world
 adenpanel.xyz
-adfsdfasf.duckdns.org
 adfsfdsfa.duckdns.org
 adilemlakgayrimenkul.org
 adipsyagrufe.shop
@@ -1011,6 +1004,8 @@ akakakakak.duckdns.org
 akaryakithesaplama.com
 akbank-aivisibility.lovable.app
 akbank-data.pages.dev
+akbank-tr.live
+akbank-tr.pro
 akbankdirectonlineislemler.ph
 akbankdiretk.ph
 akbankinvesthub.net
@@ -1062,6 +1057,7 @@ aldinaldinbugunozeldir.com
 aldinaldinfirsatkapindaextrabasladi.sbs
 aldinaldinkapinda.sbs
 aldinaldinredmicilergeliyorburdan.cfd
+aldinkatkat.duckdns.org
 alejandroyu.org
 alfa30.giize.com
 alfdc.szfeisi.com
@@ -1182,7 +1178,6 @@ apexfdn.xyz
 api.baykar-investmentopportunity-com.topmarketingoffer.com
 api.baykardevletprogrami-com.topmarketingoffer.com
 api.dgjm.online
-api.stuseamandesilt.org
 api.telephoneip.net
 api.truesmart.org
 apilohiguferevilo.club
@@ -1203,7 +1198,6 @@ apslmonest.duckdns.org
 apswpdpawepwpe.sbs
 apt-alna-aoriy.myonlineportal.ch
 ar-as-m.myonlineportal.ch
-ar-safar.myonlineportal.ch
 ara-asa-atk.my-homeip.de
 araba-cekilisim.link
 arabacekilis.link
@@ -1304,8 +1298,6 @@ archat.us
 archivosdigitalescol.myonlineportal.ch
 arcmuaynerrandevudcs.com
 argea-ai.org
-ari-chain.com
-arichain.network
 aro-ang-aol.myonlineportal.ch
 aror-al-anmy.myonlineportal.ch
 aroraarabasatis.com
@@ -1331,6 +1323,7 @@ arzumhdson.com
 arzumindrimszznlex.com
 arzumndrtwtma.com
 arzumnstwneinle.com
+arzumnwtwinddr.com
 arzumsseninlew.com
 arzumsstwtw.com
 arzumtwtw63.com
@@ -1430,7 +1423,6 @@ attacker-collector.com
 attgenius.com
 au.lpa1.star-boostmedia.com
 aupporte.com
-auth-unmu.myonlineportal.ch
 auth-update-check.myddns.me
 autheti.com
 autogoarackiralama.com
@@ -1495,8 +1487,7 @@ avskurumsalkirala.com
 avsotokiralama.net
 avtu-aoly.myonlineportal.ch
 awdwsiskooadasd.xyz
-aws-us-east-3.com
-awstore.cloud
+awovvlink.cloud
 awxu1nls82f9daf0id51.com
 axmonest.duckdns.org
 axumvoices.org
@@ -1538,6 +1529,7 @@ bakiyelerdetayli.lol
 bakkaldennoo.linkpc.net
 balbolma.duckdns.org
 banabaklan.lol
+banabatcak.lol
 banabatcaka.lol
 banabatcakal.lol
 banabatcakala.lol
@@ -1560,7 +1552,6 @@ basvr-time2.top
 basvrrkmpnya12372138.info
 basvrrkmpnya12372138.pro
 basvrrkmpnyaasonnnfrstlarrr.info
-basvrrkmpnyaasonnnfrstlarrr.pro
 basvrrkmpnyaprmsynn.info
 basvrrkmpnyaprmsynn.pro
 basvrrrkmpnyaasda13105439.online
@@ -1607,10 +1598,11 @@ basvurutokievler.com
 basvuruyeri.biz
 basvvurrkmnpyaprmsyn3189.info
 basvvurrkmnpyaprmsyn3189.pro
-baybaybebek.duckdns.org
 bayi-bakiyeler.lol
+baykar-devlet-destekli-projesi.online
 baykar-devlet-destekli-projesi.sbs
 baykar-devlet-programi.net
+baykar-tr.pro
 baykar-tr.sbs
 baykar.click
 baykar.online
@@ -1658,6 +1650,7 @@ bedotiq.net
 beebbebe.duckdns.org
 beginislem.22web.org
 bekleyenvarislar.com
+bekleyiniz34455656.blogspot.com
 bekosepeti.com
 belgedogrulama.e-turkiye-gov.com.ua
 beli7774.site
@@ -1771,7 +1764,6 @@ bisse.live
 bissell-turkiye.com
 bistress.sbs
 bitget-passive-income.com
-bitmart-mystery.com
 bitmekbitmezsenben.sbs
 bitmkblmeynuzunbiyol.sbs
 biz-kenetfree.com
@@ -1861,6 +1853,7 @@ brdanbrdansnkzzz.duckdns.org
 brdanrvdalsnsmdi182.lol
 brdnrvalcnsnrabn.lol
 brhfs.buzz
+bricela.com
 bride.bridgersrl.it
 brightaccess.top
 brightcornerlab.online
@@ -2034,7 +2027,6 @@ cdn.gotoiphone.com
 cdn.js-static.com
 cdn.netlfjs.com
 cdn.sendibt1.com
-cdn.stuseamandesilt.org
 cdn10.sendibt1.com
 cdn11.sendibt1.com
 cdn2.sendibt1.com
@@ -2124,8 +2116,8 @@ cezadosyabilgi.com
 cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -2153,7 +2145,6 @@ cgwinclub.com
 cgwinplay.com
 cgwinvip.com
 chainvex.cam
-chamber-ua.org
 chaomoinguoi.duckdns.org
 chatgpt-advertise.com
 chatgpt-advertisement.com
@@ -2163,7 +2154,6 @@ chatgpt-briefing.com
 chatgpt-monday-brief.com
 chatgptadsback-production.up.railway.app
 chatgptadsback.onrender.com
-chathamhouse.eu
 chatlgpt.com
 cheapzone.space
 cheaterix.online
@@ -2339,7 +2329,6 @@ debian-update-system.servehttp.com
 debonairroast.com
 decserve.top
 deepveindrilling.com
-defi-claim.xyz
 defimoxx.top
 definatelynoone.com
 degalerdasndalw.duckdns.org
@@ -2460,7 +2449,6 @@ doadis.com
 doaodeme.com
 dobeqnesmot.cc
 dochead.top
-docs-viewer.org
 docs-xecure.ftwestseattle.com
 docsend.appstore.com.mx
 docshare.kecifang.net
@@ -2569,6 +2557,7 @@ e-sbm.org
 e-sepetalisveris.sbs
 e-servisler10.sbs
 e-sozlesme.online
+e-sozlesmem.com
 e-store-tr.online
 e-sube.hedefborsa.com
 e-yatirimci.com
@@ -2756,6 +2745,7 @@ ekle-tr.online
 eklmayiburadaozel.com
 ekolabrecycling.ddns.net
 ekonomi-teb.my-homeip.de
+ekonomik-teb.my-homeip.de
 ekontrolceza.org
 ekontroldava.org
 ekosova.gov-eg.my.id
@@ -2781,7 +2771,6 @@ elpulsopopular.com
 elriaplay.com
 elvarion.blog
 emails-tr.com
-emailsecure.email
 emakbapaklugimanasehat.my.id
 emaliasliye.com
 emalidosya.com
@@ -2890,7 +2879,6 @@ esube.osmnlportfoy.com
 esubedunya.com
 esubedunyamportfoy.com
 esubem.kuzeymenkultr.com
-esvfecawvjmchjslqyemho2fiduc59wzn.oast.fun
 etahkimceza.com
 etahkimgib.com
 etahkimuyap.com
@@ -3152,7 +3140,6 @@ facebookloginzonebr.com.ph
 facebookloginzonebu.com.ph
 facebookloginzonenz.com.ph
 faelthornebrook.com
-fafwatch.xyz
 fairpoint29.com
 fakedooomm.duckdns.org
 fangtray.com
@@ -3166,11 +3153,13 @@ faxtronics.com
 fb-form.pages.dev
 fb36660.site
 fbfnsdhcn.click
+fbnsdjdskjfs.shop
 fbvbv565656.click
 fd2sde33d3.com
 fdjskfsdjkfs.com
 fdsafasdcadf.duckdns.org
 fdsdgrixj.uk.cc
+fdsfdsfsfsf.shop
 fdsjfksdjfsdf.com
 fdsjkjsdfsd.shop
 fdsmfndsfnsd.shop
@@ -3282,6 +3271,7 @@ flyntora.com
 fmfis-sharepoint-fallsmetal.cncsinks.com
 fmvncjdljs.shop
 fncymdjsyr.shop
+fnmvlfgmlgmv90040.shop
 fnvbcndcx.shop
 fnvbcndjs.click
 fnvbcndjs.shop
@@ -3307,8 +3297,6 @@ freedata-giveaway.com
 freesas.info
 freladsnadw.duckdns.org
 freshkinu.com
-frntrs-analytics-863060591218.europe-west1.run.app
-frntrs-analytics.dedyn.io
 frsmvndjslsk.shop
 frstbradasmdi.duckdns.org
 frstbrdaaa.shop
@@ -3430,6 +3418,7 @@ garantifirsatpuanlar.ph
 garantihizlifinans.cloud
 garantihizlinakit.cloud
 garantikolaydestek.cloud
+garantikolayfinans.cloud
 garantikrediara.cloud
 garantikredibasvuruyap.vercel.app
 garantikrediler.cloud
@@ -3578,7 +3567,6 @@ glowpixelinnovations.com
 glsgroupvip.cfd
 gnbmngjk564.click
 gncl-sglk.cfd
-gnclhgsyklmelr.cfd
 gnclsglkrhber.cfd
 gndr.ink
 gnvbfhnbs.shop
@@ -3620,6 +3608,7 @@ gotoaf.xyz
 gov-tr.cam
 gov-tr.cfd
 gov-tr.sbs
+gov.online
 gov.zapto.org
 govegm.my.id
 gozderestaurant.sbs
@@ -3657,6 +3646,7 @@ gratis.tabacoschile.com
 gratis.terminuscs.com
 gratis.viahelper.com
 gratis.youradbyus.com
+gratistebugun.com
 greenandverified.site
 grenight.com
 grfine.cfd
@@ -3722,6 +3712,7 @@ guzel-certificateidcheck472984-servis.foxis.it
 guzelkizlarllal.duckdns.org
 gvncmdjslas.shop
 gvndyc.shop
+gvnfkvnmcjk34903.shop
 gvnliodeme.com
 gw162.online
 gwslink.cloud
@@ -3732,6 +3723,7 @@ h-hzlirnv.cfd
 h-rndal.cfd
 h-saglkrhb.cfd
 h3eseh8h7476hhhh.ipv64.de
+h3h4h7hhhh63hshh.mywire.org
 h3hpslehws4.kozow.com
 h533s7256445e35l.eth64.de
 h7h634s5h3le9362.home64.de
@@ -3774,6 +3766,7 @@ haberler125423.sbs
 haberler12564.sbs
 haberler12628.sbs
 haberler12644.sbs
+haberler1267728.sbs
 haberler1269315.sbs
 haberler1327234.sbs
 haberler1327634.sbs
@@ -3897,6 +3890,7 @@ haz.sualtihizleri.shop
 hazallisubesindeyiza.duckdns.org
 hazallisubesindeyz.duckdns.org
 hazallisubesindyiz.duckdns.org
+hazinebakanligisonadres.shop
 hazinedosya.com
 hazinedosya.org
 hazineonline.site
@@ -3944,7 +3938,6 @@ hemenapaortal.lol
 hemenbakiyem.lol
 hemenfirsatlarikacirmadanhizlicadavran.info
 hemenfirsatlarikacirmadanhizlicadavran.site
-hemengor.online
 hemenislemlerm.lol
 hemenislmnktasia.net
 hemenkap.online
@@ -3989,6 +3982,7 @@ hesapta-tr.online
 hexnoxpr.world
 heyhru.com
 hflx64mniw165hv3s1.com
+hfnvmfvkjmv38292.click
 hftanin101firsati.duckdns.org
 hftbrdasmd.click
 hftlnin1o1frlstlari.duckdns.org
@@ -4334,7 +4328,6 @@ hizmetiaesorgu.site
 hizmetimizaktiftaklaci.myshopify.com
 hizmetimizcalisiyor.com
 hizmetinizdeyiz9.sbs
-hizmetler.basvurular.archsbrown.click
 hizmetler.sinirsiz.bizde.gokdelenmavisi.click
 hizmetler.sizler.icin.meviyelerimizde.click
 hizmetlerim.click
@@ -4782,7 +4775,6 @@ it4you-garantibbva.ph
 itadmin922.onmicrosoft.com
 itcoreportal.onmicrosoft.com
 itdeskassist.com
-itechx.tel
 itencrypted.co
 itencrypted.com
 itendpoint365.onmicrosoft.com
@@ -4812,6 +4804,7 @@ jambojournal.org
 jansportturkiyeoff.com
 jdfsakdkasd.shop
 jdksnfjksdfjnsk.shop
+jdnsfkdjfndskfsdf.shop
 jdsfjsfksdfs.shop
 jeqoal.xyz
 jerycrm.net
@@ -4833,6 +4826,7 @@ jirupe-kasomelit.lol
 jiwifobul.world
 jkjmnyyu677.click
 jmlh.morelessty.com
+jnakfsdsadsada.shop
 jnkdsnfkdsfjks.com
 jobmarcher.com
 jobnovax.com
@@ -5037,6 +5031,7 @@ kittensmp.com
 kittyscrafts.com
 kivirmasi.online
 kiwebif2403.sbs
+kjkgmvlmlm3431.shop
 kkdldsnfds.shop
 kkeyyou.cc
 kkfkkdkag.com
@@ -5134,6 +5129,7 @@ kmsrogulamahizmetinizz.web.app
 kmzsgsmdiza.web.app
 koadsfced.giize.com
 kocholding.group
+kocholding.live
 kocholding.world
 kocholdng-turkishairlines.info
 kocholdng-turkishairlines.live
@@ -5334,7 +5330,6 @@ lndirimler-enlylrerden.com
 lndirimtakipcilerindentt.com
 lndirimttakpctst.com
 lndlrllmkaplndaa.com
-lndlrlmkaplndaa.com
 lnktab.net
 lnktans.net
 lnlenktaknans.net
@@ -5584,13 +5579,13 @@ menkuldegerleroyak.com
 menkulkiymetlerosmanli.com
 menkulvcuzdan.com
 mensweariuunners.info
-meridian-protocol.org
-meridiangroup-corp.com
 meridizo.com
 meritbetcasinogiris.icu
 meritbetgirisguncel.icu
 meritbetguncelcasino.icu
 meritbethizligiris.icu
+merkez-bankasi.info
+merkez-bankasi.live
 merkez-hekim.lol
 merkezbankasi-ai.com
 merkezbolgesi.com
@@ -5624,7 +5619,6 @@ metareklamlari.cyou
 metareklamlari.sbs
 metareklamoffline.sbs
 metareklamonline.sbs
-metricwave.org
 mexico-cashpay-test.s3.dualstack.mx-central-1.amazonaws.com
 meydancicekci.com
 meyve-soyca.shop
@@ -5763,7 +5757,6 @@ mhsssraa.cfd
 mhsssraa.rest
 mhsssraa.sbs
 mhsssras.sbs
-mhsssrassa.live
 mhsssrassb.live
 mhsssrassc.live
 mhsssrassd.live
@@ -5847,7 +5840,6 @@ motivatedhip.com
 motormotif.com
 motunovo.com
 moweros.net
-mozilla.ws
 mozvento.com
 mqwmqtq.blogspot.com
 mrhlrsmsmcm.com
@@ -5865,7 +5857,6 @@ msdsad.duckdns.org
 msedge-api-cdp-microsoft.serveftp.com
 msfile.online
 mshrhizlislemler.online
-mslivetest.duckdns.org
 msoaq.buzz
 msws-updates.ddns.me
 msxf.info
@@ -5903,11 +5894,8 @@ muzekultur.com
 muzeleregiris.com
 muzeyegidisler.com
 muzeyerlerim.com
-my-invite.org
 mydirect.space
 myfavoriteprintercom.securemailencryptit.com
-mygreatmarket.com
-mygreatmarket.org
 myheabmkatlsende58.info
 myhomequote.xyz
 mynearczamni.cfd
@@ -6017,6 +6005,7 @@ njdafbhfbwehjasjkg.duckdns.org
 njfdfnjsdfjnkdsnfjsfkj.shop
 njkfsdsndfjnsjfkskj.shop
 njkjkgjksdkjgksj.duckdns.org
+njksndkasndsas.shop
 nknnnnkk.duckdns.org
 nlatknakakakl.net
 nlkkknlnklklnxx.duckdns.org
@@ -6312,7 +6301,6 @@ oltakneriz.duckdns.org
 omegasicurezzas.com
 omerfarukgun57.xyz
 omurluksorgupaneli.click
-on-pssword.com
 onassets.online
 onay-mobilden111.com
 onayda-sepet-7182.com
@@ -6555,7 +6543,6 @@ pazarama.siparis-kapinda.com
 pazarama.siparishizi.com
 pazarama.sizin-sepetleriniz.com.tr
 pcsdkflyer.ca
-pdfviewer2024.b-cdn.net
 pekincicek.com
 pelinkanaykl.giize.com
 pelvingundeliksa.giize.com
@@ -6602,7 +6589,6 @@ pocolink.com
 pohugufe-deresede.lol
 pol.star-boostmedia.com
 polami-nutegax.lol
-policenationale.cc
 polihigidere-sederete.lol
 polihipoluhuguferese.club
 polijihiedere-refereteye.lol
@@ -6642,11 +6628,9 @@ prmsynnnkmpnyaaabsvrr874511.pro
 prmsynnnkmpnyaabasvrrr147852.pro
 pro-cepteteb.my-homeip.de
 pro.taustas.com
-prod-artfkt.com
 profitlyatt.com
 programupdate-assis.top
 projectcontrolgroup.co
-projectnightcrawler.dev
 promos-cepteteb.my-homeip.de
 promosyon-cepteteb-com-tr.my-homeip.de
 promosyon-isbanka.xyz
@@ -6984,8 +6968,6 @@ ruhsuzsistem1.click
 ruhzy.top
 rujhr1rzu84nny91cs.info
 russ12222.site
-russianearabroad.com
-russianearabroad.org
 russianway.info
 ruten.observer
 ruthlessosint.byethost12.com
@@ -7015,6 +6997,7 @@ s32ee43hh7h87h62.lan64.de
 s3rehnhlles3d8n.iot64.de
 s4kyn.com
 s536hh7e95253434.opik.net
+sabanc-holding.sbs
 sabitgilni2026.com
 sadasd123asd.duckdns.org
 sadcxdfdf.click
@@ -7244,7 +7227,6 @@ sariyerharbiilili-53757851f232.herokuapp.com
 sasirilmayacakgibidegil.sbs
 savcilikevrak.org
 sazan.city
-sbseatw.sbs
 scan-updseq.top
 scantechinnovations.com
 scdlcerkl3x1l2xc43x2.cyou
@@ -7335,7 +7317,6 @@ serkandanismanlik.sbs
 serv.oss-cn-hongkong.aliyuncs.com
 server.activeworkshops.com
 servetsayar.top
-service-infos.info
 service-nowinc.com
 serviceupdate.dynns.com
 servisepetin-10.sbs
@@ -7387,10 +7368,10 @@ shops-trendtr.online
 shopsal.online
 shopta-tr.online
 shps-cep.online
+siberciyiz.xyz
 sibonex.com
 siestaday.cfd
 signalpane.cfd
-signin-1psswoord.com
 silkhavenkaiellc.com
 silverbullet.icu
 simdibenianliyormusun.sbs
@@ -7567,9 +7548,6 @@ soonnnfrstlarrrkmnpyaasii948171.info
 soonnnnnfrstlarrrkmnasdnpyaasii253669874.info
 soonnnnnfrstlarrrkmnasdnpyaasii741258963.info
 soonnnnnfrstlarrrkmnasdnpyaasii94412138171.info
-soraki-proxy.20245aad98d27b1b1a2f0f103e1d7ee0.workers.dev
-soraki.cc
-soraki.work
 sorgu1.site
 sorgu3131.click
 sorgu3169.site
@@ -7662,7 +7640,6 @@ sponsorlu--reklamlar.online
 sponsorlu--reklamlari.online
 sponsorlu-ads.online
 sponsorlu-etkinlik.online
-sponsorlu-firsat.online
 sponsorlu-firsatlar.online
 sponsorlu-reklam-cekilis.online
 sponsorlu-reklam-cekilisi.online
@@ -7675,7 +7652,6 @@ sponsorlu-reklamlar.online
 sponsorlu-reklamlari.online
 sponsorlubasvuru.online
 sponsorlucekilisi.online
-sponsorlucekilisim.online
 sponsorlucekilisler.online
 sponsorluetkinlik.online
 sponsorlufirsat.online
@@ -7684,7 +7660,6 @@ sponsorlukrehberi.online
 sponsorluorganizasyon.online
 sponsorlureklamlari.online
 sponsporlu-reklam-cekilisim.online
-spraygroundtr.com
 sptsptfrsatlar.xyz
 sputnk.com
 sqlglink.cloud
@@ -7709,9 +7684,7 @@ stark-meet.online
 stark-meet.website
 starrysmp.com
 static-js.com
-static-ms.live
 static.flux-telemetry.com
-statistic-ms.live
 stb12gms.anyevonline.com
 stellarko.com
 stepbreeze.com
@@ -7729,7 +7702,6 @@ stro7121.blob.core.windows.net
 strong-taiyaki-b6233a.netlify.app
 stryper.info
 stun.szbboys.com
-stuseamandesilt.org
 sub29929292.duckdns.org
 sube-garenti.my-homeip.de
 sube-hakbank.ph
@@ -7778,6 +7750,7 @@ swhllxdeselqh8w.dns64.de
 swiftcart.cyou
 swiftexecutor.online
 swiftplace.digital
+swiftzenry.com
 swiftzoxi.com
 swisstowerant.co
 swisstowerant.com
@@ -7810,7 +7783,6 @@ system-strategy.org
 systeminfo.dynns.com
 sysupdate.serveftp.com
 szfeisi.com
-szhpnzleotkbrda.lol
 szwhtl.com
 t-e-b-ayricaliklar.my-homeip.de
 t0kibsvuru.lol
@@ -7841,6 +7813,7 @@ taplrksd.web.app
 taprsdbursdksr.com
 tapu.ink
 tapu.my
+tapu.run
 tapu.surf
 tarim-kredi.com
 tarimbirlikmarket.com
@@ -7909,7 +7882,6 @@ tcrtuk.com
 tcvatandas.org
 tdfcvdcxs.click
 teams-cloud.live
-teams.ms365-live.com
 teb-ayrica.my-homeip.de
 teb-bank-promosyon-emekli.myonlineportal.ch
 teb-bankas-login.my-homeip.com
@@ -8061,6 +8033,7 @@ toegleon.com
 toetales.net
 togg-arac-finansmani.com
 togg-arac-finansmanlari.com
+togg-arac-kredileri.com
 togg-e.com
 togg-faizsizlimitlerim.com
 togg-finansman.com
@@ -8304,6 +8277,7 @@ tuvturk.adblickgranos.com
 tuvturk.co
 tuvturk.sbs
 tuvturk.sendreward.com
+tuvturkrandevu.ink
 tuvturkrandevumuayene.com
 tuvturkx.com
 tuwtukr.govt.hu
@@ -8348,7 +8322,6 @@ uhggsdgdsggdgshdsgdsusd.site
 uhugudere-redeteye.lol
 uhukalami.duckdns.org
 ukrainerada.top
-ukrinform-share.net
 ulker-eidgift.com
 ulkerbayramhediye.com
 ulkerbayramkampanya.com
@@ -8372,8 +8345,6 @@ upd-check-soft.top
 update-guest.com
 update-service-host.serveftp.com
 update-software.top
-update.stuseamandesilt.org
-updatebeacon.duckdns.org
 updated-hr-policy.cncsinks.com
 updatespotly.com
 updsysseq.top
@@ -8408,6 +8379,7 @@ uyapgovtr.com
 uyaphazine.com
 uyapvatandas.org
 uyguncep.online
+uyptmvfvfk34m32m.shop
 uyuzcangg.dpdns.org
 uz-whatsapp.com
 uz-y-group.com
@@ -8544,8 +8516,6 @@ vz7877s.site
 w122411-64886.portmap.host
 w2-binance.com
 w83lfokwwmqoyo0r.info
-wa-connect.eu
-wa-meeting.com
 waaako.appstore.com.mx
 wafsavar.xyz
 waitesguide.co
@@ -8568,7 +8538,6 @@ web-haberler-sayaclar.sbs
 web-online-alisveris.sbs
 web-online-kampanya.sbs
 web-online-siparis.sbs
-web-shop-tr.online
 web-siparis-kampanya.sbs
 web-siparis-olusturma.sbs
 web-siparis-online.sbs
@@ -8618,7 +8587,6 @@ wkw6z75qs25gdnzaq19nwa.org
 wlopt.com
 wmhlkfskdw.duckdns.org
 wmhmhrmhrmshshs.duckdns.org
-wmiliethu.live
 wmonestler.duckdns.org
 wollink.cloud
 wonderings.info
@@ -8838,7 +8806,6 @@ www-tbde-weby-cepte.myonlineportal.ch
 www-tbstatus-cpte.myonlineportal.ch
 www-tbstatus-cpteyiz.myonlineportal.ch
 www-tbte-cpte-nov.myonlineportal.ch
-www-teb-com-tr-basvuru-emekli-sayfasi.my-homeip.de
 www-teb-com-tr-emekli-firsatlari.myonlineportal.ch
 www-teb-com-tr-emekli-kampanya-firsatlari.myonlineportal.eu
 www-teb-com-tr-emeklilik-promosyonu.my-homeip.de
@@ -8904,6 +8871,7 @@ xn--teb-bankas-login-jqc.my-homeip.net
 xn--tebbankas-online-giri-sgd48h.my-homeip.com
 xn--tebbankas-online-iqc.my-homeip.de
 xn--toki-twc.com
+xn--vnfmvnf0349vcm-cgc.shop
 xn--yucuslar-skbb.shop
 xn--yucuslar182-yzbb.shop
 xsadcasyiwaiwai.top
@@ -9012,7 +8980,6 @@ yomestlerkest.duckdns.org
 yonelt.site
 yonelttir.live
 yonlen-buradan-sorgu.cyou
-yonlen.best
 yonlendi.space
 yonlendiring.space
 yons.ink
