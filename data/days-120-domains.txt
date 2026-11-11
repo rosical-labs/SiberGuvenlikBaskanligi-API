@@ -7847,7 +7847,6 @@ hgs-odeme-guncel-429014.vercel.app
 hgs-pttavmhgsyuklemenoktasi.netlify.app
 hgs-rho.vercel.app
 hgs-v575.vercel.app
-hgs15temmuz.ph
 hgsbaciyetkisi.art
 hgsbakiye-yuklemeciburda.firebaseapp.com
 hgsbakiyebayim.art
@@ -11396,7 +11395,6 @@ mhrss-2026.duckdns.org
 mhrss-aps.online
 mhrss.mersinstar.com
 mhrssizden.duckdns.org
-mhrsvatandaslaricinonline.duckdns.org
 mhrsvatandasportalekranlarimiz.duckdns.org
 mhrsvatandasportalyonlendirme.duckdns.org
 mhrsxrandevuxhxzmetleriniz3940.com
@@ -14498,7 +14496,6 @@ sahibinden-get.eservisalimin1.online
 sahibinden-get.eservishizmetleriniz1.online
 sahibinden-get.eurunhizmetin.com
 sahibinden-get.guveli-hizmet.online
-sahibinden-get.guvenli-hizmet.online
 sahibinden-get.guvenliodeme-62.sbs
 sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.hementeslimatlar.com
@@ -17716,7 +17713,6 @@ voltabayi.com
 voltafabrikamagaza.com
 voltalayin.com
 voltamagazasatis.com
-voltamotorluaraclar.com
 voltamotorsatis.com
 voltamotorsonline.com
 voltaonline.co

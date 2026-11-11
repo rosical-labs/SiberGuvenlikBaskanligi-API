@@ -359,7 +359,6 @@ a101hizmetayinda.duckdns.org
 a101jethiziyla.ct.ws
 a101kapindakasim.com
 a101kasimda.com
-a101market.netlify.app
 a101marketing.duckdns.org
 a101onlines.com
 a101perekende.duckdns.org
@@ -2663,7 +2662,6 @@ l5ehhssejzm7lyhh.freeddns.org
 lab.diyanetisleribakanligi.vercel.app
 laboredtire.com
 lake-90.com
-lalezarte346655ter.duckdns.org
 lalibation.ncclouds.com
 lalibations.opticaberl.com
 lamba.cepre-soj.shop
