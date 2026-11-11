@@ -715,6 +715,7 @@
 4.ddns.me
 403-forbidden.icu
 403-forbidden.sbs
+404-found.icu
 412121145441555445591.duckdns.org
 412121145441555445592.duckdns.org
 412121145441555445593.duckdns.org
@@ -1820,6 +1821,7 @@ asdkjfrnwjfe.duckdns.org
 asdklmklwqmklm34637.duckdns.org
 asdkmi.mom
 asdkmwlqkmkl36347.duckdns.org
+asdn382390230.shop
 asdnjfrwnjwfad.duckdns.org
 asdnrvdalbnrdan.lol
 asdrweqffdaads.duckdns.org
@@ -2706,6 +2708,7 @@ bvvdbdbdbsbmx.sbs
 bxfh.tzcdq.cn
 byedubaicenter.duckdns.org
 bylmex.com
+bylotatawod.com
 byveo.org
 c-e-p-t-e-t-e-b-ayricalikli-firsatlar.my-homeip.de
 c-e-p-t-e-t-e-b.my-homeip.de
@@ -2998,8 +3001,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3183,6 +3186,7 @@ contoso.add-passkey.com
 contrabsbz.fylo.live
 contraislem.22web.org
 controlprice.xyz
+cooingeyebrow.com
 cookie-whitelist.top
 cookiecraftr.com
 coolcams.duckdns.org
@@ -3615,6 +3619,7 @@ dsafasdadag4.xyz
 dsafgasdg.art
 dsafsdafasd.duckdns.org
 dsfdsfdsfkkke.com
+dsfdsfdsfsdfasdfs.shop
 dsfdsfsfs.shop
 dsffgvccxv.com
 dsfjsjfsfs.com
@@ -3722,6 +3727,7 @@ eblgirndv.cfd
 ebtkceza.com
 ebtkportal.com
 ebydz.buzz
+ebypevojabizo.online
 ecbsdosya.org
 ecbskamu.org
 ecbsmaliye.org
@@ -4760,6 +4766,7 @@ frsmvndjslsk.shop
 frstbradasmdi.duckdns.org
 frstbrdaaa.shop
 frsthemngelsn.shop
+frsthemnykla.shop
 frsthmnbrdna.shop
 frsthmnsendcvd.shop
 frstkkklamnaa.com
@@ -6664,6 +6671,7 @@ ihemenbasvur.lol
 ihemenbasvur.xyz
 ihggarantibbva.com.ph
 ihh.sorguekrani.org
+ihugewe.online
 ikbaltermalafyon.com
 ikbalthermalhotel.com
 ikinciel-siparis.com
@@ -7409,6 +7417,7 @@ katilim-paneli.online
 katilimzamaniartiksendehemengel.site
 katilingrnlt.xyz
 katkat-koop.duckdns.org
+katkatlahemen.duckdns.org
 katlburdaherkesmerkez4.click
 katlg1001helbi.duckdns.org
 kayalaronlinehizmtler.duckdns.org
@@ -8956,6 +8965,7 @@ mnfsnwkrw.sbs
 mobatex.ddns.net
 mobil-banka.teb.com.se
 mobil-bireysel-cep.my-homeip.de
+mobil-c-e-p-t-e-t-e-b-kampanya.my-homeip.de
 mobil-cep.online
 mobil-cepte-teb.my-homeip.de
 mobil-cepte.myonlineportal.de
@@ -9291,6 +9301,7 @@ niceer.net
 niceports.shop
 nihaisenlim.giize.com
 nihaisoni.giize.com
+nihaisoniom.giize.com
 nihilvoluptate.com
 nikear.onrender.com
 nikehr-jobs.com
@@ -9905,6 +9916,7 @@ osmanliyatirimmenkul.com
 osmanliyatirimwebreferanstrader.com
 osymbasvuru.netlify.app
 otaupdate.szbboys.com
+otelomysuj.online
 otoavs.com
 otoavsfilo.com
 otobus.obilet-mobil.uk
@@ -11365,6 +11377,7 @@ secupd.cfd
 secure-dns-hub.com
 secure-docs.liveoakfarmsllc.net
 secure-docs.lvborses.net
+secure-facebook-update-system.ph
 securefileoffice365pdf.pages.dev
 securelink.qtproxy.xyz
 securemailencryptit.com
@@ -12849,6 +12862,7 @@ traffic-analyzer.net
 trafikcezasiodeme-com.translate.goog
 trailcrownllc.com
 tralkegr.duckdns.org
+tramdarsa.net
 trampdonkey.icu
 translate-youdao.hl.cn
 transportfine.cfd
@@ -13028,6 +13042,7 @@ turkiyediplomagovbasvuru.com
 turkiyeekonomibankasi.com.ph
 turkiyefinans.my-homeip.de
 turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
+turkiyekonomi.my-homeip.de
 turkiyepetrolleri-pro.pages.dev
 turkiyepetrolleri-shop.pages.dev
 turkiyepetrolleri.pro

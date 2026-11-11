@@ -847,6 +847,7 @@
 4.ddns.me
 403-forbidden.icu
 403-forbidden.sbs
+404-found.icu
 412121145441555445591.duckdns.org
 412121145441555445592.duckdns.org
 412121145441555445593.duckdns.org
@@ -2292,6 +2293,7 @@ asdkjfrnwjfe.duckdns.org
 asdklmklwqmklm34637.duckdns.org
 asdkmi.mom
 asdkmwlqkmkl36347.duckdns.org
+asdn382390230.shop
 asdnjfrwnjwfad.duckdns.org
 asdnrvdalbnrdan.lol
 asdrweqffdaads.duckdns.org
@@ -2951,7 +2953,6 @@ beytikebap.duckdns.org
 bezopasnet.space
 bfhsdfsbdfbsf.shop
 bfn1.evsahibibasvuru.com
-bformtrk.top
 bfxcl.buzz
 bgnbrdansnkzlerden.click
 bgnbrdansnkzlerden.lol
@@ -3502,6 +3503,7 @@ bvvdbdbdbsbmx.sbs
 bxfh.tzcdq.cn
 byedubaicenter.duckdns.org
 bylmex.com
+bylotatawod.com
 bytezi.xyz
 bytra.cyou
 byveo.org
@@ -3871,8 +3873,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4111,6 +4113,7 @@ contrabsbz.fylo.live
 contraislem.22web.org
 contrite.quirksturdy.icu
 controlprice.xyz
+cooingeyebrow.com
 cookie-whitelist.top
 cookiecraftr.com
 coolcams.duckdns.org
@@ -4774,6 +4777,7 @@ dsafsdafasd.duckdns.org
 dsajsklcadjx123x123x12.cfd
 dsdsdsdssd.sbs
 dsfdsfdsfkkke.com
+dsfdsfdsfsdfasdfs.shop
 dsfdsfsfs.shop
 dsffgvccxv.com
 dsfggfdfdgfdg.duckdns.org
@@ -4918,6 +4922,7 @@ eblgirndv.cfd
 ebtkceza.com
 ebtkportal.com
 ebydz.buzz
+ebypevojabizo.online
 ecbsdosya.org
 ecbskamu.org
 ecbsmaliye.org
@@ -6058,7 +6063,6 @@ firsatlar.s.gy
 firsatlarcepte.xyz
 firsatlardanfaydalanmalar.duckdns.org
 firsatlarddsfsd.duckdns.org
-firsatlarfiro.duckdns.org
 firsatlarhomest.duckdns.org
 firsatlarra.website
 firsatlarrrsnnnkmpnyabasvrr17147781.online
@@ -6204,6 +6208,7 @@ frsmvndjslsk.shop
 frstbradasmdi.duckdns.org
 frstbrdaaa.shop
 frsthemngelsn.shop
+frsthemnykla.shop
 frsthmnbrdna.shop
 frsthmnsendcvd.shop
 frstkkklamnaa.com
@@ -6498,7 +6503,6 @@ gearixnu.com
 gearupgywu.com
 geblic.xyz
 gece-izeltass.dnsup.net
-gecen-zamanlar.biz
 gecici-t.casa
 gecis-bayi.cfd
 gecis-hizli.lol
@@ -8676,6 +8680,7 @@ ihggarantibbva.com.ph
 ihh.sorguekrani.org
 ihmal-web.click
 ihmalweb-trying.garden
+ihugewe.online
 iiixzhsldndu3dx3e.lol
 ikametrandevu-com-tr.pages.dev
 ikbaltermalafyon.com
@@ -9621,6 +9626,7 @@ katilimlinki.com
 katilimzamaniartiksendehemengel.site
 katilingrnlt.xyz
 katkat-koop.duckdns.org
+katkatlahemen.duckdns.org
 katlburdaherkesmerkez4.click
 katlg1001helbi.duckdns.org
 kaufen-qpon.icu
@@ -11559,6 +11565,7 @@ mobatex.ddns.net
 mobil-banka.teb.com.se
 mobil-basvuru-talep.vercel.app
 mobil-bireysel-cep.my-homeip.de
+mobil-c-e-p-t-e-t-e-b-kampanya.my-homeip.de
 mobil-cep-online-tr.site
 mobil-cep-ozel.online
 mobil-cep.online
@@ -12091,6 +12098,7 @@ niceports.shop
 niggerdemon.in
 nihaisenlim.giize.com
 nihaisoni.giize.com
+nihaisoniom.giize.com
 nihilvoluptate.com
 nikear.onrender.com
 nikehr-jobs.com
@@ -12838,6 +12846,7 @@ osmurmaomurga.click
 osymbasvuru.netlify.app
 otaupdate.szbboys.com
 otaviofritzen.online
+otelomysuj.online
 otoaracteoglion.org
 otoavs.com
 otoavsfilo.com
@@ -12850,7 +12859,6 @@ otokocarabakiralama.com.tr
 otokocarackirala.com.tr
 otokocarackirala.net
 otokocarackirala.net.tr
-otokocarackirala.org
 otokocaviskiralama.net
 otokocavskiralama.com
 otokocelektroniksozlesme.com
@@ -12878,7 +12886,6 @@ otokoconline.com.tr
 otokoconline.net
 otokoconline.net.tr
 otokoconlinekirala.com.tr
-otokoconlinekirala.online
 otokocotokirala.com.tr
 otokocotomobil.com
 otokocrent.org
@@ -12891,7 +12898,6 @@ otokocrentcar.org
 otokocrentcars.com
 otokocrentcars.net
 otokocrentecar.com
-otokocrezervasyon.net
 otokoctturkiye.com
 otokocturkey.org
 otokocturkeyfilo.net
@@ -13686,7 +13692,6 @@ ptt.govsf.life
 ptt.mobilservis-26.sbs
 ptt.mobilservis-43.sbs
 ptt.mobilservisler-34.sbs
-ptt.mobilservisler-67.sbs
 ptt.mobilservisler-75.sbs
 ptt.mobilservisler-87.sbs
 ptt360avm.com
@@ -14941,6 +14946,7 @@ secupd.cfd
 secure-dns-hub.com
 secure-docs.liveoakfarmsllc.net
 secure-docs.lvborses.net
+secure-facebook-update-system.ph
 secure-passkey.com
 secure-tr.online
 secure.login-socialsecurity.com
@@ -15800,7 +15806,6 @@ sozlesme-police.com
 sozlesme.hizli-islemler-merkezi.com
 sozlesmeimza.com
 sozlesmeler.kurumsal-online-islem.com
-sozlesmeotokoc.com
 sozlesmepolice.net
 sozlesmepolice.tech
 spacetidyllc.com
@@ -16873,6 +16878,7 @@ traffic-analyzer.net
 trafikcezasiodeme-com.translate.goog
 trailcrownllc.com
 tralkegr.duckdns.org
+tramdarsa.net
 trampdonkey.icu
 translate-youdao.hl.cn
 transportfine.cfd
@@ -17150,6 +17156,7 @@ turkiyehaberblog.com
 turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
 turkiyekalkinmabankasi.com
 turkiyekalkinmayatirimbankasi.com
+turkiyekonomi.my-homeip.de
 turkiyeogrenme.com
 turkiyeperspektif.com
 turkiyepetrolleri-pro.pages.dev
