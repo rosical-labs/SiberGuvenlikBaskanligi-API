@@ -2289,9 +2289,9 @@ collartitle.info
 com-access-sharepoint.com
 com-kampanyarezervasyon.space
 com-onlinekampanya.net
-com-rezervasyon.com
 comestac.bid
 comesubem--qnbfinansbank.ph
+comfacebookloginfansonlineprizes.com.ph
 comforthavenyyds.com
 commarksandspencernederland.net.ph
 commonwealth-post.com
@@ -5731,8 +5731,6 @@ metahgshesa.duckdns.org
 metakaitaamin.duckdns.org
 metamanus.im
 metaoflinereklam34.sbs
-metareklamlari.cfd
-metareklamlari.cyou
 metareklamlari.sbs
 mexico-cashpay-test.s3.dualstack.mx-central-1.amazonaws.com
 meydancicekci.com
@@ -7407,7 +7405,6 @@ sekeryatirimportfoy.com
 sel6bu6eft06.primevoria.com
 selamherkese.duckdns.org
 selectumresortshotels.net
-selgeresortbeachside.com
 selgesidebeachhotel.com
 selgesideotel.com
 selnora.cyou
