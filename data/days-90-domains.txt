@@ -253,7 +253,6 @@
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
-101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services-cep.online
 101-extra-sadece-online-ozel-mobilde-indirim-sepette-tr.elektro-tr.online
 101-extra-sadece-online-ozel-sepet-indirimleri-mobilde-tr.cepteburda.online
@@ -507,8 +506,6 @@
 14785236kmpnyabsvrprsmyn.pro
 14to.siestaday.cfd
 151512515asdf.duckdns.org
-152241snffrstlarrkpnyaabsvrr.info
-152241snffrstlarrkpnyaabsvrr.online
 15489kmpnyabsvrrrsnfrstlarr.info
 15489kmpnyabsvrrrsnfrstlarr.pro
 1561685465155.sbs
@@ -562,6 +559,7 @@
 2026kasim2026onayli.duckdns.org
 2026konut-tok-i.duckdns.org
 2026onayli2026.duckdns.org
+2026play-app.store
 21145542224555546668988290.xyz
 21145542224555546668988291.xyz
 21145542224555546668988292.xyz
@@ -1788,6 +1786,7 @@ artneytyokhazbabasendegelburda.click
 artoaslfasfoela.biz
 artsketch.pl
 arvanokamplndirimleri.com
+arvessa.sbs
 arvisto.digital
 aryadisticaret.com
 arzssrtwt.com
@@ -1824,6 +1823,7 @@ ascsadv.duckdns.org
 asd-ol-gr.myonlineportal.ch
 asdar-aln.site
 asdasdasd.dpdns.org
+asdasdasdasasg.online
 asdasddas.dns.army
 asdasdfsdfdsf.webredirect.org
 asdasdgugugo9999asd.click
@@ -2101,7 +2101,6 @@ bakbrdannlrvarrvd.lol
 bakinsedensi.com
 bakiyelerdetayli.lol
 bakkaldennoo.linkpc.net
-baknburdaherseyvarsndegelhadi81.click
 balbolma.duckdns.org
 balonx.online
 banabaklan.lol
@@ -2241,10 +2240,6 @@ bbva-mobile.site
 bbva-ziraatbank.com.ph
 bbva0faiz.com
 bbvafaizsizler.com
-bbvagarantimobiladres.ph
-bbvagarantiwebiadeleri.ph
-bbvagarantiyenikard.ph
-bbvagarantiyeniyilkredisi.ph
 bbvaislemler.duckdns.org
 bbvaonline.duckdns.org
 bc.etlva.cn
@@ -2370,7 +2365,6 @@ bilgikamu.org
 bilgikurum.net
 bilgikurum.org
 bilgilendir-sepet.online
-bilgilendiriyorum.abrdns.com
 bilgilendirme-sepeti.online
 bilgilendirmelerimiz.abrdns.com
 bilgilendirmemm.netlify.app
@@ -2398,6 +2392,7 @@ binance-account-login.vercel.app
 binance-destek.com
 binance-exchanges.cloud
 binance-exchangess.online
+binance-logins.com
 binance-sign-in.vercel.app
 binance-team.com
 binance-turkiye.com
@@ -2593,7 +2588,6 @@ brakeliontrail.com
 brandefense.co
 brandlyza.com
 brandvexoria.com
-brasimhrsrandvlrmz.sbs
 bravento.blog
 brcnsfdasbdgx.art
 brcnsfdasdg.art
@@ -2634,7 +2628,6 @@ bsoozasyoudao.top
 bsrrvrrprmsnynkmpnyaaasonfrlstari.online
 bsrrvrrprmsnynkmpnyaaasonfrlstari.pro
 bsvr-kmpny2.st
-bsvrmilkdefaburda.sbs
 bsvrrfrstlarrmerkziiprmsynn.art
 bsvrrkmpaanyy.click
 bsvrrkmpnsnnfrstlarr150432.online
@@ -3035,8 +3028,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3403,7 +3396,6 @@ denizbankdestek.com
 denizdegerlimenkuller.com
 denizonlinebasvur.duckdns.org
 depinvesting.online
-depos-happy.ink
 derdaloeasdwa.duckdns.org
 dermatologia.cfd
 dermatologie-klinik.st2.al
@@ -3435,6 +3427,7 @@ development.diyanetisleribakanligi.vercel.app
 devletdestek.vercel.app
 devvcepptesokkfirrsaatttlarii.live
 devvcepptesokkfirrsaatttlarii.online
+dewaltturkiye.com
 dez.11gokil.org
 dezinefusion.co
 dezinefusion.com
@@ -4352,6 +4345,7 @@ facebook-facebook-status.ph
 facebook-help-reset.ph
 facebook-like-login.ph
 facebook-login-barcelona101.com.ph
+facebook-login-berlin-de.org.ph
 facebook-login-berlin-us.ph
 facebook-login-berlin20.com.ph
 facebook-login-check-meta.ph
@@ -4361,6 +4355,7 @@ facebook-login-help-de.com.ph
 facebook-login-help-jakarta.com.ph
 facebook-login-help-yemen.com.ph
 facebook-login-id-illinois.ph
+facebook-login-im-zulu.ph
 facebook-login-in-athens.com.ph
 facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
@@ -4413,6 +4408,7 @@ facebook-loginassist.com.ph
 facebook-loginassistant.com.ph
 facebook-loginfleet.ph
 facebook-loginhasty.ph
+facebook-loginnn-uk.net.ph
 facebook-loginpage.com.ph
 facebook-password-change-media.ph
 facebook-password-recovery-change-password.ph
@@ -4794,8 +4790,6 @@ frstlrrsonnbsvrrkmpnyaa965849.online
 frstmlkklcsd.shop
 frsttlrrrkmpnyaabsvrrrrsonnnn.online
 frsttlrrrkmpnyaabsvrrrrsonnnn.pro
-frsttlsnbsvrrkmponyaa128549.online
-frsttlsnbsvrrkmponyaa128549.pro
 frsttrndvulrdaim.com
 frsttrnetdvulrdaim.com
 frstttkmpnylariiibsvrrrr.art
@@ -5667,7 +5661,6 @@ halkrafaelo.space
 halksglkrhbr.cfd
 halkyatirim-tr.info
 halmoramarket.shop
-hamnsahsmanhsmansahmnsahmasnham46.space
 hanibalborcha.duckdns.org
 hanselarinmusky.com
 haoekang.com
@@ -5957,7 +5950,6 @@ hgsodeyklenktsi.cfd
 hgsodndismdi.cfd
 hgsodykle.com
 hgsx-web.vercel.app
-hgsyklebkyeonlne.cfd
 hgsyklemelerde.duckdns.org
 hgsyklezmnipraykle.cfd
 hgsyklodesmdi.cfd
@@ -6314,7 +6306,6 @@ hizlionlinekredibasvurusu.loseyourip.com
 hizliservis-35bca7801b37.herokuapp.com
 hizlisgecisnayolsyukleyn.art
 hizlisigortam.click
-hizlisindansiparisingeldi.xyz
 hizlituvturkaracmuayne.web.app
 hizlkmsorgu.web.app
 hizmet-akbank.ph
@@ -6682,6 +6673,7 @@ ile-siparisiniz.com.tr
 ile-siparislerinizde.com.tr
 ile-siparisver.com.tr
 ile-siparisver.net.tr
+ileguvende.site
 ileribakismerkezi.com
 ilerigelisimrotasi.com
 ileservishizmetleri.com
@@ -7259,7 +7251,6 @@ kamuhazine.com
 kamumali.org
 kamusenindirim.vercel.app
 kamusorgulama.com
-kamusorgum.org
 kamusorgusistemi.org
 kamutakibi.org
 kamutalimat.org
@@ -7366,7 +7357,6 @@ katescraftybakes.com
 katilim-girisi.online
 katilim-paneli.online
 katilimzamaniartiksendehemengel.site
-katilingrnlt.xyz
 katkat-koop.duckdns.org
 katkatlahemen.duckdns.org
 katlakatlakoop.duckdns.org
@@ -7407,7 +7397,6 @@ kemalradio.com
 kendineiyibak3r.xyz
 kendinicin.abrdns.com
 kendinkullan.abrdns.com
-kendmzszemenaetettksendebasvur4.click
 kendnols.duckdns.org
 kennszaltas.blogspot.com
 kentcicek.com
@@ -7588,7 +7577,6 @@ kmpnyaabasvrurrprsmynn9328317.pro
 kmpnyaabasvurrpsmynn478596.info
 kmpnyaabsvrasdas103321.online
 kmpnyaabsvrr9321.online
-kmpnyaabsvrrrhksnfrstlarrr.online
 kmpnyaabsvvfrstttsnnn.info
 kmpnyaabsvvfrstttsnnn.live
 kmpnyaasonfirsaattbsvrr.info
@@ -7770,14 +7758,11 @@ kredi-basvuru-platform.net
 kredi-basvuru-platformu.net
 kredi-basvuru-sistemi.click
 kredi-basvuru-sistemi.net
-kredi-basvuru-sistemi.sbs
-kredi-online-basvurular.net
 kredi-online-hizmetleri.buzz
 kredi-online-hizmetleri.online
 kredi-online-hizmetleri.site
 kredi-online-hizmetleri.space
 kredifirsatstatusu.com
-krediibsvrrrkmnpyyyprmsnnn.info
 krediibsvrrrkmnpyyyprmsnnn.pro
 krediiziraaatkmpnyabasvr.pro
 kredim-togg.com
@@ -7912,6 +7897,7 @@ lcwaikiki.cam
 lcwaikikifestr.com
 ldscsadcasldlkx123x123.shop
 le93l9432l9e4996.mytunnel.org
+le9e3l9ss89s4464.mytunnel.org
 leaks-entry.com
 leaksentry-security.com
 leamingtonfoods.waitesguide.co
@@ -8302,7 +8288,6 @@ maxisyatirimtr.com
 maybeshewillcome.top
 mayisaylarinda.shop
 mayte.pro
-mazi-web.myonlineportal.ch
 mbackend-mdye.onrender.com
 mbnlarbrdanrvdal.click
 mcbumaliye.com
@@ -8357,7 +8342,6 @@ menkulkiymetlerosmanli.com
 menkulvcuzdan.com
 mensweariuunners.info
 merayona.top
-merhametsizlerdiyari.xyz
 meridian-protocol.org
 meridiangroup-corp.com
 meridizo.com
@@ -8728,7 +8712,6 @@ mobilcepte.my-homeip.de
 mobilcepteteb.my-homeip.de
 mobilcitr.online
 mobilde-baglanti.com
-mobildebasvurumlarim.click
 mobilden-basvur.myonlineportal.de
 mobilden.internet-subesi.site
 mobile-digital.shop
@@ -8933,7 +8916,6 @@ nas.evsahibibasvuru.com
 nationalpaversystem.ncclouds.com
 naturturizmvilla.com
 navelo.cyou
-navi-happy.ink
 navikry.com
 nawntawt.blogspot.com
 nbnvjdasd.shop
@@ -9130,6 +9112,7 @@ notebookklm.com
 nova-client.com
 novafilom.com
 novakurumsal.online
+novakutu.cyou
 novges.com
 novixtra.com
 nowakaesthetics.cyou
@@ -9687,7 +9670,6 @@ parcaofisi.net
 pardusyatirim.com
 parentpreneurx.com
 paribu--araba.com
-paribu--araba.live
 paribu-app.digital
 paribu-arababurada.info
 paribu-cark.com
@@ -9761,6 +9743,7 @@ parsrentcar.org
 parsrulman.com
 partaonline.click
 pas-hizli-guvenli-girs.sbs
+pasamotor.net
 pasmonest.duckdns.org
 passiligbasvurun.com
 passkey-mfa.com
@@ -9930,7 +9913,6 @@ pl.star-boostmedia.com
 placespoon.xyz
 planer7.com
 planer7.online
-planyapldsendehemengelkatl3.click
 play.kitsumc.com
 playios.net
 playsuperseed.online
@@ -10001,7 +9983,6 @@ privatecryptonewsreader.pro
 prmbrdgrntprm.cfd
 prmosynnkmpnyakrediibasvr.pro
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.info
-prmsynnkmpnyaabsv2569858477.info
 prmsynnkmpnyabsvr123913.online
 prmsynnkmpnyabsvrrrsnfrstlarr.info
 prmsynnkmpnyabsvrrrsnfrstlarr.pro
@@ -10111,6 +10092,7 @@ pttavm.ile-sepetiniz.com.tr
 pttavm.ile-sepetinizde.com.tr
 pttavm.ile-siparisver.com.tr
 pttavm.ile-siparisver.org.tr
+pttavm.ileguvende.site
 pttavm.islem-siparisver.com
 pttavm.mobil-odemesepeti777.com
 pttavm.odeme-onay-1282.com
@@ -10140,7 +10122,6 @@ pttavmhgsyukle.cloud
 pttavmhgsyukle.club
 pttavmhgsyukle.online
 pttavmhgsyukle.store
-pttavmkilomtre.web.app
 pttavmkm.org
 pttavmkm.web.app
 pttavmkmbilgi.com
@@ -10195,6 +10176,7 @@ pvolvestudlos.com
 pwk6zmtq3rnvcl8x.sbs
 pymons.is
 q-parkfine.cfd
+q2nbfinansbank.vg
 q6z1t4x8n2.lol
 qasrgaovaf7m.thisisafalsepositive.ru
 qavix7meron3zulaterok.cfd
@@ -10217,7 +10199,6 @@ qnbfinansbank-internetsube-com-tr.ph
 qnbfinansbank-subeweb.vg
 qnbfinansbankonline.com
 qnbstart.com
-qori-space.ink
 qoslink.cloud
 qpmvt.bus2Z
 qqnbilekatkat.duckdns.org
@@ -10312,7 +10293,6 @@ randvshzksimerts.store
 rapid-craft567.com
 rathat.me
 raulpoloullonpsp.wixsite.com
-ravo-world.ink
 ravun8qelix3zonaterima.sbs
 rd1800vire.shop
 rd1kdekdkde.com
@@ -10466,6 +10446,7 @@ rootsblowers.co.in
 roseboxcicek.com
 rotarentacars.com
 rovenik.cyou
+rovent.cyou
 rowenta-turkiye.com
 rowentasturkiye.com
 rows-per-page.my-homeip.de
@@ -10569,7 +10550,6 @@ s0kmlarket.shop
 s1.evsahibibasvuru.com
 s1181402.ha026.t.mydomain.zone
 s2.2083.to
-s3177.site
 s32ee43hh7h87h62.lan64.de
 s34hs29s7h9l63l2.srv64.de
 s3rehnhlles3d8n.iot64.de
@@ -10797,7 +10777,6 @@ sahibinden-sepet.onlinesepetimde.shop
 sahibinden-sepet.onlinesepetimde.store
 sahibinden-sepet.sepetimdeonline.store
 sahibinden-sepet.sepetimonaycom.surf
-sahibinden-sepet.sepetteonline.online
 sahibinden-sepet.sepetteonline.shop
 sahibinden-sepetim.sepetimdeonline.shop
 sahibinden-siparis.guvendesepetim.online
@@ -10884,7 +10863,6 @@ sahibindensatis.xyz
 sahibindensigorta.click
 sahibindensigorta.quest
 sahibirdenguvnde.com
-sahibndensatis.click
 sahihinden.com.tr
 sahihindeni.com.tr
 sahinden-param-guvende.siparis-onayi.online
@@ -11225,7 +11203,6 @@ siparis-onayi.online
 siparis-onayim.online
 siparis-onayin.online
 siparis-onayla.online
-siparis-onayli-115546.com
 siparis-onayli-115551.com
 siparis-teslimat.com
 siparis-tr.online
@@ -11244,8 +11221,6 @@ siparislerim-onayli-127438.com
 siparislerim-onayli-127447.com
 siparislerimonline.com
 siparislerkapida.com
-siparisonayi.online
-siparisonayim.online
 siparisonayin.online
 siparisonayla.online
 siparisteslimati.com
@@ -11302,6 +11277,7 @@ sizlerdefaydalanindiye.sbs
 sizlerden.gelen.hizmetlerden.2121asdasdqwdsad.click
 sizlerden.gelen.hizmetlerden.21sd212d1asfas.click
 sizlerden.gelen.hizmetlerden.asdasdqwdsad.click
+sizlerden.gelen.hizmetlerden.dd21sd212d1asfas.click
 sizlerden.gelen.hizmetlerden.sdasdqwdsad2121.click
 sizlerden.gelen.hizmetlerden.skdowkdaksdkasd.click
 sizlereozelrandevuekran.top
@@ -11845,6 +11821,7 @@ szhpnzleotkbrda.lol
 szwhtl.com
 t-e-b-ayricaliklar.my-homeip.de
 t-e-b-ayricalikli.my-homeip.de
+t0kibasvurulariniz.com
 t0kibsvuru.lol
 t0kibsvuru.sbs
 t0kibsvuru.xyz
@@ -12092,6 +12069,7 @@ tekdokunusundalndirimgeldi.com
 tekgercektazmanya.duckdns.org
 teklifonunde.abrdns.com
 teklifzamani.abrdns.com
+teknikhangar.com.tr
 teknomarket35.com
 teknos-sa.tr
 teknosa.live
@@ -12256,6 +12234,8 @@ toki-konut.sbs
 toki-konutlarim.sbs
 toki-konutum.sbs
 toki-onlinepay.com
+tokiasrinprojesi.cfd
+tokibasvuru.it.com
 tokievbasvursu.xyz
 tokievlerbizim.com
 tokimntokimm-knt-projem.com
@@ -12368,6 +12348,7 @@ trastnewkt.com
 travelzens.com
 travestiilan.com
 trbinance.tr
+trbireyselyapikredionlinegiris.vercel.app
 trbirimadli.org
 trbuyukbenbir.click
 trcxwedaxm.sharedmsform.com
@@ -12592,6 +12573,7 @@ tuvturkrandevu.ink
 tuvturkrandevumuayene.com
 tuvturkrandevun.com
 tuvturkx.com
+tuvtuvvurk.xyz
 tuwrkontrolrandwu.netlify.app
 tuwtukr.govt.hu
 tuwwtukr.govt.hu
@@ -12753,6 +12735,7 @@ uyaphazine.com
 uyapvatandas.org
 uyguncep.online
 uygungunlerdyzblzer.duckdns.org
+uygunode.com
 uyptmvfvfk34m32m.shop
 uyuzcangg.dpdns.org
 uz-whatsapp.com
@@ -12766,7 +12749,6 @@ uzlasmabildirim.com
 uzlasmabilisim.com
 uzlasmacezasorgu.org
 uzlasmadosyatr.com
-uzlasmaevrak.org
 uzlasmahazine.com
 uzman-nobetci.myshopify.com
 uzygroup.net
@@ -12863,7 +12845,6 @@ vestel-ai.net
 vestelbayileri.com
 vestelkurumsal.com
 veterete-sedertete.lol
-vexo-daily.ink
 veyramarketcollective.com
 veznedarodemeislemleri.com
 veznedarvergiformu.com
@@ -13098,6 +13079,7 @@ wulingturkiye.com
 wumingcccv.com
 wuoppin.xyz
 wvziraatbankasi.click
+ww-fibabanka.ph
 ww38.k3rdxp0igzguybu6ua1.com
 wwasdhashdu88sadasd.click
 wwgovistur.southeast-childcarseats.com.au
@@ -13287,6 +13269,7 @@ www-nerde-cepte-tbayrica.myonlineportal.ch
 www-nerdecepte-tb-ayricalik.myonlineportal.ch
 www-niptb-cepte-ayrica.myonlineportal.ch
 www-npstb-cepte-tb.myonlineportal.ch
+www-offtbde-cept-ayrica.myonlineportal.ch
 www-only-tb-ceptewby.myonlineportal.ch
 www-ontb-web-ayrica.myonlineportal.ch
 www-orancpt-tb-webten.myonlineportal.ch
@@ -13521,7 +13504,6 @@ ydx-stat.ru
 yelahaye.surf
 yemekkartbasvurusu.com
 yemektarifleri.shop
-yenbasvuruzamnansendekatl2.click
 yenerscreation.com
 yenibasvurumerkezi.cfd
 yenibbvuislemenu.linkpc.net
@@ -13628,7 +13610,9 @@ youngel.biz
 your-house.myonlineportal.ch
 your-nextstep.online
 yourluckycard.ru
+youtube-copyright.help
 youtubecard.com
+youtubechannelcopyright.help
 youtubechannelverification.com
 youtubecopyright.help
 yoxjsensordkzb.com
@@ -13713,7 +13697,6 @@ zedesedeliopolse.lol
 zefoluri-danipote.lol
 zekoma-rupilo.lol
 zelenapo-maledepo.lol
-zeli-home.ink
 zelmarvo.com
 zeloriaquadsok.com
 zeluspanel.art
@@ -13721,7 +13704,6 @@ zeluspanel.online
 zen3bet.shop
 zen8bet.shop
 zenmoreko.com
-zeno-place.ink
 zerendtm.com
 zerh0744.site
 zero39172-391920.onrender.com
@@ -13789,6 +13771,7 @@ zoizagricultureciva.com
 zokapu-relimon.lol
 zolmeran.com
 zolvena.shop
+zoom.us.sg2.chostore.biz.id
 zoom4usinvite.space
 zoomcares.zoom.us.ikd3.mjid.web.id
 zoominvite-us09web-user08b.pages.dev
