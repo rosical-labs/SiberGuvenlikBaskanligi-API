@@ -2553,6 +2553,7 @@ avsfilom.net
 avsfilomkirala.com
 avsfilomkiralama.com
 avsfilonrentcara.com
+avsfilonukirala.com
 avsfilorent.com
 avsfilorental.com
 avsfilorentkiralama.com
@@ -3104,6 +3105,7 @@ bireyselsube-akbankasi.ph
 bireyselsube-enpara.ph
 bireyselsubehalkbank.com.ph
 bireyselsudeniz.com
+bireyselyapikredibasvuru.vercel.app
 bireyselyapikredimobilkampanya.vercel.app
 birimadli.org
 birimkamu.org
@@ -3408,7 +3410,6 @@ btcturkcekilisi.co
 btcturkcekilisi.online
 btcturkts.cc
 btf-adalet-bakanligi.pages.dev
-btksikayet-btk-sikayet.up.railway.app
 btkurumsal.ph
 btrf36.cc
 buapp1-99579a8a4cfa.herokuapp.com
@@ -3601,6 +3602,7 @@ careersggl.icu
 careffoursa.vercel.app
 carefourgirismobil.cfd
 carefoursa.vercel.app
+carenta360.com
 cark-cekilisi.com
 cark-cekilisi.info
 cark-cekilisim.com
@@ -3900,8 +3902,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5018,6 +5020,7 @@ edvs-tapursvnnuszs.org
 edwardeggcup.shop
 edwnbabaxik.abrdns.com
 edwngarxkdb.abrdns.com
+eetyuursdrthnb.giize.com
 efemdybungalov.com
 efendbungalow.com
 efendibungalow.com
@@ -5965,6 +5968,7 @@ fiftystates.news
 fightwa.biz
 figmanets.in
 fiieherzamansizlerle.duckdns.org
+fiillledenindro.giize.com
 file.archat.us
 file.dgjm.online
 filecedarwallet.online
@@ -7842,7 +7846,6 @@ hgsbakiyeyuklmeanlik.web.app
 hgsbakiykleme.web.app
 hgsbakiyukleme.org
 hgsbayieyukmelmefs.art
-hgsbkyeyklecfd.cfd
 hgsdeodemedeyeridir.vercel.app
 hgsdolumbayniz.art
 hgsgecisbakyniz.web.app
@@ -8391,14 +8394,12 @@ hodefmenst.duckdns.org
 hodekemenstler.duckdns.org
 hodenstler.duckdns.org
 hodeslerkest.duckdns.org
-hodesterker.duckdns.org
 hodskerlteyer.duckdns.org
 hofelkmenst.duckdns.org
 hofesmensetjer.duckdns.org
 hofesnesmtkerk.duckdns.org
 hofestlerkes.duckdns.org
 hohestetres.duckdns.org
-hohomster.duckdns.org
 hojdefterkester.click
 hojeasdert.duckdns.org
 hojesfejterdafs.duckdns.org
@@ -8569,6 +8570,7 @@ hzlinrdn.cfd
 hzlirand.cfd
 hzlirhblr.cfd
 hzlirnad.cfd
+hzlirnd.cfd
 hzlirndal.cfd
 hzlirndal.com
 hzlirndvlr.cfd
@@ -12237,6 +12239,7 @@ nousomtr1.click
 nousomtr1.club
 nova-client.com
 novafilom.com
+novafilorental.com
 novafinans.digital
 novakurumsal.online
 novakutu.cyou
@@ -13732,7 +13735,6 @@ pttavm.online-siparisler-burda.com
 pttavm.online-siparisler-onaylama.com
 pttavm.satinal-siparis.com
 pttavm.sepete-ekle.com
-pttavm.siparis-guvenliodeme.com
 pttavm.siparis-olustur.com
 pttavm.siparis-onay-7269.com
 pttavm.siparis-onay-7712.com
@@ -14108,6 +14110,7 @@ repo-ubuntu-webstatic-world.securitytactics.com
 repo-webtatic-server.servehttp.com
 reportifynu.com
 rerrasnahfd.blogspot.com
+rescarkurumsalkiralama.com
 reserved-urgent-predictions-pipe.trycloudflare.com
 reservetiontuv.site
 resight-cheats.net
@@ -14248,7 +14251,6 @@ ruhsuzpanel.cyou
 ruhsuzpanel.ink
 ruhsuzpanel.life
 ruhsuzpanel.lol
-ruhsuzpanel.online
 ruhsuzpanel.sbs
 ruhsuzpanel.site
 ruhsuzpanel.top
@@ -14464,18 +14466,13 @@ sahibinden-get.alisverislersepet-30.sbs
 sahibinden-get.e-servisler10.sbs
 sahibinden-get.ejet-ticaretin1.online
 sahibinden-get.ejet-ticaretin6.online
-sahibinden-get.emobileservislerrn.online
 sahibinden-get.eservisalimin1.online
 sahibinden-get.eservishizmetleriniz1.online
-sahibinden-get.eurunhizmetin.com
-sahibinden-get.guveli-hizmet.online
 sahibinden-get.guvenliodeme-62.sbs
-sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.hementeslimatlar.com
 sahibinden-get.hizlikapimda.com
 sahibinden-get.hizlikargolama.com
 sahibinden-get.ileservishzmetleri.sbs
-sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.islem-guvende.online
 sahibinden-get.islemlerin-sepet-10.sbs
 sahibinden-get.islemlerin-sepet-15.sbs
@@ -14507,7 +14504,6 @@ sahibinden-get.mobilservisin-33.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisin-55.sbs
 sahibinden-get.mobilservisler-35.sbs
-sahibinden-get.mobilservisler-49.sbs
 sahibinden-get.mobilservisler-62.sbs
 sahibinden-get.mobilservisler-63.sbs
 sahibinden-get.mobilservisler-64.sbs
@@ -14520,7 +14516,6 @@ sahibinden-get.mobilservisler-89.sbs
 sahibinden-get.mobilservisleriniz-11.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs
-sahibinden-get.mobilservisleriniz-2.sbs
 sahibinden-get.mobilservisleriniz-3.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.servisepetin-10.sbs
@@ -14544,7 +14539,6 @@ sahibinden-get.urundetay-sepet-20.sbs
 sahibinden-get.urundetay-sepet-25.sbs
 sahibinden-get.urundetay-sepet-30.sbs
 sahibinden-get.urundetay-sepet-35.sbs
-sahibinden-get.vercel.app
 sahibinden-get.x-mobil-islem-guvenceli.com
 sahibinden-getilan.islemler-web-tr-getalisveris.online
 sahibinden-getilan.islemler-webtr-getalisveris.online
@@ -15020,7 +15014,6 @@ sepetimodeme.shop
 sepetimonay.click
 sepetimonaycom.shop
 sepetimonaycom.surf
-sepetin-cepte.net.tr
 sepetindeonline.shop
 sepetindevar-tr.online
 sepetinizde.com.tr
@@ -15041,7 +15034,6 @@ serhathosting.xyz
 serkancx.duckdns.org
 serkandanismanlik.sbs
 serv.oss-cn-hongkong.aliyuncs.com
-server-guide--microsoftsignin.replit.app
 server.activeworkshops.com
 server.vietnam852.com
 servetsayar.top
@@ -17127,7 +17119,6 @@ turkiyedevletgiris.com.ph
 turkiyediplomagovbasvuru.com
 turkiyeegitim.vu
 turkiyeekonomibankasi.com.ph
-turkiyefinans-katilim-com.duckdns.org
 turkiyefinans-katilimyap-com.duckdns.org
 turkiyefinans.my-homeip.de
 turkiyegovtr.lovestoblog.com
@@ -17718,6 +17709,7 @@ vpnkomar.space
 vpnmyha.shop
 vpnmyxa.site
 vps.xs1.ccwu.cc
+vraxxelyndorqaveth.sbs
 vrdagrytglu.duckdns.org
 vroomlyx.com
 vsdjkvnsdv.com
@@ -18366,7 +18358,6 @@ xxxxxxxxx111111.sbs
 xyzsource.xyz
 xyzsystem.xyz
 xzcvcbvmnsaddfgsdfgfsssa59.click
-xzeez.cfd
 xziraalglrlsonlineislem.duckdns.org
 xziralmobilonline.duckdns.org
 xzmvxzmavsk-xzmvkzxda-dssafkas.sbs
