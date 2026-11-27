@@ -541,7 +541,6 @@
 13112026.com
 13222112211445799890.duckdns.org
 13222112211445799891.duckdns.org
-13222214544588989990898.duckdns.org
 13222214544588989990899.duckdns.org
 133213345665578555989899090.duckdns.org
 133213345665578555989899091.duckdns.org
@@ -2327,7 +2326,6 @@ ar-safar.myonlineportal.ch
 ara-asa-atk.my-homeip.de
 araba--paribu.com
 araba--paribu.live
-araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.live
 araba-cekilisi.online
@@ -4257,8 +4255,8 @@ cezadosyasorgulama.com
 cezagov.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -7351,7 +7349,6 @@ goriltebcan.cfd
 gorllhvleeglyronyyvr.buzz
 gorsite.online
 gorunum-ayarlar.ink
-gosats.us
 goshensorg.securemailencryptit.com
 goshshare.online
 gota.unaux.com
@@ -12409,7 +12406,6 @@ msedge-api-cdp-microsoft.serveftp.com
 mserehele.duckdns.org
 msfile.online
 mshrhizlislemler.online
-mslearn.online
 mslivetest.duckdns.org
 msoaq.buzz
 mspasskey.com
@@ -12943,8 +12939,6 @@ nowakaesthetics.cyou
 noxelavitumporazek.cfd
 npdiapply.com
 npm-cache.com
-npmjs.store
-npmjs.us.org
 npugovua.cfd
 nq8h0vi.s.gy
 nqp26.com
@@ -14967,7 +14961,6 @@ rndvalhmn.cfd
 rndvalmazmni.cfd
 rndvalvode.cfd
 rndvklyal.cfd
-rndvlahzmetler.com
 rndvualmrse.cfd
 rndvualsna.cfd
 rndvuburdaalingelin.duckdns.org
@@ -18162,7 +18155,6 @@ unifiedvo.com
 unimarc-gifts.com
 uninstalltooll.ru
 unisalesemina.giize.com
-universus.stream
 univozai.com
 uniwilywu.online
 unkalimasyona.giize.com
