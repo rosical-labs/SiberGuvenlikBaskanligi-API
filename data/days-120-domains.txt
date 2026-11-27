@@ -541,7 +541,6 @@
 13112026.com
 13222112211445799890.duckdns.org
 13222112211445799891.duckdns.org
-13222214544588989990899.duckdns.org
 133213345665578555989899090.duckdns.org
 133213345665578555989899091.duckdns.org
 133213345665578555989899092.duckdns.org
@@ -1980,7 +1979,6 @@ albarakaaiprojects.com
 albarakafinanceeg.com
 albarakamenkulkiymetler.com
 albarakamenkulyatirim.com
-albayquery.space
 albedorb.space
 albedorb.world
 albinofennel.com
@@ -4255,8 +4253,8 @@ cezadosyasorgulama.com
 cezagov.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org

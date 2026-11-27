@@ -7968,7 +7968,6 @@ kmsorgulaamaislemleri.web.app
 kmsorgulaamhzmetleriniz.online
 kmsorgulamahizmetcinizz.online
 kmsorgulamahizmeti.web.app
-kmsorgulamahizmetii.web.app
 kmsorgulamahizmetimniz.web.app
 kmsorgulamahizmetleri.com
 kmsorgulamahizmetlerii.web.app
