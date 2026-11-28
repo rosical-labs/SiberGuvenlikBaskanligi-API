@@ -993,6 +993,7 @@
 49843544322684.sbs
 49864516513.duckdns.org
 4axiomeltharvonicquantumengineering.cyou
+4axiontheravexultronicengineering.cyou
 4b9k3.com
 4bxzd.com
 4c8f2.com
@@ -4267,6 +4268,7 @@ ceptetebli-ayricalik.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
 ceptetebli-emekliye.my-homeip.de
 ceptetebli-kampanya.my-homeip.de
+ceptetebli-mobil.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceptetebte-tr.my-homeip.de
 ceptetep-firsat.my-homeip.de
@@ -4293,8 +4295,8 @@ cezadosyasorgulama.com
 cezagov.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -12330,6 +12332,7 @@ mobil-teb-onay.my-homeip.de
 mobil-teb.com
 mobil-tepden-basvur.myonlineportal.de
 mobil-tradresi.live
+mobil-yayin.com
 mobil.obilet-tr.uk
 mobil.osmanlivportfoy.online
 mobilbasvur.cfd
@@ -13853,7 +13856,6 @@ paribu-araba-cekilis.online
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online
-paribu-araba-kazanma.com
 paribu-araba.live
 paribu-araba.online
 paribu-arababurada.com
@@ -13988,8 +13990,6 @@ paribununhediyekampanyalari.online
 paribununhediyelicekilisleri.online
 paribununodulluyarismalari.online
 paribununsponsorlucekilisleri.online
-paribupepe-cekilisim.com
-paribupepe-cekilisin.com
 paribupepe-hediyem.com
 paribupepe-hediyem.info
 paribupepe-hediyem.link
@@ -14872,7 +14872,6 @@ randvuislmlerinizburadan.duckdns.org
 randvvuhzmtlerrim.com
 rapid-craft567.com
 raponto.xyz
-raramic640.xyz
 rarer.top
 rasncbfncnm.com
 rathat.me
